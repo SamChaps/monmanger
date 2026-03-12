@@ -1,0 +1,877 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+// ============================================================
+// Dark / Light Theme  —  Catppuccin Latte / Mocha
+// ============================================================
+
+// --- Catppuccin Latte (light) ---
+:root {
+  --ctp-base: #eff1f5;
+  --ctp-mantle: #e6e9ef;
+  --ctp-crust: #dce0e8;
+  --ctp-surface0: #ccd0da;
+  --ctp-surface1: #bcc0cc;
+  --ctp-surface2: #acb0be;
+  --ctp-overlay0: #9ca0b0;
+  --ctp-overlay1: #8c8fa1;
+  --ctp-overlay2: #7c7f93;
+  --ctp-subtext0: #6c6f85;
+  --ctp-subtext1: #5c5f77;
+  --ctp-text: #4c4f69;
+  --ctp-blue: #1e66f5;
+  --ctp-lavender: #7287fd;
+  --ctp-sapphire: #209fb5;
+  --ctp-mauve: #8839ef;
+  --ctp-rosewater: #dc8a78;
+  --ctp-teal: #179299;
+
+  --bg-color: var(--ctp-base);
+  --bg-secondary: var(--ctp-mantle);
+  --text-color: var(--ctp-text);
+  --text-muted: var(--ctp-subtext0);
+  --text-light: var(--ctp-subtext1);
+  --border-color: var(--ctp-surface0);
+  --card-bg: var(--ctp-mantle);
+  --tag-bg: var(--ctp-surface0);
+  --tag-color: var(--ctp-subtext1);
+  --link-color: var(--ctp-mauve);
+  --link-hover: var(--ctp-teal);
+  --accent-color: var(--ctp-mauve);
+  --accent-subtle: rgba(136, 57, 239, 0.08);
+  --masthead-bg: var(--ctp-mantle);
+  --overlay-bg: rgba(239, 241, 245, 0.96);
+  --shadow-light: rgba(76, 79, 105, 0.08);
+  --toggle-border: var(--ctp-surface1);
+  --toggle-border-hover: var(--ctp-overlay0);
+  --nav-title-bg: var(--ctp-surface0);
+  --nav-title-color: var(--ctp-text);
+  --search-result-title: var(--ctp-mauve);
+}
+
+// --- Catppuccin Mocha (dark) ---
+html.dark-theme {
+  --ctp-base: #1e1e2e;
+  --ctp-mantle: #181825;
+  --ctp-crust: #11111b;
+  --ctp-surface0: #313244;
+  --ctp-surface1: #45475a;
+  --ctp-surface2: #585b70;
+  --ctp-overlay0: #6c7086;
+  --ctp-overlay1: #7f849c;
+  --ctp-overlay2: #9399b2;
+  --ctp-subtext0: #a6adc8;
+  --ctp-subtext1: #bac2de;
+  --ctp-text: #cdd6f4;
+  --ctp-blue: #89b4fa;
+  --ctp-lavender: #b4befe;
+  --ctp-sapphire: #74c7ec;
+  --ctp-mauve: #cba6f7;
+  --ctp-rosewater: #f5e0dc;
+  --ctp-teal: #94e2d5;
+
+  --bg-color: var(--ctp-base);
+  --bg-secondary: var(--ctp-mantle);
+  --text-color: var(--ctp-text);
+  --text-muted: var(--ctp-subtext0);
+  --text-light: var(--ctp-subtext1);
+  --border-color: var(--ctp-surface0);
+  --card-bg: var(--ctp-surface0);
+  --tag-bg: var(--ctp-surface1);
+  --tag-color: var(--ctp-subtext1);
+  --link-color: var(--ctp-mauve);
+  --link-hover: var(--ctp-teal);
+  --accent-color: var(--ctp-mauve);
+  --accent-subtle: rgba(203, 166, 247, 0.1);
+  --masthead-bg: var(--ctp-mantle);
+  --overlay-bg: rgba(30, 30, 46, 0.96);
+  --shadow-light: rgba(0, 0, 0, 0.35);
+  --toggle-border: var(--ctp-surface1);
+  --toggle-border-hover: var(--ctp-overlay0);
+  --nav-title-bg: var(--ctp-surface0);
+  --nav-title-color: var(--ctp-text);
+  --search-result-title: var(--ctp-mauve);
+}
+
+// -------------------------------------------------------
+// Global overrides that need to stamp over the MM theme
+// -------------------------------------------------------
+
+// Smooth theme switching — only active during the toggle
+// Uses !important to beat MM's `transition: none` on greedy-nav etc.
+html.theme-transition,
+html.theme-transition *,
+html.theme-transition *::before,
+html.theme-transition *::after {
+  transition: background-color 0.4s ease,
+              color 0.4s ease,
+              border-color 0.4s ease,
+              box-shadow 0.4s ease,
+              fill 0.4s ease !important;
+}
+
+body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color);
+}
+
+// Kill the MM blue #0092ca focus ring on all interactive elements
+button:focus,
+a:focus,
+button:active,
+a:active,
+input:focus,
+textarea:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  border-color: var(--border-color) !important;
+}
+
+// Accessible focus-visible ring (keyboard only) using theme colors
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--accent-color) !important;
+  outline-offset: 2px;
+}
+
+// Masthead
+.masthead {
+  background: var(--masthead-bg) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+}
+
+.greedy-nav {
+  background: var(--masthead-bg) !important;
+  display: flex !important;
+  align-items: center;
+
+  a {
+    color: var(--text-color) !important;
+    transition: background-color 0.3s ease, color 0.3s ease !important;
+    &:hover { color: var(--text-color) !important; }
+  }
+
+  .site-title {
+    color: var(--text-color) !important;
+    flex-shrink: 0;
+    transition: color 0.3s ease !important;
+  }
+
+  // Kill the MM underline animation entirely
+  .visible-links a::before {
+    display: none !important;
+  }
+
+  // Nav links — left-aligned
+  .visible-links {
+    display: flex;
+    align-items: center;
+    gap: 0.15rem;
+    flex: 1 1 auto;
+
+    a {
+      margin: 0 !important;
+      border-radius: 6px;
+      padding: 0.45rem 0.7rem;
+      transition: background-color 0.25s ease, color 0.25s ease;
+
+      &:hover {
+        background: var(--accent-subtle) !important;
+        color: var(--text-color) !important;
+      }
+
+      // Active page indicator
+      &.is-active {
+        background: var(--accent-subtle) !important;
+        color: var(--accent-color) !important;
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+// Utility buttons — right-aligned
+.masthead-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-left: auto;
+  flex-shrink: 0;
+
+  .search__toggle {
+    margin: 0 !important;
+  }
+}
+
+// Page body
+.page {
+  background: var(--bg-color);
+}
+
+.page__content,
+.page__title,
+.archive__item-title a {
+  color: var(--text-color);
+}
+
+.archive__item-title a:hover {
+  color: var(--link-hover);
+}
+
+.archive__item-excerpt {
+  color: var(--text-muted);
+}
+
+a {
+  color: var(--link-color);
+  &:hover { color: var(--link-hover); }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+}
+
+strong {
+  color: var(--text-color);
+}
+
+hr {
+  border-color: var(--border-color);
+}
+
+// -------------------------------------------------------
+// Sidebar / Left Nav
+// -------------------------------------------------------
+.sidebar,
+.sidebar__right {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  opacity: 1 !important;
+}
+
+.sidebar .nav__list {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.sidebar .nav__list label {
+  color: var(--text-color);
+}
+
+.nav__title {
+  color: var(--nav-title-color);
+  background: var(--nav-title-bg);
+  border-radius: 4px;
+  padding: 0.35rem 0.65rem;
+}
+
+.nav__items {
+  border: none !important;
+  background: transparent !important;
+
+  a {
+    color: var(--text-color) !important;
+    background: transparent !important;
+    border-bottom: none;
+    padding: 0.4rem 0.5rem;
+    border-radius: 6px;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: var(--accent-color) !important;
+    }
+  }
+}
+
+// The "accordion" checkbox toggle in MM sidebar
+.nav__list input + label {
+  color: var(--text-color);
+  background: transparent;
+}
+
+.nav__list input:checked + label {
+  color: var(--text-color);
+  background: transparent;
+}
+
+// -------------------------------------------------------
+// Search overlay & results
+// -------------------------------------------------------
+.search-content {
+  background: var(--overlay-bg) !important;
+}
+
+// Make the search input match the theme
+.search-content input[type="search"] {
+  background: var(--bg-secondary) !important;
+  color: var(--text-color) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 999px;
+  padding: 0.5rem 1.2rem !important;
+  caret-color: var(--accent-color);
+
+  &::placeholder {
+    color: var(--text-muted);
+    opacity: 0.8;
+  }
+
+  &:focus,
+  &:focus-visible {
+    border: 2px solid var(--accent-color) !important;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+.search-content .search__toggle {
+  color: var(--text-muted);
+  &:hover { color: var(--text-color); }
+}
+
+// Results list & titles
+.results__found {
+  color: var(--text-muted);
+}
+
+.search-content .archive__item-title {
+  a {
+    color: var(--text-color) !important;
+    &:hover { color: var(--link-color) !important; }
+  }
+}
+
+// The X (close) button for search
+.search__toggle {
+  color: var(--text-muted) !important;
+  &:hover { color: var(--text-color) !important; }
+}
+
+// ============================================================
+// Bilingual content toggle
+// ============================================================
+
+// Block-level sections (divs)
+div.lang-fr-content  { display: none !important; }
+html.lang-fr div.lang-en-content { display: none !important; }
+html.lang-fr div.lang-fr-content { display: block !important; }
+
+// Inline spans
+span.lang-fr-content { display: none !important; }
+html.lang-fr span.lang-en-content { display: none !important; }
+html.lang-fr span.lang-fr-content { display: inline !important; }
+
+// Paragraph variants (archive pages, excerpts)
+p.lang-fr-content { display: none !important; }
+html.lang-fr p.lang-en-content { display: none !important; }
+html.lang-fr p.lang-fr-content { display: block !important; }
+
+// ============================================================
+// Language toggle button in masthead
+// ============================================================
+.lang-toggle,
+.theme-toggle {
+  background: var(--bg-secondary) !important;
+  border: 1px solid var(--toggle-border) !important;
+  border-radius: 4px;
+  color: var(--text-color) !important;
+  cursor: pointer;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  padding: 0.25rem 0.55rem;
+  margin: 0 0.25rem;
+  vertical-align: middle;
+  line-height: 1;
+  white-space: nowrap;
+  transition: border-color 0.2s, background 0.2s;
+
+  &:hover {
+    border-color: var(--toggle-border-hover) !important;
+    background: var(--tag-bg) !important;
+  }
+}
+
+.theme-toggle {
+  font-size: 0.85rem;
+  padding: 0.2rem 0.45rem;
+}
+
+.toggle-label {
+  opacity: 0.45;
+  transition: opacity 0.15s;
+
+  &.is-active {
+    opacity: 1;
+    font-weight: 700;
+  }
+}
+
+.toggle-sep {
+  opacity: 0.3;
+}
+
+// ============================================================
+// Recipe Meta Card
+// ============================================================
+.recipe-meta-card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem 1.5rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.recipe-meta-item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.recipe-meta-icon {
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  width: 1.4rem;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.recipe-meta-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.recipe-meta-label {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.recipe-meta-value {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-color);
+  line-height: 1.3;
+}
+
+// ============================================================
+// Language Switcher
+// ============================================================
+.language-switcher {
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+
+  i {
+    margin-right: 0.3rem;
+  }
+
+  a {
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// ============================================================
+// Recipe Grid (listing pages)
+// ============================================================
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.recipe-card {
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  background: var(--card-bg);
+
+  &:hover {
+    box-shadow: 0 4px 16px var(--shadow-light);
+    transform: translateY(-2px);
+  }
+}
+
+.recipe-card__image-link {
+  display: block;
+  overflow: hidden;
+  height: 200px;
+}
+
+.recipe-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+
+  .recipe-card:hover & {
+    transform: scale(1.04);
+  }
+}
+
+.recipe-card__body {
+  padding: 1rem 1.1rem 1.1rem;
+}
+
+.recipe-card__title {
+  font-size: 1.1rem;
+  margin: 0 0 0.4rem;
+
+  a {
+    text-decoration: none !important;
+    color: inherit;
+  }
+}
+
+.recipe-card__excerpt {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin: 0 0 0.75rem;
+  line-height: 1.4;
+}
+
+.recipe-card__meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.65rem;
+
+  i {
+    margin-right: 0.2rem;
+  }
+}
+
+.recipe-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.recipe-tag {
+  font-size: 0.72rem;
+  background: var(--tag-bg);
+  color: var(--tag-color);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.recipe-tag--link {
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+
+  &:visited {
+    color: var(--tag-color);
+  }
+
+  &:hover {
+    background: var(--accent-subtle);
+    color: var(--accent-color);
+  }
+}
+
+// Tag pills below recipe meta card
+.recipe-tags-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+// Sidebar tags section
+.sidebar-tags {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.sidebar-tags__title {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+}
+
+.sidebar-tags__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+// Tags page — tile grid
+.tag-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.tag-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.1rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--card-bg);
+  text-decoration: none !important;
+  color: inherit;
+  transition: box-shadow 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  cursor: pointer;
+
+  &:visited {
+    color: inherit;
+  }
+
+  &:hover {
+    box-shadow: 0 3px 12px var(--shadow-light);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+    color: inherit;
+  }
+}
+
+.tag-tile__name {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-color);
+}
+
+.tag-tile__count {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+}
+
+// Search result tags
+.search-result__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.35rem;
+}
+
+// ============================================================
+// Category tiles (home page Browse by Category grid)
+// ============================================================
+.category-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.85rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.category-tile {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--card-bg);
+  text-decoration: none !important;
+  color: inherit;
+  transition: box-shadow 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  position: relative;
+
+  &:hover {
+    box-shadow: 0 3px 12px var(--shadow-light);
+    border-color: var(--text-muted);
+    transform: translateY(-1px);
+    text-decoration: none !important;
+    color: inherit;
+  }
+
+  * {
+    text-decoration: none !important;
+  }
+}
+
+.category-tile__emoji {
+  font-size: 1.75rem;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.category-tile__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.category-tile__name {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--text-color);
+  line-height: 1.2;
+}
+
+.category-tile__desc {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.3;
+  margin-top: 0.15rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.category-tile__count {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.6rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  background: var(--tag-bg);
+  color: var(--tag-color);
+  border-radius: 10px;
+  padding: 0.1rem 0.45rem;
+  line-height: 1.4;
+}
+
+// ============================================================
+// Hide site footer, share buttons, and prev/next navigation
+// ============================================================
+.page__footer         { display: none !important; }
+.page__share          { display: none !important; }
+.page__footer-navigation { display: none !important; }
+.pagination           { display: none !important; }
+
+// ============================================================
+// Override hardcoded MM colors for dark/light theming
+// ============================================================
+
+// Page metadata ("Updated: …" at bottom of pages)
+.page__meta,
+.comment__date {
+  color: var(--text-muted) !important;
+  padding-bottom: 3rem;
+}
+
+// Figure captions
+figcaption {
+  color: var(--text-muted) !important;
+}
+
+// Blockquote accent border (MM uses #0092ca)
+blockquote {
+  border-inline-start-color: var(--accent-color) !important;
+}
+
+// Taxonomy items (tags/categories on pages)
+.page__taxonomy-item {
+  color: var(--text-color) !important;
+  border-color: var(--border-color) !important;
+  &:hover {
+    color: var(--accent-color) !important;
+  }
+}
+
+// Nav sub-titles
+.nav__sub-title {
+  border-bottom-color: var(--border-color) !important;
+  color: var(--text-muted);
+}
+
+// Sidebar accordion expander button (mobile)
+@media (max-width: 63.9375em) {
+  .nav__list label {
+    color: var(--text-color) !important;
+    border-color: var(--border-color) !important;
+    background: var(--bg-secondary) !important;
+
+    &::before,
+    &::after {
+      background-color: var(--text-color) !important;
+    }
+
+    &:hover {
+      color: var(--accent-color) !important;
+      border-color: var(--accent-color) !important;
+      background: var(--accent-subtle) !important;
+      &::before,
+      &::after {
+        background-color: var(--accent-color) !important;
+      }
+    }
+  }
+
+  .nav__list input:checked + label {
+    color: var(--accent-color) !important;
+    background: var(--accent-subtle) !important;
+    border-color: var(--accent-color) !important;
+
+    &::before,
+    &::after {
+      background-color: var(--accent-color) !important;
+    }
+  }
+}
+
+// ============================================================
+// Home page tagline
+// ============================================================
+.home-tagline {
+  font-size: 1.05rem;
+  color: var(--text-light);
+  margin-bottom: 1.5rem;
+}
+
+// ============================================================
+// Hero banner on home page
+// ============================================================
+.home-hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin-bottom: 2.5rem;
+
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    font-size: 1.15rem;
+    color: var(--text-light);
+    max-width: 560px;
+    margin: 0 auto 1.5rem;
+  }
+}
+
+.home-cta-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+// Archive subtitle (tag/category pages)
+.archive__subtitle {
+  color: var(--text-muted) !important;
+  border-bottom-color: var(--border-color) !important;
+}

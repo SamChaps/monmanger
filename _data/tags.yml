@@ -1,0 +1,14 @@
+- name: chocolate
+  name_fr: chocolat
+- name: french
+  name_fr: français
+- name: baked
+  name_fr: au four
+- name: onion
+  name_fr: oignon
+- name: comfort
+  name_fr: réconfortant
+- name: winter
+  name_fr: hiver
+- name: cheese
+  name_fr: fromage

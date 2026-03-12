@@ -1,0 +1,51 @@
+{% if page.sidebar.recipe_nav %}
+<div class="sidebar sticky">
+  <nav class="nav__list">
+    <input id="ac-toc" name="accordion-toc" type="checkbox" />
+    <label for="ac-toc">
+      <span class="lang-en-content">Browse by Category</span>
+      <span class="lang-fr-content">Par catégorie</span>
+    </label>
+    <ul class="nav__items">
+      {% for cat in site.data.categories %}
+      <li class="nav__item">
+        <a href="{{ '/categories/' | append: cat.slug | append: '/' | relative_url }}" class="nav__link">
+          {{ cat.emoji }}&nbsp;<span class="lang-en-content">{{ cat.name }}</span><span class="lang-fr-content">{{ cat.name_fr }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% assign all_tags = "" | split: "" %}
+  {% for recipe in site.recipes %}
+    {% for tag in recipe.tags %}
+      {% unless all_tags contains tag %}
+        {% assign all_tags = all_tags | push: tag %}
+      {% endunless %}
+    {% endfor %}
+  {% endfor %}
+  {% assign all_tags = all_tags | sort_natural %}
+  {% if all_tags.size > 0 %}
+  <div class="sidebar-tags">
+    <h4 class="sidebar-tags__title">
+      <span class="lang-en-content">Tags</span>
+      <span class="lang-fr-content">Étiquettes</span>
+    </h4>
+    <div class="sidebar-tags__list">
+      {% for tag in all_tags %}
+      {% assign tag_slug = tag | slugify %}
+      {% assign tag_data = site.data.tags | where: "name", tag | first %}
+      <a href="{{ '/tags/' | append: tag_slug | append: '/' | relative_url }}" class="recipe-tag recipe-tag--link"><span class="lang-en-content">{{ tag }}</span><span class="lang-fr-content">{{ tag_data.name_fr | default: tag }}</span></a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</div>
+{% else %}
+  {% if page.author_profile or layout.author_profile %}
+    {% include author-profile.html %}
+  {% endif %}
+  {% if page.sidebar.nav %}
+    {% include nav_list nav=page.sidebar.nav %}
+  {% endif %}
+{% endif %}

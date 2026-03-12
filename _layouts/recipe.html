@@ -1,0 +1,82 @@
+---
+layout: single
+---
+{% assign t = site.data.translations %}
+
+<div class="recipe-meta-card">
+  {% if page.prep_time %}
+  <div class="recipe-meta-item">
+    <div class="recipe-meta-icon"><i class="fas fa-clock" aria-hidden="true"></i></div>
+    <div class="recipe-meta-text">
+      <span class="recipe-meta-label">
+        <span class="lang-en-content">{{ t.en.prep_time }}</span>
+        <span class="lang-fr-content">{{ t.fr.prep_time }}</span>
+      </span>
+      <span class="recipe-meta-value">{{ page.prep_time }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.cook_time %}
+  <div class="recipe-meta-item">
+    <div class="recipe-meta-icon"><i class="fas fa-fire" aria-hidden="true"></i></div>
+    <div class="recipe-meta-text">
+      <span class="recipe-meta-label">
+        <span class="lang-en-content">{{ t.en.cook_time }}</span>
+        <span class="lang-fr-content">{{ t.fr.cook_time }}</span>
+      </span>
+      <span class="recipe-meta-value">{{ page.cook_time }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.total_time %}
+  <div class="recipe-meta-item">
+    <div class="recipe-meta-icon"><i class="fas fa-hourglass-half" aria-hidden="true"></i></div>
+    <div class="recipe-meta-text">
+      <span class="recipe-meta-label">
+        <span class="lang-en-content">{{ t.en.total_time }}</span>
+        <span class="lang-fr-content">{{ t.fr.total_time }}</span>
+      </span>
+      <span class="recipe-meta-value">{{ page.total_time }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.servings %}
+  <div class="recipe-meta-item">
+    <div class="recipe-meta-icon"><i class="fas fa-utensils" aria-hidden="true"></i></div>
+    <div class="recipe-meta-text">
+      <span class="recipe-meta-label">
+        <span class="lang-en-content">{{ t.en.servings }}</span>
+        <span class="lang-fr-content">{{ t.fr.servings }}</span>
+      </span>
+      <span class="recipe-meta-value">{{ page.servings }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.difficulty %}
+  <div class="recipe-meta-item">
+    <div class="recipe-meta-icon"><i class="fas fa-signal" aria-hidden="true"></i></div>
+    <div class="recipe-meta-text">
+      <span class="recipe-meta-label">
+        <span class="lang-en-content">{{ t.en.difficulty }}</span>
+        <span class="lang-fr-content">{{ t.fr.difficulty }}</span>
+      </span>
+      <span class="recipe-meta-value">
+        <span class="lang-en-content">{{ page.difficulty }}</span>
+        <span class="lang-fr-content">{{ page.difficulty_fr | default: page.difficulty }}</span>
+      </span>
+    </div>
+  </div>
+  {% endif %}
+</div>
+
+{% if page.tags and page.tags.size > 0 %}
+<div class="recipe-tags-bar">
+  {% for tag in page.tags %}
+  {% assign tag_slug = tag | slugify %}
+  {% assign tag_data = site.data.tags | where: "name", tag | first %}
+  <a href="{{ '/tags/' | append: tag_slug | append: '/' | relative_url }}" class="recipe-tag recipe-tag--link"><span class="lang-en-content">{{ tag }}</span><span class="lang-fr-content">{{ tag_data.name_fr | default: tag }}</span></a>
+  {% endfor %}
+</div>
+{% endif %}
+
+{{ content }}

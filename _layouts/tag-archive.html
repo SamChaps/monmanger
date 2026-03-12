@@ -1,0 +1,17 @@
+---
+layout: single
+---
+
+{% assign tag_recipes = site.recipes | where_exp: "recipe", "recipe.tags contains page.tag" | sort: "title" %}
+
+<p class="archive__subtitle">
+  <span class="lang-en-content">{{ tag_recipes.size }} recipe{% if tag_recipes.size != 1 %}s{% endif %}</span>
+  <span class="lang-fr-content">{{ tag_recipes.size }} recette{% if tag_recipes.size != 1 %}s{% endif %}</span>
+</p>
+
+{% if tag_recipes.size > 0 %}
+  {% include recipe-list.html recipes=tag_recipes %}
+{% else %}
+  <p class="lang-en-content"><em>No recipes with this tag yet — check back soon!</em></p>
+  <p class="lang-fr-content"><em>Aucune recette avec cette étiquette pour le moment — revenez bientôt !</em></p>
+{% endif %}

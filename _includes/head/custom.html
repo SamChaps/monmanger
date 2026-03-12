@@ -1,0 +1,123 @@
+<!-- Anti-FOUC: apply saved language preference before page renders -->
+<script>
+  (function () {
+    try {
+      if (localStorage.getItem('site-lang') === 'fr') {
+        document.documentElement.classList.add('lang-fr');
+      }
+    } catch (e) {}
+
+    // Anti-FOUC: apply saved theme before render
+    try {
+      if (localStorage.getItem('site-theme') === 'dark') {
+        document.documentElement.classList.add('dark-theme');
+      }
+    } catch (e) {}
+
+    // Swap titles in the Lunr store so search renders the correct language natively
+    function syncStoreLang(isFr) {
+      if (!window.store) return;
+      for (var i = 0; i < window.store.length; i++) {
+        var entry = window.store[i];
+        // Save originals on first call
+        if (!entry._titleEn) entry._titleEn = entry.title;
+        if (entry.title_fr) {
+          entry.title = isFr ? entry.title_fr : entry._titleEn;
+        }
+      }
+    }
+
+    // Apply immediately if store is already loaded (before DOMContentLoaded)
+    try {
+      syncStoreLang(localStorage.getItem('site-lang') === 'fr');
+    } catch (e) {}
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var btn = document.getElementById('lang-toggle');
+      if (!btn) return;
+
+      function applyLang(lang) {
+        var isFr = lang === 'fr';
+        document.documentElement.classList.toggle('lang-fr', isFr);
+
+        // Update toggle active indicators
+        var enLabel = document.querySelector('.toggle-label--en');
+        var frLabel = document.querySelector('.toggle-label--fr');
+        if (enLabel) enLabel.classList.toggle('is-active', !isFr);
+        if (frLabel) frLabel.classList.toggle('is-active', isFr);
+
+        // Swap the page <h1> if a French title is available
+        var titleEl = document.querySelector('.page__title[itemprop="headline"]');
+        if (titleEl && window.__pageTitleFr) {
+          if (!titleEl.dataset.titleEn) {
+            titleEl.dataset.titleEn = titleEl.textContent.trim();
+          }
+          titleEl.textContent = isFr ? window.__pageTitleFr : titleEl.dataset.titleEn;
+        }
+
+        // Swap titles in the search store so new searches render correctly
+        syncStoreLang(isFr);
+
+        // Translate search placeholder
+        var input = document.querySelector('.search-content input[type="search"]');
+        if (input) {
+          if (!input.dataset.phEn) input.dataset.phEn = input.placeholder || 'Enter your search term...';
+          input.placeholder = isFr ? 'Entrez votre recherche\u2026' : input.dataset.phEn;
+        }
+
+        try { localStorage.setItem('site-lang', lang); } catch (e) {}
+      }
+
+      // Apply saved preference on load
+      var saved = 'en';
+      try { saved = localStorage.getItem('site-lang') || 'en'; } catch (e) {}
+      applyLang(saved);
+
+      btn.addEventListener('click', function () {
+        applyLang(document.documentElement.classList.contains('lang-fr') ? 'en' : 'fr');
+      });
+
+      // Theme toggle
+      var themeBtn = document.getElementById('theme-toggle');
+      if (themeBtn) {
+        var lightIcon = themeBtn.querySelector('.theme-icon--light');
+        var darkIcon = themeBtn.querySelector('.theme-icon--dark');
+
+        function applyThemeIcons() {
+          var isDark = document.documentElement.classList.contains('dark-theme');
+          if (lightIcon) lightIcon.style.display = isDark ? 'none' : 'inline';
+          if (darkIcon) darkIcon.style.display = isDark ? 'inline' : 'none';
+        }
+
+        applyThemeIcons();
+
+        themeBtn.addEventListener('click', function () {
+          // Enable transitions temporarily for smooth color fade
+          document.documentElement.classList.add('theme-transition');
+          // Force reflow so the transition CSS is applied before the theme swap
+          void document.documentElement.offsetHeight;
+          document.documentElement.classList.toggle('dark-theme');
+          var isDark = document.documentElement.classList.contains('dark-theme');
+          try { localStorage.setItem('site-theme', isDark ? 'dark' : 'light'); } catch (e) {}
+          applyThemeIcons();
+          // Remove transition class after animation completes
+          setTimeout(function () {
+            document.documentElement.classList.remove('theme-transition');
+          }, 450);
+        });
+      }
+
+      // Mark the current nav link as active
+      var path = window.location.pathname.replace(/\/+$/, '') || '/';
+      var navLinks = document.querySelectorAll('.greedy-nav .visible-links a');
+      navLinks.forEach(function (link) {
+        var href = link.getAttribute('href').replace(/\/+$/, '') || '/';
+        // Exact match for home, prefix match for sections (e.g. /categories/...)
+        if (path === href || (href !== '/' && path.indexOf(href) === 0)) {
+          link.classList.add('is-active');
+        }
+      });
+    });
+  })();
+</script>
+{% if page.title_fr %}<script>window.__pageTitleFr = {{ page.title_fr | jsonify }};</script>{% endif %}

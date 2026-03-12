@@ -1,0 +1,17 @@
+---
+layout: single
+---
+
+{% assign category_recipes = site.recipes | where_exp: "recipe", "recipe.categories contains page.title" | sort: "title" %}
+
+<p class="archive__subtitle">
+  <span class="lang-en-content">{{ category_recipes.size }} recipe{% if category_recipes.size != 1 %}s{% endif %}</span>
+  <span class="lang-fr-content">{{ category_recipes.size }} recette{% if category_recipes.size != 1 %}s{% endif %}</span>
+</p>
+
+{% if category_recipes.size > 0 %}
+  {% include recipe-list.html recipes=category_recipes %}
+{% else %}
+  <p class="lang-en-content"><em>No recipes in this category yet — check back soon!</em></p>
+  <p class="lang-fr-content"><em>Aucune recette dans cette catégorie pour le moment — revenez bientôt !</em></p>
+{% endif %}

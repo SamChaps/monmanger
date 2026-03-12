@@ -1,0 +1,13 @@
+en:
+  prep_time: "Prep Time"
+  cook_time: "Cook Time"
+  total_time: "Total Time"
+  servings: "Servings"
+  difficulty: "Difficulty"
+
+fr:
+  prep_time: "Préparation"
+  cook_time: "Cuisson"
+  total_time: "Temps total"
+  servings: "Portions"
+  difficulty: "Difficulté"

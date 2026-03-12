@@ -1,0 +1,10 @@
+main:
+  - title: "Recipes"
+    title_fr: "Recettes"
+    url: /
+  - title: "Categories"
+    title_fr: "Catégories"
+    url: /categories/
+  - title: "Tags"
+    title_fr: "Étiquettes"
+    url: /tags/

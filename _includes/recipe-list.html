@@ -1,0 +1,48 @@
+{% comment %}
+  Include this in recipe listing pages.
+  Usage: {% include recipe-list.html recipes=recipes %}
+{% endcomment %}
+<div class="recipe-grid">
+  {% for recipe in include.recipes %}
+  <article class="recipe-card" onclick="window.location='{{ recipe.url | relative_url }}'" style="cursor:pointer;">
+    {% if recipe.header.teaser %}
+    <div class="recipe-card__image-link">
+      <img src="{{ recipe.header.teaser | relative_url }}" alt="{{ recipe.title }}" class="recipe-card__image" loading="lazy">
+    </div>
+    {% endif %}
+    <div class="recipe-card__body">
+      <h2 class="recipe-card__title">
+        <a href="{{ recipe.url | relative_url }}">
+          <span class="lang-en-content">{{ recipe.title }}</span>
+          {% if recipe.title_fr %}<span class="lang-fr-content">{{ recipe.title_fr }}</span>{% endif %}
+        </a>
+      </h2>
+      {% if recipe.excerpt or recipe.excerpt_fr %}
+      <p class="recipe-card__excerpt">
+        <span class="lang-en-content">{{ recipe.excerpt | strip_html | truncatewords: 20 }}</span>
+        {% if recipe.excerpt_fr %}<span class="lang-fr-content">{{ recipe.excerpt_fr | truncatewords: 20 }}</span>{% endif %}
+      </p>
+      {% endif %}
+      <div class="recipe-card__meta">
+        {% if recipe.prep_time %}<span><i class="fas fa-clock" aria-hidden="true"></i> {{ recipe.prep_time }}</span>{% endif %}
+        {% if recipe.difficulty %}
+        <span>
+          <i class="fas fa-signal" aria-hidden="true"></i>
+          <span class="lang-en-content">{{ recipe.difficulty }}</span>
+          {% if recipe.difficulty_fr %}<span class="lang-fr-content">{{ recipe.difficulty_fr }}</span>{% endif %}
+        </span>
+        {% endif %}
+      </div>
+      {% if recipe.tags %}
+      <div class="recipe-card__tags">
+        {% for tag in recipe.tags limit:4 %}
+        {% assign tag_slug = tag | slugify %}
+        {% assign tag_data = site.data.tags | where: "name", tag | first %}
+        <a href="{{ '/tags/' | append: tag_slug | append: '/' | relative_url }}" class="recipe-tag recipe-tag--link" onclick="event.stopPropagation();"><span class="lang-en-content">{{ tag }}</span><span class="lang-fr-content">{{ tag_data.name_fr | default: tag }}</span></a>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>
