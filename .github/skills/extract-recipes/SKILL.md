@@ -1,73 +1,42 @@
 ---
 name: extract-recipes
-description: 'Extract text from recipe PDFs and images. Use when: batch-importing recipes from PDF/PNG/JPG files, OCR-ing scanned recipes, preparing raw text for the new-recipe skill.'
-argument-hint: 'Path to folder containing recipe PDFs/images'
+description: 'Extract text from recipe websites. Use when: scraping a recipe URL, preparing raw text for the new-recipe skill.'
+argument-hint: 'A recipe URL to extract'
 ---
 
 # Recipe Extraction Skill
 
 ## When to Use
-- Extracting text from a folder of recipe PDFs, PNGs, or JPGs
-- Batch-preparing raw text files for conversion to recipe markdown
-- Re-running extraction on new files added to an existing folder
+- Scraping a recipe from a website URL
+- Preparing raw text for conversion to recipe markdown using the new-recipe skill
 
 ## Prerequisites
 
 Python 3 with these packages (install if missing):
 
 ```
-pip install pymupdf pytesseract Pillow
+pip install recipe-scrapers requests beautifulsoup4
 ```
-
-Tesseract OCR must be installed for image-based files:
-- **Windows**: Install from <https://github.com/UB-Mannheim/tesseract/wiki>, default path `C:\Program Files\Tesseract-OCR\tesseract.exe`
-- Add French language support: copy `fra.traineddata` into Tesseract's `tessdata` folder
-- Verify: `tesseract --list-langs` should show `eng` and `fra`
 
 ## Scripts
 
-Both scripts live in this skill directory and accept a source folder as a CLI argument:
-
-- **`extract_text.py`** — Phase 1: text extraction + image rendering
-- **`ocr_extract.py`** — Phase 2: Tesseract OCR on image files
+- **`extract_url.py`** — Extract recipe from a website URL (tries recipe-scrapers, falls back to JSON-LD)
 
 ## Workflow
 
-### Phase 1 — Text Extraction + Image Rendering
-
-Run `extract_text.py` with the source folder path:
+Run `extract_url.py` with the recipe URL:
 
 ```powershell
-py -3 .github/skills/extract-recipes/extract_text.py "<SOURCE_FOLDER>"
+py -3 .github/skills/extract-recipes/extract_url.py "<URL>" [output_folder]
 ```
 
 This will:
-1. Extract text from PDFs with selectable text (>50 chars) → `extracted/text/*.txt`
-2. Render image-based PDFs to PNG at 200 dpi → `extracted/needs_ocr/*.png`
-3. Copy PNG/JPG files to `extracted/needs_ocr/`
+1. Try `recipe-scrapers` (supports 400+ sites) for structured extraction
+2. Fall back to JSON-LD Recipe schema parsing if the site isn't supported
+3. Save a `.txt` file named after the URL slug
 
-### Phase 2 — OCR Image Files
-
-If Phase 1 produced files in `needs_ocr/`, run `ocr_extract.py`:
-
-```powershell
-py -3 .github/skills/extract-recipes/ocr_extract.py "<SOURCE_FOLDER>"
-```
-
-This will:
-1. Group multi-page PNGs (e.g. `recipe_p1.png`, `recipe_p2.png`) back into one text file
-2. Run Tesseract OCR with `eng+fra` language support
-3. Skip files already extracted in Phase 1
-4. Output `.txt` files to `extracted/text/`
-
-OCR can be slow — run in a background terminal so other work can continue. Monitor progress:
-
-```powershell
-(Get-ChildItem "<SOURCE_FOLDER>\extracted\text" -Filter "*.txt").Count
-```
+The output folder defaults to the current directory if not specified.
 
 ## Output
 
-All extracted text ends up in `<SOURCE_FOLDER>/extracted/text/` as `.txt` files — one per recipe, named after the original PDF/image filename.
-
-These text files are ready to be converted to recipe markdown using the **new-recipe** skill.
+A `.txt` file with the recipe title, times, ingredients, and instructions, ready to be converted to recipe markdown using the **new-recipe** skill.
