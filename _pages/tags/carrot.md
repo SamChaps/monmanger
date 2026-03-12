@@ -1,9 +1,9 @@
 ---
-title: "onion"
-title_fr: "oignon"
-permalink: /tags/onion/
+title: "carrot"
+title_fr: "carotte"
+permalink: /tags/carrot/
 layout: tag-archive
-tag: onion
+tag: carrot
 search: false
 author_profile: false
 sidebar:

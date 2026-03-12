@@ -1,9 +1,9 @@
 ---
-title: "winter"
-title_fr: "hiver"
-permalink: /tags/winter/
+title: "beans"
+title_fr: "légumineuses"
+permalink: /tags/beans/
 layout: tag-archive
-tag: winter
+tag: beans
 search: false
 author_profile: false
 sidebar:

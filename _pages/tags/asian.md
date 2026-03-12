@@ -1,9 +1,9 @@
 ---
-title: "french"
-title_fr: "français"
-permalink: /tags/french/
+title: "asian"
+title_fr: "asiatique"
+permalink: /tags/asian/
 layout: tag-archive
-tag: french
+tag: asian
 search: false
 author_profile: false
 sidebar:
