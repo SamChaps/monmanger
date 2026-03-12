@@ -33,7 +33,7 @@ There are few things more satisfying on a cold evening than a bowl of French oni
 - 30 ml (2 tbsp) cognac or brandy
 - 1 L (4 cups) chicken broth
 - 1 L (4 cups) beef broth
-- 1 tbsp toasted flour
+- 15 ml (1 tbsp) toasted flour
 - 1 pinch nutmeg
 - Salt and pepper, to taste
 
@@ -82,7 +82,7 @@ Il y a peu de choses aussi réconfortantes qu'un bon bol de soupe à l'oignon gr
 - 30 ml (2 c. à soupe) de cognac ou de brandy
 - 1 L (4 tasses) de bouillon de poulet
 - 1 L (4 tasses) de bouillon de bœuf
-- 1 c. à soupe de farine grillée
+- 15 ml (1 c. à soupe) de farine grillée
 - 1 pincée de muscade
 - Sel et poivre, au goût
 
