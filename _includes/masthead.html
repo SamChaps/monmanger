@@ -8,8 +8,8 @@
         </a>
         {% endif %}
         <a class="site-title" href="{{ '/' | relative_url }}">
+          <img class="site-title__icon" src="{{ '/assets/images/favicon.svg' | relative_url }}" alt="" width="24" height="24">
           {{ site.title }}
-          {% if site.subtitle %}<span class="site-subtitle"><span class="lang-en-content">Recipes</span><span class="lang-fr-content">Recettes</span></span>{% endif %}
         </a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
