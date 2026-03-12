@@ -96,6 +96,7 @@ Paragraphe d'introduction sur le plat.
 - Bold the first few words of each instruction step.
 - Sections: Ingredients → Instructions → Notes & Tips (optional).
 - Sub-sections within Ingredients are fine (e.g. **Sauce**, **Dough**).
+- **Include ALL instruction variants.** If a recipe offers multiple cooking methods (e.g. stovetop, Instant Pot, oven, slow cooker, air fryer), include all of them as separate headed sections: `## Instructions (Stovetop)`, `## Instructions (Instant Pot)`, etc. Never omit an alternative method provided in the source.
 
 ### Writing Style
 - **No em dashes (—).** Use commas, periods, colons, or semicolons instead. Rewrite the sentence if needed.
