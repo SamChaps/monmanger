@@ -1,6 +1,6 @@
 ---
 title: "Breakfast"
-title_fr: "Petit-déjeuner"
+title_fr: "Déjeuner"
 permalink: /categories/breakfast/
 layout: category-archive
 search: false

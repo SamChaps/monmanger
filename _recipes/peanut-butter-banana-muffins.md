@@ -64,7 +64,7 @@ Soft, naturally sweetened muffins packed with peanut butter and ripe banana. Mad
 
 <div class="lang-fr-content" markdown="1">
 
-Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide et de banane mûre. Faits avec de la farine d'avoine pour une base sans gluten et parsemés de mini pépites de chocolat pour un petit-déjeuner irrésistible à emporter.
+Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide et de banane mûre. Faits avec de la farine d'avoine pour une base sans gluten et parsemés de mini pépites de chocolat pour un déjeuner irrésistible à emporter.
 
 ## Ingrédients
 
@@ -101,6 +101,6 @@ Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide 
 
 - Faire sa propre farine d'avoine en mixant des flocons d'avoine au mélangeur ou robot culinaire jusqu'à consistance fine.
 - Le beurre d'amande ou de cajou remplace bien le beurre d'arachide.
-- Conserver dans un contenant hermétique jusqu'à 4 jours, ou congeler individuellement pour un petit-déjeuner rapide.
+- Conserver dans un contenant hermétique jusqu'à 4 jours, ou congeler individuellement pour un déjeuner rapide.
 
 </div>

@@ -34,11 +34,11 @@
   description_fr: "Pains & viennoiseries"
 
 - name: "Breakfast"
-  name_fr: "Petit-déjeuner"
+  name_fr: "Déjeuner"
   slug: "breakfast"
   emoji: "🥞"
   description_en: "Morning favourites"
-  description_fr: "Petits-déjeuners"
+  description_fr: "Déjeuners"
 
 - name: "Appetizer"
   name_fr: "Entrée"

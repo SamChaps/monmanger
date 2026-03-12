@@ -100,6 +100,15 @@ Paragraphe d'introduction sur le plat.
 ### Writing Style
 - **No em dashes (—).** Use commas, periods, colons, or semicolons instead. Rewrite the sentence if needed.
 - **No copying.** Never copy descriptions, intros, or notes word-for-word from the source. Always rewrite in your own words to avoid copyright issues. Ingredient lists and basic technique steps are fine, but all prose must be original.
+- **Quebecois French.** All French content must use Quebecois French rather than Metropolitan French. Key differences include:
+  - "déjeuner" (not "petit-déjeuner") for breakfast
+  - "dîner" (not "déjeuner") for lunch
+  - "souper" (not "dîner") for dinner/supper
+  - "breuvage" (not "boisson") for beverage
+  - "bleuets" (not "myrtilles") for blueberries
+  - "canneberges" (not "airelles") for cranberries
+  - "fève" (not "haricot") for bean when used colloquially
+  - Prefer local expressions and vocabulary when a clear Quebecois equivalent exists.
 
 ### Tags Checklist
 When adding a new tag that doesn't exist yet:

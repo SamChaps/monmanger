@@ -54,7 +54,7 @@ A well-balanced, lightly sweetened granola that bakes into satisfying golden clu
 
 <div class="lang-fr-content" markdown="1">
 
-Un granola équilibré et légèrement sucré qui cuit en belles grappes dorées. Personnalisez-le avec vos noix, graines et fruits séchés préférés pour un incontournable du petit-déjeuner qui se conserve toute la semaine.
+Un granola équilibré et légèrement sucré qui cuit en belles grappes dorées. Personnalisez-le avec vos noix, graines et fruits séchés préférés pour un incontournable du déjeuner qui se conserve toute la semaine.
 
 ## Ingrédients
 
