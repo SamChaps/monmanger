@@ -604,6 +604,12 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.recipe-source {
+  font-size: 0.85rem;
+  color: var(--text-muted);
   margin-bottom: 1.5rem;
 }
 
