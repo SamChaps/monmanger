@@ -4,9 +4,8 @@ title: "Mon Manger"
 subtitle: "Recipes · Recettes"
 name: "Mon Manger"
 description: "A bilingual collection of home cooking recipes — English & French."
-# Update these after creating your GitHub repo:
-url: ""       # e.g. "https://yourusername.github.io"
-baseurl: ""   # e.g. "/monmanger" if hosted at a subpath
+url: "https://monmanger.com"
+baseurl: ""
 
 locale: "en-US"
 timezone: America/New_York
