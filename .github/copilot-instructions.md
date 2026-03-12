@@ -50,3 +50,16 @@ Dessert, Soup, Main, Salad, Bread, Breakfast, Appetizer
 - Time formats: "15 min", "1 hr 30 min"
 - Commits: imperative mood, concise
 - When pushing: `git add -A; git commit -m "message"; git push`
+
+## Copilot Coding Agent — Recipe from URL
+
+When assigned to a GitHub Issue that contains recipe URLs, follow this workflow:
+
+1. **Install Python dependencies**: `pip install recipe-scrapers requests beautifulsoup4`
+2. **For each URL** in the issue body:
+   a. Run `python .github/skills/extract-recipes/extract_url.py "<URL>"` to extract the recipe text
+   b. Read the resulting `.txt` file
+   c. Follow the **new-recipe** skill (`.github/skills/new-recipe/SKILL.md`) to create a bilingual recipe markdown file in `_recipes/`
+   d. Check `_data/tags.yml` for existing tags. If any new tags are needed, add them to `_data/tags.yml` and create corresponding `_pages/tags/<slug>.md` files
+3. **Commit** all new files with the message: `Add recipe: <recipe name>`
+4. If multiple URLs are provided, create one recipe file per URL in a single PR
