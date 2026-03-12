@@ -52,15 +52,7 @@ Follow the **new-recipe** skill (`.github/skills/new-recipe/SKILL.md`) exactly. 
    - Add it to `_data/tags.yml` with `name` and `name_fr`
    - Create `_pages/tags/<slug>.md` with the tag archive front matter (see new-recipe skill for template)
 
-### Step 4 — Label the PR for auto-merge
-
-Add the `auto-merge` label to this PR:
-
-```
-gh pr edit --add-label "auto-merge"
-```
-
-### Step 5 — Done
+### Step 4 — Done
 
 After creating all files, summarize what was created:
 - Recipe file path(s)
