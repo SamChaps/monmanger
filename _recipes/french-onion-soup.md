@@ -1,8 +1,8 @@
 ---
 title: "French Onion Soup"
 title_fr: "Soupe à l'Oignon Gratinée"
-excerpt: "The quintessential Parisian bistro soup — deeply caramelized onions, rich broth, Gruyère crouton."
-excerpt_fr: "La soupe à l'oignon classique des bistrots parisiens — oignons caramélisés, bouillon corsé, croûton au Gruyère."
+excerpt: "The quintessential Parisian bistro soup with deeply caramelized onions, rich broth, and a Gruyère crouton."
+excerpt_fr: "La soupe à l'oignon classique des bistrots parisiens avec oignons caramélisés, bouillon corsé et croûton au Gruyère."
 date: 2026-03-05
 categories:
   - Soup
@@ -18,11 +18,12 @@ total_time: "1 hr 30 min"
 servings: "4"
 difficulty: "Medium"
 difficulty_fr: "Moyen"
+source: "Original"
 ---
 
 <div class="lang-en-content" markdown="1">
 
-Good French onion soup takes patience — the onions need a long, slow caramelization to develop their deep sweetness. Skip the shortcuts and you'll be rewarded with a soup that tastes like it was made in a Parisian kitchen.
+Good French onion soup takes patience. The onions need a long, slow caramelization to develop their deep sweetness. Skip the shortcuts and you'll be rewarded with a soup that tastes like it was made in a Parisian kitchen.
 
 ## Ingredients
 
@@ -50,19 +51,19 @@ Good French onion soup takes patience — the onions need a long, slow carameliz
 3. **Simmer.** Add stock, thyme, and bay leaf. Bring to a boil, then simmer uncovered for 20 minutes. Season generously. Remove thyme and bay leaf.
 4. **Toast the croutons.** Preheat oven grill (broiler) to high. Toast baguette slices on both sides until golden, about 2 minutes per side.
 5. **Assemble.** Ladle hot soup into 4 oven-safe bowls on a baking sheet. Float 2 croutons on top of each and heap with grated Gruyère.
-6. **Broil.** Grill for 3–5 minutes until the cheese is melted, bubbly, and golden-blistered. Serve immediately — warn guests the bowls are very hot.
+6. **Broil.** Grill for 3–5 minutes until the cheese is melted, bubbly, and golden-blistered. Serve immediately and warn guests the bowls are very hot.
 
 ## Notes & Tips
 
 - **The caramelization is non-negotiable.** Deep brown onions (not just softened) are what give the soup its signature sweetness.
-- **Stock quality matters.** The best stock you can find — homemade makes a noticeable difference.
+- **Stock quality matters.** Use the best stock you can find; homemade makes a noticeable difference.
 - **Make ahead.** The soup base keeps 3 days in the fridge or 3 months in the freezer. Do the crouton step just before serving.
 
 </div>
 
 <div class="lang-fr-content" markdown="1">
 
-Une bonne soupe à l'oignon demande de la patience — les oignons doivent caraméliser longuement à feu doux pour développer toute leur douceur. Pas de raccourcis, mais le résultat vaut largement l'attente.
+Une bonne soupe à l'oignon demande de la patience. Les oignons doivent caraméliser longuement à feu doux pour développer toute leur douceur. Pas de raccourcis, mais le résultat vaut largement l'attente.
 
 ## Ingrédients
 
@@ -90,7 +91,7 @@ Une bonne soupe à l'oignon demande de la patience — les oignons doivent caram
 3. **Mijoter.** Ajouter le bouillon, le thym et le laurier. Porter à ébullition, puis mijoter à découvert 20 minutes. Rectifier l'assaisonnement. Retirer le thym et le laurier.
 4. **Préparer les croûtons.** Préchauffer le gril du four. Faire dorer les tranches de baguette des deux côtés, environ 2 minutes par côté.
 5. **Dresser.** Verser la soupe chaude dans 4 bols allant au four sur une plaque. Déposer 2 croûtons sur chaque bol et les recouvrir généreusement de Gruyère râpé.
-6. **Gratiner.** Passer sous le gril 3 à 5 minutes, en surveillant, jusqu'à ce que le fromage soit fondu et doré. Servir immédiatement — les bols sont très chauds !
+6. **Gratiner.** Passer sous le gril 3 à 5 minutes, en surveillant, jusqu'à ce que le fromage soit fondu et doré. Servir immédiatement; les bols sont très chauds !
 
 ## Notes & conseils
 

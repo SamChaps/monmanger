@@ -16,11 +16,12 @@ total_time: "27 min"
 servings: "4"
 difficulty: "Easy"
 difficulty_fr: "Facile"
+source: "Original"
 ---
 
 <div class="lang-en-content" markdown="1">
 
-Rich dark chocolate cakes with a gooey molten center — a French bistro classic that's surprisingly quick to make at home. The secret is simply knowing your oven and trusting the timer.
+Rich dark chocolate cakes with a gooey molten center, a French bistro classic that's surprisingly quick to make at home. The secret is simply knowing your oven and trusting the timer.
 
 ## Ingredients
 
@@ -37,7 +38,7 @@ Rich dark chocolate cakes with a gooey molten center — a French bistro classic
 1. **Prepare the ramekins.** Preheat oven to 220 °C / 425 °F. Generously butter four 175 ml ramekins, dust with cocoa powder, place on a baking sheet.
 2. **Melt chocolate and butter.** In a heatproof bowl over barely simmering water, melt together, stirring until smooth. Cool slightly.
 3. **Whisk eggs and sugar.** Whisk eggs, egg yolks, and sugar for 2 minutes until pale and slightly thickened.
-4. **Combine.** Fold the warm chocolate into the egg mixture. Sift in the flour and fold until just combined — don't overmix.
+4. **Combine.** Fold the warm chocolate into the egg mixture. Sift in the flour and fold until just combined. Don't overmix.
 5. **Fill and bake.** Divide batter among ramekins. *(Can refrigerate up to 24 h at this point — add 2 min to baking time.)* Bake 11–13 minutes until edges are set but the center still jiggles slightly.
 6. **Serve immediately.** Rest 30 seconds, run a knife around the edge, invert confidently onto plates.
 
@@ -51,7 +52,7 @@ Rich dark chocolate cakes with a gooey molten center — a French bistro classic
 
 <div class="lang-fr-content" markdown="1">
 
-Des petits gâteaux au chocolat noir avec un cœur fondant et coulant — un grand classique des bistrots français, étonnamment rapide à préparer. La clé : connaître son four et faire confiance à sa minuterie.
+Des petits gâteaux au chocolat noir avec un cœur fondant et coulant, un grand classique des bistrots français, étonnamment rapide à préparer. La clé : connaître son four et faire confiance à sa minuterie.
 
 ## Ingrédients
 
