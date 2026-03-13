@@ -500,6 +500,8 @@ hr {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    min-height: 2.8em;
+    height: auto;
   }
 }
 
@@ -733,6 +735,7 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   color: var(--text-light);
   margin: 0 0 0.75rem;
   line-height: 1.4;
+  height: 5.6em;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 4;
@@ -789,6 +792,21 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   &:hover {
     background: var(--accent-subtle);
     color: var(--accent-color);
+  }
+}
+
+// Mobile: reduce card whitespace when single column
+@media (max-width: 600px) {
+  .recipe-card__title {
+    height: auto;
+    min-height: 0;
+  }
+  .recipe-card__excerpt {
+    height: auto;
+    -webkit-line-clamp: 3;
+  }
+  .recipe-card__image-link {
+    height: 160px;
   }
 }
 
