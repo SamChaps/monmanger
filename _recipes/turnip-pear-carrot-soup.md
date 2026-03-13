@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Turnip, Pear & Carrot Soup"
 title_fr: "Potage de navet, poires et carottes"
 excerpt: "Creamy coconut soup with turnip, sweet pears, and carrots for a beautifully balanced bowl."
@@ -75,7 +75,7 @@ Navet, poire et carotte mijoter dans le lait de coco et le bouillon de légumes,
 
 1. **Faire** chauffer l'huile dans un grand chaudron à feu moyen. Cuire l'oignon, l'ail, le miel, le navet, les poires et les carottes pendant 8 minutes. Assaisonner.
 2. **Incorporer** le bouillon de légumes et le lait de coco. Porter a ébullition, réduire le feu et laisser mijoter pendant 40 minutes.
-3. **Broyer** au robot ou au pied-mélangéur jusqu'à l'obtention d'une texture lisse. Rectifier l'assaisonnement au besoin.
+3. **Broyer** au robot ou au pied-mélangeur jusqu'à l'obtention d'une texture lisse. Rectifier l'assaisonnement au besoin.
 4. **Garnir** de noix et d'un filet d'huile pour servir.
 
 ## Notes & conseils

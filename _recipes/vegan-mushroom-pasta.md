@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Vegan Mushroom Pasta"
 title_fr: "Pâtes aux champignons végétaliennes"
 excerpt: "Creamy 25-minute pasta with sauteed mushrooms and a lemon Dijon sauce."
@@ -89,7 +89,7 @@ Des pâtes rapides et cremeuses pour les soirs de semaine, avec des champignons 
 
 ## Notes & conseils
 
-- N'importe quelle variete de champignons convient: cremini, shiitake ou un mélangé.
+- N'importe quelle variete de champignons convient: cremini, shiitake ou un mélange.
 - Ajouter une poignée d'epinards ou de chou frise à la fin pour plus de verdure.
 - La sauce épaissit en refroidissant; ajouter un peu de lait végétal en rechauffant les restes.
 

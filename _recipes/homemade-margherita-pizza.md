@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Homemade Margherita Pizza"
 title_fr: "Pizza margherita maison"
 excerpt: "Classic margherita pizza with homemade dough, fresh tomato sauce, mozzarella, and basil."
@@ -108,7 +108,7 @@ Une margherita classique préparée entièrement maison dans un four ordinaire. 
 2. **Petrir** sur une surface bien farinee pendant environ 3 minutes jusqu'à obtenir une pâte lisse et légèrement collante. Déposer dans un bol légèrement huile.
 3. **Couvrir** d'un linge a vaisselle et laisser lever dans un endroit chaud pendant 2 heures, ou jusqu'à ce que la pâte ait double de volume.
 4. **Préchauffer** le four (avec une pierre ou un acier a pizza sur la grille supérieure) a 285 C (550 F) pendant au moins 1 heure. Si le four ne monte pas aussi haut, utiliser 260 C (500 F).
-5. **Préparer** la sauce en mélangéant les tomates ecrasees, l'ail, l'huile d'olive, le sel et le poivre.
+5. **Préparer** la sauce en mélangeant les tomates ecrasees, l'ail, l'huile d'olive, le sel et le poivre.
 6. **Diviser** la pâte en deux portions egales, couvrir et laisser reposer 5 à 10 minutes.
 7. **Etirer** une boule de pâte en un cercle d'environ 25 cm (10 pouces). Transferer sur une pelle a pizza saupoudree de semoule ou une plaque inversee.
 8. **Garnir** la pâte: badigeonner légèrement d'huile d'olive, étaler environ 125 ml (1/2 tasse) de sauce, saupoudrer de Parmigiano-Reggiano, répartir la moitié de la mozzarella, et déchirer quelques feuilles de basilic par-dessus.

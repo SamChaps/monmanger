@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mushroom Wellington"
 title_fr: "Wellington aux champignons"
 excerpt: "A savory mushroom filling wrapped in flaky puff pastry, perfect for a plant-based centerpiece."
@@ -82,7 +82,7 @@ Des champignons finement hachés sautés au balsamique, thym, sauge et épinards
 1. **Préchauffer** le four à 190 °C (375 °F). Tapisser une plaque de papier parchemin.
 2. **Hacher les champignons** au robot culinaire environ 10 à 11 fois jusqu'à consistance friable. Ne pas trop mixer.
 3. **Cuire la farce.** Chauffer 2 c. à soupe d'huile dans un grand poêlon à feu moyen-vif. Ajouter l'oignon et sauter 3 à 4 minutes. Réduire à feu moyen, ajouter l'ail et cuire 2 minutes. Ajouter les champignons et le vinaigre balsamique. Cuire en remuant de temps en temps, 10 à 12 minutes jusqu'à évaporation du liquide.
-4. **Ajouter les herbes.** Pousser le mélangé d'un côté. Ajouter 1 c. à soupe d'huile au centre, puis les châtaignes d'eau (si utilisées), le thym, la sauge, le sel et le poivre. Sauter 1 minute. Ajouter les épinards et remuer jusqu'à ce qu'ils ramollissent. Combiner le tout et ajuster l'assaisonnement. Laisser refroidir au moins 10 minutes.
+4. **Ajouter les herbes.** Pousser le mélange d'un côté. Ajouter 1 c. à soupe d'huile au centre, puis les châtaignes d'eau (si utilisées), le thym, la sauge, le sel et le poivre. Sauter 1 minute. Ajouter les épinards et remuer jusqu'à ce qu'ils ramollissent. Combiner le tout et ajuster l'assaisonnement. Laisser refroidir au moins 10 minutes.
 5. **Assembler.** Rouler la pâte feuilletée sur une surface légèrement farinée en l'agrandissant d'environ 5 cm (2 po) de chaque côté. Transférer sur la plaque. Déposer la farce au centre et façonner en boudin. Replier les longs côtés vers le centre et pincer pour sceller. Couper environ 2,5 cm (1 po) de chaque extrémité courte (garder pour décorer), puis replier les extrémités sur le dessus. Retourner couture vers le bas.
 6. **Décorer.** Disposer les retailles de pâte sur le dessus en motif décoratif. Inciser deux rangées de fentes diagonales sur le dessus avec un couteau bien aiguisé. Piquer les côtés quelques fois avec une fourchette. Optionnellement badigeonner de lait végétal pour un fini doré.
 7. **Cuire** 40 minutes en tournant la plaque à mi-cuisson. Laisser reposer 10 minutes avant de trancher.

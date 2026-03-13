@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Fluffy Vegan Pancakes"
 title_fr: "Crêpes moelleuses végétaliennes"
 excerpt: "Light and fluffy classic pancakes made with just a handful of pantry staples."
@@ -67,7 +67,7 @@ Ces crêpes sont la preuve qu'il faut très peu pour faire quelque chose de dél
 
 1. **Mélanger les ingrédients secs.** Dans un bol moyen, combiner la farine, le sucre, la poudre à pâte et le sel.
 2. **Combiner les ingrédients liquides.** Dans un autre bol, fouetter le lait végétal, le vinaigre de cidre et la vanille.
-3. **Préparer la pâte.** Verser le mélangé liquide dans le mélangé sec et fouetter jusqu'à consistance lisse. Laisser reposer la pâte 5 minutes.
+3. **Préparer la pâte.** Verser le mélange liquide dans le mélange sec et fouetter jusqu'à consistance lisse. Laisser reposer la pâte 5 minutes.
 4. **Cuire les crêpes.** Chauffer une poêle antiadhésive à feu moyen. Verser environ 65 g (1/4 tasse) de pâte par crêpe. Cuire jusqu'à ce que des bulles apparaissent à la surface, puis retourner et cuire jusqu'à ce que le dessous soit doré.
 5. **Servir chaud** avec du sirop d'érable et vos garnitures préférées.
 

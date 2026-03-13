@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Vegetarian Fajitas"
 title_fr: "Fajitas végétariennes"
 excerpt: "Roasted pepper and onion fajitas with garlicky black beans and guacamole."

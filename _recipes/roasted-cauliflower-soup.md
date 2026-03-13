@@ -1,4 +1,4 @@
-﻿﻿﻿﻿---
+---
 title: "Roasted Cauliflower Soup"
 title_fr: "Soupe de chou-fleur rôti"
 excerpt: "Velvety roasted cauliflower and potato soup with rosemary and lemon."

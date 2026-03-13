@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Frozen Protein S'mores Bars"
 title_fr: "Barres s'mores protéinées glacées"
 excerpt: "Graham crackers, chocolate, and marshmallow fluff frozen into protein-packed bars."

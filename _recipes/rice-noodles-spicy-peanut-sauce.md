@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Rice Noodles with Spicy Peanut Sauce"
 title_fr: "Nouilles de riz à la sauce piquante aux arachides"
 excerpt: "Rice noodles tossed with sauteed vegetables and a creamy, spicy peanut sauce."
@@ -99,7 +99,7 @@ Des nouilles de riz avec des carottes, du brocoli, du poivron et de l'oignon sau
 
 ## Instructions
 
-1. **Mélanger** le beurre d'arachide, l'eau, la sauce soya, le miel, le jus de lime, l'huile de sésame et la pâte de chili au pied-mélangéur jusqu'à consistance lisse. Incorporer les flocons de piment et mettre de co te.
+1. **Mélanger** le beurre d'arachide, l'eau, la sauce soya, le miel, le jus de lime, l'huile de sésame et la pâte de chili au pied-mélangeur jusqu'à consistance lisse. Incorporer les flocons de piment et mettre de co te.
 2. **Chauffer** l'huile d'olive dans une grande poêle à feu moyen. Cuire l'oignon 2 à 3 minutes jusqu'à ce qu'il soit translucide.
 3. **Ajouter** les carottes, le poivron, l'ail et le gingembre. Cuire 3 à 4 minutes jusqu'à ce que les légumes commencent a ramollir.
 4. **Ajouter** les bouquets de brocoli et cuire 2 à 3 minutes de plus.

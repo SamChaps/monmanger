@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Plant-Based Gyro"
 title_fr: "Gyro végétalien"
 excerpt: "Crispy baked tofu and oyster mushrooms in warm pita with homemade dairy-free tzatziki."
@@ -80,7 +80,7 @@ Shredded tofu and torn oyster mushrooms marinated in a smoky, spiced blend, then
 
 <div class="lang-fr-content" markdown="1">
 
-Du tofu effiloché et des pleurotes marinés dans un mélangé fumé et épicé, puis cuits au four jusqu'à ce qu'ils soient croustillants et dorés. Garnis dans du pain pita chaud avec un tzatziki frais au concombre et à l'aneth, de la laitue croquante et des légumes frais. Copieux, satisfaisant et entièrement végétalien.
+Du tofu effiloché et des pleurotes marinés dans un mélange fumé et épicé, puis cuits au four jusqu'à ce qu'ils soient croustillants et dorés. Garnis dans du pain pita chaud avec un tzatziki frais au concombre et à l'aneth, de la laitue croquante et des légumes frais. Copieux, satisfaisant et entièrement végétalien.
 
 ## Ingrédients
 
@@ -125,7 +125,7 @@ Du tofu effiloché et des pleurotes marinés dans un mélangé fumé et épicé,
 1. **Préchauffer** le four a 190 C (375 F).
 2. **Fouetter** ensemble l'huile d'olive, les aminos, le paprika fumé, le Cayenne, la poudre d'ail, la coriandre, la poudre d'oignon, le thym, le poivre, l'origan et le bouillon dans un grand bol.
 3. **Presser** l'excès d'eau du tofu, puis l'effilocher. Ajouter le tofu et les pleurotes à la marinade et bien mélanger. Laisser mariner 20 à 30 minutes.
-4. **Étaler** le mélangé mariné sur une plaque de cuisson graissee. Cuire 20 à 25 minutes en remuant toutes les 10 minutes, jusqu'à ce que le tout soit bien doré et croustillant.
+4. **Étaler** le mélange mariné sur une plaque de cuisson graissee. Cuire 20 à 25 minutes en remuant toutes les 10 minutes, jusqu'à ce que le tout soit bien doré et croustillant.
 5. **Préparer** le tzatziki pendant la cuisson: combiner le yogourt, le concombre, le vinaigre, l'ail, l'huile d'olive, l'aneth et la menthe. Assaisonner et réfrigérer.
 6. **Rechauffer** les pains pita au four pendant les 5 dernières minutes de cuisson.
 7. **Assembler** en tartinant du tzatziki sur chaque pita, puis en superposant la laitue, le concombre, la tomate, l'oignon rouge et la garniture de tofu et pleurotes. Arroser de tzatziki supplementaire.

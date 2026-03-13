@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Vegan Lasagna"
 title_fr: "Lasagne végétalienne"
 excerpt: "Hearty lasagna with macadamia ricotta and tempeh marinara sauce."
@@ -107,6 +107,6 @@ Une lasagne végétale en couches avec tout le reconfort du classique. Des pâte
 
 - Des champignons shiitake tranches (environ 300 g) peuvent remplacer ou completer le tempeh dans la sauce.
 - La lasagne assemblee se congelé jusqu'à 1 mois. Cuire couverte de papier d'aluminium, en ajoutant du temps si elle est congelée.
-- Le robot culinaire donne la meilleure texture de ricotta, mais un mélangéur fonctionne avec un peu plus de liquide.
+- Le robot culinaire donne la meilleure texture de ricotta, mais un mélangeur fonctionne avec un peu plus de liquide.
 
 </div>

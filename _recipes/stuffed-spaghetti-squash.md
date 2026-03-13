@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Stuffed Spaghetti Squash Bowls"
 title_fr: "Bols de courge spaghetti farcis"
 excerpt: "Roasted spaghetti squash shells filled with a savory mushroom and tomato sauce."
@@ -81,7 +81,7 @@ Des moities de courge spaghetti rôties jusqu'à tendrete, puis les filaments so
 4. **Chauffer** le reste de l'huile d'olive dans une grande poêle à feu moyen-vif. Ajouter l'oignon, l'échalote, l'ail et les champignons. Cuire jusqu'à ce que l'oignon soit tendre et les champignons dorés.
 5. **Assaisonner** d'origan, basilic, thym, sel et poivre. Ajouter la sauce tomate et remuer. Laisser mijoter a couvert 15 minutes.
 6. **Mélanger** les filaments de courge avec la sauce jusqu'à ce que le tout soit bien enrobé.
-7. **Farcir** chaque coque de courge avec le mélangé. Garnir de Parmesan si désiré.
+7. **Farcir** chaque coque de courge avec le mélange. Garnir de Parmesan si désiré.
 
 ## Notes & conseils
 

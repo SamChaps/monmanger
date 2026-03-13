@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Korean Enoki Mushroom Pancakes"
 title_fr: "Crêpes coréennes aux champignons enoki"
 excerpt: "Crispy little egg pancakes studded with enoki mushrooms, carrots, and chives."
@@ -70,8 +70,8 @@ De petites crêpes dorées garnies de filaments de champignons enoki enrobés de
 ## Instructions
 
 1. **Enrober les champignons.** Séparer grossièrement les grappes d'enoki et placer sur une grande assiette. Saupoudrer de farine et d'huile de sésame. Rouler les champignons avec des baguettes jusqu'à ce qu'ils soient bien enrobés.
-2. **Préparer l'appareil.** Dans un bol, mélanger les œufs battus, la carotte, l'oignon, la ciboulette, le sel et le poivre. Bien mélanger. Ajouter les champignons enrobés et les tremper dans le mélangé.
-3. **Cuire.** Chauffer un poêlon à feu moyen avec une fine couche d'huile. Déposer des cuillerées du mélangé dans le poêlon. Cuire jusqu'à ce que le dessous soit doré, puis retourner et cuire l'autre côté.
+2. **Préparer l'appareil.** Dans un bol, mélanger les œufs battus, la carotte, l'oignon, la ciboulette, le sel et le poivre. Bien mélanger. Ajouter les champignons enrobés et les tremper dans le mélange.
+3. **Cuire.** Chauffer un poêlon à feu moyen avec une fine couche d'huile. Déposer des cuillerées du mélange dans le poêlon. Cuire jusqu'à ce que le dessous soit doré, puis retourner et cuire l'autre côté.
 4. **Répéter** avec le reste de l'appareil, en ajoutant un peu d'huile entre les fournées. Cela devrait donner environ 20 petites crêpes.
 5. **Servir** chaud avec une sauce trempette coréenne.
 

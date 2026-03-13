@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Protein Ice Cream"
 title_fr: "Crème glacée protéinée"
 excerpt: "Frozen banana-based protein ice cream in chocolate or vanilla, creamy and naturally sweetened."
@@ -82,7 +82,7 @@ Des bananes congelees mélangées avec de la poudre de proteine pour obtenir que
 
 ## Instructions
 
-1. **Déposer** tous les ingrédients (sauf les pépites de chocolat, si utilise) dans un robot culinaire ou un mélangéur haute vitesse.
+1. **Déposer** tous les ingrédients (sauf les pépites de chocolat, si utilise) dans un robot culinaire ou un mélangeur haute vitesse.
 2. **Pulser** et mélanger pendant 3 à 4 minutes jusqu'à consistance lisse et onctueuse. Arreter et racler les parois au besoin.
 3. **Ajouter** les pépites de chocolat ou eclats de cacao (pour la version chocolat) et pulser une dernière fois.
 4. **Servir** immédiatement pour une texture de type crème molle, ou transférer dans un moule a pain tapisse de papier parchemin et congeler 2 heures pour une consistance à la cuillere.

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Vegetarian Chili"
 title_fr: "Chili végétarien"
 excerpt: "Smoky bean chili with fire-roasted tomatoes, chipotles, and corn."

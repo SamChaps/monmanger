@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Portobello Wellington"
 title_fr: "Wellington de portobello"
 excerpt: "Whole portobellos wrapped in mushroom-cashew filling and golden puff pastry."
@@ -105,7 +105,7 @@ Un Wellington végétalien spectaculaire, digne de n'importe quelle table des fe
 ## Instructions
 
 1. **Rotir les portobellos.** Préchauffer le four a 175 °C (350 °F). Déposer les chapeaux de portobellos sur une plaque, badigeonner d'huile d'olive et assaisonner de sel et poivre. Cuire 20 minutes. Réserver.
-2. **Préparer la garniture.** Pulser les champignons cremini et les noix de cajou au robot culinaire jusqu'à consistance grossièrement hachée. Dans une grande casserole, faire revenir les oignons dans l'huile d'olive à feu moyen-vif pendant 5 minutes. Ajouter le mélangé champignons-cajou, l'ail, la levure alimentaire, la sauge, le sirop d'érable, le basilic, l'origan, le sel, l'huile de truffe, les epinards et le poivre. Cuire 12 à 15 minutes en mélangéant regulierement. Retirer du feu et réfrigérer 30 minutes.
+2. **Préparer la garniture.** Pulser les champignons cremini et les noix de cajou au robot culinaire jusqu'à consistance grossièrement hachée. Dans une grande casserole, faire revenir les oignons dans l'huile d'olive à feu moyen-vif pendant 5 minutes. Ajouter le mélange champignons-cajou, l'ail, la levure alimentaire, la sauge, le sirop d'érable, le basilic, l'origan, le sel, l'huile de truffe, les epinards et le poivre. Cuire 12 à 15 minutes en mélangeant regulierement. Retirer du feu et réfrigérer 30 minutes.
 3. **Abaisser la pâte.** Sur un plan de travail farine, abaisser la pâte feuilletee en un rectangle d'environ 33x30 cm (13x12 po).
 4. **Assembler.** Étaler la garniture refroidie en une couche uniforme sur la pâte, en laissant une bordure de 5 cm (2 po). Aligner les chapeaux de portobellos rôtis sur la garniture.
 5. **Enrouler et sceller.** Rabattre le bas de la pâte par-dessus les champignons. Rouler fermement vers le haut. Couper l'excédent de pâte et sceller les extremites. Transferer, joint vers le bas, sur une plaque tapissée de papier parchemin.

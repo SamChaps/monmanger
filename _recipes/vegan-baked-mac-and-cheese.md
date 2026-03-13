@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Crispy Baked Vegan Mac and Cheese"
 title_fr: "Mac and cheese végétalien gratiné"
 excerpt: "Creamy butternut squash cheese sauce baked under a crispy panko crust."
@@ -106,14 +106,14 @@ Un mac and cheese végétalien riche et crémeux, bati sur une sauce de courge m
 1. **Rotir la courge.** Préchauffer le four a 220 °C (425 °F). Couper la courge en deux et retirer les graines. Frotter chaque moitié d'huile, assaisonner de sel et poivre, et déposer côté coupé vers le haut sur une plaque. Rotir 45 à 55 minutes jusqu'à ce qu'elle soit tendre à la fourchette et légèrement dorée.
 2. **Préparer la garniture.** Dans un petit bol, combiner le panko, la levure alimentaire, le sel, le paprika et le beurre végétal fondu. Réserver.
 3. **Cuire les pâtes.** Porter une grande casserole d'eau salée a ébullition. Cuire les macaronis selon les instructions jusqu'à al dente. Égoutter et enrober d'un peu d'huile pour éviter qu'ils collent.
-4. **Préparer la sauce.** Une fois la courge refroidie, prélever 310 g (1 1/2 tasse) de chair. Mélanger au mélangéur avec les noix de cajou égouttées, la levure alimentaire, la poudre d'ail, la poudre d'oignon, le paprika, la moutarde, le miso, la fécule, le jus de citron, le lait de coco, le sel et le poivre jusqu'à obtenir une texture parfaitement lisse.
+4. **Préparer la sauce.** Une fois la courge refroidie, prélever 310 g (1 1/2 tasse) de chair. Mélanger au mélangeur avec les noix de cajou égouttées, la levure alimentaire, la poudre d'ail, la poudre d'oignon, le paprika, la moutarde, le miso, la fécule, le jus de citron, le lait de coco, le sel et le poivre jusqu'à obtenir une texture parfaitement lisse.
 5. **Assembler.** Réduire le four a 205 °C (400 °F). Graisser légèrement un plat de 3 litres. Mélanger les pâtes avec la sauce et transférer dans le plat. Repartir la garniture panko uniformement sur le dessus.
 6. **Cuire 18 à 20 minutes,** jusqu'à ce que la garniture soit croustillante et dorée. Laisser reposer 10 à 15 minutes avant de servir.
 
 ## Notes & conseils
 
 - Conserver le reste de courge rôtie pour une soupe, un cari ou un accompagnement.
-- Un mélangéur haute puissance produit la sauce la plus lisse.
+- Un mélangeur haute puissance produit la sauce la plus lisse.
 - La fécule de maïs peut remplacer la fécule de tapioca en quantite egale.
 - Utiliser des pâtes et de la chapelure sans gluten pour une version sans gluten.
 

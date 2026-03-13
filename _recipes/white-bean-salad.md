@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Mediterranean White Bean Salad"
 title_fr: "Salade méditerranéenne aux haricots blancs"
 excerpt: "Fresh white bean salad with cucumber, tomatoes, herbs, and za'atar."

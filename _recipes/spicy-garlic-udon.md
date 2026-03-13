@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Stir-Fried Spicy Garlic Udon"
 title_fr: "Udon sauté piquant à l'ail"
 excerpt: "Chewy udon noodles stir-fried with crumbled tofu, mushrooms, and a spicy sesame garlic sauce."

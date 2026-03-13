@@ -1,4 +1,4 @@
-﻿﻿---
+---
 title: "Apple Croustade"
 title_fr: "Croustade aux pommes"
 excerpt: "A classic Quebecois apple crisp with buttery oat topping."

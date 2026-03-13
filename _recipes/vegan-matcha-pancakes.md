@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Vegan Matcha Pancakes"
 title_fr: "Crêpes matcha végétaliennes"
 excerpt: "Fluffy green tea pancakes made with flax egg and plant milk."
@@ -95,7 +95,7 @@ Des crêpes légères et moelleuses, joliment colorees en vert par la poudre de 
 1. **Préparer l'œuf de lin.** Fouetter le lin moulu et l'eau dans un petit bol et laisser épaissir.
 2. **Préparer le babeurre.** Mélanger le lait de soya et le vinaigre de cidre dans un bol et laisser cailler légèrement. Sauter cette etape si préféré.
 3. **Mélanger les ingrédients secs.** Dans un bol moyen, combiner la farine, le sucre, la poudre à pâte, le sel et la poudre de matcha.
-4. **Combiner.** Ajouter l'huile, l'œuf de lin et le mélangé de babeurre aux ingrédients secs. Remuer jusqu'à ce que le tout soit combiné; ne pas trop mélanger.
+4. **Combiner.** Ajouter l'huile, l'œuf de lin et le mélange de babeurre aux ingrédients secs. Remuer jusqu'à ce que le tout soit combiné; ne pas trop mélanger.
 5. **Cuire les crêpes.** Chauffer une grande poêle à feu moyen-doux. Vaporiser d'huile. Verser environ 60 ml (1/4 tasse) de pâte par crêpe. Cuire jusqu'à ce que les bords commencent a gonfler, environ 2 à 3 minutes, puis retourner et cuire 2 minutes de plus.
 6. **Servir** avec les garnitures de votre choix.
 

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Tofu Noodle Bowl with Almond Butter Sauce"
 title_fr: "Bol de nouilles au tofu et sauce au beurre d'amande"
 excerpt: "Five-spice tofu crumbles over noodles and broccoli in a creamy almond butter sauce."

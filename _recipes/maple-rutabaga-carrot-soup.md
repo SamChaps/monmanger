@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Maple Rutabaga and Carrot Soup"
 title_fr: "Crème de rutabaga et carottes à l'érable"
 excerpt: "Silky root vegetable soup with a touch of maple sweetness."
@@ -69,7 +69,7 @@ Un potage velouté à base de carottes, rutabaga et pommes de terre mijotés dan
 
 1. **Faire suer les légumes.** Dans une grande casserole, attendrir les carottes, le rutabaga et les oignons dans le beurre à feu moyen pendant 5 minutes sans coloration.
 2. **Mijoter.** Ajouter le bouillon, les pommes de terre et le sirop d'érable. Porter à ébullition, couvrir et laisser mijoter 25 minutes ou jusqu'à ce que les légumes soient tendres.
-3. **Mixer.** Au mélangéur, réduire la soupe en purée lisse. Incorporer la crème, saler et poivrer.
+3. **Mixer.** Au mélangeur, réduire la soupe en purée lisse. Incorporer la crème, saler et poivrer.
 4. **Servir chaud.**
 
 ## Notes & conseils

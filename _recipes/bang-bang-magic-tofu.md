@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Bang Bang Magic Tofu"
 title_fr: "Tofu magique bang bang"
 excerpt: "Crispy panko-coated tofu bites with spicy sambal mayo dipping sauce."
@@ -107,7 +107,7 @@ Une version revisitée du classique poulet Bang Bang: le fameux tofu magique de 
 3. **Préparer la sauce.** Dans un petit bol, mélanger la mayonnaise végétalienne, le sambal oelek, la sauce soya, le jus de citron et le sirop d'érable jusqu'à consistance homogène.
 4. **Préparer l'appareil liquide.** Prelever 3 c. à soupe de sauce et la transférer dans un autre bol avec 2 c. à soupe d'eau. Refrigerer le reste de la sauce.
 5. **Mélanger l'enrobage.** Dans un bol, combiner le panko, la levure alimentaire et la poudre d'ail.
-6. **Enrober le tofu.** Tremper chaque morceau dans la sauce diluee, puis dans le mélangé de chapelure. Déposer sur la plaque. Vaporiser ou arroser légèrement d'huile pour plus de croustillant.
+6. **Enrober le tofu.** Tremper chaque morceau dans la sauce diluee, puis dans le mélange de chapelure. Déposer sur la plaque. Vaporiser ou arroser légèrement d'huile pour plus de croustillant.
 7. **Cuire de 30 à 35 minutes,** jusqu'à ce que les morceaux soient bien dorés. Il est possible de les retourner à mi-cuisson, mais ce n'est pas obligatoire.
 8. **Servir immédiatement** avec la sauce épicée réservée en trempette ou en garniture. Décorer d'oignons verts.
 

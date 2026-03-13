@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Thick Chewy Oatmeal Raisin Cookies"
 title_fr: "Biscuits à l'avoine et aux raisins moelleux"
 excerpt: "Thick, chewy oatmeal cookies studded with raisins and warmly spiced with cinnamon."
@@ -74,7 +74,7 @@ Des biscuits à l'avoine et aux raisins épais et moelleux avec des bords légè
 ## Instructions
 
 1. **Cremer** le beurre, la cassonade, l'œuf et la vanille dans un grand bol jusqu'à consistance lisse.
-2. **Fouetter** ensemble la farine, le bicarbonate, la cannelle et le sel dans un autre bol. Incorporer au mélangé de beurre.
+2. **Fouetter** ensemble la farine, le bicarbonate, la cannelle et le sel dans un autre bol. Incorporer au mélange de beurre.
 3. **Incorporer** les flocons d'avoine, les raisins et les noix si désiré.
 4. **Refrigerer** la pâte au moins 30 minutes (c'est ce qui les rend épais).
 5. **Préchauffer** le four a 175 C (350 F). Déposer des boules de pâte sur des plaques tapissees de papier parchemin, en les espaçant d'environ 5 cm (2 po).

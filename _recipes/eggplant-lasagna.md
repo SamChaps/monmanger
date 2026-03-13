@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Eggplant Lasagna"
 title_fr: "Lasagne à l'aubergine"
 excerpt: "Noodle-free lasagna with roasted eggplant, ricotta, spinach, and herbs."

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Tempeh Bacon Tortillas"
 title_fr: "Tortillas au bacon de tempeh"
 excerpt: "Smoky maple tempeh bacon in soft tortillas with fresh toppings."
@@ -54,7 +54,7 @@ A simple and satisfying wrap built around smoky tempeh bacon. Thin slices of tem
 
 <div class="lang-fr-content" markdown="1">
 
-Un wrap simple et satisfaisant construit autour d'un bacon de tempeh fumé. Des tranches fines de tempeh sont braisees dans un mélangé d'érable et de fumée liquide, puis grillées à la poêle et garnies dans des tortillas avec tomate fraîche, laitue et mayonnaise végétalienne.
+Un wrap simple et satisfaisant construit autour d'un bacon de tempeh fumé. Des tranches fines de tempeh sont braisees dans un mélange d'érable et de fumée liquide, puis grillées à la poêle et garnies dans des tortillas avec tomate fraîche, laitue et mayonnaise végétalienne.
 
 ## Ingrédients
 

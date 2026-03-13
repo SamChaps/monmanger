@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Double Chocolate Banana Bread"
 title_fr: "Pain aux bananes double chocolat"
 excerpt: "A rich, fudgy banana bread loaded with cocoa, chocolate chips, and topped with crushed peanuts."

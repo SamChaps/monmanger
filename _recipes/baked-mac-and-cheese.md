@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Baked Mac and Cheese"
 title_fr: "Macaroni au fromage gratiné"
 excerpt: "Creamy soul food mac and cheese with a golden baked top."
@@ -65,7 +65,7 @@ A rich and comforting baked mac and cheese loaded with sharp cheddar and Colby J
 
 <div class="lang-fr-content" markdown="1">
 
-Un macaroni au fromage gratiné riche et réconfortant, garni de cheddar fort et de Colby Jack. Les pâtes sont cuites dans un mélangé de lait et d'eau pour un maximum de crémeux, puis enrobées d'une sauce fromagée épicée et passées au four jusqu'à ce que le dessus soit doré et bouillonnant.
+Un macaroni au fromage gratiné riche et réconfortant, garni de cheddar fort et de Colby Jack. Les pâtes sont cuites dans un mélange de lait et d'eau pour un maximum de crémeux, puis enrobées d'une sauce fromagée épicée et passées au four jusqu'à ce que le dessus soit doré et bouillonnant.
 
 ## Ingrédients
 
@@ -94,13 +94,13 @@ Un macaroni au fromage gratiné riche et réconfortant, garni de cheddar fort et
 4. **Assaisonner la sauce.** Ajouter le sel, le poivre, la poudre d'ail, la poudre d'oignon, la moutarde en poudre et le paprika. Continuer de remuer jusqu'à ce que la sauce épaississe légèrement, environ 3 minutes.
 5. **Faire fondre le fromage.** Incorporer graduellement le cheddar et le Colby Jack râpés en réservant une poignée pour le dessus. Remuer jusqu'à ce que le fromage soit complètement fondu et la sauce bien lisse.
 6. **Combiner.** Ajouter les macaronis cuits et la crème épaisse à la sauce au fromage. Bien mélanger pour enrober le tout uniformément.
-7. **Gratiner.** Transférer le mélangé dans un plat de cuisson graissé de 20 cm (8 po) ou un poêlon en fonte. Parsemer du fromage réservé. Cuire au four à 175 °C (350 °F) pendant environ 25 minutes, jusqu'à ce que le dessus soit doré et bouillonnant.
+7. **Gratiner.** Transférer le mélange dans un plat de cuisson graissé de 20 cm (8 po) ou un poêlon en fonte. Parsemer du fromage réservé. Cuire au four à 175 °C (350 °F) pendant environ 25 minutes, jusqu'à ce que le dessus soit doré et bouillonnant.
 8. **Servir.** Laisser le macaroni au fromage refroidir quelques minutes. Garnir de thym si désiré et servir chaud.
 
 ## Notes & conseils
 
-- Cuire les pâtes dans un mélangé de lait et d'eau leur donne un crémeux incomparable dès le départ.
-- Utilisez un mélangé de cheddar fort pour la saveur et de Colby Jack pour une texture fondante.
+- Cuire les pâtes dans un mélange de lait et d'eau leur donne un crémeux incomparable dès le départ.
+- Utilisez un mélange de cheddar fort pour la saveur et de Colby Jack pour une texture fondante.
 - Pour un dessus plus croustillant, passer sous le gril à haute intensité 1 à 2 minutes après la cuisson.
 - Les restants se réchauffent bien avec un peu de lait pour délier la sauce.
 

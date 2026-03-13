@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Veggie Black Bean Enchiladas"
 title_fr: "Enchiladas végétariennes aux haricots noirs"
 excerpt: "Loaded with beans, broccoli, and peppers in homemade red sauce."
@@ -60,7 +60,7 @@ These hearty enchiladas are stuffed with a colourful mix of black beans, broccol
 
 <div class="lang-fr-content" markdown="1">
 
-Ces enchiladas généreuses sont farcies d'un mélangé coloré de haricots noirs, brocoli, poivron et épinards. Nappées de sauce enchilada et de fromage gratiné, elles font un souper de semaine des plus satisfaisants.
+Ces enchiladas généreuses sont farcies d'un mélange coloré de haricots noirs, brocoli, poivron et épinards. Nappées de sauce enchilada et de fromage gratiné, elles font un souper de semaine des plus satisfaisants.
 
 ## Ingrédients
 

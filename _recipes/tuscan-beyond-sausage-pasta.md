@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Tuscan Beyond Sausage Pasta"
 title_fr: "Pâtes toscanes aux saucisses Beyond Meat"
 excerpt: "Spicy plant-based sausage pasta with cannellini beans, tomatoes, and spinach."

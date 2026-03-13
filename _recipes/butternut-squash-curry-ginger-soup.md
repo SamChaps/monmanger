@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Butternut Squash Curry & Ginger Soup"
 title_fr: "Potage de courge musquée, cari et gingembre frais"
 excerpt: "Velvety butternut squash soup seasoned with curry powder and fresh ginger."
@@ -73,7 +73,7 @@ Un potage soyeux à la courge musquée avec un cari chaleureux et un coup de gin
 2. **Ajouter** l'ail, la poudre de cari et le gingembre. Laisser les saveurs se mélanger quelques minutes.
 3. **Ajouter** la courge et le bouillon. Assaisonner à nouveau et porter a ébullition.
 4. **Laisser** mijoter 25 à 30 minutes ou jusqu'à ce que les cubes de courge soient bien tendres.
-5. **Réduire** en purée lisse à l'aide d'un pied-mélangéur ou d'un robot culinaire. Rectifier l'assaisonnement au besoin.
+5. **Réduire** en purée lisse à l'aide d'un pied-mélangeur ou d'un robot culinaire. Rectifier l'assaisonnement au besoin.
 6. **Servir** avec un filet de crème.
 
 ## Notes & conseils

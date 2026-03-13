@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Best Hummus"
 title_fr: "Le meilleur houmous"
 excerpt: "Ultra-creamy homemade hummus with boiled chickpeas, tahini, lemon, and garlic."
@@ -85,7 +85,7 @@ Un houmous remarquablement lisse et léger, préparé en faisant trop bouillir d
 
 1. **Bouillir les pois chiches.** Placer les pois chiches et le bicarbonate dans une casserole moyenne. Couvrir d'eau de plusieurs centimètres et porter à ébullition à feu vif. Faire bouillir environ 20 minutes, jusqu'à ce que les pois chiches soient gonflés, que leurs peaux se détachent et qu'ils soient très tendres. Égoutter dans un tamis fin et rincer à l'eau froide. Réserver.
 2. **Mixer la base.** Au robot culinaire, combiner le jus de citron, l'ail et le sel. Mixer jusqu'à ce que l'ail soit très finement haché, puis laisser reposer au moins 10 minutes pour adoucir la saveur de l'ail.
-3. **Ajouter le tahini.** Mixer jusqu'à obtenir un mélangé épais et crémeux, en raclant les parois au besoin.
+3. **Ajouter le tahini.** Mixer jusqu'à obtenir un mélange épais et crémeux, en raclant les parois au besoin.
 4. **Ajouter l'eau glacée.** Robot en marche, verser en filet 2 c. à soupe d'eau glacée. Racler et mixer jusqu'à consistance ultra lisse et pâle. Ajouter 1 à 2 c. à soupe d'eau supplémentaires si nécessaire.
 5. **Ajouter les pois chiches.** Ajouter le cumin et les pois chiches bouillis. Robot en marche, verser l'huile d'olive en filet. Mixer environ 2 minutes jusqu'à consistance parfaitement lisse, en raclant les parois au besoin.
 6. **Goûter et ajuster.** Ajouter plus de sel ou de jus de citron au goût.

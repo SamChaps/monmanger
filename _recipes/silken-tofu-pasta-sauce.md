@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Silken Tofu Pasta Sauce"
 title_fr: "Sauce pour pâtes au tofu soyeux"
 excerpt: "A creamy, protein-packed vegan pasta sauce made with blended silken tofu."
@@ -55,7 +55,7 @@ A silky, satisfying pasta sauce that comes together in just 15 minutes. Blending
 
 <div class="lang-fr-content" markdown="1">
 
-Une sauce pour pâtes onctueuse et satisfaisante qui se prépare en seulement 15 minutes. En mélangéant du tofu soyeux avec de l'oignon et de l'ail sautés, on obtient une sauce remarquablement crémeuse sans aucun produit laitier. Un filet de jus de citron et une cuillère de levure alimentaire complètent la saveur avec fraîcheur et profondeur.
+Une sauce pour pâtes onctueuse et satisfaisante qui se prépare en seulement 15 minutes. En mélangeant du tofu soyeux avec de l'oignon et de l'ail sautés, on obtient une sauce remarquablement crémeuse sans aucun produit laitier. Un filet de jus de citron et une cuillère de levure alimentaire complètent la saveur avec fraîcheur et profondeur.
 
 ## Ingrédients
 
@@ -74,7 +74,7 @@ Une sauce pour pâtes onctueuse et satisfaisante qui se prépare en seulement 15
 
 1. **Cuire les pâtes.** Porter une grande casserole d'eau salée à ébullition et cuire les pâtes selon les instructions de l'emballage. Avant d'égoutter, réserver 1 1/2 tasse de l'eau de cuisson.
 2. **Faire sauter les aromates.** Pendant que les pâtes cuisent, chauffer l'huile d'olive dans une poêle à feu doux. Ajouter l'oignon coupé en dés avec une pincée de sel et cuire jusqu'à ce qu'il soit tendre et translucide, environ 5 minutes. Ajouter l'ail et cuire 1 minute de plus en remuant souvent.
-3. **Mélanger la sauce.** Égoutter le surplus de liquide du tofu et le mettre dans un mélangéur. Ajouter l'oignon et l'ail sautés, la levure alimentaire, le jus de citron, le reste du sel et le poivre. Mélanger jusqu'à consistance parfaitement lisse.
+3. **Mélanger la sauce.** Égoutter le surplus de liquide du tofu et le mettre dans un mélangeur. Ajouter l'oignon et l'ail sautés, la levure alimentaire, le jus de citron, le reste du sel et le poivre. Mélanger jusqu'à consistance parfaitement lisse.
 4. **Chauffer et allonger la sauce.** Verser la sauce dans une casserole et réchauffer doucement à feu moyen-doux. Incorporer l'eau de cuisson des pâtes petit à petit jusqu'à obtenir la consistance désirée.
 5. **Mélanger et servir.** Combiner la sauce avec les pâtes cuites et bien mélanger. Goûter et ajuster le sel et le poivre au besoin. Terminer avec des flocons de piment rouge ou des fines herbes fraîches si désiré.
 

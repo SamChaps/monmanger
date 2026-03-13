@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Lentil-Stuffed Portobellos with Crunchy Gremolata"
 title_fr: "Portobellos farcis aux lentilles et gremolata croquante"
 excerpt: "Portobello mushrooms filled with tahini-glazed lentils and topped with a herby bread gremolata."
@@ -99,7 +99,7 @@ Des chapeaux de portobellos garnis de lentilles savoureuses glacees au tahini, s
 1. **Préchauffer** le four a 375 F (190 C) et placer la grille au centre.
 2. **Cuire** la garniture de lentilles: faire chauffer l'huile végétale dans une poêle à feu moyen-vif. Faire revenir l'ail et les lentilles pendant 3 minutes, puis ajouter le tahini, la sauce soya, le vinaigre balsamique et le quatre-épices. Poursuivre la cuisson 1 minute et transférer dans un bol.
 3. **Mélanger** tous les ingrédients de la gremolata dans un autre bol.
-4. **Huiler** légèrement le côté extérieur des portobellos et les placer sur une plaque de cuisson, côté lamelles vers le haut. Garnir avec le mélangé de lentilles, puis couvrir entièrement avec la gremolata. Presser légèrement pour que la garniture tienne bien.
+4. **Huiler** légèrement le côté extérieur des portobellos et les placer sur une plaque de cuisson, côté lamelles vers le haut. Garnir avec le mélange de lentilles, puis couvrir entièrement avec la gremolata. Presser légèrement pour que la garniture tienne bien.
 5. **Cuire** au four pendant 20 minutes et servir immédiatement.
 
 ## Notes & conseils

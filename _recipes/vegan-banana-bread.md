@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Vegan Banana Bread"
 title_fr: "Pain aux bananes végétalien"
 excerpt: "A simple, egg-free and dairy-free banana bread with a soft, dense crumb."
@@ -72,7 +72,7 @@ Un pain aux bananes végétalien sans chichis, avec une mie merveilleusement den
 1. **Préchauffer** le four à 175 °C (350 °F).
 2. **Mélanger les ingrédients humides.** Dans un bol, écraser les bananes avec l'huile, le sucre et la vanille.
 3. **Ajouter les agents levants.** Saupoudrer la poudre à pâte et le bicarbonate de soude et mélanger à l'aide d'une cuillère de bois.
-4. **Ajouter la farine.** Ajouter la farine et le sel et mélanger jusqu'à l'obtention d'un mélangé homogène. La pâte sera plus épaisse qu'un mélangé à gâteau.
+4. **Ajouter la farine.** Ajouter la farine et le sel et mélanger jusqu'à l'obtention d'un mélange homogène. La pâte sera plus épaisse qu'un mélange à gâteau.
 5. **Verser** dans un moule à pain légèrement huilé.
 6. **Cuire** environ 1 heure, ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.
 7. **Laisser refroidir**, démouler, trancher et servir.

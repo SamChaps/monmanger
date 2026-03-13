@@ -656,6 +656,12 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   padding-inline-end: 0 !important;
 }
 
+.recipe-count {
+  color: var(--ctp-subtext0);
+  font-size: 0.9em;
+  margin-bottom: 0;
+}
+
 .recipe-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));

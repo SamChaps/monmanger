@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Vegan Bulgogi"
 title_fr: "Bulgogi végétalien"
 excerpt: "Sweet and smoky Korean BBQ crumbles over steamed rice."

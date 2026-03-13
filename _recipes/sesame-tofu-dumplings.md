@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Sesame Tofu Dumplings"
 title_fr: "Dumplings au tofu et sésame"
 excerpt: "Crispy dumplings filled with savory sesame tofu and green onions, steamed or pan-fried."

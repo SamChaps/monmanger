@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miso Butter Roasted Brussels Sprouts"
 title_fr: "Choux de Bruxelles rôtis au miso et beurre"
 excerpt: "Caramelized brussels sprouts glazed with miso, vegan butter, and mirin, served over shiitake rice."
@@ -92,8 +92,8 @@ Des choux de Bruxelles coupés en deux, rôtis jusqu'à être bien dorés, enrob
 ## Instructions
 
 1. **Préchauffer** le four à 190 °C (375 °F).
-2. **Préparer la glace.** Fouetter ensemble le beurre fondu, la pâte de miso, l'huile de sésame, le mirin, le vinaigre de riz, le vinaigre noir, la poudre d'ail et le poivre blanc. Réserver 2 c. à soupe du mélangé.
-3. **Enrober les choux.** Placer les choux de Bruxelles dans un grand bol et les enrober du mélangé au miso.
+2. **Préparer la glace.** Fouetter ensemble le beurre fondu, la pâte de miso, l'huile de sésame, le mirin, le vinaigre de riz, le vinaigre noir, la poudre d'ail et le poivre blanc. Réserver 2 c. à soupe du mélange.
+3. **Enrober les choux.** Placer les choux de Bruxelles dans un grand bol et les enrober du mélange au miso.
 4. **Rôtir.** Disposer les choux côté coupé vers le bas en une seule couche sur une plaque. Rôtir 20 minutes, retourner et rôtir encore 15 minutes ou jusqu'à coloration dorée.
 5. **Cuire le riz.** Pendant que les choux rôtissent, cuire le riz selon les instructions de l'emballage en ajoutant la poudre de champignon, les shiitakes hachés et l'oignon vert au pot avant la cuisson. Incorporer l'huile de sésame une fois cuit.
 6. **Servir** les choux de Bruxelles sur le riz aux shiitakes, arrosés de la sauce miso réservée et garnis d'oignon vert tranché.

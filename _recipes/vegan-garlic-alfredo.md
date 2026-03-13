@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Vegan Garlic Alfredo"
 title_fr: "Alfredo à l'ail végétalien"
 excerpt: "Creamy oil-free cashew alfredo sauce loaded with caramelized onion and garlic."
@@ -69,13 +69,13 @@ Une sauce alfredo onctueuse, sans produits laitiers et sans huile, qui rivalise 
 ## Instructions
 
 1. **Cuire l'oignon.** Mettre l'oignon coupé en dés et seulement 1 tasse de bouillon dans une grande poêle à feu moyen a moyen-élevé. Cuire environ 8 minutes jusqu'à ce qu'il soit très tendre. Ajouter l'ail et cuire 2 minutes de plus en remuant souvent. Tout le bouillon devrait s'être evapore à ce stade.
-2. **Mélanger la sauce.** Transferer l'oignon et l'ail cuits au mélangéur. Ajouter 1/2 tasse de bouillon supplementaire, les noix de cajou, 1/2 c. à soupe de jus de citron, la levure alimentaire, le sel et le poivre. Mélanger a haute vitesse 1 à 2 minutes jusqu'à consistance parfaitement lisse et crémeuse. Ajouter plus de bouillon seulement si une consistance plus liquide est souhaitee.
+2. **Mélanger la sauce.** Transferer l'oignon et l'ail cuits au mélangeur. Ajouter 1/2 tasse de bouillon supplementaire, les noix de cajou, 1/2 c. à soupe de jus de citron, la levure alimentaire, le sel et le poivre. Mélanger a haute vitesse 1 à 2 minutes jusqu'à consistance parfaitement lisse et crémeuse. Ajouter plus de bouillon seulement si une consistance plus liquide est souhaitee.
 3. **Gouter et ajuster.** Ajouter plus de sel, poivre ou jus de citron au besoin.
 4. **Servir sur des pâtes bien salees.** Garnir de persil frais, de zeste de citron et de poivre noir. Le brocoli ou les petits pois sont un excellent ajout.
 
 ## Notes & conseils
 
-- Sans mélangéur haute puissance, tremper les noix de cajou une nuit dans l'eau, puis égoutter avant de mélanger.
+- Sans mélangeur haute puissance, tremper les noix de cajou une nuit dans l'eau, puis égoutter avant de mélanger.
 - Le jus de citron est essentiel: il elimine le goût brut des cajou et illumine la sauce.
 - La sauce restante épaissit au réfrigérateur; la diluer avec un peu de bouillon en rechauffant.
 

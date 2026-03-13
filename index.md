@@ -10,4 +10,8 @@ sidebar:
 ---
 
 {% assign recipes = site.recipes | sort: "title" %}
+<p class="recipe-count">
+  <span class="lang-en-content">{{ recipes.size }} total</span>
+  <span class="lang-fr-content">{{ recipes.size }} au total</span>
+</p>
 {% include recipe-list.html recipes=recipes %}

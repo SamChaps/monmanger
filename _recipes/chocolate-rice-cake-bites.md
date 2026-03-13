@@ -1,4 +1,4 @@
-﻿﻿---
+---
 title: "Chocolate Rice Cake Bites"
 title_fr: "Bouchées de galettes de riz au chocolat"
 excerpt: "Crunchy rice cake pieces coated in chocolate-peanut butter, ready in 5 minutes."
@@ -57,7 +57,7 @@ Une gâterie virale à trois ingrédients qui combiné le croquant des galettes 
 
 1. **Faire fondre l'enrobage.** Faire fondre le chocolat et le beurre d'arachide ensemble au bain-marie ou au micro-ondes par intervalles de 15 à 20 secondes en remuant entre chaque.
 2. **Casser les galettes.** Casser les galettes de riz en morceaux de la taille d'une bouchée (environ 2,5 cm / 1 po) dans un bol moyen.
-3. **Enrober et réfrigérer.** Verser le mélangé de chocolat fondu sur les morceaux de galette de riz et mélanger jusqu'à ce qu'ils soient uniformément enrobés. Étaler sur une assiette ou un plateau tapissé de papier parchemin et réfrigérer jusqu'à ce que le chocolat soit figé, environ 20 minutes.
+3. **Enrober et réfrigérer.** Verser le mélange de chocolat fondu sur les morceaux de galette de riz et mélanger jusqu'à ce qu'ils soient uniformément enrobés. Étaler sur une assiette ou un plateau tapissé de papier parchemin et réfrigérer jusqu'à ce que le chocolat soit figé, environ 20 minutes.
 
 ## Notes & conseils
 

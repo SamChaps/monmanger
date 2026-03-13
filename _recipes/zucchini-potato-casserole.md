@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Zucchini Potato Casserole"
 title_fr: "Gratin de courgettes et pommes de terre"
 excerpt: "A simple baked casserole of thinly sliced zucchini, potatoes, and nutritional yeast."
@@ -81,7 +81,7 @@ Un gratin economique et sans chichi qui tire le meilleur d'ingrédients tout sim
 
 1. **Préchauffer le four** a 200 °C (400 °F).
 2. **Tout mélanger.** Dans un grand bol, combiner les courgettes, les pommes de terre, le poivron, la levure alimentaire, l'ail, l'oignon, la chapelure, l'huile d'olive, le sel, le poivre et les ajouts facultatifs. Mélanger jusqu'à ce que tout soit uniformement enrobé.
-3. **Transferer dans un plat a gratin.** Repartir le mélangé dans un grand plat de cuisson.
+3. **Transferer dans un plat a gratin.** Repartir le mélange dans un grand plat de cuisson.
 4. **Cuire 30 minutes.** Retirer du four et bien remuer. Remettre au four et cuire encore 30 minutes, en surveillant durant les 10 dernières minutes pour éviter que le dessus brule.
 
 ## Notes & conseils

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿---
+---
 title: "Peanut Butter Banana Muffins"
 title_fr: "Muffins banane et beurre d'arachide"
 excerpt: "Moist, protein-packed muffins with peanut butter, banana, oat flour, and chocolate chips."
@@ -99,7 +99,7 @@ Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide 
 
 ## Notes & conseils
 
-- Faire sa propre farine d'avoine en mixant des flocons d'avoine au mélangéur ou robot culinaire jusqu'à consistance fine.
+- Faire sa propre farine d'avoine en mixant des flocons d'avoine au mélangeur ou robot culinaire jusqu'à consistance fine.
 - Le beurre d'amande ou de cajou remplace bien le beurre d'arachide.
 - Conserver dans un contenant hermétique jusqu'à 4 jours, ou congeler individuellement pour un déjeuner rapide.
 

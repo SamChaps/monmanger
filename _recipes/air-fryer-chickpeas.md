@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crispy Air Fryer Chickpeas"
 title_fr: "Pois chiches croustillants à la friteuse à air"
 excerpt: "Irresistibly crunchy spiced chickpeas ready in just 20 minutes."
@@ -49,7 +49,7 @@ These air fryer chickpeas come out perfectly golden and crunchy on the outside w
 
 <div class="lang-fr-content" markdown="1">
 
-Ces pois chiches à la friteuse à air ressortent dorés et croustillants à l'extérieur tout en restant légèrement tendres à l'intérieur. Un rapide mélangé d'épices et 15 minutes suffisent pour obtenir une collation satisfaisante, riche en protéines.
+Ces pois chiches à la friteuse à air ressortent dorés et croustillants à l'extérieur tout en restant légèrement tendres à l'intérieur. Un rapide mélange d'épices et 15 minutes suffisent pour obtenir une collation satisfaisante, riche en protéines.
 
 ## Ingrédients
 
@@ -72,6 +72,6 @@ Ces pois chiches à la friteuse à air ressortent dorés et croustillants à l'e
 
 - Inutile de sécher les pois chiches avant de les mélanger. La friteuse à air s'occupe de l'humidité.
 - Conserver dans un contenant ouvert pour garder le croustillant. Un contenant fermé les ramollira.
-- N'hésitez pas à utiliser votre mélangé d'épices préféré : poudre de cari, za'atar ou paprika fumé fonctionnent tous très bien.
+- N'hésitez pas à utiliser votre mélange d'épices préféré : poudre de cari, za'atar ou paprika fumé fonctionnent tous très bien.
 
 </div>

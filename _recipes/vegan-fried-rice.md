@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Vegan Fried Rice"
 title_fr: "Riz frit végétalien"
 excerpt: "Crispy baked tofu and vegetables tossed in a sweet-spicy peanut sauce."

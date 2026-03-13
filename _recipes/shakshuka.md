@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Shakshuka"
 title_fr: "Shakshuka"
 excerpt: "Eggs poached in a spiced tomato sauce with bell pepper, cumin, and paprika."

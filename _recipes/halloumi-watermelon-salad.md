@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿---
+---
 title: "Halloumi Watermelon Cucumber Salad"
 title_fr: "Salade de fromage halloumi, concombres et melon d'eau"
 excerpt: "Grilled halloumi with watermelon, cucumber, fresh mint, and a za'atar lime dressing."

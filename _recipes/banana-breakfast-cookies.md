@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Banana Breakfast Cookies"
 title_fr: "Biscuits-déjeuner aux bananes"
 excerpt: "Wholesome, naturally sweetened cookies perfect for mornings on the go."
@@ -75,7 +75,7 @@ Une recette toute simple, en un seul bol, qui transforme des bananes mûres et d
 
 1. **Préchauffer le four** à 175 °C (350 °F). Tapisser une plaque de cuisson de papier parchemin.
 2. **Mélanger les ingrédients secs.** Dans un grand bol, fouetter ensemble les flocons d'avoine, la cannelle, la poudre à pâte, le bicarbonate de soude et le sel.
-3. **Ajouter les ingrédients humides.** Incorporer la banane écrasée, le beurre d'arachide, le miel et la vanille jusqu'à ce que le mélangé soit homogène. Ajouter les pacanes et les pépites de chocolat.
+3. **Ajouter les ingrédients humides.** Incorporer la banane écrasée, le beurre d'arachide, le miel et la vanille jusqu'à ce que le mélange soit homogène. Ajouter les pacanes et les pépites de chocolat.
 4. **Former les biscuits.** Déposer environ 60 ml (1/4 tasse) de pâte par biscuit sur la plaque. Aplatir légèrement le dessus avec le dos d'une cuillère.
 5. **Cuire.** Enfourner 14 à 16 minutes jusqu'à ce que les bords soient légèrement dorés. Laisser refroidir complètement sur la plaque avant de ranger.
 

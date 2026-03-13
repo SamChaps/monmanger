@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Spicy Peanut Tofu"
 title_fr: "Tofu épicé sauce aux arachides"
 excerpt: "Tofu simmered in a creamy one-pot peanut sauce with soy, maple syrup, and sriracha."

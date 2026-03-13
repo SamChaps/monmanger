@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Traditional Coleslaw"
 title_fr: "Salade de chou traditionnelle"
 excerpt: "Classic vinaigrette coleslaw with shredded cabbage and carrots, light and tangy."

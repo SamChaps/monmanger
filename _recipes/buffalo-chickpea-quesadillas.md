@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Buffalo Chickpea Quesadillas"
 title_fr: "Quesadillas aux pois chiches Buffalo"
 excerpt: "Crispy quesadillas stuffed with spicy buffalo chickpeas and cashew cheese sauce."

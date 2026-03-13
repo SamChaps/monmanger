@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "French Onion Soup"
 title_fr: "Soupe à l'oignon gratinée"
 excerpt: "Rich caramelized onion soup topped with crusty bread and melted Gruyère."
@@ -96,7 +96,7 @@ Une soupe à l'oignon gratinée pleine de saveur, préparée avec des oignons lo
 2. **Attendrir les oignons** dans le beurre dans une grande casserole à feu moyen pendant environ 15 minutes, en remuant de temps en temps.
 3. **Augmenter le feu** à intensité élevée et poursuivre la cuisson encore 15 minutes, en brassant constamment et en raclant le fond de la casserole, jusqu'à ce que les oignons soient bien caramélisés.
 4. **Déglacer** avec le vin rouge et le cognac. Laisser réduire jusqu'à ce que le liquide soit presque évaporé.
-5. **Verser** les bouillons de poulet et de bœuf. Incorporer la farine grillée et la muscade en mélangéant bien. Porter à ébullition.
+5. **Verser** les bouillons de poulet et de bœuf. Incorporer la farine grillée et la muscade en mélangeant bien. Porter à ébullition.
 6. **Laisser mijoter** à feu moyen-vif environ 30 minutes, ou jusqu'à ce que la soupe ait réduit de moitié (environ 1,25 L / 5 tasses). Assaisonner de sel et de poivre.
 7. **Placer** la grille du four au centre et préchauffer le gril (broil). Déposer 4 bols allant au four sur une plaque de cuisson.
 8. **Frotter** légèrement chaque tranche de baguette grillée avec le côté coupé de la gousse d'ail.

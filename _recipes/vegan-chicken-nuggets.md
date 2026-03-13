@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Vegan Chicken Nuggets"
 title_fr: "Croquettes de poulet végétaliennes"
 excerpt: "Crispy double-breaded tofu nuggets marinated in savoury spices."
@@ -77,7 +77,7 @@ Crunchy on the outside, tender and flavourful on the inside. Pressed tofu is tor
 
 <div class="lang-fr-content" markdown="1">
 
-Croustillantes à l'extérieur, tendres et savoureuses à l'intérieur. Du tofu bien pressé est déchiré en bouchées, trempe dans une marinade savoureuse, puis double-trempe dans un mélangé de farine et de lait fouette végétal avant d'être roule dans une chapelure épicée. Frire à la poêle pour un maximum de croustillant, ou cuire au four pour une version plus simple.
+Croustillantes à l'extérieur, tendres et savoureuses à l'intérieur. Du tofu bien pressé est déchiré en bouchées, trempe dans une marinade savoureuse, puis double-trempe dans un mélange de farine et de lait fouette végétal avant d'être roule dans une chapelure épicée. Frire à la poêle pour un maximum de croustillant, ou cuire au four pour une version plus simple.
 
 ## Ingrédients
 
@@ -118,7 +118,7 @@ Croustillantes à l'extérieur, tendres et savoureuses à l'intérieur. Du tofu 
 
 1. **Presser et déchirer le tofu.** Couper le tofu pressé en deux dans l'épaisseur, puis déchirer en morceaux d'environ 2,5 cm (1 po).
 2. **Mariner.** Combiner tous les ingrédients de la marinade dans un bol. Ajouter le tofu et enrober délicatement. Laisser reposer au moins 15 minutes, idealement toute la nuit.
-3. **Préparer les stations.** Mélanger le lait végétal et le vinaigre pour faire le lait fouette; laisser reposer 2 minutes. Placer la farine dans un bol, le lait fouette dans un deuxieme, et le mélangé d'enrobage dans un troisieme.
+3. **Préparer les stations.** Mélanger le lait végétal et le vinaigre pour faire le lait fouette; laisser reposer 2 minutes. Placer la farine dans un bol, le lait fouette dans un deuxieme, et le mélange d'enrobage dans un troisieme.
 4. **Double trempage.** Prendre un morceau de tofu, tremper dans la farine (secouer l'excès), puis dans le lait fouette, puis de nouveau dans la farine, puis le lait fouette, et enfin rouler dans l'enrobage. Déposer sur une plaque.
 5. **Frire à la poêle (recommande).** Chauffer l'huile dans une poêle à feu moyen-élevé. Frire les croquettes environ 1 1/2 minute de chaque côté jusqu'à ce qu'elles soient dorées. Égoutter sur du papier absorbant.
 6. **Ou cuire au four.** Préchauffer le four a 200 °C (400 °F). Disposer les morceaux panes sur une plaque, vaporiser légèrement d'huile des deux côtés. Cuire 25 minutes, en retournant à mi-cuisson.

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Sticky Sesame Tofu"
 title_fr: "Tofu collant au sésame"
 excerpt: "Crispy baked tofu tossed in a savory-sweet sesame glaze with garlic and scallions."
@@ -101,7 +101,7 @@ Du tofu extra-ferme pressé, assaisonné, enrobé de fécule de maïs et cuit au
 3. **Cuire** au four a 220 C (425 F) sur une plaque tapissée pendant 15 minutes. Retourner et cuire 15 à 20 minutes de plus jusqu'à ce que le tofu soit doré et croustillant. (Friteuse a air: 200 C / 400 F pendant 18 à 20 minutes, en secouant occasionnellement.)
 4. **Fouetter** ensemble la sauce soya, le ketchup, la cassonade, le vinaigre de riz, l'huile de sésame et la fécule de mais pour la sauce.
 5. **Chauffer** l'huile végétale dans une poêle avec l'ail et le blanc de l'oignon vert à feu moyen. Quand ca gresille, faire sauter 2 à 3 minutes jusqu'à ce que ce soit odorant.
-6. **Verser** le mélangé de sauce et remuer constamment 1 à 2 minutes jusqu'à épaississement.
+6. **Verser** le mélange de sauce et remuer constamment 1 à 2 minutes jusqu'à épaississement.
 7. **Ajouter** le tofu croustillant, le vert de l'oignon et les graines de sésame. Enrober et servir immédiatement.
 
 ## Notes & conseils

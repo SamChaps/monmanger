@@ -1,4 +1,4 @@
-﻿---
+---
 title: "PB & J Energy Bites"
 title_fr: "Boules d'énergie beurre d'arachide et confiture"
 excerpt: "No-bake energy bites with peanut butter, oats, chia seeds, flax, and dried fruit."
@@ -65,8 +65,8 @@ Des bouchées d'énergie rapides et saines qui goûtent comme un sandwich beurre
 ## Instructions
 
 1. **Tout mélanger.** Dans un grand bol, combiner le beurre d'arachide, le sirop d'érable, la poudre de protéines (si utilisée), les flocons d'avoine, les graines de lin, les graines de chia et les fruits séchés. Mélanger jusqu'à consistance homogène. Si trop sec, ajouter un peu plus de beurre d'arachide ou de sirop d'érable. Si trop humide, ajouter plus de flocons d'avoine ou de graines de lin.
-2. **Réfrigérer.** Mettre le mélangé au réfrigérateur 5 minutes.
-3. **Rouler.** Prendre environ 1 1/2 c. à soupe de mélangé et rouler en boules. Donne environ 14 bouchées.
+2. **Réfrigérer.** Mettre le mélange au réfrigérateur 5 minutes.
+3. **Rouler.** Prendre environ 1 1/2 c. à soupe de mélange et rouler en boules. Donne environ 14 bouchées.
 4. **Déguster** immédiatement, ou conserver au réfrigérateur jusqu'à 1 semaine ou au congélateur jusqu'à 1 mois.
 
 ## Notes & conseils

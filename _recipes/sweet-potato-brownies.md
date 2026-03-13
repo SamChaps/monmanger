@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Sweet Potato Brownies"
 title_fr: "Brownies à la patate douce"
 excerpt: "Fudgy gluten-free brownies with sweet potato, cacao, and almond butter."

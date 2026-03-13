@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Chewy Chocolate Chip Cookies"
 title_fr: "Biscuits aux pépites de chocolat moelleux"
 excerpt: "Thick, chewy cookies loaded with chopped chocolate and a soft, gooey center."
@@ -75,9 +75,9 @@ Ces biscuits aux pépites de chocolat épais et moelleux doivent leur texture ir
 
 1. **Préchauffer le four** à 190 C (375 F). Tapisser deux ou trois plaques à biscuits de papier parchemin.
 2. **Mélanger les ingrédients secs.** Dans un bol, fouetter ensemble la farine, le bicarbonate de soude et le sel.
-3. **Préparer le mélangé humide.** Dans un grand bol, mélanger le beurre fondu avec les deux sucres à l'aide d'une cuillère en bois jusqu'à ce que le tout soit bien combiné.
+3. **Préparer le mélange humide.** Dans un grand bol, mélanger le beurre fondu avec les deux sucres à l'aide d'une cuillère en bois jusqu'à ce que le tout soit bien combiné.
 4. **Ajouter les œufs.** Incorporer l'œuf et le jaune d'œuf en remuant jusqu'à obtenir une consistance lisse.
-5. **Assembler la pâte.** Ajouter les ingrédients secs au mélangé humide et remuer jusqu'à ce que la pâte soit tout juste homogène. Incorporer le chocolat haché.
+5. **Assembler la pâte.** Ajouter les ingrédients secs au mélange humide et remuer jusqu'à ce que la pâte soit tout juste homogène. Incorporer le chocolat haché.
 6. **Réfrigérer la pâte.** Couvrir le bol et placer au réfrigérateur pendant au moins 1 heure, ou toute la nuit pour de meilleurs résultats.
 7. **Former les biscuits.** À l'aide d'une cuillère à crème glacée de 45 ml (3 c. à soupe), déposer cinq à six boules de pâte sur chaque plaque, en les espaçant uniformément.
 8. **Cuire une plaque à la fois** pendant 8 à 9 minutes, jusqu'à ce que les biscuits soient légèrement dorés. Les centres seront encore très mous.

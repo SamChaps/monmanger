@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Caramelized Shallot Magic Tofu"
 title_fr: "Tofu magique à l'échalote caramélisée"
 excerpt: "Oven-roasted magic tofu tossed in a Dijon shallot caramel sauce."
@@ -110,7 +110,7 @@ Une version chic du tofu magique de Loounie, parfaite pour un souper spécial. D
 4. **Préparer la vinaigrette.** Fouetter ensemble l'huile d'olive, le vinaigre, l'eau, la moutarde de Dijon, le sirop d'érable, les flocons de piment et le sel. Ajouter les échalotes émincées et bien mélanger.
 5. **Cuire les échalotes.** Verser le tout dans une poêle antiadhésive à feu élevé. Porter a ébullition, puis baisser à feu doux et couvrir. Laisser fremir 10 minutes.
 6. **Carameliser.** Retirer le couvercle et mélanger une fois. Monter le feu a moyen-élevé et cuire a découvert 7 à 8 minutes sans toucher, jusqu'à évaporation du liquide et caramélisation des échalotes. Baisser le feu.
-7. **Deglacer au vin blanc** (ou à l'eau) en mélangéant pour détacher les sucs. Prelever environ le tiers de la sauce et réserver.
+7. **Deglacer au vin blanc** (ou à l'eau) en mélangeant pour détacher les sucs. Prelever environ le tiers de la sauce et réserver.
 8. **Ajouter le tofu rôti** dans la poêle. Enrober délicatement de sauce. Transferer dans un plat de service, napper du reste de sauce, et garnir de persil et de flocons de piment.
 
 ## Notes & conseils

@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Sweet Potato Tacos"
 title_fr: "Tacos de patate douce à l'érable"
 excerpt: "Maple-roasted sweet potato tacos with pickled onions, avocado cream, and chipotle cashew sauce."

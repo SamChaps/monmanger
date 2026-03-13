@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Fudgy Homemade Brownies"
 title_fr: "Brownies fondants maison"
 excerpt: "Fudgy, moist brownies with crispy edges, made with olive oil and dark chocolate chips."

@@ -1,4 +1,4 @@
-﻿﻿﻿---
+---
 title: "Popo's Spaghetti Sauce"
 title_fr: "Sauce à spaghetti de Popo"
 excerpt: "A hearty, slow-simmered meat sauce loaded with spices and tomatoes."

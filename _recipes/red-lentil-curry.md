@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Red Lentil Curry"
 title_fr: "Cari aux lentilles rouges"
 excerpt: "Creamy coconut red lentil curry loaded with spices and almond butter for extra richness."

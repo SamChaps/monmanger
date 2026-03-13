@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿---
+---
 title: "Vegan Caesar Salad"
 title_fr: "Salade César végétalienne"
 excerpt: "Creamy cashew Caesar dressing with roasted chickpea croutons and nut parmesan."
@@ -78,7 +78,7 @@ A crowd-pleasing vegan Caesar built from scratch. Creamy cashew dressing coats a
 
 <div class="lang-fr-content" markdown="1">
 
-Une salade Cesar végétalienne généreuse, préparée entièrement maison. Une vinaigrette crémeuse aux noix de cajou enrobé un mélangé de chou frise lacinato et de laitue romaine, garni de croutons de pois chiches rôtis croustillants et d'un parmesan de noix et graines maison. Chaque element s'harmonise pour une salade qui convainc même les sceptiques.
+Une salade Cesar végétalienne généreuse, préparée entièrement maison. Une vinaigrette crémeuse aux noix de cajou enrobé un mélange de chou frise lacinato et de laitue romaine, garni de croutons de pois chiches rôtis croustillants et d'un parmesan de noix et graines maison. Chaque element s'harmonise pour une salade qui convainc même les sceptiques.
 
 ## Ingrédients
 
@@ -122,7 +122,7 @@ Une salade Cesar végétalienne généreuse, préparée entièrement maison. Une
 
 1. **Tremper les noix de cajou** une nuit ou plusieurs heures. Égoutter et rincer.
 2. **Rotir les croutons de pois chiches.** Préchauffer le four a 200 °C (400 °F). Eponger les pois chiches dans un linge. Enrober d'huile, de poudre d'ail, de sel et de cayenne sur une plaque. Rotir 20 minutes, puis remuer. Poursuivre la cuisson 10 à 20 minutes jusqu'à ce qu'ils soient légèrement dorés. Ils durciront en refroidissant.
-3. **Préparer la vinaigrette.** Combiner les noix de cajou égouttées et tous les ingrédients de la vinaigrette (sauf le sel) dans un mélangéur haute puissance. Mélanger jusqu'à consistance parfaitement lisse, en ajoutant un peu d'eau si nécessaire. Saler au goût.
+3. **Préparer la vinaigrette.** Combiner les noix de cajou égouttées et tous les ingrédients de la vinaigrette (sauf le sel) dans un mélangeur haute puissance. Mélanger jusqu'à consistance parfaitement lisse, en ajoutant un peu d'eau si nécessaire. Saler au goût.
 4. **Préparer le parmesan.** Hacher finement les noix de cajou et l'ail au robot culinaire. Ajouter le reste des ingrédients et pulser jusqu'à ce que le tout soit combiné. Saler au goût.
 5. **Préparer les verdures.** Effeuiller et hacher finement le chou frise; laver et essorer. Couper la romaine en morceaux; essorer. Combiner dans un grand bol.
 6. **Assembler.** Verser la vinaigrette sur les verdures et mélanger jusqu'à ce qu'elles soient bien enrobées. Assaisonner d'une pincee de sel. Garnir de croutons de pois chiches et de parmesan de noix. Servir immédiatement.

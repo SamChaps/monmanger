@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nut & Seed Granola"
 title_fr: "Granola aux noix et graines"
 excerpt: "A crunchy, cluster-filled granola loaded with nuts and seeds."
@@ -76,7 +76,7 @@ Un granola simple et généreux en noix, qui cuit en belles grappes dorées et c
 
 1. **Préchauffer** le four à 150 °C (300 °F). Tapisser une grande plaque de papier parchemin.
 2. **Mélanger** les flocons d'avoine, noix de Grenoble, amandes, graines de citrouille, graines de tournesol et pistaches dans un grand bol.
-3. **Combiner** le sirop d'érable, l'huile de coco fondue, la vanille, la cannelle et le sel dans un petit bol. Verser sur le mélangé d'avoine et remuer jusqu'à ce que tout soit bien enrobé.
+3. **Combiner** le sirop d'érable, l'huile de coco fondue, la vanille, la cannelle et le sel dans un petit bol. Verser sur le mélange d'avoine et remuer jusqu'à ce que tout soit bien enrobé.
 4. **Étaler** le granola en couche uniforme sur la plaque. Presser fermement avec une spatule pour favoriser la formation de grappes.
 5. **Cuire** 25 à 30 minutes en tournant la plaque à mi-cuisson. Ne pas remuer. Le granola est prêt quand les bords sont dorés.
 6. **Laisser refroidir** complètement sur la plaque sans le toucher. Une fois refroidi, briser en grappes.

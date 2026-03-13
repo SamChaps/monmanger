@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Vodka Sauce Pasta"
 title_fr: "Pâtes sauce vodka"
 excerpt: "Rich and creamy tomato vodka sauce tossed with rotini in under 30 minutes."

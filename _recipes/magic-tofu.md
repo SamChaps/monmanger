@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿---
+---
 title: "Magic Tofu"
 title_fr: "Tofu magique"
 excerpt: "Bite-sized tofu coated in nutritional yeast and pan-fried or baked until golden and irresistible."
