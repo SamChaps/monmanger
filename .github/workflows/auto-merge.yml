@@ -48,6 +48,10 @@ jobs:
             echo "PRs ready to merge: $ready_prs"
           fi
 
+      - name: Checkout repo
+        if: steps.find-prs.outputs.prs != ''
+        uses: actions/checkout@v4
+
       - name: Process Copilot PRs
         if: steps.find-prs.outputs.prs != ''
         env:
