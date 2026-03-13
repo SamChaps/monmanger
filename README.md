@@ -1,82 +1,62 @@
-# Mon Manger 🍴
+# 🍴 Mon Manger
 
-A bilingual cooking recipe site built with [Jekyll](https://jekyllrb.com/) and the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme, designed for GitHub Pages.
+Recipes, in English & French.
 
-## Features
+**[monmanger.com](https://monmanger.com)**
 
-- **Bilingual (EN / FR)** — every page, recipe, tag, and category has both languages, toggled instantly via an EN | FR button (CSS class–based, no page reload)
-- **Dark / light theme** — Catppuccin Latte (light) and Mocha (dark) with smooth transition, persisted in localStorage
-- **Full-text search** — custom Lunr.js with accent-insensitive matching (e.g. "crème" matches "creme"), bilingual titles and tag pills in results
-- **Categories & tags** — tile-based browse pages, sidebar navigation, per-tag and per-category archive pages with recipe counts
-- **Recipe metadata card** — prep time, cook time, total time, servings, difficulty
-- **Responsive recipe grid** — fully clickable recipe cards with teaser images, excerpts, and tag pills
-- **GitHub Actions deployment** — works with any Jekyll plugin, not limited to GitHub Pages whitelist
+---
+
+## Highlights
+
+| | |
+|---|---|
+| **Bilingual** | Every recipe, tag, and category in EN + FR. Toggled instantly, no page reload |
+| **Theming** | Catppuccin Latte / Mocha with smooth transitions, persisted in `localStorage` |
+| **Search** | Lunr.js with accent-insensitive matching. "crème" finds "creme" |
+| **Browse** | Tile-based categories & tags, sidebar nav, archive pages with counts |
+| **Recipes** | Metadata cards (prep · cook · total · servings · difficulty), clickable grid with teasers |
+| **Deploy** | GitHub Actions. Any Jekyll plugin, not limited to Pages whitelist |
+
+## Categories
+
+| 🍰 Dessert | 🥣 Soup | 🍽️ Main | 🥗 Salad | 🍞 Bread | 🥞 Breakfast | 🫙 Appetizer |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ## Project Structure
 
 ```
-monmanger/
-├── _config.yml                 # Site configuration
-├── Gemfile                     # Ruby dependencies
-├── index.md                    # Home page (recipe grid)
-├── _recipes/                   # Recipe markdown files
-│   ├── chocolate-lava-cake.md
-│   └── french-onion-soup.md
-├── _layouts/
-│   ├── recipe.html             # Recipe detail page with meta card + tags
-│   ├── category-archive.html   # Category listing page
-│   └── tag-archive.html        # Tag listing page
-├── _includes/
-│   ├── masthead.html           # Top nav with lang/theme toggles + search
-│   ├── sidebar.html            # Left sidebar with categories + tags
-│   ├── recipe-list.html        # Recipe card grid component
-│   ├── head/custom.html        # Anti-FOUC, lang/theme/search JS
-│   └── search/
-│       └── lunr-search-scripts.html
-├── _pages/
-│   ├── all-categories.md       # Category tile grid
-│   ├── tags.md                 # Tag tile grid
-│   ├── search.md               # Search page
-│   ├── categories/             # One .md per category (7 categories)
-│   └── tags/                   # One .md per tag (7 tags)
-├── _data/
-│   ├── navigation.yml          # Top nav links (bilingual)
-│   ├── categories.yml          # Category names, slugs, emoji, descriptions (bilingual)
-│   ├── tags.yml                # Tag names (bilingual)
-│   └── translations.yml        # UI label translations (EN/FR)
-├── assets/
-│   ├── css/main.scss           # All custom styles + Catppuccin theme variables
-│   └── js/lunr/
-│       ├── lunr-custom.js      # Custom search with accent normalization
-│       └── lunr-store.js       # Jekyll-generated search index
-└── .github/workflows/
-    └── deploy.yml              # GitHub Actions build + deploy pipeline
+_recipes/            → Recipe markdown files
+_layouts/            → recipe · category-archive · tag-archive
+_includes/           → masthead · sidebar · recipe-list · head/custom
+_data/               → categories · tags · navigation · translations
+_pages/categories/   → One page per category
+_pages/tags/         → One page per tag
+assets/css/main.scss → Styles + Catppuccin variables
+assets/js/lunr/      → Search logic + index
 ```
 
 ## Local Development
 
-### Prerequisites
-
-- Ruby 3.x ([RubyInstaller](https://rubyinstaller.org/) on Windows)
-- Bundler: `gem install bundler`
-
-### Setup
-
 ```bash
-cd monmanger
+# Prerequisites: Ruby 3.x + Bundler
+gem install bundler
+
+# Install & serve
 bundle install
 bundle exec jekyll serve
 ```
 
-Open [http://localhost:4000](http://localhost:4000) in your browser.  
-Jekyll watches for changes and rebuilds automatically.
+Open **http://localhost:4000**. Jekyll watches for changes and rebuilds automatically.
 
-## Deploying to GitHub Pages
+## Deploy
 
-1. Push your repository to GitHub.
-2. Go to **Settings → Pages → Source** and select **GitHub Actions**.
-3. On the next push to `main`, the Actions workflow will build and deploy automatically.
-4. Update `url` in `_config.yml` to your GitHub Pages URL, e.g. `https://yourusername.github.io`.
+Push to `main` → GitHub Actions builds and deploys.
+
+Set **Settings → Pages → Source** to **GitHub Actions** on first setup.
+
+---
+
+Built with [Jekyll](https://jekyllrb.com/) + [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
 
 ## Adding a New Recipe
 
