@@ -1,6 +1,6 @@
 ---
 title: "Stuffed Spaghetti Squash Bowls"
-title_fr: "Bols de Courge Spaghetti Farcis"
+title_fr: "Bols de courge spaghetti farcis"
 excerpt: "Roasted spaghetti squash shells filled with a savory mushroom and tomato sauce."
 excerpt_fr: "Coques de courge spaghetti roties farcies d'une sauce savoureuse aux champignons et tomates."
 date: 2025-07-26

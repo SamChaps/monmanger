@@ -1,6 +1,6 @@
 ---
 title: "Vegan Chicken Nuggets"
-title_fr: "Croquettes de poulet vegetaliennes"
+title_fr: "Croquettes de poulet végétaliennes"
 excerpt: "Crispy double-breaded tofu nuggets marinated in savoury spices."
 excerpt_fr: "Croquettes de tofu croustillantes a double panure, marinees aux epices."
 date: 2025-06-14

@@ -1,6 +1,6 @@
 ---
 title: "Cottage Cheese Cookie Dough"
-title_fr: "Pâte à Biscuit au Fromage Cottage"
+title_fr: "Pâte à biscuit au fromage cottage"
 excerpt: "Protein-packed edible cookie dough made with cottage cheese in 10 minutes."
 excerpt_fr: "Pâte à biscuit comestible riche en protéines au fromage cottage en 10 minutes."
 date: 2025-07-26

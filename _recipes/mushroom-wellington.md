@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Wellington"
-title_fr: "Wellington aux Champignons"
+title_fr: "Wellington aux champignons"
 excerpt: "A savory mushroom filling wrapped in flaky puff pastry, perfect for a plant-based centerpiece."
 excerpt_fr: "Une farce savoureuse aux champignons enveloppée de pâte feuilletée, parfaite comme pièce de résistance végétale."
 date: 2025-07-26

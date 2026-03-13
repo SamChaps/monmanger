@@ -1,6 +1,6 @@
 ---
 title: "Roasted Lemon Greek Potatoes"
-title_fr: "Pommes de Terre Grecques au Citron"
+title_fr: "Pommes de terre grecques au citron"
 excerpt: "Crispy oven-roasted potatoes in a lemon-herb broth, golden and full of flavor."
 excerpt_fr: "Pommes de terre croustillantes rôties dans un bouillon citronné aux fines herbes."
 date: 2025-07-26

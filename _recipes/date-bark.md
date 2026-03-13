@@ -1,6 +1,6 @@
 ---
 title: "Date Bark"
-title_fr: "Écorce de Dattes"
+title_fr: "Écorce de dattes"
 excerpt: "Dates, peanut butter and dark chocolate frozen into a Snickers-inspired bark."
 excerpt_fr: "Dattes, beurre d'arachide et chocolat noir congelés en une écorce façon Snickers."
 date: 2025-07-26

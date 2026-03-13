@@ -1,6 +1,6 @@
 ---
 title: "Vegan Mushroom Pasta"
-title_fr: "Pates aux champignons vegetaliennes"
+title_fr: "Pâtes aux champignons végétaliennes"
 excerpt: "Creamy 25-minute pasta with sauteed mushrooms and a lemon Dijon sauce."
 excerpt_fr: "Pates cremeuses en 25 minutes aux champignons sautes, sauce citron-Dijon."
 date: 2025-06-14

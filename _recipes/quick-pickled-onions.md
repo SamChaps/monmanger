@@ -1,6 +1,6 @@
 ---
 title: "Quick Pickled Onions"
-title_fr: "Oignons Marines Rapides"
+title_fr: "Oignons marinés rapides"
 excerpt: "Tangy, crisp pickled red onions ready in 30 minutes. The perfect condiment for tacos, burgers, and bowls."
 excerpt_fr: "Oignons rouges marines acidules et croquants prets en 30 minutes. Le condiment parfait pour tacos, burgers et bols."
 date: 2025-07-26

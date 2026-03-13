@@ -1,6 +1,6 @@
 ---
 title: "Plantain Moqueca"
-title_fr: "Moqueca de Banane Plantain"
+title_fr: "Moqueca de banane plantain"
 excerpt: "A traditional Brazilian stew with ripe plantains, peppers, tomatoes, coconut milk, and dende oil."
 excerpt_fr: "Un ragoût brésilien traditionnel avec bananes plantain mûres, poivrons, tomates, lait de coco et huile de dendê."
 date: 2025-07-26

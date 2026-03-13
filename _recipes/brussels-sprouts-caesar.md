@@ -1,6 +1,6 @@
 ---
 title: "Warm Brussels Sprouts Caesar Salad"
-title_fr: "Salade César Tiède aux Choux de Bruxelles"
+title_fr: "Salade César tiède aux choux de Bruxelles"
 excerpt: "Roasted Brussels sprouts with creamy Caesar dressing and toasted breadcrumbs."
 excerpt_fr: "Choux de Bruxelles rôtis avec vinaigrette César crémeuse et chapelure grillée."
 date: 2025-07-26

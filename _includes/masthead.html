@@ -21,35 +21,35 @@
           </li>
           {%- endfor -%}
         </ul>
-
-        <div class="masthead-actions">
-          <!-- Language toggle EN | FR -->
-          <button class="lang-toggle" id="lang-toggle" aria-label="Switch language / Changer la langue">
-            <span class="toggle-label toggle-label--en is-active">EN</span>
-            <span class="toggle-sep"> | </span>
-            <span class="toggle-label toggle-label--fr">FR</span>
-          </button>
-
-          <!-- Dark / Light theme toggle -->
-          <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark/light theme">
-            <span class="theme-icon theme-icon--light">☀️</span>
-            <span class="theme-icon theme-icon--dark" style="display:none;">🌙</span>
-          </button>
-
-          {% if site.search == true %}
-          <button class="search__toggle" type="button">
-            <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
-            <i class="fas fa-search"></i>
-          </button>
-          {% endif %}
-        </div>
-
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
         </button>
         <ul class="hidden-links hidden"></ul>
       </nav>
+
+      <div class="masthead-actions">
+        <!-- Language toggle EN | FR -->
+        <button class="lang-toggle" id="lang-toggle" aria-label="Switch language / Changer la langue">
+          <span class="toggle-label toggle-label--en is-active">EN</span>
+          <span class="toggle-sep"> | </span>
+          <span class="toggle-label toggle-label--fr">FR</span>
+        </button>
+
+        <!-- Dark / Light theme toggle -->
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark/light theme">
+          <span class="theme-icon theme-icon--light">☀️</span>
+          <span class="theme-icon theme-icon--dark" style="display:none;">🌙</span>
+        </button>
+
+        {% if site.search == true %}
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
+          <i class="fas fa-search"></i>
+        </button>
+        {% endif %}
+      </div>
     </div>
   </div>
 </div>
+

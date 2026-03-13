@@ -1,6 +1,6 @@
 ---
 title: "Spicy Asian Cucumber Salad"
-title_fr: "Salade Épicée de Concombres à l'Asiatique"
+title_fr: "Salade épicée de concombres à l'asiatique"
 excerpt: "Cool, crispy cucumbers in a garlicky chili-sesame dressing."
 excerpt_fr: "Concombres frais et croquants dans une vinaigrette à l'ail, chili et sésame."
 date: 2025-07-26

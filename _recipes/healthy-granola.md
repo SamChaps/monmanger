@@ -1,6 +1,6 @@
 ---
 title: "Healthy Granola"
-title_fr: "Granola Santé"
+title_fr: "Granola santé"
 excerpt: "A classic, versatile granola with big clusters, sweetened with maple syrup and finished with dried fruit."
 excerpt_fr: "Un granola classique et polyvalent avec de belles grappes, sucré à l'érable et garni de fruits séchés."
 date: 2025-07-26

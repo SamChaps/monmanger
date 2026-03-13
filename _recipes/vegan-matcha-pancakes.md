@@ -1,6 +1,6 @@
 ---
 title: "Vegan Matcha Pancakes"
-title_fr: "Crepes matcha vegetaliennes"
+title_fr: "Crêpes matcha végétaliennes"
 excerpt: "Fluffy green tea pancakes made with flax egg and plant milk."
 excerpt_fr: "Crepes moelleuses au the vert matcha avec oeuf de lin et lait vegetal."
 date: 2025-06-14

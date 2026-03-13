@@ -1,6 +1,6 @@
 ---
 title: "Maple Rutabaga and Carrot Soup"
-title_fr: "Crème de Rutabaga et Carottes à l'Érable"
+title_fr: "Crème de rutabaga et carottes à l'érable"
 excerpt: "Silky root vegetable soup with a touch of maple sweetness."
 excerpt_fr: "Potage soyeux de légumes-racines avec une touche de sirop d'érable."
 date: 2025-07-26

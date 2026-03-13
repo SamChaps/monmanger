@@ -1,6 +1,6 @@
 ---
 title: "Traditional Coleslaw"
-title_fr: "Salade de Chou Traditionnelle"
+title_fr: "Salade de chou traditionnelle"
 excerpt: "Classic vinaigrette coleslaw with shredded cabbage and carrots, light and tangy."
 excerpt_fr: "Salade de chou classique en vinaigrette avec carottes rapees, legere et acidulee."
 date: 2025-07-26

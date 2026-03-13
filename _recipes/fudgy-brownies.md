@@ -1,6 +1,6 @@
 ---
 title: "Fudgy Homemade Brownies"
-title_fr: "Brownies Fondants Maison"
+title_fr: "Brownies fondants maison"
 excerpt: "Fudgy, moist brownies with crispy edges, made with olive oil and dark chocolate chips."
 excerpt_fr: "Brownies fondants et humides aux bords croustillants, prepares a l'huile d'olive et pepites de chocolat noir."
 date: 2025-07-26

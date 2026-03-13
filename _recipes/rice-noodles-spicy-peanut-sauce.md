@@ -1,6 +1,6 @@
 ---
 title: "Rice Noodles with Spicy Peanut Sauce"
-title_fr: "Nouilles de Riz a la Sauce Piquante aux Arachides"
+title_fr: "Nouilles de riz à la sauce piquante aux arachides"
 excerpt: "Rice noodles tossed with sauteed vegetables and a creamy, spicy peanut sauce."
 excerpt_fr: "Nouilles de riz melangees avec des legumes sautes et une sauce cremeuse et piquante aux arachides."
 date: 2025-07-26

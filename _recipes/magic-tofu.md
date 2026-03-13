@@ -1,6 +1,6 @@
 ---
 title: "Magic Tofu"
-title_fr: "Tofu Magique"
+title_fr: "Tofu magique"
 excerpt: "Bite-sized tofu coated in nutritional yeast and pan-fried or baked until golden and irresistible."
 excerpt_fr: "Bouchees de tofu enrobees de levure alimentaire, poelees ou cuites au four jusqu'a etre dorees et irresistibles."
 date: 2025-07-26

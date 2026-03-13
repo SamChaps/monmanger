@@ -1,6 +1,6 @@
 ---
 title: "Pao de Queijo"
-title_fr: "Pao de Queijo"
+title_fr: "Pao de queijo"
 excerpt: "Brazilian cheese bread balls made with tapioca flour, parmesan, cheddar, and eggs."
 excerpt_fr: "Boulettes de pain au fromage brésilien à base de farine de tapioca, parmesan, cheddar et oeufs."
 date: 2025-07-26

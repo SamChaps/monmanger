@@ -1,6 +1,6 @@
 ---
 title: "PB & J Energy Bites"
-title_fr: "Boules d'Énergie Beurre d'Arachide et Confiture"
+title_fr: "Boules d'énergie beurre d'arachide et confiture"
 excerpt: "No-bake energy bites with peanut butter, oats, chia seeds, flax, and dried fruit."
 excerpt_fr: "Bouchées d'énergie sans cuisson au beurre d'arachide, avoine, graines de chia, lin et fruits séchés."
 date: 2025-07-26

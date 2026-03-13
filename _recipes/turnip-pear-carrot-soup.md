@@ -1,6 +1,6 @@
 ---
 title: "Turnip, Pear & Carrot Soup"
-title_fr: "Potage de Navet, Poires et Carottes"
+title_fr: "Potage de navet, poires et carottes"
 excerpt: "Creamy coconut soup with turnip, sweet pears, and carrots for a beautifully balanced bowl."
 excerpt_fr: "Potage crémeux au lait de coco avec navet, poires sucrées et carottes pour un bol parfaitement équilibré."
 date: 2025-07-26

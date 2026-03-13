@@ -1,6 +1,6 @@
 ---
 title: "Moo-Less Chocolate Pie"
-title_fr: "Tarte au Chocolat Sans Produits Laitiers"
+title_fr: "Tarte au chocolat sans produits laitiers"
 excerpt: "A silky, fudgy chocolate pie made with silken tofu, chocolate chips, and coffee liqueur."
 excerpt_fr: "Une tarte au chocolat soyeuse et fondante à base de tofu soyeux, pépites de chocolat et liqueur de café."
 date: 2025-07-26

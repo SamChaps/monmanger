@@ -1,6 +1,6 @@
 ---
 title: "Vegan Egg Salad"
-title_fr: "Salade aux Oeufs Vegane"
+title_fr: "Salade aux œufs végane"
 excerpt: "Creamy tofu egg salad with vegan mayo, Dijon mustard, dill, and black salt for an eggy flavor."
 excerpt_fr: "Salade aux oeufs vegane cremeuse au tofu, mayo vegetale, moutarde de Dijon, aneth et sel noir pour un gout d'oeuf."
 date: 2025-07-26

@@ -1,6 +1,6 @@
 ---
 title: "Vegetarian Chili"
-title_fr: "Chili vegetarien"
+title_fr: "Chili végétarien"
 excerpt: "Smoky bean chili with fire-roasted tomatoes, chipotles, and corn."
 excerpt_fr: "Chili de haricots fume aux tomates grillees, chipotles et mais."
 date: 2025-06-14

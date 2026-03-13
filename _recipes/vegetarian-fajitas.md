@@ -1,6 +1,6 @@
 ---
 title: "Vegetarian Fajitas"
-title_fr: "Fajitas vegetariennes"
+title_fr: "Fajitas végétariennes"
 excerpt: "Roasted pepper and onion fajitas with garlicky black beans and guacamole."
 excerpt_fr: "Fajitas aux poivrons et oignons rotis avec haricots noirs a l'ail et guacamole."
 date: 2025-06-14

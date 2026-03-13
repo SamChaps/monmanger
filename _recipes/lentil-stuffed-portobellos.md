@@ -1,6 +1,6 @@
 ---
 title: "Lentil-Stuffed Portobellos with Crunchy Gremolata"
-title_fr: "Portobellos Farcis aux Lentilles et Gremolata Croquante"
+title_fr: "Portobellos farcis aux lentilles et gremolata croquante"
 excerpt: "Portobello mushrooms filled with tahini-glazed lentils and topped with a herby bread gremolata."
 excerpt_fr: "Champignons portobellos garnis de lentilles glacees au tahini et couverts d'une gremolata aux herbes et croûtons."
 date: 2025-07-26

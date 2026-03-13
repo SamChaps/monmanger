@@ -1,6 +1,6 @@
 ---
 title: "Stir-Fried Spicy Garlic Udon"
-title_fr: "Udon Saute Piquant a l'Ail"
+title_fr: "Udon sauté piquant à l'ail"
 excerpt: "Chewy udon noodles stir-fried with crumbled tofu, mushrooms, and a spicy sesame garlic sauce."
 excerpt_fr: "Nouilles udon moelleuses sautees avec du tofu emiette, des champignons et une sauce piquante au sesame et a l'ail."
 date: 2025-07-26

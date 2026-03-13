@@ -1,6 +1,6 @@
 ---
 title: "Ultra-Moist Banana Bread"
-title_fr: "Pain aux Bananes Ultra Moelleux"
+title_fr: "Pain aux bananes ultra moelleux"
 excerpt: "An exceptionally moist banana bread made with coconut milk and lime for a tender crumb."
 excerpt_fr: "Un pain aux bananes exceptionnellement moelleux grâce au lait de coco et au jus de lime."
 date: 2025-07-26

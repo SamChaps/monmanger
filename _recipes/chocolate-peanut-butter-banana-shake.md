@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Peanut Butter Banana Shake"
-title_fr: "Frappé Chocolat, Beurre d'Arachide et Banane"
+title_fr: "Frappé chocolat, beurre d'arachide et banane"
 excerpt: "Thick, creamy vegan shake with rich chocolate and peanut butter flavour."
 excerpt_fr: "Frappé végétalien épais et crémeux au chocolat et beurre d'arachide."
 date: 2025-07-26

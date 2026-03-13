@@ -1,6 +1,6 @@
 ---
 title: "Homemade Enchilada Sauce"
-title_fr: "Sauce Enchilada Maison"
+title_fr: "Sauce enchilada maison"
 excerpt: "A quick, smoky red enchilada sauce ready in 10 minutes."
 excerpt_fr: "Sauce enchilada rouge fumée et rapide, prête en 10 minutes."
 date: 2025-07-26

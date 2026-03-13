@@ -1,6 +1,6 @@
 ---
 title: "Peanut Butter Banana Muffins"
-title_fr: "Muffins Banane et Beurre d'Arachide"
+title_fr: "Muffins banane et beurre d'arachide"
 excerpt: "Moist, protein-packed muffins with peanut butter, banana, oat flour, and chocolate chips."
 excerpt_fr: "Muffins moelleux et protéinés au beurre d'arachide, banane, farine d'avoine et pépites de chocolat."
 date: 2025-07-26

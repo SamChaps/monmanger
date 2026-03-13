@@ -1,6 +1,6 @@
 ---
 title: "Vegan Mushroom Stroganoff"
-title_fr: "Stroganoff Vegane aux Champignons"
+title_fr: "Stroganoff végane aux champignons"
 excerpt: "Creamy dairy-free stroganoff with mushrooms, cashew cream, and coconut milk."
 excerpt_fr: "Stroganoff cremeux sans produits laitiers aux champignons, creme de cajou et lait de coco."
 date: 2025-07-26

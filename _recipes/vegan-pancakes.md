@@ -1,6 +1,6 @@
 ---
 title: "Fluffy Vegan Pancakes"
-title_fr: "Crepes moelleuses vegetaliennes"
+title_fr: "Crêpes moelleuses végétaliennes"
 excerpt: "Light and fluffy classic pancakes made with just a handful of pantry staples."
 excerpt_fr: "Crepes legeres et moelleuses avec quelques ingredients de base du garde-manger."
 date: 2025-06-14

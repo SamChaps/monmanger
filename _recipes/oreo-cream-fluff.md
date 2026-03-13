@@ -1,6 +1,6 @@
 ---
 title: "Oreo Cream Fluff"
-title_fr: "Fluff Crémeux aux Oreo"
+title_fr: "Fluff crémeux aux Oreo"
 excerpt: "A light, chilled dessert with whipped cream, Greek yogurt, and crushed Oreo cookies."
 excerpt_fr: "Un dessert léger et glacé avec crème fouettée, yogourt grec et biscuits Oreo émiettés."
 date: 2025-07-26

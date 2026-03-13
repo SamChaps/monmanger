@@ -1,6 +1,6 @@
 ---
 title: "Eggplant Fatteh"
-title_fr: "Fatteh à l'Aubergine"
+title_fr: "Fatteh à l'aubergine"
 excerpt: "Layered Middle Eastern dish with roasted eggplant, crispy pita, and tahini yogurt."
 excerpt_fr: "Plat moyen-oriental en couches avec aubergine rôtie, pita croustillant et yogourt-tahini."
 date: 2025-07-26

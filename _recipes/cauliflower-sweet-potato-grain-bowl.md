@@ -1,6 +1,6 @@
 ---
 title: "Roasted Cauliflower & Sweet Potato Grain Bowl"
-title_fr: "Bol de Grains au Chou-Fleur et Patate Douce Rôtis"
+title_fr: "Bol de grains au chou-fleur et patate douce rôtis"
 excerpt: "A nourishing grain bowl with roasted veggies, kale, quinoa, and apple cider hummus dressing."
 excerpt_fr: "Un bol nourrissant avec légumes rôtis, chou frisé, quinoa et vinaigrette au cidre de pomme."
 date: 2025-07-26

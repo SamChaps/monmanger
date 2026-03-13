@@ -1,6 +1,6 @@
 ---
 title: "Vegan Banana Bread"
-title_fr: "Pain aux Bananes Végétalien"
+title_fr: "Pain aux bananes végétalien"
 excerpt: "A simple, egg-free and dairy-free banana bread with a soft, dense crumb."
 excerpt_fr: "Un pain aux bananes simple, sans oeufs ni produits laitiers, avec une mie tendre et dense."
 date: 2025-07-26

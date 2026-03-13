@@ -1,6 +1,6 @@
 ---
 title: "Best Hummus"
-title_fr: "Le Meilleur Houmous"
+title_fr: "Le meilleur houmous"
 excerpt: "Ultra-creamy homemade hummus with boiled chickpeas, tahini, lemon, and garlic."
 excerpt_fr: "Un houmous maison ultra crémeux avec pois chiches bouillis, tahini, citron et ail."
 date: 2025-07-26

@@ -1,6 +1,6 @@
 ---
 title: "Roasted Cauliflower Soup"
-title_fr: "Soupe de chou-fleur roti"
+title_fr: "Soupe de chou-fleur rôti"
 excerpt: "Velvety roasted cauliflower and potato soup with rosemary and lemon."
 excerpt_fr: "Soupe veloutee de chou-fleur et pommes de terre rotis au romarin et citron."
 date: 2025-06-14

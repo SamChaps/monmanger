@@ -1,6 +1,6 @@
 ---
 title: "Peanut Butter Marshmallow Fudge"
-title_fr: "Fudge au Beurre d'Arachide et Guimauves"
+title_fr: "Fudge au beurre d'arachide et guimauves"
 excerpt: "A three-ingredient fudge with melted chocolate, peanut butter, and marshmallows."
 excerpt_fr: "Un fudge à trois ingrédients avec chocolat fondu, beurre d'arachide et guimauves."
 date: 2025-07-26

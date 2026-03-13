@@ -1,6 +1,6 @@
 ---
 title: "Seitan Shawarma Bowl"
-title_fr: "Bol de Seitan Shawarma"
+title_fr: "Bol de seitan shawarma"
 excerpt: "Spiced seitan over basmati rice with kale and garlic dressing."
 excerpt_fr: "Seitan épicé sur riz basmati avec chou kale et vinaigrette à l'ail."
 date: 2025-07-26

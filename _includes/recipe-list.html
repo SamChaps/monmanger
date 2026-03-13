@@ -32,6 +32,9 @@
           {% if recipe.difficulty_fr %}<span class="lang-fr-content">{{ recipe.difficulty_fr }}</span>{% endif %}
         </span>
         {% endif %}
+        {% if recipe.source and recipe.source != "Original" %}
+        <span class="recipe-card__source"><i class="fas fa-bookmark" aria-hidden="true"></i> {{ recipe.source }}</span>
+        {% endif %}
       </div>
       {% if recipe.tags %}
       <div class="recipe-card__tags">

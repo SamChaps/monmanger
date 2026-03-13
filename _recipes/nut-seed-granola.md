@@ -1,6 +1,6 @@
 ---
 title: "Nut & Seed Granola"
-title_fr: "Granola aux Noix et Graines"
+title_fr: "Granola aux noix et graines"
 excerpt: "A crunchy, cluster-filled granola loaded with nuts and seeds."
 excerpt_fr: "Un granola croustillant et plein de grappes, garni de noix et graines."
 date: 2025-07-26

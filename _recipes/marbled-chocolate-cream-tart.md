@@ -1,6 +1,6 @@
 ---
 title: "Marbled Chocolate Cream Tart"
-title_fr: "Tarte au Chocolat Marbree"
+title_fr: "Tarte au chocolat marbrée"
 excerpt: "A no-bake chocolate cream tart with a swirled whipped cream top in a pre-made pie crust."
 excerpt_fr: "Tarte a la creme au chocolat sans cuisson avec un dessus de creme fouettee marbree dans une croute a tarte."
 date: 2025-07-26

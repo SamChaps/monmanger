@@ -1,6 +1,6 @@
 ---
 title: "Sticky Sesame Tofu"
-title_fr: "Tofu Collant au Sesame"
+title_fr: "Tofu collant au sésame"
 excerpt: "Crispy baked tofu tossed in a savory-sweet sesame glaze with garlic and scallions."
 excerpt_fr: "Tofu croustillant cuit au four enrobe d'un glacage sale-sucre au sesame, ail et oignons verts."
 date: 2025-07-26

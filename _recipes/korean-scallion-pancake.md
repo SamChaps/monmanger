@@ -1,6 +1,6 @@
 ---
 title: "Korean Scallion Pancake (Pajeon)"
-title_fr: "Crêpe Coréenne aux Oignons Verts (Pajeon)"
+title_fr: "Crêpe coréenne aux oignons verts (pajeon)"
 excerpt: "A crispy, savory pancake loaded with green onions and served with a soy-sesame dipping sauce."
 excerpt_fr: "Une crêpe croustillante et savoureuse garnie d'oignons verts, servie avec une sauce soya-sésame."
 date: 2025-07-26

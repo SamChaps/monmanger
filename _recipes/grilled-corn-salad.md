@@ -1,6 +1,6 @@
 ---
 title: "Grilled Corn Salad"
-title_fr: "Salade de Maïs Grillé"
+title_fr: "Salade de maïs grillé"
 excerpt: "A smoky, fresh summer salad with charred corn, blistered tomatoes, pinto beans, and avocado."
 excerpt_fr: "Une salade estivale avec maïs grillé, tomates boursouflées, haricots pinto et avocat."
 date: 2025-07-26

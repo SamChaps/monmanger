@@ -1,6 +1,6 @@
 ---
 title: "Banana Breakfast Cookies"
-title_fr: "Biscuits-Déjeuner aux Bananes"
+title_fr: "Biscuits-déjeuner aux bananes"
 excerpt: "Wholesome, naturally sweetened cookies perfect for mornings on the go."
 excerpt_fr: "Biscuits sains et naturellement sucrés, parfaits pour les matins pressés."
 date: 2025-07-26

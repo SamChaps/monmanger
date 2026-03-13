@@ -1,6 +1,6 @@
 ---
 title: "Sesame Tofu Dumplings"
-title_fr: "Dumplings au Tofu et Sesame"
+title_fr: "Dumplings au tofu et sésame"
 excerpt: "Crispy dumplings filled with savory sesame tofu and green onions, steamed or pan-fried."
 excerpt_fr: "Dumplings croustillants garnis de tofu au sesame et oignons verts, a la vapeur ou poeles."
 date: 2025-07-26

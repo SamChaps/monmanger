@@ -17,6 +17,7 @@ var idx = lunr(function () {
   this.field('excerpt')
   this.field('categories', { boost: 5 })
   this.field('tags', { boost: 5 })
+  this.field('source', { boost: 5 })
   this.ref('id')
 
   // Use accent normalizer in both indexing and search pipelines
@@ -34,6 +35,7 @@ var idx = lunr(function () {
       excerpt: store[item].excerpt,
       categories: store[item].categories,
       tags: store[item].tags,
+      source: store[item].source || '',
       id: item
     })
   }
@@ -71,36 +73,49 @@ $(document).ready(function() {
       ? (result.length + ' résultat' + (result.length !== 1 ? 's' : '') + ' trouvé' + (result.length !== 1 ? 's' : ''))
       : (result.length + ' Result' + (result.length !== 1 ? 's' : '') + ' found');
     resultdiv.prepend('<p class="results__found">' + countLabel + '</p>');
+    resultdiv.append('<div class="recipe-grid recipe-grid--search">');
+    var grid = resultdiv.find('.recipe-grid--search');
     for (var item in result) {
       var ref = result[item].ref;
-      var title = store[ref].title;
-      var rawExcerpt = (fr && store[ref].excerpt_fr) ? store[ref].excerpt_fr : store[ref].excerpt;
+      var s = store[ref];
+      var title = fr && s.title_fr ? s.title_fr : s.title;
+      var rawExcerpt = (fr && s.excerpt_fr) ? s.excerpt_fr : s.excerpt;
       var excerpt = rawExcerpt.split(" ").splice(0, 20).join(" ") + '...';
-      var teaser = store[ref].teaser;
+      var teaser = s.teaser;
+      var source = s.source && s.source !== 'Original' ? s.source : '';
+      var prepTime = s.prep_time || '';
+      var difficulty = fr && s.difficulty_fr ? s.difficulty_fr : (s.difficulty || '');
+
       var tagsHtml = '';
-      var tags = store[ref].tags;
-      var tagsFr = store[ref].tags_fr;
+      var tags = s.tags;
+      var tagsFr = s.tags_fr;
       if (tags && tags.length) {
-        tagsHtml = '<div class="search-result__tags">';
-        for (var t = 0; t < tags.length; t++) {
+        tagsHtml = '<div class="recipe-card__tags">';
+        var limit = Math.min(tags.length, 4);
+        for (var t = 0; t < limit; t++) {
           var slug = tags[t].toLowerCase().replace(/\s+/g, '-');
           var tagLabel = fr && tagsFr && tagsFr[t] ? tagsFr[t] : tags[t];
           tagsHtml += '<a href="/tags/' + slug + '/" class="recipe-tag recipe-tag--link">' + tagLabel + '</a>';
         }
         tagsHtml += '</div>';
       }
+
+      var metaParts = '';
+      if (prepTime) metaParts += '<span><i class="fas fa-clock"></i> ' + prepTime + '</span>';
+      if (difficulty) metaParts += '<span><i class="fas fa-signal"></i> ' + difficulty + '</span>';
+      if (source) metaParts += '<span class="recipe-card__source"><i class="fas fa-bookmark"></i> ' + source + '</span>';
+
       var searchitem =
-        '<div class="list__item">' +
-          '<article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">' +
-            '<h2 class="archive__item-title" itemprop="headline">' +
-              '<a href="' + store[ref].url + '" rel="permalink">' + title + '</a>' +
-            '</h2>' +
-            (teaser ? '<div class="archive__item-teaser"><img src="' + teaser + '" alt=""></div>' : '') +
-            '<p class="archive__item-excerpt" itemprop="description">' + excerpt + '</p>' +
+        '<article class="recipe-card" onclick="window.location=\'' + s.url + '\'" style="cursor:pointer;">' +
+          (teaser ? '<div class="recipe-card__image-link"><img src="' + teaser + '" alt="" class="recipe-card__image" loading="lazy"></div>' : '') +
+          '<div class="recipe-card__body">' +
+            '<h2 class="recipe-card__title"><a href="' + s.url + '">' + title + '</a></h2>' +
+            '<p class="recipe-card__excerpt">' + excerpt + '</p>' +
+            (metaParts ? '<div class="recipe-card__meta">' + metaParts + '</div>' : '') +
             tagsHtml +
-          '</article>' +
-        '</div>';
-      resultdiv.append(searchitem);
+          '</div>' +
+        '</article>';
+      grid.append(searchitem);
     }
   });
 });

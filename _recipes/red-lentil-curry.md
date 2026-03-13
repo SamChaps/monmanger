@@ -1,6 +1,6 @@
 ---
 title: "Red Lentil Curry"
-title_fr: "Cari aux Lentilles Rouges"
+title_fr: "Cari aux lentilles rouges"
 excerpt: "Creamy coconut red lentil curry loaded with spices and almond butter for extra richness."
 excerpt_fr: "Cari crémeux aux lentilles rouges et lait de coco, bien épicé et enrichi de beurre d'amande."
 date: 2025-07-26

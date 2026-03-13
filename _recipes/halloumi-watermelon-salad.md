@@ -1,6 +1,6 @@
 ---
 title: "Halloumi Watermelon Cucumber Salad"
-title_fr: "Salade de Fromage Halloumi, Concombres et Melon d'Eau"
+title_fr: "Salade de fromage halloumi, concombres et melon d'eau"
 excerpt: "Grilled halloumi with watermelon, cucumber, fresh mint, and a za'atar lime dressing."
 excerpt_fr: "Halloumi grille avec melon d'eau, concombre, menthe fraiche et vinaigrette au za'atar et lime."
 date: 2025-07-26

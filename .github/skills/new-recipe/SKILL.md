@@ -80,7 +80,9 @@ Paragraphe d'introduction sur le plat.
 ## Rules
 
 ### Front Matter
-- **title / title_fr**: Both required. Proper case, in quotes.
+- **title / title_fr**: Both required, in quotes.
+  - **English title**: Normal title case (capitalize major words).
+  - **French title_fr**: Sentence case only. Capitalize only the first word; all other words lowercase except proper nouns (brand names like "Oreo", "Beyond Meat"; place names like "Bruxelles", "César"). Example: `"Tacos de patate douce à l'érable"`, not `"Tacos de Patate Douce à l'Érable"`.
 - **excerpt / excerpt_fr**: Short, enticing, max ~15 words each.
 - **date**: Use today's date in `YYYY-MM-DD` format.
 - **categories**: Exactly one from: `Dessert`, `Soup`, `Main`, `Salad`, `Bread`, `Breakfast`, `Appetizer`.

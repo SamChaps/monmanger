@@ -1,6 +1,6 @@
 ---
 title: "Orange Glazed Tempeh"
-title_fr: "Tempeh Glace a l'Orange"
+title_fr: "Tempeh glacé à l'orange"
 excerpt: "Cubed tempeh pan-fried and glazed with orange marmalade, ginger, and a touch of sriracha."
 excerpt_fr: "Cubes de tempeh poeles et glaces a la marmelade d'orange, gingembre et une touche de sriracha."
 date: 2025-07-26

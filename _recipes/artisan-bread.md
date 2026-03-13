@@ -1,6 +1,6 @@
 ---
 title: "Artisan Bread"
-title_fr: "Pain Artisanal"
+title_fr: "Pain artisanal"
 excerpt: "Crusty, chewy homemade bread with just four simple ingredients."
 excerpt_fr: "Pain maison croustillant et moelleux avec seulement quatre ingrédients."
 date: 2026-03-12

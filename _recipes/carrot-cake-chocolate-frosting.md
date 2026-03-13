@@ -1,6 +1,6 @@
 ---
 title: "Carrot Cake with Chocolate Frosting"
-title_fr: "Gâteau aux Carottes avec Glaçage au Chocolat"
+title_fr: "Gâteau aux carottes avec glaçage au chocolat"
 excerpt: "A moist, spiced carrot cake topped with glossy chocolate ganache."
 excerpt_fr: "Gâteau aux carottes moelleux et épicé nappé d'une ganache au chocolat brillante."
 date: 2025-07-26

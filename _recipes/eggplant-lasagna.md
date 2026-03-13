@@ -1,6 +1,6 @@
 ---
 title: "Eggplant Lasagna"
-title_fr: "Lasagne à l'Aubergine"
+title_fr: "Lasagne à l'aubergine"
 excerpt: "Noodle-free lasagna with roasted eggplant, ricotta, spinach, and herbs."
 excerpt_fr: "Lasagne sans pâtes avec aubergine rôtie, ricotta, épinards et fines herbes."
 date: 2025-07-26

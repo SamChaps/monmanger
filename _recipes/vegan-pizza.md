@@ -1,6 +1,6 @@
 ---
 title: "Vegan Pizza"
-title_fr: "Pizza Végétalienne"
+title_fr: "Pizza végétalienne"
 excerpt: "A colourful veggie-loaded pizza topped with cashew cream and fresh herbs."
 excerpt_fr: "Pizza colorée garnie de légumes, crème de cajou et fines herbes."
 date: 2025-07-26

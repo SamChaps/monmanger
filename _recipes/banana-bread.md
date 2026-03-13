@@ -1,6 +1,6 @@
 ---
 title: "Banana Bread"
-title_fr: "Pain aux Bananes"
+title_fr: "Pain aux bananes"
 excerpt: "A soft, moist classic banana bread that comes together in minutes."
 excerpt_fr: "Un pain aux bananes moelleux et classique qui se prépare en quelques minutes."
 date: 2026-03-12

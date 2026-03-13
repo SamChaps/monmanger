@@ -1,6 +1,6 @@
 ---
 title: "Crispy Air Fryer Chickpeas"
-title_fr: "Pois Chiches Croustillants à la Friteuse à Air"
+title_fr: "Pois chiches croustillants à la friteuse à air"
 excerpt: "Irresistibly crunchy spiced chickpeas ready in just 20 minutes."
 excerpt_fr: "Pois chiches épicés irrésistiblement croustillants en seulement 20 minutes."
 date: 2025-07-26

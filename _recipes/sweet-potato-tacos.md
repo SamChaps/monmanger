@@ -1,6 +1,6 @@
 ---
 title: "Sweet Potato Tacos"
-title_fr: "Tacos de Patate Douce a l'Erable"
+title_fr: "Tacos de patate douce à l'érable"
 excerpt: "Maple-roasted sweet potato tacos with pickled onions, avocado cream, and chipotle cashew sauce."
 excerpt_fr: "Tacos de patates douces roties a l'erable avec oignons marines, creme a l'avocat et sauce chipotle aux noix de cajou."
 date: 2025-07-26

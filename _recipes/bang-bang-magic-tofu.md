@@ -1,6 +1,6 @@
 ---
 title: "Bang Bang Magic Tofu"
-title_fr: "Tofu Magique Bang Bang"
+title_fr: "Tofu magique bang bang"
 excerpt: "Crispy panko-coated tofu bites with spicy sambal mayo dipping sauce."
 excerpt_fr: "Bouchées de tofu croustillantes au panko avec sauce mayo épicée au sambal."
 date: 2025-06-14

@@ -1,6 +1,6 @@
 ---
 title: "Cashew Cream"
-title_fr: "Crème de Cajou"
+title_fr: "Crème de cajou"
 excerpt: "A versatile vegan cream made from blended cashews in 5 minutes."
 excerpt_fr: "Crème végétalienne polyvalente à base de cajous mixés en 5 minutes."
 date: 2025-07-26

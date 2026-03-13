@@ -1,6 +1,6 @@
 ---
 title: "Vegan Lasagna"
-title_fr: "Lasagne vegetalienne"
+title_fr: "Lasagne végétalienne"
 excerpt: "Hearty lasagna with macadamia ricotta and tempeh marinara sauce."
 excerpt_fr: "Lasagne copieuse avec ricotta de macadamia et sauce marinara au tempeh."
 date: 2025-06-14

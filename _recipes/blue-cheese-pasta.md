@@ -1,6 +1,6 @@
 ---
 title: "Blue Cheese Pasta"
-title_fr: "Pâtes au Fromage Bleu"
+title_fr: "Pâtes au fromage bleu"
 excerpt: "Silky blue cheese sauce tossed with capellini in under 20 minutes."
 excerpt_fr: "Sauce onctueuse au fromage bleu avec des capellinis en moins de 20 minutes."
 date: 2025-07-26

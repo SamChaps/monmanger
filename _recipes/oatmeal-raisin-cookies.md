@@ -1,6 +1,6 @@
 ---
 title: "Thick Chewy Oatmeal Raisin Cookies"
-title_fr: "Biscuits a l'Avoine et aux Raisins Moelleux"
+title_fr: "Biscuits à l'avoine et aux raisins moelleux"
 excerpt: "Thick, chewy oatmeal cookies studded with raisins and warmly spiced with cinnamon."
 excerpt_fr: "Biscuits a l'avoine epais et moelleux garnis de raisins secs et delicatement epices a la cannelle."
 date: 2025-07-26

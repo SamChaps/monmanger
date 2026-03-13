@@ -1,6 +1,6 @@
 ---
 title: "Vegan Garlic Alfredo"
-title_fr: "Alfredo a l'ail vegetalien"
+title_fr: "Alfredo à l'ail végétalien"
 excerpt: "Creamy oil-free cashew alfredo sauce loaded with caramelized onion and garlic."
 excerpt_fr: "Sauce alfredo cremeuse sans huile aux noix de cajou, oignon caramelise et ail."
 date: 2025-06-14

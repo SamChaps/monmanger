@@ -1,6 +1,6 @@
 ---
 title: "Butternut Squash Curry & Ginger Soup"
-title_fr: "Potage de Courge Musquee, Cari et Gingembre Frais"
+title_fr: "Potage de courge musquée, cari et gingembre frais"
 excerpt: "Velvety butternut squash soup seasoned with curry powder and fresh ginger."
 excerpt_fr: "Potage veloute a la courge musquee assaisonne de poudre de cari et de gingembre frais."
 date: 2025-07-26

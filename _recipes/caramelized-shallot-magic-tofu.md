@@ -1,6 +1,6 @@
 ---
 title: "Caramelized Shallot Magic Tofu"
-title_fr: "Tofu Magique a l'echalote caramelisee"
+title_fr: "Tofu magique à l'échalote caramélisée"
 excerpt: "Oven-roasted magic tofu tossed in a Dijon shallot caramel sauce."
 excerpt_fr: "Tofu magique roti au four, enrobe d'une sauce a l'echalote caramelisee et Dijon."
 date: 2025-06-14

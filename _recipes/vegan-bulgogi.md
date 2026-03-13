@@ -1,6 +1,6 @@
 ---
 title: "Vegan Bulgogi"
-title_fr: "Bulgogi vegetalien"
+title_fr: "Bulgogi végétalien"
 excerpt: "Sweet and smoky Korean BBQ crumbles over steamed rice."
 excerpt_fr: "Emiette BBQ coreen sucre et fume sur riz vapeur."
 date: 2025-06-14

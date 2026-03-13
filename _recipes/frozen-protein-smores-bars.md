@@ -1,6 +1,6 @@
 ---
 title: "Frozen Protein S'mores Bars"
-title_fr: "Barres S'mores Protéinées Glacées"
+title_fr: "Barres s'mores protéinées glacées"
 excerpt: "Graham crackers, chocolate, and marshmallow fluff frozen into protein-packed bars."
 excerpt_fr: "Biscuits Graham, chocolat et guimauve congelés en barres protéinées."
 date: 2025-07-26

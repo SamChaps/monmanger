@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Quinoa Crunch Bars"
-title_fr: "Barres Croustillantes Chocolat-Quinoa"
+title_fr: "Barres croustillantes chocolat-quinoa"
 excerpt: "A healthy, crunchy homemade version of the classic chocolate crunch bar."
 excerpt_fr: "Version santé et croustillante maison de la barre chocolatée classique."
 date: 2025-07-26

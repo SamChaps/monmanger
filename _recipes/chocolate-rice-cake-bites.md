@@ -1,6 +1,6 @@
 ---
 title: "Chocolate Rice Cake Bites"
-title_fr: "Bouchées de Galettes de Riz au Chocolat"
+title_fr: "Bouchées de galettes de riz au chocolat"
 excerpt: "Crunchy rice cake pieces coated in chocolate-peanut butter, ready in 5 minutes."
 excerpt_fr: "Morceaux de galettes de riz enrobés de chocolat et beurre d'arachide en 5 minutes."
 date: 2025-07-26

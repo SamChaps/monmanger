@@ -1,6 +1,6 @@
 ---
 title: "Protein Ice Cream"
-title_fr: "Creme Glacee Proteinee"
+title_fr: "Crème glacée protéinée"
 excerpt: "Frozen banana-based protein ice cream in chocolate or vanilla, creamy and naturally sweetened."
 excerpt_fr: "Creme glacee proteinee a base de bananes congelees, en version chocolat ou vanille, onctueuse et naturellement sucree."
 date: 2025-07-26

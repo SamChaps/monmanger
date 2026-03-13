@@ -1,6 +1,6 @@
 ---
 title: "Smoked Tempeh Nuggets"
-title_fr: "Pépites de Tempeh Fumé"
+title_fr: "Pépites de tempeh fumé"
 excerpt: "Grated tempeh tossed with smoky maple soy glaze and baked until golden and crispy."
 excerpt_fr: "Tempeh râpé enrobé d'un glaçage fumé à l'érable et à la sauce soya, cuit au four jusqu'à une belle couleur dorée."
 date: 2025-07-26

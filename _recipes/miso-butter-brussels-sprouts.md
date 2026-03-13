@@ -1,6 +1,6 @@
 ---
 title: "Miso Butter Roasted Brussels Sprouts"
-title_fr: "Choux de Bruxelles Rôtis au Miso et Beurre"
+title_fr: "Choux de Bruxelles rôtis au miso et beurre"
 excerpt: "Caramelized brussels sprouts glazed with miso, vegan butter, and mirin, served over shiitake rice."
 excerpt_fr: "Choux de Bruxelles caramélisés glacés au miso, beurre végane et mirin, servis sur riz aux shiitakes."
 date: 2025-07-26

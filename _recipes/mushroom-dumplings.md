@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Dumplings with Chili Ginger Sesame Sauce"
-title_fr: "Dumplings aux Champignons avec Sauce Sésame au Piment et Gingembre"
+title_fr: "Dumplings aux champignons avec sauce sésame au piment et gingembre"
 excerpt: "Pan-fried dumplings filled with caramelized mushrooms and greens, with a sweet-spicy dipping sauce."
 excerpt_fr: "Dumplings poêlés farcis de champignons caramélisés et verdures, avec une sauce sucrée-épicée."
 date: 2025-07-26

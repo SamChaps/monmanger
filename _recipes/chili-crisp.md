@@ -1,6 +1,6 @@
 ---
 title: "Homemade Chili Crisp"
-title_fr: "Chili Crisp Maison"
+title_fr: "Chili crisp maison"
 excerpt: "Crunchy, spicy, garlicky chili oil you can put on everything."
 excerpt_fr: "Huile de chili croustillante, épicée et aillée à mettre sur tout."
 date: 2025-07-26

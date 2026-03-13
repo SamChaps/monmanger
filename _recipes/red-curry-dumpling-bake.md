@@ -1,6 +1,6 @@
 ---
 title: "Red Curry Dumpling Bake"
-title_fr: "Dumplings au Four à la Sauce Cari Rouge"
+title_fr: "Dumplings au four à la sauce cari rouge"
 excerpt: "Frozen dumplings baked in a creamy coconut red curry broth."
 excerpt_fr: "Dumplings surgelés cuits au four dans un bouillon crémeux au cari rouge et coco."
 date: 2025-07-26

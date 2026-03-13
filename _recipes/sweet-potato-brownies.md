@@ -1,6 +1,6 @@
 ---
 title: "Sweet Potato Brownies"
-title_fr: "Brownies a la patate douce"
+title_fr: "Brownies à la patate douce"
 excerpt: "Fudgy gluten-free brownies with sweet potato, cacao, and almond butter."
 excerpt_fr: "Brownies fondants sans gluten a la patate douce, cacao et beurre d'amande."
 date: 2025-06-14

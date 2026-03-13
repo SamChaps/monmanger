@@ -30,7 +30,11 @@ var store = [
     "tags": {{ doc.tags | jsonify }},
     "tags_fr": [{% for tag in doc.tags %}{% assign td = site.data.tags | where: "name", tag | first %}{{ td.name_fr | default: tag | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}],
     "url": {{ doc.url | relative_url | jsonify }},
-    "teaser": {{ teaser | jsonify }}
+    "teaser": {{ teaser | jsonify }},
+    "source": {{ doc.source | default: "" | jsonify }},
+    "prep_time": {{ doc.prep_time | default: "" | jsonify }},
+    "difficulty": {{ doc.difficulty | default: "" | jsonify }},
+    "difficulty_fr": {{ doc.difficulty_fr | default: "" | jsonify }}
   }{%- unless forloop.last -%},{%- endunless -%}
 {%- endfor -%}
 ]

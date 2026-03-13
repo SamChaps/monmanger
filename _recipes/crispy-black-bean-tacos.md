@@ -1,6 +1,6 @@
 ---
 title: "Crispy Black Bean Tacos"
-title_fr: "Tacos Croustillants aux Haricots Noirs"
+title_fr: "Tacos croustillants aux haricots noirs"
 excerpt: "Pan-fried bean tacos with a creamy cilantro lime dipping sauce."
 excerpt_fr: "Tacos de haricots dorés à la poêle avec sauce crémeuse coriandre-lime."
 date: 2025-07-26

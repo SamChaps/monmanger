@@ -1,6 +1,6 @@
 ---
 title: "Burrata with Roasted Cherry Tomatoes"
-title_fr: "Burrata à la Tomate Cerise Confite"
+title_fr: "Burrata à la tomate cerise confite"
 excerpt: "Creamy burrata split open over slow-roasted cherry tomatoes and grilled bread."
 excerpt_fr: "Burrata crémeuse ouverte sur des tomates cerises confites et pain grillé."
 date: 2025-07-26

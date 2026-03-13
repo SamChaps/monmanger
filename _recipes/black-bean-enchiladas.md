@@ -1,6 +1,6 @@
 ---
 title: "Veggie Black Bean Enchiladas"
-title_fr: "Enchiladas Végétariennes aux Haricots Noirs"
+title_fr: "Enchiladas végétariennes aux haricots noirs"
 excerpt: "Loaded with beans, broccoli, and peppers in homemade red sauce."
 excerpt_fr: "Garnies de haricots, brocoli et poivrons dans une sauce rouge maison."
 date: 2025-07-26

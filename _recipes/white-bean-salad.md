@@ -1,6 +1,6 @@
 ---
 title: "Mediterranean White Bean Salad"
-title_fr: "Salade mediterraneenne aux haricots blancs"
+title_fr: "Salade méditerranéenne aux haricots blancs"
 excerpt: "Fresh white bean salad with cucumber, tomatoes, herbs, and za'atar."
 excerpt_fr: "Salade fraiche de haricots blancs avec concombre, tomates, herbes et za'atar."
 date: 2025-06-14

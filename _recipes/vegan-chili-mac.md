@@ -1,6 +1,6 @@
 ---
 title: "One-Pot Vegan Chili Mac"
-title_fr: "Chili Mac Végane en Un Pot"
+title_fr: "Chili mac végane en un pot"
 excerpt: "A hearty one-pot meal with elbow pasta, beans, tempeh, mushrooms, and smoky chili spices."
 excerpt_fr: "Un repas copieux en un pot avec macaronis, haricots, tempeh, champignons et épices fumées."
 date: 2025-07-26

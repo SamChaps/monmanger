@@ -1,6 +1,6 @@
 ---
 title: "Apple Croustade"
-title_fr: "Croustade aux Pommes"
+title_fr: "Croustade aux pommes"
 excerpt: "A classic Quebecois apple crisp with buttery oat topping."
 excerpt_fr: "Croustade aux pommes classique avec garniture croustillante à l'avoine."
 date: 2025-07-26

@@ -1,6 +1,6 @@
 ---
 title: "Crispy Baked Vegan Mac and Cheese"
-title_fr: "Mac and cheese vegetalien gratiné"
+title_fr: "Mac and cheese végétalien gratiné"
 excerpt: "Creamy butternut squash cheese sauce baked under a crispy panko crust."
 excerpt_fr: "Sauce fromagee a la courge musquee gratinee sous une croute de panko croustillante."
 date: 2025-06-14

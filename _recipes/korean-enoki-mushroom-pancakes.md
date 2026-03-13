@@ -1,6 +1,6 @@
 ---
 title: "Korean Enoki Mushroom Pancakes"
-title_fr: "Crêpes Coréennes aux Champignons Enoki"
+title_fr: "Crêpes coréennes aux champignons enoki"
 excerpt: "Crispy little egg pancakes studded with enoki mushrooms, carrots, and chives."
 excerpt_fr: "Petites crêpes croustillantes aux champignons enoki, carottes et ciboulette."
 date: 2025-07-26

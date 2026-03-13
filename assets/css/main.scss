@@ -46,7 +46,8 @@
   --accent-color: var(--ctp-mauve);
   --accent-subtle: rgba(136, 57, 239, 0.08);
   --masthead-bg: var(--ctp-mantle);
-  --overlay-bg: rgba(239, 241, 245, 0.96);
+  --overlay-bg: rgba(76, 79, 105, 0.7);
+  --search-overlay-bg: rgba(239, 241, 245, 0.96);
   --shadow-light: rgba(76, 79, 105, 0.08);
   --toggle-border: var(--ctp-surface1);
   --toggle-border-hover: var(--ctp-overlay0);
@@ -90,7 +91,8 @@ html.dark-theme {
   --accent-color: var(--ctp-mauve);
   --accent-subtle: rgba(203, 166, 247, 0.1);
   --masthead-bg: var(--ctp-mantle);
-  --overlay-bg: rgba(30, 30, 46, 0.96);
+  --overlay-bg: rgba(0, 0, 0, 0.7);
+  --search-overlay-bg: rgba(30, 30, 46, 0.96);
   --shadow-light: rgba(0, 0, 0, 0.35);
   --toggle-border: var(--ctp-surface1);
   --toggle-border-hover: var(--ctp-overlay0);
@@ -147,10 +149,22 @@ input:focus-visible {
   border-bottom: 1px solid var(--border-color) !important;
 }
 
+// Body background must match theme (MM default is white)
+body {
+  background-color: var(--bg-color) !important;
+}
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
 .greedy-nav {
   background: var(--masthead-bg) !important;
-  display: flex !important;
-  align-items: center;
+  flex: 1 1 auto;
+  min-width: 0;
+  position: static !important;
 
   a {
     color: var(--text-color) !important;
@@ -187,6 +201,7 @@ input:focus-visible {
       margin: 0 !important;
       border-radius: 6px;
       padding: 0.45rem 0.7rem;
+      white-space: nowrap;
       transition: background-color 0.25s ease, color 0.25s ease;
 
       &:hover {
@@ -202,15 +217,124 @@ input:focus-visible {
       }
     }
   }
+
+  // Hamburger toggle — positioned at far right of masthead
+  .greedy-nav__toggle {
+    background: var(--masthead-bg) !important;
+    background-color: var(--masthead-bg) !important;
+    color: var(--text-color) !important;
+    position: absolute !important;
+    right: 0;
+    top: 0;
+    height: 100%;
+    -webkit-tap-highlight-color: transparent;
+
+    // Theme MM's built-in ::before overlay (replaces hardcoded #eee)
+    // This pseudo-element covers the full viewport when menu is open.
+    // The navicon (child) and .hidden-links (sibling) naturally paint above it.
+    &::before {
+      background-color: var(--overlay-bg) !important;
+      opacity: 0 !important;
+      transition: opacity 0.3s ease !important;
+    }
+
+    &.close::before {
+      opacity: 1 !important;
+      pointer-events: auto !important;
+    }
+
+    // Kill MM's default blue on all interactive states
+    &:hover,
+    &:focus,
+    &:focus-visible,
+    &:active,
+    &.close {
+      background: var(--masthead-bg) !important;
+      background-color: var(--masthead-bg) !important;
+      color: var(--text-color) !important;
+      outline: none !important;
+      box-shadow: none !important;
+      border: none !important;
+    }
+
+    .navicon,
+    .navicon::before,
+    .navicon::after {
+      background: var(--text-color) !important;
+      background-color: var(--text-color) !important;
+    }
+
+    // X (close) state — theme the transformed icon
+    &.close .navicon {
+      background: transparent !important;
+      background-color: transparent !important;
+
+      &::before,
+      &::after {
+        background: var(--text-color) !important;
+        background-color: var(--text-color) !important;
+      }
+    }
+  }
+
+  // Hamburger dropdown menu — positioned at far right of masthead
+  .hidden-links {
+    background: var(--card-bg) !important;
+    border: 1px solid var(--border-color) !important;
+    border-radius: 6px;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    right: 0;
+    top: 100%;
+    // Override display:none with visibility for smooth transitions
+    display: block !important;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease, visibility 0.3s ease !important;
+
+    &.hidden {
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none;
+    }
+
+    li {
+      border-bottom: 1px solid var(--border-color) !important;
+
+      &:last-child {
+        border-bottom: none !important;
+      }
+    }
+
+    a {
+      color: var(--text-color) !important;
+      padding: 0.45rem 0.7rem;
+      background: transparent !important;
+
+      &:hover {
+        background: var(--accent-subtle) !important;
+        color: var(--accent-color) !important;
+      }
+    }
+
+    // Arrow triangle — theme-aware
+    &::before {
+      border-color: var(--border-color) transparent !important;
+    }
+
+    // Kill the repurposed ::after (arrow is handled by ::before)
+    &::after {
+      display: none !important;
+    }
+  }
 }
 
-// Utility buttons — right-aligned
+// Utility buttons — between nav links and hamburger
 .masthead-actions {
   display: flex;
   align-items: center;
   gap: 0.35rem;
-  margin-left: auto;
   flex-shrink: 0;
+  margin-right: 2.5rem; // reserve space for the absolutely-positioned hamburger
 
   .search__toggle {
     margin: 0 !important;
@@ -264,6 +388,13 @@ hr {
   opacity: 1 !important;
 }
 
+// Hide sidebar on mobile — it shows as a collapsed accordion above content
+@media (max-width: 63.9375em) {
+  .sidebar.sticky {
+    display: none !important;
+  }
+}
+
 .sidebar .nav__list {
   background: transparent;
   border: none;
@@ -314,7 +445,7 @@ hr {
 // Search overlay & results
 // -------------------------------------------------------
 .search-content {
-  background: var(--overlay-bg) !important;
+  background: var(--search-overlay-bg) !important;
 }
 
 // Make the search input match the theme
@@ -349,10 +480,26 @@ hr {
   color: var(--text-muted);
 }
 
-.search-content .archive__item-title {
-  a {
-    color: var(--text-color) !important;
-    &:hover { color: var(--link-color) !important; }
+// Search results use recipe-grid with compact card sizing
+.recipe-grid--search {
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+
+  .recipe-card__image-link {
+    height: 150px;
+  }
+
+  .recipe-card__title {
+    font-size: 0.95rem;
+  }
+
+  .recipe-card__excerpt {
+    font-size: 0.8rem;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 }
 
@@ -567,6 +714,13 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   i {
     margin-right: 0.2rem;
   }
+}
+
+.recipe-card__source {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 150px;
 }
 
 .recipe-card__tags {

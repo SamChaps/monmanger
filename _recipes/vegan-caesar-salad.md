@@ -1,6 +1,6 @@
 ---
 title: "Vegan Caesar Salad"
-title_fr: "Salade Cesar vegetalienne"
+title_fr: "Salade César végétalienne"
 excerpt: "Creamy cashew Caesar dressing with roasted chickpea croutons and nut parmesan."
 excerpt_fr: "Vinaigrette Cesar cremeuse aux cajou avec croutons de pois chiches rotis et parmesan de noix."
 date: 2025-06-14

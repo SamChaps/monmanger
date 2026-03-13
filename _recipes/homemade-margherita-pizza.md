@@ -1,6 +1,6 @@
 ---
 title: "Homemade Margherita Pizza"
-title_fr: "Pizza Margherita Maison"
+title_fr: "Pizza margherita maison"
 excerpt: "Classic margherita pizza with homemade dough, fresh tomato sauce, mozzarella, and basil."
 excerpt_fr: "Pizza margherita classique avec pate maison, sauce tomate fraiche, mozzarella et basilic."
 date: 2025-07-26

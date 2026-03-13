@@ -1,6 +1,6 @@
 ---
 title: "Mediterranean Quinoa Salad"
-title_fr: "Salade Méditerranéenne au Quinoa"
+title_fr: "Salade méditerranéenne au quinoa"
 excerpt: "A bright, lemony quinoa salad with bell peppers, cucumber, olives, and feta."
 excerpt_fr: "Une salade de quinoa citronnée avec poivrons, concombre, olives et feta."
 date: 2025-07-26

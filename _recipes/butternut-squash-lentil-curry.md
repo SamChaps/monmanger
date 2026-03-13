@@ -1,6 +1,6 @@
 ---
 title: "Butternut Squash Lentil Curry"
-title_fr: "Cari de Courge Butternut et Lentilles"
+title_fr: "Cari de courge butternut et lentilles"
 excerpt: "A hearty, warming curry with butternut squash, brown lentils, coconut milk, and baby kale."
 excerpt_fr: "Un cari réconfortant avec courge butternut, lentilles brunes, lait de coco et jeunes pousses de chou frisé."
 date: 2025-07-26

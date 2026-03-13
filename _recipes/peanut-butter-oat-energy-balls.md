@@ -1,6 +1,6 @@
 ---
 title: "Peanut Butter Oat Energy Balls"
-title_fr: "Boules d'Énergie au Beurre d'Arachide et Avoine"
+title_fr: "Boules d'énergie au beurre d'arachide et avoine"
 excerpt: "Simple 4-ingredient no-bake energy balls with peanut butter, oats, honey, and chocolate chips."
 excerpt_fr: "Boules d'énergie sans cuisson à 4 ingrédients : beurre d'arachide, avoine, miel et pépites de chocolat."
 date: 2025-07-26

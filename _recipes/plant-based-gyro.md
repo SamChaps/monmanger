@@ -1,6 +1,6 @@
 ---
 title: "Plant-Based Gyro"
-title_fr: "Gyro Vegetalien"
+title_fr: "Gyro végétalien"
 excerpt: "Crispy baked tofu and oyster mushrooms in warm pita with homemade dairy-free tzatziki."
 excerpt_fr: "Tofu et pleurotes croustillants cuits au four en pita chaud avec tzatziki maison sans produits laitiers."
 date: 2025-07-26

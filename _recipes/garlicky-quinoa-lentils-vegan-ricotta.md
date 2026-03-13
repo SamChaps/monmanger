@@ -1,6 +1,6 @@
 ---
 title: "Garlicky Quinoa and Lentils with Vegan Ricotta"
-title_fr: "Quinoa et Lentilles à l'Ail avec Ricotta Végétalienne"
+title_fr: "Quinoa et lentilles à l'ail avec ricotta végétalienne"
 excerpt: "A protein-packed grain bowl with tofu ricotta and crunchy garlicky pepitas."
 excerpt_fr: "Bol de grains riche en protéines avec ricotta au tofu et pepitas croustillantes à l'ail."
 date: 2025-07-26
