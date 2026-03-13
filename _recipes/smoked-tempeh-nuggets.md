@@ -15,7 +15,7 @@ total_time: "30 min"
 servings: "4"
 difficulty: "Easy"
 difficulty_fr: "Facile"
-source: "Loounie / Mordu"
+source: "Loounie"
 ---
 
 <div class="lang-en-content" markdown="1">

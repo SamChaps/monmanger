@@ -90,7 +90,7 @@ Paragraphe d'introduction sur le plat.
 - **Times**: Format as `"15 min"`, `"1 hr 30 min"`. `total_time` = prep + cook.
 - **servings**: As a quoted string.
 - **difficulty / difficulty_fr**: `Easy`/`Facile`, `Medium`/`Moyen`, or `Advanced`/`Avancé`.
-- **source**: Name or URL of the original recipe for attribution (e.g. `"Preppy Kitchen"`).
+- **source**: Name of the original recipe creator for attribution (e.g. `"Preppy Kitchen"`). Use the short canonical name, not the full website title. For example, use `"Ricardo"` (not `"Ricardo Cuisine"`), `"Loounie"` (not `"Loounie Mordu"`). If the recipe is original or a family recipe, use `"Original"` or `"Recette familiale"`.
 
 ### Content
 - Wrap English in `<div class="lang-en-content" markdown="1">`, French in `<div class="lang-fr-content" markdown="1">`.

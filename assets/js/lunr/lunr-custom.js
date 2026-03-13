@@ -83,7 +83,7 @@ $(document).ready(function() {
       var excerpt = rawExcerpt.split(" ").splice(0, 20).join(" ") + '...';
       var teaser = s.teaser;
       var source = s.source && s.source !== 'Original' ? s.source : '';
-      var prepTime = s.prep_time || '';
+      var prepTime = s.total_time || s.prep_time || '';
       var difficulty = fr && s.difficulty_fr ? s.difficulty_fr : (s.difficulty || '');
 
       var tagsHtml = '';

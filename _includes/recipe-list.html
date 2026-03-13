@@ -24,7 +24,7 @@
       </p>
       {% endif %}
       <div class="recipe-card__meta">
-        {% if recipe.prep_time %}<span><i class="fas fa-clock" aria-hidden="true"></i> {{ recipe.prep_time }}</span>{% endif %}
+        {% if recipe.total_time %}<span><i class="fas fa-clock" aria-hidden="true"></i> {{ recipe.total_time }}</span>{% endif %}
         {% if recipe.difficulty %}
         <span>
           <i class="fas fa-signal" aria-hidden="true"></i>

@@ -16,7 +16,7 @@ total_time: "6 min"
 servings: "1"
 difficulty: "Easy"
 difficulty_fr: "Facile"
-source: "Ricardo Cuisine"
+source: "Ricardo"
 ---
 
 <div class="lang-en-content" markdown="1">

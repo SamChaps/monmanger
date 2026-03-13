@@ -15,7 +15,7 @@ total_time: "1 hr 15 min"
 servings: "3"
 difficulty: "Advanced"
 difficulty_fr: "Avancé"
-source: "Loounie Mordu"
+source: "Loounie"
 ---
 
 <div class="lang-en-content" markdown="1">

@@ -33,6 +33,7 @@ var store = [
     "teaser": {{ teaser | jsonify }},
     "source": {{ doc.source | default: "" | jsonify }},
     "prep_time": {{ doc.prep_time | default: "" | jsonify }},
+    "total_time": {{ doc.total_time | default: "" | jsonify }},
     "difficulty": {{ doc.difficulty | default: "" | jsonify }},
     "difficulty_fr": {{ doc.difficulty_fr | default: "" | jsonify }}
   }{%- unless forloop.last -%},{%- endunless -%}
