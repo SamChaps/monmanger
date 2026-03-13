@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Banana Bread"
 title_fr: "Pain aux bananes"
 excerpt: "A soft, moist classic banana bread that comes together in minutes."
@@ -70,7 +70,7 @@ Le genre de pain aux bananes qu'on prépare un dimanche matin avec les bananes t
 
 1. **Préparer le moule.** Placer la grille au centre du four. Préchauffer à 180 °C (350 °F). Beurrer un moule à pain de 23 x 13 cm (9 x 5 po) et le tapisser d'une bande de papier parchemin en la laissant dépasser sur deux côtés.
 2. **Mélanger les ingrédients secs.** Dans un bol, mélanger la farine et la poudre à pâte.
-3. **Crémer le beurre.** Dans un autre bol, fouetter le beurre avec la cassonade au batteur électrique pendant environ 1 minute, jusqu'à ce que le mélange pâlisse. Ajouter les œufs et la vanille, puis mélanger jusqu'à obtenir une préparation homogène. Incorporer la purée de bananes.
+3. **Crémer le beurre.** Dans un autre bol, fouetter le beurre avec la cassonade au batteur électrique pendant environ 1 minute, jusqu'à ce que le mélangé pâlisse. Ajouter les œufs et la vanille, puis mélanger jusqu'à obtenir une préparation homogène. Incorporer la purée de bananes.
 4. **Assembler.** À basse vitesse ou à la cuillère de bois, incorporer les ingrédients secs en alternant avec le lait. Répartir la pâte dans le moule.
 5. **Cuire.** Enfourner pendant environ 1 heure, ou jusqu'à ce qu'un cure-dents inséré au centre en ressorte propre.
 6. **Refroidir.** Laisser tiédir sur une grille, puis démouler et laisser refroidir complètement avant de trancher.

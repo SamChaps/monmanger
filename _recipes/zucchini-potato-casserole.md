@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Zucchini Potato Casserole"
 title_fr: "Gratin de courgettes et pommes de terre"
 excerpt: "A simple baked casserole of thinly sliced zucchini, potatoes, and nutritional yeast."
-excerpt_fr: "Un gratin simple de courgettes et pommes de terre tranchees finement avec levure alimentaire."
+excerpt_fr: "Un gratin simple de courgettes et pommes de terre tranchées finement avec levure alimentaire."
 date: 2025-06-14
 categories:
   - Main
@@ -58,36 +58,36 @@ A budget-friendly, no-fuss casserole that makes the most of simple ingredients. 
 
 <div class="lang-fr-content" markdown="1">
 
-Un gratin economique et sans chichi qui tire le meilleur d'ingredients tout simples. Des courgettes et pommes de terre finement tranchees sont melangees avec du poivron, de l'oignon, de la levure alimentaire et de la chapelure, puis cuites au four jusqu'a ce qu'elles soient dorees et tendres. Parfait pour ecouler un surplus de courgettes estival.
+Un gratin economique et sans chichi qui tire le meilleur d'ingrédients tout simples. Des courgettes et pommes de terre finement tranchées sont mélangées avec du poivron, de l'oignon, de la levure alimentaire et de la chapelure, puis cuites au four jusqu'à ce qu'elles soient dorées et tendres. Parfait pour ecouler un surplus de courgettes estival.
 
-## Ingredients
+## Ingrédients
 
-- 3 courgettes moyennes, coupees en deux dans la longueur et tranchees finement
-- 3 grosses pommes de terre Russet, coupees en deux et tranchees finement
-- 180 ml (3/4 tasse) de poivron coupe en des (environ 1 petit poivron)
+- 3 courgettes moyennes, coupées en deux dans la longueur et tranchées finement
+- 3 grosses pommes de terre Russet, coupées en deux et tranchées finement
+- 180 ml (3/4 tasse) de poivron coupé en dés (environ 1 petit poivron)
 - 60 g (1/4 tasse) de levure alimentaire
-- 5 ml (1 c. a the) d'ail emince (environ 3 petites gousses)
-- 60 ml (1/4 tasse) d'oignon coupe en des (environ 1 petit oignon)
-- 60 ml (1/4 tasse) de chapelure seche (sans gluten si necessaire)
+- 5 ml (1 c. à thé) d'ail émincé (environ 3 petites gousses)
+- 60 ml (1/4 tasse) d'oignon coupé en dés (environ 1 petit oignon)
+- 60 ml (1/4 tasse) de chapelure séché (sans gluten si nécessaire)
 - 60 ml (1/4 tasse) d'huile d'olive
-- Sel et poivre au gout
+- Sel et poivre au goût
 
 **Facultatif**
 
-- 5 ml (1 c. a the) de flocons de piment rouge
+- 5 ml (1 c. à thé) de flocons de piment rouge
 - Pincee de paprika
 
 ## Instructions
 
-1. **Prechauffer le four** a 200 °C (400 °F).
-2. **Tout melanger.** Dans un grand bol, combiner les courgettes, les pommes de terre, le poivron, la levure alimentaire, l'ail, l'oignon, la chapelure, l'huile d'olive, le sel, le poivre et les ajouts facultatifs. Melanger jusqu'a ce que tout soit uniformement enrobe.
-3. **Transferer dans un plat a gratin.** Repartir le melange dans un grand plat de cuisson.
-4. **Cuire 30 minutes.** Retirer du four et bien remuer. Remettre au four et cuire encore 30 minutes, en surveillant durant les 10 dernieres minutes pour eviter que le dessus brule.
+1. **Préchauffer le four** a 200 °C (400 °F).
+2. **Tout mélanger.** Dans un grand bol, combiner les courgettes, les pommes de terre, le poivron, la levure alimentaire, l'ail, l'oignon, la chapelure, l'huile d'olive, le sel, le poivre et les ajouts facultatifs. Mélanger jusqu'à ce que tout soit uniformement enrobé.
+3. **Transferer dans un plat a gratin.** Repartir le mélangé dans un grand plat de cuisson.
+4. **Cuire 30 minutes.** Retirer du four et bien remuer. Remettre au four et cuire encore 30 minutes, en surveillant durant les 10 dernières minutes pour éviter que le dessus brule.
 
 ## Notes & conseils
 
 - Si le dessus commence a noircir, couvrir de papier d'aluminium pour le reste de la cuisson.
-- La chapelure a l'italienne ajoute plus de saveur.
+- La chapelure à l'italienne ajoute plus de saveur.
 - Des champignons tranches constituent un bel ajout pour plus de texture.
 - Accompagner d'une simple salade verte.
 

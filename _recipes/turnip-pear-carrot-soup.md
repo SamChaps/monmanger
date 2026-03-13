@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Turnip, Pear & Carrot Soup"
 title_fr: "Potage de navet, poires et carottes"
 excerpt: "Creamy coconut soup with turnip, sweet pears, and carrots for a beautifully balanced bowl."
@@ -54,34 +54,34 @@ Turnip, pear, and carrot simmered in coconut milk and vegetable broth, then blen
 
 <div class="lang-fr-content" markdown="1">
 
-Navet, poire et carotte mijoter dans le lait de coco et le bouillon de legumes, puis reduits en puree soyeuse. La poire vient adoucir le gout plus puissant du navet et cree un bel equilibre. Garni de noix hachees et d'un filet d'huile de noix ou de sesame.
+Navet, poire et carotte mijoter dans le lait de coco et le bouillon de légumes, puis réduits en purée soyeuse. La poire vient adoucir le goût plus puissant du navet et cree un bel équilibré. Garni de noix hachées et d'un filet d'huile de noix ou de sésame.
 
-## Ingredients
+## Ingrédients
 
-- 2 c. a soupe d'huile vegetale
-- 1 oignon, hache
-- 2 gousses d'ail, hachees
-- 2 c. a soupe de miel (ou sirop d'erable pour la version vegane)
-- 500 ml (2 tasses) de navet, pele et coupe en cubes
-- 500 ml (2 tasses) de poires, coupees en morceaux
-- 500 ml (2 tasses) de carottes, pelees et coupees en morceaux
-- 500 ml (2 tasses) de bouillon de legumes
-- 1 boite (396 ml) de lait de coco
-- Sel et poivre, au gout
-- 60 ml (1/4 tasse) de noix hachees, au choix
-- Un filet d'huile de noix ou de sesame
+- 2 c. à soupe d'huile végétale
+- 1 oignon, haché
+- 2 gousses d'ail, hachées
+- 2 c. à soupe de miel (ou sirop d'érable pour la version vegane)
+- 500 ml (2 tasses) de navet, pelé et coupé en cubes
+- 500 ml (2 tasses) de poires, coupées en morceaux
+- 500 ml (2 tasses) de carottes, pelées et coupées en morceaux
+- 500 ml (2 tasses) de bouillon de légumes
+- 1 boîte (396 ml) de lait de coco
+- Sel et poivre, au goût
+- 60 ml (1/4 tasse) de noix hachées, au choix
+- Un filet d'huile de noix ou de sésame
 
 ## Instructions
 
-1. **Faire** chauffer l'huile dans un grand chaudron a feu moyen. Cuire l'oignon, l'ail, le miel, le navet, les poires et les carottes pendant 8 minutes. Assaisonner.
-2. **Incorporer** le bouillon de legumes et le lait de coco. Porter a ebullition, reduire le feu et laisser mijoter pendant 40 minutes.
-3. **Broyer** au robot ou au pied-melangeur jusqu'a l'obtention d'une texture lisse. Rectifier l'assaisonnement au besoin.
+1. **Faire** chauffer l'huile dans un grand chaudron à feu moyen. Cuire l'oignon, l'ail, le miel, le navet, les poires et les carottes pendant 8 minutes. Assaisonner.
+2. **Incorporer** le bouillon de légumes et le lait de coco. Porter a ébullition, réduire le feu et laisser mijoter pendant 40 minutes.
+3. **Broyer** au robot ou au pied-mélangéur jusqu'à l'obtention d'une texture lisse. Rectifier l'assaisonnement au besoin.
 4. **Garnir** de noix et d'un filet d'huile pour servir.
 
 ## Notes & conseils
 
-- Ajuster la quantite de liquide selon la texture desiree.
-- Se conserve 3 a 4 jours au refrigerateur. Se congele bien.
-- Utiliser du sirop d'erable au lieu du miel pour une version vegane.
+- Ajuster la quantite de liquide selon la texture désirée.
+- Se conserve 3 à 4 jours au réfrigérateur. Se congelé bien.
+- Utiliser du sirop d'érable au lieu du miel pour une version vegane.
 
 </div>

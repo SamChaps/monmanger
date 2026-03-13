@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Rice Noodles with Spicy Peanut Sauce"
 title_fr: "Nouilles de riz à la sauce piquante aux arachides"
 excerpt: "Rice noodles tossed with sauteed vegetables and a creamy, spicy peanut sauce."
-excerpt_fr: "Nouilles de riz melangees avec des legumes sautes et une sauce cremeuse et piquante aux arachides."
+excerpt_fr: "Nouilles de riz mélangées avec des légumes sautés et une sauce crémeuse et piquante aux arachides."
 date: 2025-07-26
 categories:
   - Main
@@ -68,48 +68,48 @@ Rice noodles with sauteed carrots, broccoli, bell pepper, and onion, all tossed 
 
 <div class="lang-fr-content" markdown="1">
 
-Des nouilles de riz avec des carottes, du brocoli, du poivron et de l'oignon sautes, le tout enrobe d'une sauce piquante et cremeuse aux arachides. Frais, leger et plein de saveur, avec un beau piquant du sambal oelek.
+Des nouilles de riz avec des carottes, du brocoli, du poivron et de l'oignon sautés, le tout enrobé d'une sauce piquante et crémeuse aux arachides. Frais, léger et plein de saveur, avec un beau piquant du sambal oelek.
 
-## Ingredients
+## Ingrédients
 
 ### Nouilles de riz
 
 - 225 g (8 oz) de nouilles de riz, cuites selon les instructions de l'emballage
-- 2 c. a soupe d'huile d'olive
-- 1 petit oignon doux, coupe en des
-- 2,5 cm (1 po) de gingembre frais, pele et emince
-- 3 gousses d'ail, emincees
-- 1 carotte moyenne, pelee et coupee en demi-lunes
-- 1/2 poivron rouge, coupe en des
-- 375 ml (1 1/2 tasse) de bouquets de brocoli, haches petit
+- 2 c. à soupe d'huile d'olive
+- 1 petit oignon doux, coupé en dés
+- 2,5 cm (1 po) de gingembre frais, pelé et émincé
+- 3 gousses d'ail, émincées
+- 1 carotte moyenne, pelée et coupée en demi-lunes
+- 1/2 poivron rouge, coupé en dés
+- 375 ml (1 1/2 tasse) de bouquets de brocoli, hachés petit
 - 60 ml (1/4 tasse) d'oignons verts
-- 60 ml (1/4 tasse) de coriandre fraiche
+- 60 ml (1/4 tasse) de coriandre fraîche
 - Quartiers de lime, pour servir
 
 ### Sauce piquante aux arachides
 
-- 100 ml (1/3 tasse + 2 c. a soupe) de beurre d'arachide naturel
+- 100 ml (1/3 tasse + 2 c. à soupe) de beurre d'arachide naturel
 - 60 ml (1/4 tasse) d'eau
-- 2 c. a soupe de sauce soya (ou aminos de noix de coco)
-- 2 c. a soupe de miel (ou sirop d'erable)
-- 2 c. a soupe de jus de lime frais
-- 2 c. a soupe de pate de chili sambal oelek (ou sriracha)
-- 1 c. a soupe d'huile de sesame
-- 1 c. a the de flocons de piment rouge
+- 2 c. à soupe de sauce soya (ou aminos de noix de coco)
+- 2 c. à soupe de miel (ou sirop d'érable)
+- 2 c. à soupe de jus de lime frais
+- 2 c. à soupe de pâte de chili sambal oelek (ou sriracha)
+- 1 c. à soupe d'huile de sésame
+- 1 c. à thé de flocons de piment rouge
 
 ## Instructions
 
-1. **Melanger** le beurre d'arachide, l'eau, la sauce soya, le miel, le jus de lime, l'huile de sesame et la pate de chili au pied-melangeur jusqu'a consistance lisse. Incorporer les flocons de piment et mettre de co te.
-2. **Chauffer** l'huile d'olive dans une grande poele a feu moyen. Cuire l'oignon 2 a 3 minutes jusqu'a ce qu'il soit translucide.
-3. **Ajouter** les carottes, le poivron, l'ail et le gingembre. Cuire 3 a 4 minutes jusqu'a ce que les legumes commencent a ramollir.
-4. **Ajouter** les bouquets de brocoli et cuire 2 a 3 minutes de plus.
-5. **Reduire** le feu. Ajouter les nouilles cuites, les oignons verts et les trois quarts de la sauce. Melanger jusqu'a ce que le tout soit bien enrobe.
-6. **Servir** garni de coriandre fraiche, du reste de sauce et de quartiers de lime.
+1. **Mélanger** le beurre d'arachide, l'eau, la sauce soya, le miel, le jus de lime, l'huile de sésame et la pâte de chili au pied-mélangéur jusqu'à consistance lisse. Incorporer les flocons de piment et mettre de co te.
+2. **Chauffer** l'huile d'olive dans une grande poêle à feu moyen. Cuire l'oignon 2 à 3 minutes jusqu'à ce qu'il soit translucide.
+3. **Ajouter** les carottes, le poivron, l'ail et le gingembre. Cuire 3 à 4 minutes jusqu'à ce que les légumes commencent a ramollir.
+4. **Ajouter** les bouquets de brocoli et cuire 2 à 3 minutes de plus.
+5. **Réduire** le feu. Ajouter les nouilles cuites, les oignons verts et les trois quarts de la sauce. Mélanger jusqu'à ce que le tout soit bien enrobé.
+6. **Servir** garni de coriandre fraîche, du reste de sauce et de quartiers de lime.
 
 ## Notes & conseils
 
-- Ajouter les nouilles a la poele tout juste apres la cuisson car elles collent en refroidissant.
+- Ajouter les nouilles à la poêle tout juste apres la cuisson car elles collent en refroidissant.
 - Cette recette se double facilement pour les restes du lendemain.
-- Essayer avec des champignons shiitake, des epinards, du chou rouge ou du tofu roti.
+- Essayer avec des champignons shiitake, des epinards, du chou rouge ou du tofu rôti.
 
 </div>

@@ -1,4 +1,4 @@
----
+﻿﻿---
 title: "Moo-Less Chocolate Pie"
 title_fr: "Tarte au chocolat sans produits laitiers"
 excerpt: "A silky, fudgy chocolate pie made with silken tofu, chocolate chips, and coffee liqueur."
@@ -64,14 +64,14 @@ Une tarte au chocolat trompeusement riche où le tofu soyeux remplace la crème.
 
 1. **Préparer un bain-marie.** Remplir le fond d'une casserole moyenne avec suffisamment d'eau pour monter à 2,5 cm (1 po) sur les côtés. Porter à frémissement à feu moyen.
 2. **Faire fondre le chocolat.** Placer les pépites de chocolat, la liqueur de café et la vanille dans un bol résistant à la chaleur posé sur l'eau frémissante. Remuer souvent avec une spatule jusqu'à ce que le tout soit fondu et lisse.
-3. **Mixer.** Combiner le mélange de chocolat fondu, le tofu et le miel dans un robot culinaire ou mélangeur. Mixer environ 1 minute jusqu'à consistance parfaitement lisse.
+3. **Mixer.** Combiner le mélangé de chocolat fondu, le tofu et le miel dans un robot culinaire ou mélangéur. Mixer environ 1 minute jusqu'à consistance parfaitement lisse.
 4. **Remplir et réfrigérer.** Verser la garniture dans la croûte préparée. Réfrigérer au moins 2 heures, jusqu'à ce que la garniture soit ferme.
 
 ## Notes & conseils
 
 - Le pourcentage de cacao contrôle la texture : le chocolat noir donne une tarte plus fondante, le chocolat au lait une mousse plus légère.
 - Le chocolat mi-sucré donne le juste milieu idéal.
-- Personne ne devinera l'ingrédient secret. Cette recette a trompé bien des amateurs de desserts.
+- Personne ne devinera l'ingrédient secret. Cette recette a trompé bien dés amateurs de desserts.
 - Utiliser du sirop d'érable au lieu du miel pour une version entièrement végane (avec une croûte végane).
 
 </div>

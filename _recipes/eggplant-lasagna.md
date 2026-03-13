@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Eggplant Lasagna"
 title_fr: "Lasagne à l'aubergine"
 excerpt: "Noodle-free lasagna with roasted eggplant, ricotta, spinach, and herbs."
@@ -66,7 +66,7 @@ Toutes les couches réconfortantes d'une lasagne, mais avec des tranches d'auber
 - 2 à 3 aubergines (environ 680 g / 1 1/2 lb), tranchées sur la longueur à 1 cm (1/2 po) d'épaisseur
 - Huile d'olive extra-vierge
 - Gros sel
-- 1 gros oeuf
+- 1 gros œuf
 - 425 g (15 oz) de fromage ricotta partiellement écrémé
 - 1 1/2 tasse (170 g) de fromage mozzarella partiellement écrémé, divisé
 - 1/2 tasse (50 g) de parmesan râpé, divisé
@@ -82,7 +82,7 @@ Toutes les couches réconfortantes d'une lasagne, mais avec des tranches d'auber
 
 1. **Saler l'aubergine.** Assaisonner les tranches d'aubergine des deux côtés avec du gros sel et laisser reposer 20 à 30 minutes. Cela retire l'humidité pour une texture plus ferme.
 2. **Rôtir l'aubergine.** Préchauffer le four à 200 °C (400 °F). Éponger l'aubergine, déposer sur des plaques huilées et badigeonner le dessus d'huile d'olive. Rôtir 15 à 20 minutes jusqu'à ce qu'elle soit tendre.
-3. **Préparer la garniture ricotta.** Battre l'oeuf dans un bol. Incorporer la ricotta, 1 tasse de mozzarella, 1/4 tasse de parmesan, l'ail, l'origan, les épinards, le persil, le basilic, une pincée de sel et du poivre.
+3. **Préparer la garniture ricotta.** Battre l'œuf dans un bol. Incorporer la ricotta, 1 tasse de mozzarella, 1/4 tasse de parmesan, l'ail, l'origan, les épinards, le persil, le basilic, une pincée de sel et du poivre.
 4. **Assembler la lasagne.** Baisser le four à 190 °C (375 °F). Étaler une mince couche de sauce au fond d'un plat de 23 x 33 cm (9 x 13 po). Disposer des tranches d'aubergine, puis la moitié de la garniture ricotta, puis de la sauce. Répéter. Terminer avec la sauce et le reste de mozzarella et parmesan.
 5. **Cuire.** Couvrir hermétiquement de papier d'aluminium et cuire 15 à 20 minutes. Découvrir et cuire encore 10 à 20 minutes jusqu'à ce que le fromage soit doré et bouillonnant.
 6. **Repos et service.** Laisser reposer 10 minutes avant de couper.

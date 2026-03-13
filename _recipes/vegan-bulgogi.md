@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Vegan Bulgogi"
 title_fr: "Bulgogi végétalien"
 excerpt: "Sweet and smoky Korean BBQ crumbles over steamed rice."
-excerpt_fr: "Emiette BBQ coreen sucre et fume sur riz vapeur."
+excerpt_fr: "Emiette BBQ coreen sucré et fumé sur riz vapeur."
 date: 2025-06-14
 categories:
   - Main
@@ -60,39 +60,39 @@ A plant-based spin on Korean bulgogi that comes together in one skillet. Seasone
 
 <div class="lang-fr-content" markdown="1">
 
-Une version vegetale du bulgogi coreen qui se prepare en une seule poele. Des emiettes style viande cuisent avec la sauce soya, la cassonade, l'huile de sesame et le gingembre pour un plat sucre, fume et savoureux, parfait sur du riz vapeur.
+Une version végétale du bulgogi coreen qui se prépare en une seule poêle. Des émiettés style viande cuisent avec la sauce soya, la cassonade, l'huile de sésame et le gingembre pour un plat sucré, fumé et savoureux, parfait sur du riz vapeur.
 
-## Ingredients
+## Ingrédients
 
-- 340 g (12 oz) d'emiette vegetal style boeuf (Impossible, Beyond ou similaire)
+- 340 g (12 oz) d'émietté végétal style bœuf (Impossible, Beyond ou similaire)
 - 1 petit oignon, tranche finement
-- 60 ml (4 c. a soupe) de sauce soya a teneur reduite en sodium
+- 60 ml (4 c. à soupe) de sauce soya a teneur réduite en sodium
 - 55 g (1/4 tasse bien tassee) de cassonade
-- 15 ml (1 c. a soupe) de sirop d'agave ou d'erable
-- 15 ml (1 c. a soupe) d'huile de sesame grillee
-- 4 grosses gousses d'ail, emincees
-- 1/2 c. a the de gingembre moulu
-- 1/2 c. a the de flocons de piment rouge seches, ou plus au gout
-- 1/4 c. a the de poivre noir moulu
-- 10 ml (2 c. a the) de graines de sesame
+- 15 ml (1 c. à soupe) de sirop d'agave ou d'érable
+- 15 ml (1 c. à soupe) d'huile de sésame grillée
+- 4 grosses gousses d'ail, émincées
+- 1/2 c. à thé de gingembre moulu
+- 1/2 c. à thé de flocons de piment rouge seches, ou plus au goût
+- 1/4 c. à thé de poivre noir moulu
+- 10 ml (2 c. à thé) de graines de sésame
 
 **Pour servir**
 
 - 4 tasses de riz blanc ou brun, cuit
-- 120 ml (1/2 tasse) d'oignons verts haches
+- 120 ml (1/2 tasse) d'oignons verts hachés
 
 ## Instructions
 
-1. **Dorer les emiettes.** Chauffer une grande poele antiadhesive a feu moyen-eleve. Ajouter les emiettes vegetaux et cuire jusqu'a ce qu'ils soient dores, en les defaisant en petits morceaux avec une cuillere en bois.
-2. **Ajouter la sauce.** Incorporer l'oignon tranche, la sauce soya, la cassonade, le sirop d'agave, l'huile de sesame, l'ail, le gingembre, les flocons de piment et le poivre noir. Bien melanger.
-3. **Laisser mijoter 5 a 10 minutes** a feu moyen-doux, en laissant la sauce epaissir et les oignons ramollir.
-4. **Terminer avec les graines de sesame** et retirer du feu.
-5. **Servir sur du riz** avec une genereuse quantite d'oignons verts haches.
+1. **Dorer les émiettés.** Chauffer une grande poêle antiadhésive à feu moyen-élevé. Ajouter les émiettés végétaux et cuire jusqu'à ce qu'ils soient dorés, en les defaisant en petits morceaux avec une cuillere en bois.
+2. **Ajouter la sauce.** Incorporer l'oignon tranche, la sauce soya, la cassonade, le sirop d'agave, l'huile de sésame, l'ail, le gingembre, les flocons de piment et le poivre noir. Bien mélanger.
+3. **Laisser mijoter 5 à 10 minutes** à feu moyen-doux, en laissant la sauce épaissir et les oignons ramollir.
+4. **Terminer avec les graines de sésame** et retirer du feu.
+5. **Servir sur du riz** avec une généreuse quantite d'oignons verts hachés.
 
 ## Notes & conseils
 
-- Les protéines de soya rehydratees, les PVT, les champignons tranches ou le jacquier effiloche remplacent bien les emiettes du commerce.
-- Reduire le sucre de moitie pour une version moins sucree.
-- Les restes se conservent 3 a 4 jours et se rechauffent bien a la poele avec un peu d'eau.
+- Les protéines de soya réhydratées, les PVT, les champignons tranches ou le jacquier effiloché remplacent bien les émiettés du commerce.
+- Réduire le sucre de moitié pour une version moins sucrée.
+- Les restes se conservent 3 à 4 jours et se rechauffent bien à la poêle avec un peu d'eau.
 
 </div>

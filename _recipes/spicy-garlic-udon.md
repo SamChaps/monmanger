@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Stir-Fried Spicy Garlic Udon"
 title_fr: "Udon sauté piquant à l'ail"
 excerpt: "Chewy udon noodles stir-fried with crumbled tofu, mushrooms, and a spicy sesame garlic sauce."
-excerpt_fr: "Nouilles udon moelleuses sautees avec du tofu emiette, des champignons et une sauce piquante au sesame et a l'ail."
+excerpt_fr: "Nouilles udon moelleuses sautées avec du tofu émietté, des champignons et une sauce piquante au sésame et à l'ail."
 date: 2025-07-26
 categories:
   - Main
@@ -69,48 +69,48 @@ Thick, chewy udon noodles stir-fried with crumbled tofu, shiitake mushrooms, gar
 
 <div class="lang-fr-content" markdown="1">
 
-Des nouilles udon epaisses et moelleuses sautees avec du tofu emiette, des champignons shiitake, de l'ail et des oignons verts, le tout enrobe d'une sauce piquante et savoureuse avec une touche sucree. Rapide, satisfaisant et plein de saveur.
+Des nouilles udon epaisses et moelleuses sautées avec du tofu émietté, des champignons shiitake, de l'ail et des oignons verts, le tout enrobé d'une sauce piquante et savoureuse avec une touche sucrée. Rapide, satisfaisant et plein de saveur.
 
-## Ingredients
+## Ingrédients
 
 ### Sauce
 
-- 1 c. a soupe de gochugaru (flocons de chili coreen) ou autre poudre de chili
-- 1 c. a soupe de sauce aux huitres vegetarienne aux champignons (ou sauce pour saute)
-- 1 c. a soupe de sauce soya
-- 1 c. a soupe de sucre
-- 1 c. a the de graines de sesame
-- 1 c. a soupe d'huile de sesame
-- 1 c. a soupe d'eau
+- 1 c. à soupe de gochugaru (flocons de chili coreen) ou autre poudre de chili
+- 1 c. à soupe de sauce aux huitres vegetarienne aux champignons (ou sauce pour sauté)
+- 1 c. à soupe de sauce soya
+- 1 c. à soupe de sucre
+- 1 c. à thé de graines de sésame
+- 1 c. à soupe d'huile de sésame
+- 1 c. à soupe d'eau
 
-### Tofu emiette
+### Tofu émietté
 
-- 2 c. a soupe d'huile neutre
-- 225 g (1/2 lb) de tofu extra-ferme, emiette
-- 1 c. a the de sauce soya foncee
+- 2 c. à soupe d'huile neutre
+- 225 g (1/2 lb) de tofu extra-ferme, émietté
+- 1 c. à thé de sauce soya foncee
 
 ### Saute
 
 - 400 g (14 oz) de nouilles udon fraiches
-- 1 c. a soupe d'huile neutre
-- 1 c. a soupe d'ail emince
+- 1 c. à soupe d'huile neutre
+- 1 c. à soupe d'ail émincé
 - 2 oignons verts, finement tranches (divises)
 - 100 g (3,5 oz) de champignons shiitake, tranches
-- 2 a 4 c. a soupe d'eau, au besoin
+- 2 à 4 c. à soupe d'eau, au besoin
 
 ## Instructions
 
-1. **Preparer** les nouilles udon en les faisant tremper dans l'eau chaude quelques minutes pour les separer, ou les cuire selon les instructions de l'emballage.
-2. **Melanger** tous les ingredients de la sauce et reserver.
-3. **Chauffer** 2 c. a soupe d'huile dans un grand wok a feu moyen-vif. Ajouter le tofu emiette et cuire sans toucher 3 a 4 minutes jusqu'a ce qu'il soit legerement dore. Assaisonner de sauce soya foncee et cuire 3 a 4 minutes de plus jusqu'a ce qu'il soit sec. Pousser sur le cote.
-4. **Ajouter** 1 c. a soupe d'huile. Faire sauter l'ail et la moitie des oignons verts 1 minute. Ajouter les champignons et sauter 2 a 3 minutes jusqu'a tendrete.
-5. **Ajouter** les nouilles et verser la sauce par-dessus. Bien melanger et cuire a feu moyen-vif 2 a 3 minutes. Ajouter de l'eau au besoin.
+1. **Préparer** les nouilles udon en les faisant tremper dans l'eau chaude quelques minutes pour les separer, ou les cuire selon les instructions de l'emballage.
+2. **Mélanger** tous les ingrédients de la sauce et réserver.
+3. **Chauffer** 2 c. à soupe d'huile dans un grand wok à feu moyen-vif. Ajouter le tofu émietté et cuire sans toucher 3 à 4 minutes jusqu'à ce qu'il soit légèrement doré. Assaisonner de sauce soya foncee et cuire 3 à 4 minutes de plus jusqu'à ce qu'il soit sec. Pousser sur le côté.
+4. **Ajouter** 1 c. à soupe d'huile. Faire sauter l'ail et la moitié des oignons verts 1 minute. Ajouter les champignons et sauter 2 à 3 minutes jusqu'à tendrete.
+5. **Ajouter** les nouilles et verser la sauce par-dessus. Bien mélanger et cuire à feu moyen-vif 2 à 3 minutes. Ajouter de l'eau au besoin.
 6. **Garnir** du reste des oignons verts et servir chaud.
 
 ## Notes & conseils
 
-- Le gochugaru est plus doux que la plupart des poudres de chili. Avec une variete plus piquante, commencer avec la moitie de la quantite.
-- Si vous utilisez des nouilles sechees, les cuire 1 a 2 minutes de moins que les instructions pour garder du mordant apres le saute.
+- Le gochugaru est plus doux que la plupart des poudres de chili. Avec une variete plus piquante, commencer avec la moitié de la quantite.
+- Si vous utilisez des nouilles séchées, les cuire 1 à 2 minutes de moins que les instructions pour garder du mordant apres le sauté.
 - Pas besoin de presser le tofu; l'humidite s'evapore pendant la cuisson.
 
 </div>

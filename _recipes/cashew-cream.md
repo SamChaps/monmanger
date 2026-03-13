@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cashew Cream"
 title_fr: "Crème de cajou"
 excerpt: "A versatile vegan cream made from blended cashews in 5 minutes."
@@ -75,12 +75,12 @@ Une crème de cajou soyeuse et légèrement acidulée qui remplace magnifiquemen
 
 ## Instructions
 
-1. **Mixer jusqu'à consistance lisse.** Déposer les cajous, l'eau, l'huile d'olive, le jus de citron, l'ail et le sel dans un mélangeur haute puissance. Mixer jusqu'à consistance parfaitement lisse et crémeuse.
+1. **Mixer jusqu'à consistance lisse.** Déposer les cajous, l'eau, l'huile d'olive, le jus de citron, l'ail et le sel dans un mélangéur haute puissance. Mixer jusqu'à consistance parfaitement lisse et crémeuse.
 2. **Pour la variante crème sure.** Suivre la même méthode en remplaçant une cuillère à soupe de jus de citron par du vinaigre de vin blanc, puis ajouter la moutarde et la poudre d'oignon avant de mixer.
 
 ## Notes & conseils
 
-- Un mélangeur haute puissance (comme un Vitamix) donne les meilleurs résultats. Avec un appareil moins puissant, faites tremper les cajous 4 heures ou toute une nuit au préalable.
+- Un mélangéur haute puissance (comme un Vitamix) donne les meilleurs résultats. Avec un appareil moins puissant, faites tremper les cajous 4 heures ou toute une nuit au préalable.
 - Ajustez la quantité d'eau, une cuillère à soupe à la fois, pour obtenir la consistance désirée : moins pour une tartinade, plus pour un filet.
 - Se conserve au réfrigérateur jusqu'à 5 jours dans un contenant hermétique.
 

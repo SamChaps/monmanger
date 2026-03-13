@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿---
 title: "Vodka Sauce Pasta"
 title_fr: "Pâtes sauce vodka"
 excerpt: "Rich and creamy tomato vodka sauce tossed with rotini in under 30 minutes."
-excerpt_fr: "Sauce tomate a la vodka riche et cremeuse sur rotinis en moins de 30 minutes."
+excerpt_fr: "Sauce tomate à la vodka riche et crémeuse sur rotinis en moins de 30 minutes."
 date: 2025-06-14
 categories:
   - Main
@@ -55,34 +55,34 @@ A classic Italian-American vodka sauce that comes together in under 30 minutes. 
 
 <div class="lang-fr-content" markdown="1">
 
-Une sauce vodka classique italo-americaine qui se prepare en moins de 30 minutes. Les echalotes et l'ail sont sautes jusqu'a legere caramelisation, puis combines avec de la pate de tomate, un trait de vodka et de la creme pour une sauce brillante et veloutee. Melangee aux rotinis et terminee avec du parmesan.
+Une sauce vodka classique italo-americaine qui se prépare en moins de 30 minutes. Les échalotes et l'ail sont sautés jusqu'à légère caramélisation, puis combinés avec de la pâte de tomate, un trait de vodka et de la crème pour une sauce brillante et veloutée. Mélangée aux rotinis et terminée avec du parmesan.
 
-## Ingredients
+## Ingrédients
 
-- 227 g (8 oz) de rotinis ou pates au choix
-- 30 ml (2 c. a soupe) d'huile d'olive
-- 1 grosse echalote, emincee
-- 2 gousses d'ail, emincees
-- 80 ml (1/3 tasse) de pate de tomate
-- 45 ml (3 c. a soupe) de vodka
-- 240 ml (1 tasse) de creme epaisse (ou creme vegetale pour une version sans produits laitiers)
-- 30 ml (2 c. a soupe) de beurre non sale (ou beurre vegetal)
-- 60 g (1/2 tasse) de parmesan fraichement rape (ou parmesan vegetalien)
-- Sel et poivre au gout
+- 227 g (8 oz) de rotinis ou pâtes au choix
+- 30 ml (2 c. à soupe) d'huile d'olive
+- 1 grosse échalote, émincée
+- 2 gousses d'ail, émincées
+- 80 ml (1/3 tasse) de pâte de tomate
+- 45 ml (3 c. à soupe) de vodka
+- 240 ml (1 tasse) de crème épaisse (ou crème végétale pour une version sans produits laitiers)
+- 30 ml (2 c. à soupe) de beurre non salé (ou beurre végétal)
+- 60 g (1/2 tasse) de parmesan fraichement râpé (ou parmesan végétalien)
+- Sel et poivre au goût
 
 ## Instructions
 
-1. **Cuire les pates.** Porter une grande casserole d'eau salee a ebullition. Cuire les rotinis jusqu'a al dente, 6 a 8 minutes. Egoutter en reservant 120 ml (1/2 tasse) d'eau de cuisson. Reserver les deux.
-2. **Faire sauter les aromates.** Chauffer l'huile d'olive dans une grande poele a feu moyen. Ajouter les echalotes et l'ail. Cuire 3 a 4 minutes jusqu'a ce qu'ils commencent a carameliser.
-3. **Ajouter la pate de tomate.** Incorporer et cuire jusqu'a ce qu'elle devienne rouge vif, 2 a 3 minutes.
-4. **Deglacer a la vodka.** Verser la vodka et remuer jusqu'a evaporation complete. Ajouter l'eau de cuisson reservee et melanger jusqu'a consistance lisse. Assaisonner de sel et poivre.
-5. **Creer la sauce.** Incorporer la creme jusqu'a consistance lisse. Reduire le feu a moyen-doux et laisser mijoter 3 a 4 minutes. Ajouter le beurre et le parmesan, poursuivre la cuisson jusqu'a ce que la sauce soit brillante et assez epaisse pour napper le dos d'une cuillere.
-6. **Melanger avec les pates.** Ajouter les pates cuites dans la sauce et remuer pour bien enrober. Assaisonner au gout et servir avec du parmesan supplementaire et du poivre noir.
+1. **Cuire les pâtes.** Porter une grande casserole d'eau salée a ébullition. Cuire les rotinis jusqu'à al dente, 6 à 8 minutes. Égoutter en reservant 120 ml (1/2 tasse) d'eau de cuisson. Réserver les deux.
+2. **Faire sauter les aromates.** Chauffer l'huile d'olive dans une grande poêle à feu moyen. Ajouter les échalotes et l'ail. Cuire 3 à 4 minutes jusqu'à ce qu'ils commencent a caraméliser.
+3. **Ajouter la pâte de tomate.** Incorporer et cuire jusqu'à ce qu'elle devienne rouge vif, 2 à 3 minutes.
+4. **Deglacer à la vodka.** Verser la vodka et remuer jusqu'à évaporation complète. Ajouter l'eau de cuisson réservée et mélanger jusqu'à consistance lisse. Assaisonner de sel et poivre.
+5. **Creer la sauce.** Incorporer la crème jusqu'à consistance lisse. Réduire le feu a moyen-doux et laisser mijoter 3 à 4 minutes. Ajouter le beurre et le parmesan, poursuivre la cuisson jusqu'à ce que la sauce soit brillante et assez épaisse pour napper le dos d'une cuillere.
+6. **Mélanger avec les pâtes.** Ajouter les pâtes cuites dans la sauce et remuer pour bien enrober. Assaisonner au goût et servir avec du parmesan supplementaire et du poivre noir.
 
 ## Notes & conseils
 
-- Pour une version entierement vegetale, remplacer la creme par de la creme de cajou ou d'avoine, et utiliser du beurre et du parmesan vegetaliens.
-- La sauce peut etre preparee jusqu'a 5 jours a l'avance et conservee separement des pates.
-- Pour congeler, preparer la sauce jusqu'a l'etape avant d'ajouter la creme. Congeler jusqu'a 3 mois, puis decongeler et ajouter la creme au rechauffage.
+- Pour une version entièrement végétale, remplacer la crème par de la crème de cajou ou d'avoine, et utiliser du beurre et du parmesan végétaliens.
+- La sauce peut être préparée jusqu'à 5 jours à l'avance et conservee separement des pâtes.
+- Pour congeler, préparer la sauce jusqu'à l'etape avant d'ajouter la crème. Congeler jusqu'à 3 mois, puis decongeler et ajouter la crème au rechauffage.
 
 </div>

@@ -1,4 +1,4 @@
----
+﻿﻿---
 title: "Smoked Tempeh Nuggets"
 title_fr: "Pépites de tempeh fumé"
 excerpt: "Grated tempeh tossed with smoky maple soy glaze and baked until golden and crispy."
@@ -64,9 +64,9 @@ Du tempeh râpé enrobé d'un glaçage fumé, sucré et salé, cuit au four jusq
 ## Instructions
 
 1. **Préchauffer** le four à 190 C (375 F). Tapisser une plaque de cuisson de papier parchemin.
-2. **Râper** le tempeh sur le côté grossier d'une râpe à boite dans un bol.
+2. **Râper** le tempeh sur le côté grossier d'une râpe à boîte dans un bol.
 3. **Mélanger** le tempeh râpé avec l'huile, la sauce soya, le sirop d'érable, la fumée liquide et le paprika jusqu'à ce que le tout soit bien enrobé.
-4. **Étaler** le mélange en une seule couche sur la plaque préparée.
+4. **Étaler** le mélangé en une seule couche sur la plaque préparée.
 5. **Cuire** 15 minutes, remuer, puis poursuivre la cuisson 10 minutes jusqu'à ce que les pépites soient dorées et légèrement croustillantes.
 6. **Servir** chaud ou utiliser comme garniture au cours de la semaine.
 

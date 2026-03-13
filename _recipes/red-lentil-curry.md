@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Red Lentil Curry"
 title_fr: "Cari aux lentilles rouges"
 excerpt: "Creamy coconut red lentil curry loaded with spices and almond butter for extra richness."
@@ -64,43 +64,43 @@ A deeply spiced red lentil curry simmered in crushed tomatoes and coconut milk, 
 
 <div class="lang-fr-content" markdown="1">
 
-Un cari de lentilles rouges bien epice, mijote dans des tomates broyees et du lait de coco, termine avec un filet de beurre d'amande pour un veloute soyeux. Delicieusement aromatique avec du gingembre, du curcuma et du garam masala. Idealement servi sur du riz basmati avec du pain plat en accompagnement.
+Un cari de lentilles rouges bien épicé, mijote dans des tomates broyées et du lait de coco, terminé avec un filet de beurre d'amande pour un velouté soyeux. Delicieusement aromatique avec du gingembre, du curcuma et du garam masala. Idealement servi sur du riz basmati avec du pain plat en accompagnement.
 
-## Ingredients
+## Ingrédients
 
-- 1 c. a soupe d'huile de coco (ou huile neutre)
-- 4 gousses d'ail, emincees
-- 1 morceau de gingembre frais de 5 cm (2 po), pele et emince
-- 1 c. a soupe de curcuma frais, emince (ou 1 c. a the de curcuma moulu)
-- 1-2 piments serrano, coupes en des
-- 1 c. a the de cumin moulu
-- 1/2 c. a the de coriandre moulue
-- 1/2 c. a the de poudre de chili indien
-- 2 c. a the de poudre de cari
-- 1/2 c. a the de garam masala
-- Sel et poivre, au gout
-- 180 g (1 tasse) de lentilles rouges, rincees
-- 480 ml (2 tasses) de bouillon de legumes faible en sodium
-- 1 boite (400 g) de tomates broyees
-- 1 boite (400 ml) de lait de coco entier
-- 3 c. a soupe de beurre d'amande crémeux non sucre
+- 1 c. à soupe d'huile de coco (ou huile neutre)
+- 4 gousses d'ail, émincées
+- 1 morceau de gingembre frais de 5 cm (2 po), pelé et émincé
+- 1 c. à soupe de curcuma frais, émincé (ou 1 c. à thé de curcuma moulu)
+- 1-2 piments serrano, coupés en dés
+- 1 c. à thé de cumin moulu
+- 1/2 c. à thé de coriandre moulue
+- 1/2 c. à thé de poudre de chili indien
+- 2 c. à thé de poudre de cari
+- 1/2 c. à thé de garam masala
+- Sel et poivre, au goût
+- 180 g (1 tasse) de lentilles rouges, rincées
+- 480 ml (2 tasses) de bouillon de légumes faible en sodium
+- 1 boîte (400 g) de tomates broyées
+- 1 boîte (400 ml) de lait de coco entier
+- 3 c. à soupe de beurre d'amande crémeux non sucré
 - Jus de 1/2 citron
-- 125 ml (1/2 tasse) de coriandre fraiche, grossierement hachee
+- 125 ml (1/2 tasse) de coriandre fraîche, grossièrement hachée
 - Riz basmati ou jasmin, pour servir
 
 ## Instructions
 
-1. **Rincer** les lentilles a l'eau froide jusqu'a ce que l'eau soit claire.
-2. **Chauffer** l'huile de coco dans une grande poele profonde a feu moyen-vif. Ajouter l'ail, le gingembre, le curcuma frais et le piment serrano. Cuire 2 minutes en remuant souvent.
-3. **Ajouter** le cumin, la coriandre, la poudre de chili, la poudre de cari, le garam masala, le sel et le poivre. Cuire 30 a 60 secondes jusqu'a ce que les aromes se liberent.
-4. **Verser** le bouillon et decoller les sucs de cuisson. Incorporer les lentilles et les tomates broyees. Reduire le feu, couvrir et laisser mijoter 20 a 25 minutes jusqu'a ce que les lentilles soient tendres.
-5. **Incorporer** le lait de coco et le beurre d'amande. Assaisonner au gout et laisser mijoter a decouvert 5 a 8 minutes jusqu'a consistance epaisse et cremeuse.
+1. **Rincer** les lentilles à l'eau froide jusqu'à ce que l'eau soit claire.
+2. **Chauffer** l'huile de coco dans une grande poêle profonde à feu moyen-vif. Ajouter l'ail, le gingembre, le curcuma frais et le piment serrano. Cuire 2 minutes en remuant souvent.
+3. **Ajouter** le cumin, la coriandre, la poudre de chili, la poudre de cari, le garam masala, le sel et le poivre. Cuire 30 à 60 secondes jusqu'à ce que les aromes se liberent.
+4. **Verser** le bouillon et decoller les sucs de cuisson. Incorporer les lentilles et les tomates broyées. Réduire le feu, couvrir et laisser mijoter 20 à 25 minutes jusqu'à ce que les lentilles soient tendres.
+5. **Incorporer** le lait de coco et le beurre d'amande. Assaisonner au goût et laisser mijoter a découvert 5 à 8 minutes jusqu'à consistance épaisse et crémeuse.
 6. **Terminer** avec le jus de citron et la coriandre. Servir sur du riz.
 
 ## Notes & conseils
 
 - Pour moins de piquant, utiliser un seul piment serrano sans les graines, ou le remplacer par un jalapeno.
 - Pour plus de piquant, utiliser deux piments serrano avec les graines.
-- Les restes se conservent 3 a 4 jours au refrigerateur et se rechauffent bien.
+- Les restes se conservent 3 à 4 jours au réfrigérateur et se rechauffent bien.
 
 </div>

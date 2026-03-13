@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Korean Enoki Mushroom Pancakes"
 title_fr: "Crêpes coréennes aux champignons enoki"
 excerpt: "Crispy little egg pancakes studded with enoki mushrooms, carrots, and chives."
@@ -52,14 +52,14 @@ Tiny, golden pancakes packed with strands of enoki mushrooms coated in flour and
 
 <div class="lang-fr-content" markdown="1">
 
-De petites crêpes dorées garnies de filaments de champignons enoki enrobés de farine et d'huile de sésame, liés avec un oeuf assaisonné. Elles cuisent en quelques minutes et sont délicieusement croustillantes.
+De petites crêpes dorées garnies de filaments de champignons enoki enrobés de farine et d'huile de sésame, liés avec un œuf assaisonné. Elles cuisent en quelques minutes et sont délicieusement croustillantes.
 
 ## Ingrédients
 
 - 200 g (7 oz) de champignons enoki, pieds ligneux retirés, rincés et égouttés
 - 2 c. à soupe de farine tout usage
 - 1 c. à thé d'huile de sésame
-- 2 gros oeufs, battus
+- 2 gros œufs, battus
 - 20 g (0,7 oz) de petite carotte, coupée en petits dés
 - 10 g (0,4 oz) d'oignon, coupé en petits dés
 - 5 g (0,2 oz) de ciboulette à l'ail ou oignons verts, hachés finement
@@ -70,8 +70,8 @@ De petites crêpes dorées garnies de filaments de champignons enoki enrobés de
 ## Instructions
 
 1. **Enrober les champignons.** Séparer grossièrement les grappes d'enoki et placer sur une grande assiette. Saupoudrer de farine et d'huile de sésame. Rouler les champignons avec des baguettes jusqu'à ce qu'ils soient bien enrobés.
-2. **Préparer l'appareil.** Dans un bol, mélanger les oeufs battus, la carotte, l'oignon, la ciboulette, le sel et le poivre. Bien mélanger. Ajouter les champignons enrobés et les tremper dans le mélange.
-3. **Cuire.** Chauffer un poêlon à feu moyen avec une fine couche d'huile. Déposer des cuillerées du mélange dans le poêlon. Cuire jusqu'à ce que le dessous soit doré, puis retourner et cuire l'autre côté.
+2. **Préparer l'appareil.** Dans un bol, mélanger les œufs battus, la carotte, l'oignon, la ciboulette, le sel et le poivre. Bien mélanger. Ajouter les champignons enrobés et les tremper dans le mélangé.
+3. **Cuire.** Chauffer un poêlon à feu moyen avec une fine couche d'huile. Déposer des cuillerées du mélangé dans le poêlon. Cuire jusqu'à ce que le dessous soit doré, puis retourner et cuire l'autre côté.
 4. **Répéter** avec le reste de l'appareil, en ajoutant un peu d'huile entre les fournées. Cela devrait donner environ 20 petites crêpes.
 5. **Servir** chaud avec une sauce trempette coréenne.
 

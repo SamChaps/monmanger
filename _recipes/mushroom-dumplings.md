@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mushroom Dumplings with Chili Ginger Sesame Sauce"
 title_fr: "Dumplings aux champignons avec sauce sésame au piment et gingembre"
 excerpt: "Pan-fried dumplings filled with caramelized mushrooms and greens, with a sweet-spicy dipping sauce."
@@ -71,7 +71,7 @@ Crispy-bottomed dumplings stuffed with a savory filling of caramelized mushrooms
 
 <div class="lang-fr-content" markdown="1">
 
-Des dumplings croustillants sur le dessous, farcis d'un mélange savoureux de champignons caramélisés, échalotes, gingembre et verdures. Les emballages enrobés de sésame sont poêlés puis cuits à la vapeur, et servis avec une sauce sucrée-épicée au piment et gingembre.
+Des dumplings croustillants sur le dessous, farcis d'un mélangé savoureux de champignons caramélisés, échalotes, gingembre et verdures. Les emballages enrobés de sésame sont poêlés puis cuits à la vapeur, et servis avec une sauce sucrée-épicée au piment et gingembre.
 
 ## Ingrédients
 
@@ -114,7 +114,7 @@ Des dumplings croustillants sur le dessous, farcis d'un mélange savoureux de ch
 ## Notes & conseils
 
 - Pour congeler : assembler jusqu'à l'étape 3, congeler sur une plaque 30 minutes, puis transférer dans un sac. Poêler directement congelés en ajoutant 4 à 5 minutes de vapeur.
-- Les champignons cremini et shiitake fonctionnent tous les deux. Un mélange des deux donne le meilleur goût.
+- Les champignons cremini et shiitake fonctionnent tous les deux. Un mélangé des deux donne le meilleur goût.
 - Utiliser du sirop d'érable au lieu du miel pour une version végane.
 
 </div>

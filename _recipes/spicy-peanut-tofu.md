@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Spicy Peanut Tofu"
 title_fr: "Tofu épicé sauce aux arachides"
 excerpt: "Tofu simmered in a creamy one-pot peanut sauce with soy, maple syrup, and sriracha."
-excerpt_fr: "Tofu mijote dans une sauce cremeuse aux arachides en un seul chaudron avec soya, sirop d'erable et sriracha."
+excerpt_fr: "Tofu mijote dans une sauce crémeuse aux arachides en un seul chaudron avec soya, sirop d'érable et sriracha."
 date: 2025-07-26
 categories:
   - Main
@@ -60,39 +60,39 @@ A simple one-pot recipe: tofu cubes simmered in a creamy peanut butter sauce wit
 
 <div class="lang-fr-content" markdown="1">
 
-Une recette simple en un seul chaudron: des cubes de tofu mijoter dans une sauce cremeuse au beurre d'arachide avec soya, ketchup, sirop d'erable et une touche de sriracha. La sauce reduit en un enrobage brillant. Servir sur du riz basmati et garnir d'oignons verts ou de coriandre.
+Une recette simple en un seul chaudron: des cubes de tofu mijoter dans une sauce crémeuse au beurre d'arachide avec soya, ketchup, sirop d'érable et une touche de sriracha. La sauce réduit en un enrobage brillant. Servir sur du riz basmati et garnir d'oignons verts ou de coriandre.
 
-## Ingredients
+## Ingrédients
 
-- 450 g (1 lb) de tofu ferme, coupe en des
-- 2 c. a soupe d'huile vegetale
-- 2 echalotes francaises (ou 1 petit oignon), hachees finement
-- 2 gousses d'ail hachees
-- 2 c. a soupe de sauce soya
-- 2 c. a soupe de ketchup
+- 450 g (1 lb) de tofu ferme, coupé en dés
+- 2 c. à soupe d'huile végétale
+- 2 échalotes francaises (ou 1 petit oignon), hachées finement
+- 2 gousses d'ail hachées
+- 2 c. à soupe de sauce soya
+- 2 c. à soupe de ketchup
 - 60 ml (1/4 tasse) de beurre d'arachide
-- 1 c. a soupe de sirop d'erable
-- 250 ml (1 tasse) de bouillon de legumes
-- 1/2 c. a the de sauce sriracha (ou 1/4 c. a the de piment rouge broye)
+- 1 c. à soupe de sirop d'érable
+- 250 ml (1 tasse) de bouillon de légumes
+- 1/2 c. à thé de sauce sriracha (ou 1/4 c. à thé de piment rouge broye)
 
 ### Riz basmati
 
 - 500 ml (2 tasses) de riz basmati
 - 750 ml (3 tasses) d'eau
-- 1/2 c. a the de sel
+- 1/2 c. à thé de sel
 
 ## Instructions
 
-1. **Rincer** le riz a l'eau froide et bien egoutter. Verser le riz, l'eau et le sel dans une casserole. Porter a ebullition, reduire au minimum, remuer et couvrir. Cuire 10 a 12 minutes jusqu'a absorption de l'eau. Retirer du feu et laisser reposer 5 minutes a couvert.
-2. **Chauffer** l'huile vegetale dans une casserole. Ajouter les echalotes et l'ail, faire revenir 2 minutes.
-3. **Ajouter** la sauce soya, le ketchup, le beurre d'arachide, le sirop d'erable, le bouillon et la sriracha. Bien melanger.
-4. **Ajouter** le tofu, porter a ebullition et laisser reduire jusqu'a ce que la sauce soit onctueuse.
-5. **Servir** sur du riz basmati, garni d'oignons verts haches, de coriandre ou de micropousses.
+1. **Rincer** le riz à l'eau froide et bien égoutter. Verser le riz, l'eau et le sel dans une casserole. Porter a ébullition, réduire au minimum, remuer et couvrir. Cuire 10 à 12 minutes jusqu'à absorption de l'eau. Retirer du feu et laisser reposer 5 minutes a couvert.
+2. **Chauffer** l'huile végétale dans une casserole. Ajouter les échalotes et l'ail, faire revenir 2 minutes.
+3. **Ajouter** la sauce soya, le ketchup, le beurre d'arachide, le sirop d'érable, le bouillon et la sriracha. Bien mélanger.
+4. **Ajouter** le tofu, porter a ébullition et laisser réduire jusqu'à ce que la sauce soit onctueuse.
+5. **Servir** sur du riz basmati, garni d'oignons verts hachés, de coriandre ou de micropousses.
 
 ## Notes & conseils
 
-- Un seul chaudron necessaire pour le tofu, donc tres peu de vaisselle.
-- Ajuster la sriracha au gout.
-- Les restes se rechauffent bien; la sauce epaissit au refrigerateur, ajouter un peu d'eau au rechauffage.
+- Un seul chaudron nécessaire pour le tofu, donc très peu de vaisselle.
+- Ajuster la sriracha au goût.
+- Les restes se rechauffent bien; la sauce épaissit au réfrigérateur, ajouter un peu d'eau au rechauffage.
 
 </div>

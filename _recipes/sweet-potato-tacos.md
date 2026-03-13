@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿﻿﻿---
 title: "Sweet Potato Tacos"
 title_fr: "Tacos de patate douce à l'érable"
 excerpt: "Maple-roasted sweet potato tacos with pickled onions, avocado cream, and chipotle cashew sauce."
-excerpt_fr: "Tacos de patates douces roties a l'erable avec oignons marines, creme a l'avocat et sauce chipotle aux noix de cajou."
+excerpt_fr: "Tacos de patates douces rôties à l'érable avec oignons marinés, crème à l'avocat et sauce chipotle aux noix de cajou."
 date: 2025-07-26
 categories:
   - Main
@@ -86,32 +86,32 @@ Maple-roasted sweet potato cubes piled into warm tortillas with tangy pickled re
 
 <div class="lang-fr-content" markdown="1">
 
-Des cubes de patate douce rotis a l'erable garnis dans des tortillas chaudes avec des oignons rouges marines acidules, une creme d'avocat onctueuse et une sauce chipotle fumee aux noix de cajou. Trois sauces, mais chacune peut etre preparee a l'avance pour un assemblage final sans effort.
+Des cubes de patate douce rôtis à l'érable garnis dans des tortillas chaudes avec des oignons rouges marinés acidulés, une crème d'avocat onctueuse et une sauce chipotle fumée aux noix de cajou. Trois sauces, mais chacune peut être préparée à l'avance pour un assemblage final sans effort.
 
-## Ingredients
+## Ingrédients
 
-### Oignons marines
+### Oignons marinés
 
 - 60 ml (1/4 tasse) de sucre
-- 1 c. a soupe de sel
+- 1 c. à soupe de sel
 - 250 ml (1 tasse) de vinaigre blanc
-- 3 oignons rouges, eminces
+- 3 oignons rouges, émincés
 
-### Patates douces a l'erable
+### Patates douces à l'érable
 
-- 1,25 L (5 tasses) de patates douces, coupees en des
-- 3 c. a soupe d'huile d'olive
-- 3 c. a soupe de sirop d'erable
-- 2 c. a the de paprika
-- 1/2 c. a the de sel
+- 1,25 L (5 tasses) de patates douces, coupées en dés
+- 3 c. à soupe d'huile d'olive
+- 3 c. à soupe de sirop d'érable
+- 2 c. à thé de paprika
+- 1/2 c. à thé de sel
 
-### Creme a l'avocat
+### Crème à l'avocat
 
 - 4 avocats
 - Jus de 2 limes
-- 125 ml (1/2 tasse) de yogourt grec nature (ou creme sure)
-- 1/2 c. a the de sel
-- Sauce piquante, au gout
+- 125 ml (1/2 tasse) de yogourt grec nature (ou crème sure)
+- 1/2 c. à thé de sel
+- Sauce piquante, au goût
 
 ### Sauce chipotle aux noix de cajou
 
@@ -119,33 +119,33 @@ Des cubes de patate douce rotis a l'erable garnis dans des tortillas chaudes ave
 - 125 ml (1/2 tasse) de yogourt grec nature
 - 60 ml (1/4 tasse) d'huile d'olive
 - 60 ml (1/4 tasse) d'eau
-- 2 1/2 c. a soupe de piments chipotle en sauce adobo, haches
-- 1 c. a soupe de miel
-- 1 c. a the de paprika
+- 2 1/2 c. à soupe de piments chipotle en sauce adobo, hachés
+- 1 c. à soupe de miel
+- 1 c. à thé de paprika
 - Jus de 2 limes
-- 1 gousse d'ail entiere, pelee
-- Sel et poivre, au gout
+- 1 gousse d'ail entière, pelée
+- Sel et poivre, au goût
 
 ### Pour servir
 
 - 8 petites tortillas
-- 125 ml (1/2 tasse) de feta de chevre emiettee
-- 1 jalapeno coupe en rondelles (optionnel)
+- 125 ml (1/2 tasse) de feta de chevre émiettée
+- 1 jalapeno coupé en rondelles (optionnel)
 
 ## Instructions
 
-1. **Prechauffer** le four a 205 C (400 F).
-2. **Preparer** les oignons marines: dissoudre le sucre et le sel dans le vinaigre dans une petite casserole a feu moyen, porter a ebullition douce. Mijoter 2 minutes, puis verser sur les oignons en s'assurant de bien defaire les anneaux. Refrigerer au moins 1 heure.
-3. **Melanger** les patates douces avec l'huile, le sirop d'erable, le paprika et le sel. Etaler sur une plaque tapissee de papier parchemin. Rotir 40 a 50 minutes en remuant de temps a autre.
-4. **Melanger** tous les ingredients de la creme a l'avocat au robot culinaire jusqu'a consistance lisse. Transferer dans un bol et refrigerer.
-5. **Melanger** tous les ingredients de la sauce chipotle jusqu'a ce que la texture soit homogene et les noix completement broyees. Refrigerer.
-6. **Chauffer** les tortillas dans une poele seche a feu moyen-eleve, 30 secondes a 1 minute de chaque cote.
-7. **Garnir** les tortillas de creme a l'avocat, de patates douces roties, de sauce chipotle, d'oignons marines, de feta emiettee et de jalapeno si desire.
+1. **Préchauffer** le four a 205 C (400 F).
+2. **Préparer** les oignons marinés: dissoudre le sucre et le sel dans le vinaigre dans une petite casserole à feu moyen, porter a ébullition douce. Mijoter 2 minutes, puis verser sur les oignons en s'assurant de bien défaire les anneaux. Refrigerer au moins 1 heure.
+3. **Mélanger** les patates douces avec l'huile, le sirop d'érable, le paprika et le sel. Étaler sur une plaque tapissée de papier parchemin. Rotir 40 à 50 minutes en remuant de temps à autre.
+4. **Mélanger** tous les ingrédients de la crème à l'avocat au robot culinaire jusqu'à consistance lisse. Transferer dans un bol et réfrigérer.
+5. **Mélanger** tous les ingrédients de la sauce chipotle jusqu'à ce que la texture soit homogène et les noix complètement broyées. Refrigerer.
+6. **Chauffer** les tortillas dans une poêle séché à feu moyen-élevé, 30 secondes a 1 minute de chaque côté.
+7. **Garnir** les tortillas de crème à l'avocat, de patates douces rôties, de sauce chipotle, d'oignons marinés, de feta émiettée et de jalapeno si désiré.
 
 ## Notes & conseils
 
-- Les oignons marines peuvent etre prepares jusqu'a 3 semaines a l'avance; plus ils marinent, meilleurs ils sont et plus ils seront d'un rose vibrant.
-- La creme a l'avocat est meilleure preparee dans les 24 heures. La sauce aux noix de cajou se conserve jusqu'a 5 jours au refrigerateur.
-- Utiliser du yogourt sans produits laitiers pour une version entierement vegane.
+- Les oignons marinés peuvent être préparés jusqu'à 3 semaines à l'avance; plus ils marinent, meilleurs ils sont et plus ils seront d'un rose vibrant.
+- La crème à l'avocat est meilleure préparée dans les 24 heures. La sauce aux noix de cajou se conserve jusqu'à 5 jours au réfrigérateur.
+- Utiliser du yogourt sans produits laitiers pour une version entièrement vegane.
 
 </div>

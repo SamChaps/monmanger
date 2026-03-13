@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Vegetarian Chili"
 title_fr: "Chili végétarien"
 excerpt: "Smoky bean chili with fire-roasted tomatoes, chipotles, and corn."
-excerpt_fr: "Chili de haricots fume aux tomates grillees, chipotles et mais."
+excerpt_fr: "Chili de haricots fumé aux tomates grillées, chipotles et maïs."
 date: 2025-06-14
 categories:
   - Main
@@ -68,46 +68,46 @@ A hearty, satisfying chili built on two kinds of beans, fire-roasted tomatoes, a
 
 <div class="lang-fr-content" markdown="1">
 
-Un chili copieux et satisfaisant a base de deux types de haricots, de tomates grillees au feu et de chipotles en adobo pour une chaleur profonde et fumee. Le mais ajoute une touche de douceur et un filet de lime lie le tout. Pret en moins d'une heure et naturellement sans gluten.
+Un chili copieux et satisfaisant a base de deux types de haricots, de tomates grillées au feu et de chipotles en adobo pour une chaleur profonde et fumée. Le maïs ajoute une touche de douceur et un filet de lime lie le tout. Pret en moins d'une heure et naturellement sans gluten.
 
-## Ingredients
+## Ingrédients
 
-- 30 ml (2 c. a soupe) d'huile d'olive
-- 1 petit oignon jaune, hache
-- 1 poivron rouge, epepine et coupe en des
-- 2 gousses d'ail, emincees
-- 5 ml (1 c. a the) de poudre de chili (facultatif)
-- 5 ml (1 c. a the) de cumin moulu (facultatif)
-- 1 boite (398 ml / 14 oz) de tomates en des grillees au feu
-- 1 boite (398 ml / 14 oz) de haricots rouges, egouttes et rinces
-- 1 boite (398 ml / 14 oz) de haricots pinto, egouttes et rinces
-- 240 ml (1 tasse) d'eau ou de bouillon de legumes
-- 3 chipotles d'une boite de chipotles en adobo, coupes en des
-- 45 ml (3 c. a soupe) de sauce adobo
-- 240 ml (1 tasse) de grains de mais, frais ou surgeles
-- 1/2 c. a the de sel de mer, plus au gout
+- 30 ml (2 c. à soupe) d'huile d'olive
+- 1 petit oignon jaune, haché
+- 1 poivron rouge, épépiné et coupé en dés
+- 2 gousses d'ail, émincées
+- 5 ml (1 c. à thé) de poudre de chili (facultatif)
+- 5 ml (1 c. à thé) de cumin moulu (facultatif)
+- 1 boîte (398 ml / 14 oz) de tomates en dés grillées au feu
+- 1 boîte (398 ml / 14 oz) de haricots rouges, égouttés et rincés
+- 1 boîte (398 ml / 14 oz) de haricots pinto, égouttés et rincés
+- 240 ml (1 tasse) d'eau ou de bouillon de légumes
+- 3 chipotles d'une boîte de chipotles en adobo, coupés en dés
+- 45 ml (3 c. à soupe) de sauce adobo
+- 240 ml (1 tasse) de grains de maïs, frais ou surgeles
+- 1/2 c. à thé de sel de mer, plus au goût
 - Poivre noir fraichement moulu
-- 15 ml (1 c. a soupe) de jus de lime frais, plus des quartiers pour servir
+- 15 ml (1 c. à soupe) de jus de lime frais, plus des quartiers pour servir
 
 **Garnitures**
 
-- Avocat coupe en des
-- Yogourt ou creme sure vegetalienne
-- Coriandre fraiche
-- Oignons marines
+- Avocat coupé en dés
+- Yogourt ou crème sure végétalienne
+- Coriandre fraîche
+- Oignons marinés
 - Jalapeno tranche
 
 ## Instructions
 
-1. **Faire sauter les aromates.** Chauffer l'huile dans une grande casserole a feu moyen. Ajouter l'oignon, une pincee de sel et quelques tours de moulin a poivre. Cuire jusqu'a ce qu'il soit translucide, environ 5 minutes, puis ajouter le poivron et cuire 5 a 8 minutes de plus jusqu'a ce qu'il soit tendre.
-2. **Ajouter les epices.** Incorporer l'ail, la poudre de chili et le cumin. Cuire 30 secondes jusqu'a ce que ce soit parfume.
-3. **Mijoter le chili.** Ajouter les tomates, les deux types de haricots, l'eau, les chipotles, la sauce adobo, le mais, le sel et le poivre. Couvrir, reduire le feu et laisser mijoter 25 minutes en remuant de temps en temps, jusqu'a epaississement.
-4. **Terminer avec la lime.** Incorporer le jus de lime et assaisonner au gout. Servir avec les garnitures de votre choix.
+1. **Faire sauter les aromates.** Chauffer l'huile dans une grande casserole à feu moyen. Ajouter l'oignon, une pincee de sel et quelques tours de moulin a poivre. Cuire jusqu'à ce qu'il soit translucide, environ 5 minutes, puis ajouter le poivron et cuire 5 à 8 minutes de plus jusqu'à ce qu'il soit tendre.
+2. **Ajouter les épices.** Incorporer l'ail, la poudre de chili et le cumin. Cuire 30 secondes jusqu'à ce que ce soit parfume.
+3. **Mijoter le chili.** Ajouter les tomates, les deux types de haricots, l'eau, les chipotles, la sauce adobo, le maïs, le sel et le poivre. Couvrir, réduire le feu et laisser mijoter 25 minutes en remuant de temps en temps, jusqu'à épaississement.
+4. **Terminer avec la lime.** Incorporer le jus de lime et assaisonner au goût. Servir avec les garnitures de votre choix.
 
 ## Notes & conseils
 
-- Le piquant des chipotles varie; commencer avec moins si vous etes sensible aux epices. Ajouter plus de jus de lime et un filet d'huile pour adoucir un exces de chaleur.
-- Ce chili est encore meilleur le lendemain. Se conserve 4 a 5 jours au refrigerateur et se congele bien.
-- Servir sur du riz, avec du pain de mais ou avec des chips de tortilla.
+- Le piquant des chipotles varie; commencer avec moins si vous etes sensible aux épices. Ajouter plus de jus de lime et un filet d'huile pour adoucir un excès de chaleur.
+- Ce chili est encore meilleur le lendemain. Se conserve 4 à 5 jours au réfrigérateur et se congelé bien.
+- Servir sur du riz, avec du pain de maïs ou avec des chips de tortilla.
 
 </div>

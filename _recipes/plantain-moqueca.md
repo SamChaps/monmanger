@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Plantain Moqueca"
 title_fr: "Moqueca de banane plantain"
 excerpt: "A traditional Brazilian stew with ripe plantains, peppers, tomatoes, coconut milk, and dende oil."
@@ -94,9 +94,9 @@ Un ragoût brésilien riche et parfumé où des bananes plantain mûres gardent 
 ## Instructions
 
 1. **Préparer le bouillon aromatique.** Chauffer 1 c. à soupe d'huile d'olive dans une marmite en terre cuite ou une casserole moyenne à feu moyen. Ajouter l'ail, les piments, les racines et tiges de coriandre et une pincée de sel. Faire revenir environ 3 minutes jusqu'à ce que ce soit très parfumé. Ajouter l'eau et le zeste de lime, porter à ébullition, réduire le feu et laisser mijoter 5 minutes. Retirer le zeste de lime.
-2. **Mixer le bouillon.** Transférer le bouillon au mélangeur. Ajouter l'huile de dendê, le lait de coco et le sel. Mixer 2 minutes jusqu'à consistance lisse et émulsionnée. Tenir le couvercle fermement avec un linge pour éviter les éclaboussures.
+2. **Mixer le bouillon.** Transférer le bouillon au mélangéur. Ajouter l'huile de dendê, le lait de coco et le sel. Mixer 2 minutes jusqu'à consistance lisse et émulsionnée. Tenir le couvercle fermement avec un linge pour éviter les éclaboussures.
 3. **Faire revenir les légumes.** Remettre la marmite à feu moyen avec 1 c. à soupe d'huile d'olive. Ajouter les poivrons et l'oignon avec une pincée de sel. Faire revenir environ 4 minutes jusqu'à ce que les légumes ramollissent.
-4. **Mijoter le ragoût.** Ajouter les rondelles de plantain et les tomates dans la marmite et remuer délicatement. Verser le bouillon mixé. Couvrir, réduire le feu et laisser mijoter environ 15 minutes, jusqu'à ce que les plantains soient cuits mais gardent leur forme.
+4. **Mijoter le ragoût.** Ajouter les rondelles de plantain et les tomates dans la marmite et remuer délicatement. Verser le bouillon mixé. Couvrir, réduire le feu et laisser mijoter environ 15 minutes, jusqu'à ce que les plantains soient cuits maïs gardent leur forme.
 5. **Terminer** avec les feuilles de coriandre fraîche et servir immédiatement.
 
 ## Notes & conseils

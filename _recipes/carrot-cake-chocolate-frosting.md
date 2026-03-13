@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Carrot Cake with Chocolate Frosting"
 title_fr: "Gâteau aux carottes avec glaçage au chocolat"
 excerpt: "A moist, spiced carrot cake topped with glossy chocolate ganache."
@@ -83,7 +83,7 @@ Un gâteau aux carottes plein de saveur, fait avec du beurre noisette et des ép
 - 3/4 c. à thé (4 g) de sel
 - 255 g (1 1/4 tasse) de sucre granulé
 - 142 g (3/4 tasse tassée) de cassonade
-- 4 gros oeufs
+- 4 gros œufs
 - 198 g (3/4 tasse + 2 c. à soupe) de crème sure ou crème fraîche
 - 113 ml (1/2 tasse) d'huile neutre
 - 142 g (5 oz) de beurre noisette, légèrement refroidi
@@ -99,10 +99,10 @@ Un gâteau aux carottes plein de saveur, fait avec du beurre noisette et des ép
 
 1. **Préchauffer le four** à 175 °C (350 °F). Beurrer et fariner deux moules ronds de 25 cm (10 po) ou un moule rectangulaire.
 2. **Mélanger les ingrédients secs.** Tamiser ensemble la farine, la poudre à pâte, le bicarbonate, le sel, le quatre-épices, la muscade et la cannelle.
-3. **Mélanger les ingrédients humides.** Dans un grand bol, fouetter les deux sucres, les oeufs, la crème sure, l'huile et le beurre noisette jusqu'à consistance lisse.
-4. **Combiner le tout.** Verser le mélange humide sur les ingrédients secs et fouetter jusqu'à ce que ce soit juste combiné. Incorporer les carottes râpées en pliant.
+3. **Mélanger les ingrédients humides.** Dans un grand bol, fouetter les deux sucres, les œufs, la crème sure, l'huile et le beurre noisette jusqu'à consistance lisse.
+4. **Combiner le tout.** Verser le mélangé humide sur les ingrédients secs et fouetter jusqu'à ce que ce soit juste combiné. Incorporer les carottes râpées en pliant.
 5. **Cuire.** Verser dans le(s) moule(s) préparé(s) et cuire 45 minutes à 1 heure, jusqu'à ce qu'un cure-dent inséré au centre ressorte propre. Laisser refroidir complètement.
-6. **Préparer le glaçage.** Installer un bain-marie : placer un bol en verre sur une casserole contenant un pouce d'eau frémissante. Ajouter les pépites de chocolat, le beurre et le miel. Remuer de temps en temps jusqu'à ce que le mélange soit fondu, lisse et brillant.
+6. **Préparer le glaçage.** Installer un bain-marie : placer un bol en verre sur une casserole contenant un pouce d'eau frémissante. Ajouter les pépites de chocolat, le beurre et le miel. Remuer de temps en temps jusqu'à ce que le mélangé soit fondu, lisse et brillant.
 7. **Glacer le gâteau.** Verser la ganache tiède sur le gâteau refroidi et étaler uniformément. Laisser figer avant de trancher.
 
 ## Notes & conseils

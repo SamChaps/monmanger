@@ -1,8 +1,8 @@
----
+﻿﻿﻿---
 title: "Pao de Queijo"
 title_fr: "Pao de queijo"
 excerpt: "Brazilian cheese bread balls made with tapioca flour, parmesan, cheddar, and eggs."
-excerpt_fr: "Boulettes de pain au fromage brésilien à base de farine de tapioca, parmesan, cheddar et oeufs."
+excerpt_fr: "Boulettes de pain au fromage brésilien à base de farine de tapioca, parmesan, cheddar et œufs."
 date: 2025-07-26
 categories:
   - Bread
@@ -50,7 +50,7 @@ Golden, chewy cheese bread balls with a crispy crust and gooey, stretchy interio
 
 <div class="lang-fr-content" markdown="1">
 
-Des boulettes de pain au fromage dorées et moelleuses avec une croûte croustillante et un intérieur fondant et filant. Un en-cas brésilien adoré, fait en ébouillantant de la farine de tapioca avec du lait et de l'huile chauds, puis en y mélangeant des oeufs et une généreuse quantité de fromage.
+Des boulettes de pain au fromage dorées et moelleuses avec une croûte croustillante et un intérieur fondant et filant. Un en-cas brésilien adoré, fait en ébouillantant de la farine de tapioca avec du lait et de l'huile chauds, puis en y mélangéant des œufs et une généreuse quantité de fromage.
 
 ## Ingrédients
 
@@ -58,15 +58,15 @@ Des boulettes de pain au fromage dorées et moelleuses avec une croûte croustil
 - 500 g (1 lb) de parmesan et cheddar fort, râpés finement (minimum au total)
 - 500 ml (2 tasses) de lait entier
 - 250 ml (1 tasse) d'huile végétale
-- 6 oeufs
+- 6 œufs
 - 1 c. à soupe de sel
 
 ## Instructions
 
 1. **Chauffer les liquides.** Dans une casserole, chauffer l'huile et le lait ensemble jusqu'à ébullition.
-2. **Ébouillanter la farine.** Verser le liquide chaud sur la farine de tapioca dans un grand bol et mélanger vigoureusement. Le mélange sera épais et grumeleux au début.
+2. **Ébouillanter la farine.** Verser le liquide chaud sur la farine de tapioca dans un grand bol et mélanger vigoureusement. Le mélangé sera épais et grumeleux au début.
 3. **Laisser refroidir.** Laisser la pâte tiédir jusqu'à ce qu'elle soit confortable au toucher.
-4. **Ajouter les oeufs et le fromage.** Ajouter les oeufs, le sel et le fromage râpé à la pâte refroidie. Mélanger avec les mains jusqu'à ce que la pâte soit lisse et ne colle plus. Si elle est trop sèche, ajouter du lait tiède petit à petit.
+4. **Ajouter les œufs et le fromage.** Ajouter les œufs, le sel et le fromage râpé à la pâte refroidie. Mélanger avec les mains jusqu'à ce que la pâte soit lisse et ne colle plus. Si elle est trop sèche, ajouter du lait tiède petit à petit.
 5. **Façonner.** Rouler la pâte en petites boules d'environ 3 cm (1 po) de diamètre.
 6. **Cuire.** Préchauffer le four à 180 °C (350 °F). Disposer les boules sur une plaque tapissée de papier parchemin en laissant de l'espace. Cuire environ 30 minutes jusqu'à ce qu'elles soient gonflées et dorées.
 
@@ -74,6 +74,6 @@ Des boulettes de pain au fromage dorées et moelleuses avec une croûte croustil
 
 - La farine de tapioca aigre (polvilho azedo) est essentielle pour la saveur acidulée authentique. On la trouve dans les épiceries brésiliennes ou latino-américaines.
 - Les boules peuvent être façonnées et congelées sur une plaque, puis transférées dans un sac. Cuire directement congelées en ajoutant quelques minutes.
-- Un mélange de fromages forts donne les meilleurs résultats. Utiliser au moins 500 g au total.
+- Un mélangé de fromages forts donne les meilleurs résultats. Utiliser au moins 500 g au total.
 
 </div>

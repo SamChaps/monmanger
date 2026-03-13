@@ -1,4 +1,4 @@
----
+﻿---
 title: "Chocolate Quinoa Crunch Bars"
 title_fr: "Barres croustillantes chocolat-quinoa"
 excerpt: "A healthy, crunchy homemade version of the classic chocolate crunch bar."
@@ -61,7 +61,7 @@ Du quinoa grillé mélangé à du chocolat fondu pour un croustillant satisfaisa
 2. **Griller le quinoa.** Chauffer un poêlon sec à feu moyen-vif. Ajouter le quinoa et griller en remuant constamment, 2 à 4 minutes. Le quinoa commencera à éclater comme du maïs soufflé et sentira la noisette. Retirer du feu juste avant qu'il ne commence à brunir.
 3. **Faire fondre le chocolat.** Dans un grand bol, faire fondre les pépites de chocolat avec l'huile de coco par intervalles de 15 secondes au micro-ondes en remuant entre chaque, ou utiliser un bain-marie.
 4. **Combiner.** Incorporer le quinoa grillé dans le chocolat fondu jusqu'à ce qu'il soit uniformément enrobé.
-5. **Figer et trancher.** Verser le mélange dans le moule préparé et étaler uniformément. Congeler 1 heure, puis couper en barres.
+5. **Figer et trancher.** Verser le mélangé dans le moule préparé et étaler uniformément. Congeler 1 heure, puis couper en barres.
 
 ## Notes & conseils
 

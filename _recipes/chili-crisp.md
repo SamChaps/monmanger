@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿---
 title: "Homemade Chili Crisp"
 title_fr: "Chili crisp maison"
 excerpt: "Crunchy, spicy, garlicky chili oil you can put on everything."
@@ -53,7 +53,7 @@ Homemade chili crisp with crunchy peanuts, fragrant Sichuan peppercorns, and cri
 
 <div class="lang-fr-content" markdown="1">
 
-Un chili crisp maison avec des arachides croquantes, des grains de poivre du Sichuan parfumés et des morceaux d'ail croustillants nageant dans une huile épicée. Gardez un pot au frigo et arrosez-en vos nouilles, oeufs, riz ou à peu près tout.
+Un chili crisp maison avec des arachides croquantes, des grains de poivre du Sichuan parfumés et des morceaux d'ail croustillants nageant dans une huile épicée. Gardez un pot au frigo et arrosez-en vos nouilles, œufs, riz ou à peu près tout.
 
 ## Ingrédients
 
@@ -61,7 +61,7 @@ Un chili crisp maison avec des arachides croquantes, des grains de poivre du Sic
 - 2 à 3 gousses d'ail, émincées
 - 1/2 échalote, émincée
 - 2 c. à soupe d'arachides, hachées
-- 1 tasse (40 g) de flocons de piment séché (un mélange de gochugaru et d'Alep fonctionne bien)
+- 1 tasse (40 g) de flocons de piment séché (un mélangé de gochugaru et d'Alep fonctionne bien)
 - 2 c. à soupe de grains de poivre du Sichuan
 - 1 c. à soupe de sucre
 - 1 1/2 c. à soupe de sel
@@ -73,7 +73,7 @@ Un chili crisp maison avec des arachides croquantes, des grains de poivre du Sic
 1. **Chauffer l'huile.** Verser l'huile dans un chaudron à feu moyen-vif et amener à 175 °C (350 °F).
 2. **Frire les aromates.** Ajouter les arachides hachées, l'ail émincé et l'échalote. Frire 1 à 2 minutes jusqu'à ce que le tout soit doré. Retirer à l'aide d'un tamis fin et réserver.
 3. **Bloomer les flocons de piment.** Ramener l'huile à 175 °C (350 °F). Ajouter les flocons de piment, le poivre du Sichuan, le sucre et le sel. Éteindre immédiatement le feu et laisser la chaleur résiduelle griller les flocons.
-4. **Combiner le tout.** Une fois le mélange refroidi, remettre l'ail frit, les échalotes et les arachides. Ajouter le zeste de citron et les graines de sésame.
+4. **Combiner le tout.** Une fois le mélangé refroidi, remettre l'ail frit, les échalotes et les arachides. Ajouter le zeste de citron et les graines de sésame.
 5. **Conserver.** Transférer dans un pot en verre propre. Se conserve au réfrigérateur 3 à 6 mois.
 
 ## Notes & conseils

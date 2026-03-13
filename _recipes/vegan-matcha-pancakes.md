@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿---
 title: "Vegan Matcha Pancakes"
 title_fr: "Crêpes matcha végétaliennes"
 excerpt: "Fluffy green tea pancakes made with flax egg and plant milk."
-excerpt_fr: "Crepes moelleuses au the vert matcha avec oeuf de lin et lait vegetal."
+excerpt_fr: "Crêpes moelleuses au the vert matcha avec œuf de lin et lait végétal."
 date: 2025-06-14
 categories:
   - Breakfast
@@ -64,45 +64,45 @@ Light, fluffy pancakes tinted a beautiful green from matcha powder. A flax egg a
 
 <div class="lang-fr-content" markdown="1">
 
-Des crepes legeres et moelleuses, joliment colorees en vert par la poudre de matcha. Un oeuf de lin et un lait vegetal acidule les gardent entierement vegetales, tandis qu'une touche de sucre equilibre l'amertume delicate du the vert. Les empiler genereusement et garnir selon vos envies.
+Des crêpes légères et moelleuses, joliment colorees en vert par la poudre de matcha. Un œuf de lin et un lait végétal acidulé les gardent entièrement végétales, tandis qu'une touche de sucre équilibré l'amertume délicate du the vert. Les empiler généreusement et garnir selon vos envies.
 
-## Ingredients
+## Ingrédients
 
-**Crepes**
+**Crêpes**
 
-- 15 ml (1 c. a soupe) de lin moulu
-- 45 ml (3 c. a soupe) d'eau
-- 235 ml (1 tasse) de lait de soya (ou lait vegetal au choix)
-- 15 ml (1 c. a soupe) de vinaigre de cidre (facultatif, pour l'effet babeurre)
-- 140 g (1 tasse) de farine tout usage (ou melange sans gluten)
-- 30 ml (2 c. a soupe) de sucre
-- 10 ml (2 c. a the) de poudre a pate
-- 1/2 c. a the de sel
-- 1/2 c. a soupe de poudre de matcha
-- 22 ml (1 1/2 c. a soupe) d'huile de canola ou vegetale
+- 15 ml (1 c. à soupe) de lin moulu
+- 45 ml (3 c. à soupe) d'eau
+- 235 ml (1 tasse) de lait de soya (ou lait végétal au choix)
+- 15 ml (1 c. à soupe) de vinaigre de cidre (facultatif, pour l'effet babeurre)
+- 140 g (1 tasse) de farine tout usage (ou mélangé sans gluten)
+- 30 ml (2 c. à soupe) de sucre
+- 10 ml (2 c. à thé) de poudre à pâte
+- 1/2 c. à thé de sel
+- 1/2 c. à soupe de poudre de matcha
+- 22 ml (1 1/2 c. à soupe) d'huile de canola ou végétale
 - Huile en vaporisateur
 
 **Garnitures au choix**
 
 - Sucre a glacer
-- Sirop d'erable
+- Sirop d'érable
 - Fruits frais
 - Beurre d'arachide
-- Noix de coco grillee
+- Noix de coco grillée
 
 ## Instructions
 
-1. **Preparer l'oeuf de lin.** Fouetter le lin moulu et l'eau dans un petit bol et laisser epaissir.
-2. **Preparer le babeurre.** Melanger le lait de soya et le vinaigre de cidre dans un bol et laisser cailler legerement. Sauter cette etape si prefere.
-3. **Melanger les ingredients secs.** Dans un bol moyen, combiner la farine, le sucre, la poudre a pate, le sel et la poudre de matcha.
-4. **Combiner.** Ajouter l'huile, l'oeuf de lin et le melange de babeurre aux ingredients secs. Remuer jusqu'a ce que le tout soit combine; ne pas trop melanger.
-5. **Cuire les crepes.** Chauffer une grande poele a feu moyen-doux. Vaporiser d'huile. Verser environ 60 ml (1/4 tasse) de pate par crepe. Cuire jusqu'a ce que les bords commencent a gonfler, environ 2 a 3 minutes, puis retourner et cuire 2 minutes de plus.
+1. **Préparer l'œuf de lin.** Fouetter le lin moulu et l'eau dans un petit bol et laisser épaissir.
+2. **Préparer le babeurre.** Mélanger le lait de soya et le vinaigre de cidre dans un bol et laisser cailler légèrement. Sauter cette etape si préféré.
+3. **Mélanger les ingrédients secs.** Dans un bol moyen, combiner la farine, le sucre, la poudre à pâte, le sel et la poudre de matcha.
+4. **Combiner.** Ajouter l'huile, l'œuf de lin et le mélangé de babeurre aux ingrédients secs. Remuer jusqu'à ce que le tout soit combiné; ne pas trop mélanger.
+5. **Cuire les crêpes.** Chauffer une grande poêle à feu moyen-doux. Vaporiser d'huile. Verser environ 60 ml (1/4 tasse) de pâte par crêpe. Cuire jusqu'à ce que les bords commencent a gonfler, environ 2 à 3 minutes, puis retourner et cuire 2 minutes de plus.
 6. **Servir** avec les garnitures de votre choix.
 
 ## Notes & conseils
 
-- Un feu moyen-doux empeche les crepes de brunir trop vite et preserve la belle couleur verte.
-- Preparer une grande quantite et congeler les extras pour des dejeuners rapides en semaine.
-- Pour un gout de matcha plus prononce, augmenter la poudre de matcha a 1 c. a soupe.
+- Un feu moyen-doux empeche les crêpes de brunir trop vite et preserve la belle couleur verte.
+- Préparer une grande quantite et congeler les extras pour des dejeuners rapides en semaine.
+- Pour un goût de matcha plus prononce, augmenter la poudre de matcha a 1 c. à soupe.
 
 </div>

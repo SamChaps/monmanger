@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿﻿---
 title: "Ultra-Moist Banana Bread"
 title_fr: "Pain aux bananes ultra moelleux"
 excerpt: "An exceptionally moist banana bread made with coconut milk and lime for a tender crumb."
@@ -67,7 +67,7 @@ Le secret de ce pain aux bananes incroyablement moelleux est le lait de coco et 
 - 15 ml (1 c. à soupe) de jus de lime
 - 115 g (1/2 tasse) de beurre non salé, ramolli
 - 210 g (1 tasse) de sucre
-- 1 oeuf
+- 1 œuf
 - 5 ml (1 c. à thé) d'extrait de vanille
 
 ## Instructions
@@ -75,8 +75,8 @@ Le secret de ce pain aux bananes incroyablement moelleux est le lait de coco et 
 1. **Préchauffer** le four à 180 °C (350 °F). Beurrer un moule à pain de 23 x 13 cm (9 x 5 po) et le tapisser de papier parchemin en le laissant dépasser sur deux côtés.
 2. **Mélanger les ingrédients secs.** Fouetter la farine, la poudre à pâte et le bicarbonate. Réserver.
 3. **Mélanger les bananes.** Dans un bol séparé, mélanger les bananes écrasées, le lait de coco et le jus de lime.
-4. **Crémer le beurre.** Dans un troisième bol, crémer le beurre avec le sucre au batteur électrique. Ajouter l'oeuf et la vanille et battre jusqu'à homogénéité.
-5. **Combiner.** À basse vitesse, incorporer les ingrédients secs en alternant avec le mélange de bananes, en mélangeant juste assez.
+4. **Crémer le beurre.** Dans un troisième bol, crémer le beurre avec le sucre au batteur électrique. Ajouter l'œuf et la vanille et battre jusqu'à homogénéité.
+5. **Combiner.** À basse vitesse, incorporer les ingrédients secs en alternant avec le mélangé de bananes, en mélangéant juste assez.
 6. **Cuire** environ 1 heure, ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.
 7. **Laisser refroidir** sur une grille, puis démouler et trancher.
 

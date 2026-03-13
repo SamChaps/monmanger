@@ -1,4 +1,4 @@
----
+﻿---
 title: "Double Chocolate Banana Bread"
 title_fr: "Pain aux bananes double chocolat"
 excerpt: "A rich, fudgy banana bread loaded with cocoa, chocolate chips, and topped with crushed peanuts."
@@ -68,7 +68,7 @@ Un pain aux bananes profondément chocolaté avec du cacao dans la pâte et une 
 - 180 ml (3/4 tasse) de cassonade
 - 45 ml (3 c. à soupe) de cacao
 - 5 ml (1 c. à thé) d'extrait de vanille
-- 2 oeufs
+- 2 œufs
 - 250 ml (1 tasse) de bananes mûres, écrasées à la fourchette (environ 2 bananes)
 - 60 ml (1/4 tasse) de lait
 - 180 ml (3/4 tasse) de pépites de chocolat
@@ -78,7 +78,7 @@ Un pain aux bananes profondément chocolaté avec du cacao dans la pâte et une 
 
 1. **Préchauffer** le four à 180 °C (350 °F). Tapisser un moule à pain de 23 x 13 cm (9 x 5 po) d'une bande de papier parchemin en la laissant dépasser sur deux côtés. Beurrer les deux autres côtés.
 2. **Mélanger les ingrédients secs.** Dans un bol, fouetter la farine, la poudre à pâte et le bicarbonate. Réserver.
-3. **Crémer le beurre.** Dans un autre bol, crémer le beurre avec la cassonade, le cacao et la vanille au batteur électrique. Ajouter les oeufs un à la fois en battant jusqu'à homogénéité.
+3. **Crémer le beurre.** Dans un autre bol, crémer le beurre avec la cassonade, le cacao et la vanille au batteur électrique. Ajouter les œufs un à la fois en battant jusqu'à homogénéité.
 4. **Combiner.** À basse vitesse, incorporer les bananes, puis les ingrédients secs en alternant avec le lait. Ajouter les pépites de chocolat et mélanger. Verser dans le moule et répartir les arachides sur le dessus.
 5. **Cuire** environ 1 heure ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre (il peut être légèrement nappé de chocolat fondu).
 6. **Laisser tiédir** au moins 1 heure avant de démouler. Servir tiède ou à température ambiante.

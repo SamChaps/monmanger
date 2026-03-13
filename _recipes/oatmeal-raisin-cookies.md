@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿﻿---
 title: "Thick Chewy Oatmeal Raisin Cookies"
 title_fr: "Biscuits à l'avoine et aux raisins moelleux"
 excerpt: "Thick, chewy oatmeal cookies studded with raisins and warmly spiced with cinnamon."
-excerpt_fr: "Biscuits a l'avoine epais et moelleux garnis de raisins secs et delicatement epices a la cannelle."
+excerpt_fr: "Biscuits à l'avoine épais et moelleux garnis de raisins secs et délicatement épices à la cannelle."
 date: 2025-07-26
 categories:
   - Dessert
@@ -55,35 +55,35 @@ Thick, chewy oatmeal raisin cookies with slightly crispy edges. The trick is chi
 
 <div class="lang-fr-content" markdown="1">
 
-Des biscuits a l'avoine et aux raisins epais et moelleux avec des bords legerement croustillants. L'astuce est de refrigerer la pate avant la cuisson pour qu'ils gardent leur hauteur. Une demi-recette qui donne environ deux douzaines de biscuits standard.
+Des biscuits à l'avoine et aux raisins épais et moelleux avec des bords légèrement croustillants. L'astuce est de réfrigérer la pâte avant la cuisson pour qu'ils gardent leur hauteur. Une demi-recette qui donne environ deux douzaines de biscuits standard.
 
-## Ingredients
+## Ingrédients
 
-- 115 g (1/2 tasse) de beurre non sale, ramolli
-- 125 g (2/3 tasse) de cassonade legere, bien tassee
-- 1 gros oeuf
-- 1/2 c. a the d'extrait de vanille
+- 115 g (1/2 tasse) de beurre non salé, ramolli
+- 125 g (2/3 tasse) de cassonade légère, bien tassee
+- 1 gros œuf
+- 1/2 c. à thé d'extrait de vanille
 - 95 g (3/4 tasse) de farine tout usage
-- 1/2 c. a the de bicarbonate de soude
-- 1/2 c. a the de cannelle moulue
-- 1/4 c. a the de sel
-- 120 g (1 1/2 tasse) de flocons d'avoine a l'ancienne
+- 1/2 c. à thé de bicarbonate de soude
+- 1/2 c. à thé de cannelle moulue
+- 1/4 c. à thé de sel
+- 120 g (1 1/2 tasse) de flocons d'avoine à l'ancienne
 - 120 g (3/4 tasse) de raisins secs
-- 65 g (1/2 tasse) de noix de Grenoble, hachees (optionnel)
+- 65 g (1/2 tasse) de noix de Grenoble, hachées (optionnel)
 
 ## Instructions
 
-1. **Cremer** le beurre, la cassonade, l'oeuf et la vanille dans un grand bol jusqu'a consistance lisse.
-2. **Fouetter** ensemble la farine, le bicarbonate, la cannelle et le sel dans un autre bol. Incorporer au melange de beurre.
-3. **Incorporer** les flocons d'avoine, les raisins et les noix si desire.
-4. **Refrigerer** la pate au moins 30 minutes (c'est ce qui les rend epais).
-5. **Prechauffer** le four a 175 C (350 F). Deposer des boules de pate sur des plaques tapissees de papier parchemin, en les espaçant d'environ 5 cm (2 po).
-6. **Cuire** 10 a 12 minutes, jusqu'a ce que les bords soient dores mais le dessus encore legerement mou. Laisser reposer sur la plaque chaude 5 minutes avant de transferer sur une grille.
+1. **Cremer** le beurre, la cassonade, l'œuf et la vanille dans un grand bol jusqu'à consistance lisse.
+2. **Fouetter** ensemble la farine, le bicarbonate, la cannelle et le sel dans un autre bol. Incorporer au mélangé de beurre.
+3. **Incorporer** les flocons d'avoine, les raisins et les noix si désiré.
+4. **Refrigerer** la pâte au moins 30 minutes (c'est ce qui les rend épais).
+5. **Préchauffer** le four a 175 C (350 F). Déposer des boules de pâte sur des plaques tapissees de papier parchemin, en les espaçant d'environ 5 cm (2 po).
+6. **Cuire** 10 à 12 minutes, jusqu'à ce que les bords soient dorés mais le dessus encore légèrement mou. Laisser reposer sur la plaque chaude 5 minutes avant de transférer sur une grille.
 
 ## Notes & conseils
 
-- Refrigerer la pate est essentiel: les biscuits cuits a partir de pate froide sont nettement plus epais.
-- Pour une variation pepites de chocolat: omettre les noix, utiliser 80 g (1/2 tasse) de raisins et 130 g (3/4 tasse) de pepites de chocolat.
-- La pate en boules peut etre congelee dans un sac et cuite directement du congelateur en ajoutant quelques minutes de cuisson.
+- Refrigerer la pâte est essentiel: les biscuits cuits a partir de pâte froide sont nettement plus épais.
+- Pour une variation pépites de chocolat: omettre les noix, utiliser 80 g (1/2 tasse) de raisins et 130 g (3/4 tasse) de pépites de chocolat.
+- La pâte en boules peut être congelée dans un sac et cuite directement du congelateur en ajoutant quelques minutes de cuisson.
 
 </div>

@@ -1,4 +1,4 @@
----
+﻿﻿---
 title: "Vegetable & Plantain Moqueca"
 title_fr: "Moqueca aux légumes et plantain"
 excerpt: "A quick Brazilian-inspired coconut stew with plantains, zucchini, peppers, and tomatoes."

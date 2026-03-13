@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Popo's Spaghetti Sauce"
 title_fr: "Sauce à spaghetti de Popo"
 excerpt: "A hearty, slow-simmered meat sauce loaded with spices and tomatoes."
@@ -70,7 +70,7 @@ A big-batch spaghetti sauce passed down through the family. Ground beef and pork
 
 <div class="lang-fr-content" markdown="1">
 
-Une sauce à spaghetti de famille, préparée en grosse batch. Du boeuf et du porc hachés mijotent pendant des heures avec des tomates broyées épicées et un généreux mélange d'herbes. L'ail s'ajoute tout à la fin pour garder son punch.
+Une sauce à spaghetti de famille, préparée en grosse batch. Du boeuf et du porc hachés mijotent pendant des heures avec des tomates broyées épicées et un généreux mélangé d'herbes. L'ail s'ajoute tout à la fin pour garder son punch.
 
 ## Ingrédients
 
@@ -113,6 +113,6 @@ Une sauce à spaghetti de famille, préparée en grosse batch. Du boeuf et du po
 
 - Cette recette donne une grosse batch, parfaite pour congeler en portions.
 - Servir sur des spaghettis, des rigatonis ou les pâtes de votre choix.
-- C'est le long mijotage qui développe toute la profondeur de saveur, alors pas de presse.
+- C'est le long mijotage qui développe toute la profondeur de saveur, alors pas de pressé.
 
 </div>

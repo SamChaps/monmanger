@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Shakshuka"
 title_fr: "Shakshuka"
 excerpt: "Eggs poached in a spiced tomato sauce with bell pepper, cumin, and paprika."
-excerpt_fr: "Oeufs poches dans une sauce tomate epicee au poivron, cumin et paprika."
+excerpt_fr: "Œufs poches dans une sauce tomate épicée au poivron, cumin et paprika."
 date: 2025-07-26
 categories:
   - Breakfast
@@ -55,35 +55,35 @@ A classic North African and Middle Eastern dish of eggs gently poached in a simm
 
 <div class="lang-fr-content" markdown="1">
 
-Un classique nord-africain et moyen-oriental d'oeufs delicatement poches dans une sauce tomate epicee et mijotee. Pret en moins de 30 minutes et infiniment satisfaisant. A deguster avec du pain croustillant ou du pita.
+Un classique nord-africain et moyen-oriental d'œufs délicatement poches dans une sauce tomate épicée et mijotee. Pret en moins de 30 minutes et infiniment satisfaisant. A deguster avec du pain croustillant ou du pita.
 
-## Ingredients
+## Ingrédients
 
-- 2 c. a soupe d'huile d'olive
-- 1 oignon moyen, coupe en des
-- 1 poivron rouge, epepine et coupe en des
-- 4 gousses d'ail, finement hachees
-- 2 c. a the de paprika
-- 1 c. a the de cumin
-- 1/4 c. a the de poudre de chili
-- 1 boite (796 ml / 28 oz) de tomates entieres pelees
-- 6 gros oeufs
-- Sel et poivre, au gout
-- 1 petit bouquet de coriandre fraiche, hachee
-- 1 petit bouquet de persil frais, hache
+- 2 c. à soupe d'huile d'olive
+- 1 oignon moyen, coupé en dés
+- 1 poivron rouge, épépiné et coupé en dés
+- 4 gousses d'ail, finement hachées
+- 2 c. à thé de paprika
+- 1 c. à thé de cumin
+- 1/4 c. à thé de poudre de chili
+- 1 boîte (796 ml / 28 oz) de tomates entieres pelées
+- 6 gros œufs
+- Sel et poivre, au goût
+- 1 petit bouquet de coriandre fraîche, hachée
+- 1 petit bouquet de persil frais, haché
 
 ## Instructions
 
-1. **Chauffer** l'huile d'olive dans une grande poele a feu moyen. Ajouter le poivron et l'oignon. Cuire 5 minutes jusqu'a ce que l'oignon soit translucide.
-2. **Ajouter** l'ail et les epices. Cuire une minute de plus.
-3. **Verser** les tomates avec leur jus et les defaire a la cuillere. Assaisonner de sel et poivre et porter a leger mijotement.
-4. **Creuser** de petits puits dans la sauce et casser un oeuf dans chacun. Cuire 5 a 8 minutes jusqu'a la cuisson desiree. Couvrir avec un couvercle pour accelerer la cuisson si necessaire.
-5. **Garnir** de coriandre et de persil frais haches avant de servir.
+1. **Chauffer** l'huile d'olive dans une grande poêle à feu moyen. Ajouter le poivron et l'oignon. Cuire 5 minutes jusqu'à ce que l'oignon soit translucide.
+2. **Ajouter** l'ail et les épices. Cuire une minute de plus.
+3. **Verser** les tomates avec leur jus et les défaire à la cuillere. Assaisonner de sel et poivre et porter a léger mijotement.
+4. **Creuser** de petits puits dans la sauce et casser un œuf dans chacun. Cuire 5 à 8 minutes jusqu'à la cuisson désirée. Couvrir avec un couvercle pour accelerer la cuisson si nécessaire.
+5. **Garnir** de coriandre et de persil frais hachés avant de servir.
 
 ## Notes & conseils
 
-- Du feta ou du fromage de chevre emiette sur le dessus est un ajout delicieux.
-- Utiliser une poele en acier inoxydable plutot qu'en fonte, car l'acidite des tomates peut endommager l'assaisonnement de la fonte.
+- Du feta ou du fromage de chevre émietté sur le dessus est un ajout délicieux.
+- Utiliser une poêle en acier inoxydable plutot qu'en fonte, car l'acidite des tomates peut endommager l'assaisonnement de la fonte.
 - Servir avec du pita, du pain croustillant ou des tranches d'avocat.
 
 </div>

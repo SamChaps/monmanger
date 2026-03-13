@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿﻿﻿﻿---
 title: "Vegan Lasagna"
 title_fr: "Lasagne végétalienne"
 excerpt: "Hearty lasagna with macadamia ricotta and tempeh marinara sauce."
@@ -67,46 +67,46 @@ A layered plant-based lasagna with all the comfort of the classic. Tender noodle
 
 <div class="lang-fr-content" markdown="1">
 
-Une lasagne vegetale en couches avec tout le reconfort du classique. Des pates tendres alternent avec une riche marinara au tempeh et une ricotta de noix de macadamia cremeuse et epaisse, relevee de levure alimentaire et de citron. Cuite au four jusqu'a ce qu'elle soit bouillonnante et doree sur les bords.
+Une lasagne végétale en couches avec tout le reconfort du classique. Des pâtes tendres alternent avec une riche marinara au tempeh et une ricotta de noix de macadamia crémeuse et épaisse, relevée de levure alimentaire et de citron. Cuite au four jusqu'à ce qu'elle soit bouillonnante et dorée sur les bords.
 
-## Ingredients
+## Ingrédients
 
 **Marinara au tempeh**
 
-- 15 ml (1 c. a soupe) d'huile d'olive
-- 227 g (8 oz) de tempeh, hache finement
-- 30 ml (2 c. a soupe) d'acides amines de coco (ou tamari, en quantite reduite)
-- 1/2 c. a the de graines de fenouil (facultatif)
-- 1/4 c. a the de flocons de piment fort (facultatif)
+- 15 ml (1 c. à soupe) d'huile d'olive
+- 227 g (8 oz) de tempeh, haché finement
+- 30 ml (2 c. à soupe) d'acides amines de coco (ou tamari, en quantite réduite)
+- 1/2 c. à thé de graines de fenouil (facultatif)
+- 1/4 c. à thé de flocons de piment fort (facultatif)
 - 2 pots (700 ml / 25 oz chacun) de sauce marinara
 
 **Ricotta de macadamia**
 
-- 310 ml (2 1/2 tasses) de noix de macadamia crues (ou noix de cajou, trempees 1 heure, egouttees)
-- 45 ml (3 c. a soupe) de jus de citron
-- 60 ml (4 c. a soupe) de levure alimentaire
-- 3/4 c. a the de poudre d'ail
-- 1/3 c. a the de sel de mer
-- 80-180 ml (1/3 a 3/4 tasse) d'eau
+- 310 ml (2 1/2 tasses) de noix de macadamia crues (ou noix de cajou, trempées 1 heure, égouttées)
+- 45 ml (3 c. à soupe) de jus de citron
+- 60 ml (4 c. à soupe) de levure alimentaire
+- 3/4 c. à thé de poudre d'ail
+- 1/3 c. à thé de sel de mer
+- 80-180 ml (1/3 à 3/4 tasse) d'eau
 
 **Assemblage**
 
-- 280 g (10 oz) de pates a lasagne
-- Parmesan vegetalien et basilic ou persil frais, pour servir (facultatif)
+- 280 g (10 oz) de pâtes a lasagne
+- Parmesan végétalien et basilic ou persil frais, pour servir (facultatif)
 
 ## Instructions
 
-1. **Prechauffer le four** a 175 °C (350 °F). Graisser legerement un plat de 23x33 cm (9x13 po).
-2. **Preparer la sauce.** Chauffer l'huile dans une grande poele a feu moyen. Faire sauter le tempeh environ 3 minutes. Ajouter les acides amines de coco, le fenouil et les flocons de piment; cuire 5 minutes de plus jusqu'a ce que le tout soit dore. Incorporer la sauce marinara et laisser mijoter a feu doux 5 minutes. Assaisonner au gout.
-3. **Cuire les pates** selon les instructions jusqu'a al dente. Egoutter et enrober d'un peu d'huile.
-4. **Preparer la ricotta.** Mixer les noix de macadamia avec le jus de citron, la levure alimentaire, la poudre d'ail et le sel. Ajouter la plus petite quantite d'eau et mixer en raclant les parois, jusqu'a obtenir une pate epaisse et tartinable. Ajouter de l'eau au besoin, 1 c. a soupe a la fois.
-5. **Monter la lasagne.** Etaler une mince couche de marinara dans le plat. Ajouter une couche de pates, puis un tiers de la ricotta, puis de la marinara. Repeter les couches deux fois de plus, en terminant par des pates et une derniere couche de sauce. Saupoudrer de parmesan vegetalien si desire.
-6. **Cuire 40 a 45 minutes** a decouvert, jusqu'a ce que la sauce bouillonne et que les bords soient legerement dores. Laisser reposer 5 a 10 minutes avant de trancher.
+1. **Préchauffer le four** a 175 °C (350 °F). Graisser légèrement un plat de 23x33 cm (9x13 po).
+2. **Préparer la sauce.** Chauffer l'huile dans une grande poêle à feu moyen. Faire sauter le tempeh environ 3 minutes. Ajouter les acides amines de coco, le fenouil et les flocons de piment; cuire 5 minutes de plus jusqu'à ce que le tout soit doré. Incorporer la sauce marinara et laisser mijoter à feu doux 5 minutes. Assaisonner au goût.
+3. **Cuire les pâtes** selon les instructions jusqu'à al dente. Égoutter et enrober d'un peu d'huile.
+4. **Préparer la ricotta.** Mixer les noix de macadamia avec le jus de citron, la levure alimentaire, la poudre d'ail et le sel. Ajouter la plus petite quantite d'eau et mixer en raclant les parois, jusqu'à obtenir une pâte épaisse et tartinable. Ajouter de l'eau au besoin, 1 c. à soupe à la fois.
+5. **Monter la lasagne.** Étaler une mince couche de marinara dans le plat. Ajouter une couche de pâtes, puis un tiers de la ricotta, puis de la marinara. Répéter les couches deux fois de plus, en terminant par des pâtes et une dernière couche de sauce. Saupoudrer de parmesan végétalien si désiré.
+6. **Cuire 40 à 45 minutes** a découvert, jusqu'à ce que la sauce bouillonne et que les bords soient légèrement dorés. Laisser reposer 5 à 10 minutes avant de trancher.
 
 ## Notes & conseils
 
 - Des champignons shiitake tranches (environ 300 g) peuvent remplacer ou completer le tempeh dans la sauce.
-- La lasagne assemblee se congele jusqu'a 1 mois. Cuire couverte de papier d'aluminium, en ajoutant du temps si elle est congelee.
-- Le robot culinaire donne la meilleure texture de ricotta, mais un melangeur fonctionne avec un peu plus de liquide.
+- La lasagne assemblee se congelé jusqu'à 1 mois. Cuire couverte de papier d'aluminium, en ajoutant du temps si elle est congelée.
+- Le robot culinaire donne la meilleure texture de ricotta, mais un mélangéur fonctionne avec un peu plus de liquide.
 
 </div>

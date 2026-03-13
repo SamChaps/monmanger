@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Protein Ice Cream"
 title_fr: "Crème glacée protéinée"
 excerpt: "Frozen banana-based protein ice cream in chocolate or vanilla, creamy and naturally sweetened."
-excerpt_fr: "Creme glacee proteinee a base de bananes congelees, en version chocolat ou vanille, onctueuse et naturellement sucree."
+excerpt_fr: "Crème glacee proteinee a base de bananes congelees, en version chocolat ou vanille, onctueuse et naturellement sucrée."
 date: 2025-07-26
 categories:
   - Dessert
@@ -59,38 +59,38 @@ Frozen bananas blended with protein powder into something remarkably close to re
 
 <div class="lang-fr-content" markdown="1">
 
-Des bananes congelees melangees avec de la poudre de proteine pour obtenir quelque chose de remarquablement proche d'une vraie creme glacee. Choisir chocolat ou vanille selon l'envie du moment. Pas de turbine, pas de sorbetiere, juste un robot culinaire et quelques minutes.
+Des bananes congelees mélangées avec de la poudre de proteine pour obtenir quelque chose de remarquablement proche d'une vraie crème glacee. Choisir chocolat ou vanille selon l'envie du moment. Pas de turbine, pas de sorbetiere, juste un robot culinaire et quelques minutes.
 
-## Ingredients
+## Ingrédients
 
 ### Version chocolat
 
-- 2 bananes congelees, coupees en morceaux
-- 60 ml (1/4 tasse) de lait vegetal
-- 2 c. a soupe de beurre d'amande ou d'arachide
-- 1 c. a soupe de poudre de cacao
+- 2 bananes congelees, coupées en morceaux
+- 60 ml (1/4 tasse) de lait végétal
+- 2 c. à soupe de beurre d'amande ou d'arachide
+- 1 c. à soupe de poudre de cacao
 - 1 mesure (25 g) de poudre de proteine au chocolat
-- 1/2 c. a soupe de pepites de chocolat ou eclats de cacao
+- 1/2 c. à soupe de pépites de chocolat ou eclats de cacao
 
 ### Version vanille
 
-- 2 bananes congelees, coupees en morceaux
-- 60 ml (1/4 tasse) de lait vegetal
-- 1 mesure (25 g) de poudre de proteine a la vanille
-- 1 c. a the d'extrait de vanille ou pate de vanille
-- 1/4 c. a the de cannelle
+- 2 bananes congelees, coupées en morceaux
+- 60 ml (1/4 tasse) de lait végétal
+- 1 mesure (25 g) de poudre de proteine à la vanille
+- 1 c. à thé d'extrait de vanille ou pâte de vanille
+- 1/4 c. à thé de cannelle
 
 ## Instructions
 
-1. **Deposer** tous les ingredients (sauf les pepites de chocolat, si utilise) dans un robot culinaire ou un melangeur haute vitesse.
-2. **Pulser** et melanger pendant 3 a 4 minutes jusqu'a consistance lisse et onctueuse. Arreter et racler les parois au besoin.
-3. **Ajouter** les pepites de chocolat ou eclats de cacao (pour la version chocolat) et pulser une derniere fois.
-4. **Servir** immediatement pour une texture de type creme molle, ou transferer dans un moule a pain tapisse de papier parchemin et congeler 2 heures pour une consistance a la cuillere.
+1. **Déposer** tous les ingrédients (sauf les pépites de chocolat, si utilise) dans un robot culinaire ou un mélangéur haute vitesse.
+2. **Pulser** et mélanger pendant 3 à 4 minutes jusqu'à consistance lisse et onctueuse. Arreter et racler les parois au besoin.
+3. **Ajouter** les pépites de chocolat ou eclats de cacao (pour la version chocolat) et pulser une dernière fois.
+4. **Servir** immédiatement pour une texture de type crème molle, ou transférer dans un moule a pain tapisse de papier parchemin et congeler 2 heures pour une consistance à la cuillere.
 
 ## Notes & conseils
 
-- Ajouter vos garnitures preferees: petits fruits, noix, flocons de noix de coco ou un filet de beurre de noix.
-- Se conserve au congelateur jusqu'a 1 mois. Laisser reposer quelques minutes a temperature ambiante avant de servir.
-- Plus les bananes sont mures avant la congelation, plus le resultat sera sucre.
+- Ajouter vos garnitures préférées: petits fruits, noix, flocons de noix de coco ou un filet de beurre de noix.
+- Se conserve au congelateur jusqu'à 1 mois. Laisser reposer quelques minutes a temperature ambiante avant de servir.
+- Plus les bananes sont mures avant la congelation, plus le resultat sera sucré.
 
 </div>

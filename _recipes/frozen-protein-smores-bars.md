@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Frozen Protein S'mores Bars"
 title_fr: "Barres s'mores protéinées glacées"
 excerpt: "Graham crackers, chocolate, and marshmallow fluff frozen into protein-packed bars."
@@ -49,7 +49,7 @@ Layers of graham crackers, melted chocolate, and a fluffy protein-boosted cream 
 
 <div class="lang-fr-content" markdown="1">
 
-Des couches de biscuits Graham, chocolat fondu et garniture fouettée enrichie de protéines, congelées en barres faciles à prendre. Une gâterie sans cuisson qui combine dessert et protéines.
+Des couches de biscuits Graham, chocolat fondu et garniture fouettée enrichie de protéines, congelées en barres faciles à prendre. Une gâterie sans cuisson qui combiné dessert et protéines.
 
 ## Ingrédients
 

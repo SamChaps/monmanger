@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿---
 title: "Roasted Cauliflower Soup"
 title_fr: "Soupe de chou-fleur rôti"
 excerpt: "Velvety roasted cauliflower and potato soup with rosemary and lemon."
-excerpt_fr: "Soupe veloutee de chou-fleur et pommes de terre rotis au romarin et citron."
+excerpt_fr: "Soupe veloutée de chou-fleur et pommes de terre rôtis au romarin et citron."
 date: 2025-06-14
 categories:
   - Soup
@@ -63,43 +63,43 @@ A simple, satisfying soup built on deeply roasted cauliflower, Yukon Gold potato
 
 <div class="lang-fr-content" markdown="1">
 
-Une soupe simple et reconfortante construite sur des legumes profondement rotis: chou-fleur, pommes de terre Yukon Gold et oignons. Le romarin ajoute une note herbacee parfumee, et un filet de citron illumine le tout. Mixee jusqu'a obtenir une texture veloutee, c'est le reconfort par temps froid a l'etat pur.
+Une soupe simple et reconfortante construite sur des légumes profondement rôtis: chou-fleur, pommes de terre Yukon Gold et oignons. Le romarin ajoute une note herbacee parfumee, et un filet de citron illumine le tout. Mixee jusqu'à obtenir une texture veloutée, c'est le reconfort par temps froid à l'etat pur.
 
-## Ingredients
+## Ingrédients
 
 **Soupe**
 
 - 1 grosse tete de chou-fleur, sans le coeur, en fleurons
-- 450 g (1 lb) de pommes de terre Yukon Gold, brossees et coupees en morceaux
-- 2 oignons jaunes moyens, coupes grossierement
-- 15-30 ml (1-2 c. a soupe) de feuilles de romarin frais
-- 30 ml (2 c. a soupe) d'huile d'olive
-- Sel de mer et poivre noir moulu, au gout
-- 15 ml (1 c. a soupe) de jus de citron frais
-- 1,2-1,5 L (5-6 tasses) de bouillon de legumes
+- 450 g (1 lb) de pommes de terre Yukon Gold, brossees et coupées en morceaux
+- 2 oignons jaunes moyens, coupés grossièrement
+- 15-30 ml (1-2 c. à soupe) de feuilles de romarin frais
+- 30 ml (2 c. à soupe) d'huile d'olive
+- Sel de mer et poivre noir moulu, au goût
+- 15 ml (1 c. à soupe) de jus de citron frais
+- 1,2-1,5 L (5-6 tasses) de bouillon de légumes
 
 **Garnitures au choix**
 
 - Huile d'olive
 - Croutons
-- Noix grillees hachees
+- Noix grillées hachées
 - Herbes fraiches
 - Reduction balsamique
 - Quartiers de citron
 
 ## Instructions
 
-1. **Prechauffer le four** a 200 °C (400 °F).
-2. **Preparer les legumes.** Deposer les fleurons de chou-fleur, les morceaux de pommes de terre et les oignons haches dans un plat de cuisson. Saupoudrer de romarin, assaisonner genereusement de sel et poivre, et arroser d'huile d'olive. Melanger pour bien enrober.
+1. **Préchauffer le four** a 200 °C (400 °F).
+2. **Préparer les légumes.** Déposer les fleurons de chou-fleur, les morceaux de pommes de terre et les oignons hachés dans un plat de cuisson. Saupoudrer de romarin, assaisonner généreusement de sel et poivre, et arroser d'huile d'olive. Mélanger pour bien enrober.
 3. **Rotir environ 1 heure,** en retournant et remuant de temps en temps pour un brunissement uniforme.
-4. **Ajouter le citron.** Lorsque les legumes sont cuits, verser le jus de citron dessus pendant qu'ils sont encore chauds. Racler les sucs de cuisson avec une spatule.
-5. **Mixer par lots.** Une fois assez refroidis, mixer les legumes rotis avec le bouillon de legumes par lots jusqu'a consistance parfaitement lisse. Transferer dans une grande casserole.
-6. **Chauffer et servir.** Rechauffer la soupe a feu moyen jusqu'a ebullition. Ajouter du bouillon ou de l'eau pour atteindre la consistance desiree. Ajuster l'assaisonnement au gout. Servir chaud avec les garnitures de votre choix.
+4. **Ajouter le citron.** Lorsque les légumes sont cuits, verser le jus de citron dessus pendant qu'ils sont encore chauds. Racler les sucs de cuisson avec une spatule.
+5. **Mixer par lots.** Une fois assez refroidis, mixer les légumes rôtis avec le bouillon de légumes par lots jusqu'à consistance parfaitement lisse. Transferer dans une grande casserole.
+6. **Chauffer et servir.** Rechauffer la soupe à feu moyen jusqu'à ébullition. Ajouter du bouillon ou de l'eau pour atteindre la consistance désirée. Ajuster l'assaisonnement au goût. Servir chaud avec les garnitures de votre choix.
 
 ## Notes & conseils
 
-- Utiliser un bouillon sans sel ajoute puisque les legumes sont genereusement sales avant la cuisson.
+- Utiliser un bouillon sans sel ajoute puisque les légumes sont généreusement sales avant la cuisson.
 - Pour une version moins riche en glucides, omettre les pommes de terre et doubler le chou-fleur.
-- Les restes se congelent bien jusqu'a 3 mois.
+- Les restes se congelent bien jusqu'à 3 mois.
 
 </div>

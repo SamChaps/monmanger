@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿﻿---
 title: "Sweet Potato Brownies"
 title_fr: "Brownies à la patate douce"
 excerpt: "Fudgy gluten-free brownies with sweet potato, cacao, and almond butter."
-excerpt_fr: "Brownies fondants sans gluten a la patate douce, cacao et beurre d'amande."
+excerpt_fr: "Brownies fondants sans gluten à la patate douce, cacao et beurre d'amande."
 date: 2025-06-14
 categories:
   - Dessert
@@ -56,35 +56,35 @@ Dense, fudgy brownies where sweet potato puree provides the moisture and natural
 
 <div class="lang-fr-content" markdown="1">
 
-Des brownies denses et fondants ou la puree de patate douce apporte l'humidite et une douceur naturelle. Combines avec de la poudre de cacao, du beurre d'amande, du sirop d'erable et de la farine d'avoine, ils sont naturellement sans gluten et debordants de saveur. Garnis de pacanes et de pepites de chocolat pour plus de gourmandise.
+Des brownies denses et fondants ou la purée de patate douce apporte l'humidite et une douceur naturelle. Combines avec de la poudre de cacao, du beurre d'amande, du sirop d'érable et de la farine d'avoine, ils sont naturellement sans gluten et debordants de saveur. Garnis de pacanes et de pépites de chocolat pour plus de gourmandise.
 
-## Ingredients
+## Ingrédients
 
-- 240 ml (1 tasse) de puree de patate douce (environ 1 patate douce moyenne)
-- 160 ml (2/3 tasse) de sirop d'erable
+- 240 ml (1 tasse) de purée de patate douce (environ 1 patate douce moyenne)
+- 160 ml (2/3 tasse) de sirop d'érable
 - 120 ml (1/2 tasse) de beurre d'amande ou beurre d'arachide
-- 5 ml (1 c. a the) d'extrait de vanille
-- 22 ml (1 1/2 c. a soupe) d'huile d'avocat (ou huile de coco fondue)
+- 5 ml (1 c. à thé) d'extrait de vanille
+- 22 ml (1 1/2 c. à soupe) d'huile d'avocat (ou huile de coco fondue)
 - 60 g (1/2 tasse) de poudre de cacao
-- 1/4 c. a the de sel de mer
-- 5 ml (1 c. a the) de poudre a pate
+- 1/4 c. à thé de sel de mer
+- 5 ml (1 c. à thé) de poudre à pâte
 - 80 g (2/3 tasse) de farine d'avoine (ou farine tout usage sans gluten)
-- 60 g (1/2 tasse) de pacanes crues, hachees
-- 45 g (1/4 tasse) de pepites de chocolat sans produits laitiers (facultatif)
+- 60 g (1/2 tasse) de pacanes crues, hachées
+- 45 g (1/4 tasse) de pépites de chocolat sans produits laitiers (facultatif)
 
 ## Instructions
 
-1. **Preparer la puree de patate douce.** Couper une patate douce en deux et badigeonner les cotes coupes d'huile. Cuire au four a 190 °C (375 °F) pendant 25 a 30 minutes jusqu'a tendrete. Envelopper dans du papier parchemin pour cuire a la vapeur 5 minutes, puis peler et ecraser jusqu'a consistance lisse.
-2. **Preparer le moule.** Ajuster le four a 175 °C (350 °F). Tapisser un moule carre de 20 cm (8 po) de papier parchemin.
-3. **Melanger les ingredients humides.** Dans un grand bol, combiner la puree de patate douce, le sirop d'erable, le beurre d'amande, la vanille et l'huile.
-4. **Ajouter les ingredients secs.** Incorporer la poudre de cacao, le sel et la poudre a pate. Ajouter ensuite la farine d'avoine et melanger jusqu'a obtenir une pate epaisse.
-5. **Assembler.** Etaler la pate uniformement dans le moule. Garnir de pacanes et de pepites de chocolat.
-6. **Cuire 28 a 32 minutes** sur la grille du centre. Les bords devraient paraitre legerement secs et un cure-dent devrait en ressortir presque propre. Laisser refroidir dans le moule au moins 30 minutes avant de trancher.
+1. **Préparer la purée de patate douce.** Couper une patate douce en deux et badigeonner les côtés coupés d'huile. Cuire au four a 190 °C (375 °F) pendant 25 à 30 minutes jusqu'à tendrete. Envelopper dans du papier parchemin pour cuire à la vapeur 5 minutes, puis peler et écraser jusqu'à consistance lisse.
+2. **Préparer le moule.** Ajuster le four a 175 °C (350 °F). Tapisser un moule carre de 20 cm (8 po) de papier parchemin.
+3. **Mélanger les ingrédients humides.** Dans un grand bol, combiner la purée de patate douce, le sirop d'érable, le beurre d'amande, la vanille et l'huile.
+4. **Ajouter les ingrédients secs.** Incorporer la poudre de cacao, le sel et la poudre à pâte. Ajouter ensuite la farine d'avoine et mélanger jusqu'à obtenir une pâte épaisse.
+5. **Assembler.** Étaler la pâte uniformement dans le moule. Garnir de pacanes et de pépites de chocolat.
+6. **Cuire 28 à 32 minutes** sur la grille du centre. Les bords devraient paraître légèrement secs et un cure-dent devrait en ressortir presque propre. Laisser refroidir dans le moule au moins 30 minutes avant de trancher.
 
 ## Notes & conseils
 
-- Se conserve a temperature ambiante 3 jours, au refrigerateur jusqu'a 7 jours, ou au congelateur jusqu'a 1 mois.
-- Plus la qualite du cacao est elevee, plus la saveur sera riche.
-- Servir avec une boule de creme glacee vegetalienne pour plus de gourmandise.
+- Se conserve a temperature ambiante 3 jours, au réfrigérateur jusqu'à 7 jours, ou au congelateur jusqu'à 1 mois.
+- Plus la qualite du cacao est élevée, plus la saveur sera riche.
+- Servir avec une boule de crème glacee végétalienne pour plus de gourmandise.
 
 </div>

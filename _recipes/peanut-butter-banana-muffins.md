@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿---
 title: "Peanut Butter Banana Muffins"
 title_fr: "Muffins banane et beurre d'arachide"
 excerpt: "Moist, protein-packed muffins with peanut butter, banana, oat flour, and chocolate chips."
@@ -72,7 +72,7 @@ Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide 
 
 - 250 ml (1 tasse) de bananes mûres écrasées (environ 3 moyennes)
 - 190 g (3/4 tasse) de beurre d'arachide naturel crémeux
-- 2 gros oeufs
+- 2 gros œufs
 - 60 ml (1/4 tasse) de sirop d'érable pur
 - 2 c. à thé d'extrait de vanille
 - 1/2 c. à soupe de lait végétal au choix
@@ -91,7 +91,7 @@ Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide 
 ## Instructions
 
 1. **Préchauffer** le four à 175 °C (350 °F). Garnir un moule à 12 muffins de caissettes et vaporiser légèrement l'intérieur d'enduit à cuisson.
-2. **Mélanger les ingrédients humides.** Dans un grand bol, mélanger les bananes écrasées, le beurre d'arachide, les oeufs, le sirop d'érable, la vanille et le lait jusqu'à consistance lisse.
+2. **Mélanger les ingrédients humides.** Dans un grand bol, mélanger les bananes écrasées, le beurre d'arachide, les œufs, le sirop d'érable, la vanille et le lait jusqu'à consistance lisse.
 3. **Ajouter les ingrédients secs.** Incorporer la farine d'avoine, la poudre à pâte, la cannelle et le sel jusqu'à ce que ce soit juste combiné. Plier les pépites de chocolat.
 4. **Remplir les caissettes.** Répartir la pâte uniformément entre les 12 caissettes. Saupoudrer de pépites de chocolat supplémentaires.
 5. **Cuire** 20 à 25 minutes jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.
@@ -99,7 +99,7 @@ Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide 
 
 ## Notes & conseils
 
-- Faire sa propre farine d'avoine en mixant des flocons d'avoine au mélangeur ou robot culinaire jusqu'à consistance fine.
+- Faire sa propre farine d'avoine en mixant des flocons d'avoine au mélangéur ou robot culinaire jusqu'à consistance fine.
 - Le beurre d'amande ou de cajou remplace bien le beurre d'arachide.
 - Conserver dans un contenant hermétique jusqu'à 4 jours, ou congeler individuellement pour un déjeuner rapide.
 

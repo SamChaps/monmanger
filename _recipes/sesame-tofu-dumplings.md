@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿---
 title: "Sesame Tofu Dumplings"
 title_fr: "Dumplings au tofu et sésame"
 excerpt: "Crispy dumplings filled with savory sesame tofu and green onions, steamed or pan-fried."
-excerpt_fr: "Dumplings croustillants garnis de tofu au sesame et oignons verts, a la vapeur ou poeles."
+excerpt_fr: "Dumplings croustillants garnis de tofu au sésame et oignons verts, à la vapeur ou poêles."
 date: 2025-07-26
 categories:
   - Appetizer
@@ -53,33 +53,33 @@ Dumplings stuffed with a quick stir-fried sesame tofu filling, flavored with soy
 
 <div class="lang-fr-content" markdown="1">
 
-Des dumplings farcis d'une garniture rapide de tofu saute au sesame, assaisonnee de sauce soya, vinaigre de riz et agave. Les cuire a la vapeur pour une enveloppe moelleuse ou les poeler pour des bords croustillants. Dans les deux cas, ils disparaissent vite.
+Des dumplings farcis d'une garniture rapide de tofu sauté au sésame, assaisonnée de sauce soya, vinaigre de riz et agave. Les cuire à la vapeur pour une enveloppe moelleuse ou les poêler pour des bords croustillants. Dans les deux cas, ils disparaissent vite.
 
-## Ingredients
+## Ingrédients
 
 - 1 bloc de tofu extra-ferme
-- 1 c. a soupe d'huile de sesame
-- 2 gousses d'ail, hachees
-- 3 c. a soupe de sauce soya
-- 1 c. a soupe de vinaigre de riz
-- 1 c. a soupe de sirop d'agave (ou sirop d'erable)
-- 1 c. a soupe de graines de sesame (moitie noire, moitie blanche)
-- 3 oignons verts, finement haches
+- 1 c. à soupe d'huile de sésame
+- 2 gousses d'ail, hachées
+- 3 c. à soupe de sauce soya
+- 1 c. à soupe de vinaigre de riz
+- 1 c. à soupe de sirop d'agave (ou sirop d'érable)
+- 1 c. à soupe de graines de sésame (moitié noire, moitié blanche)
+- 3 oignons verts, finement hachés
 - Feuilles de dumpling veganes
 
 ## Instructions
 
-1. **Presser** le tofu pendant au moins 15 minutes pour retirer l'exces d'eau.
-2. **Chauffer** l'huile de sesame dans un wok ou une poele antiadhesive a feu moyen-vif. Ajouter l'ail, puis emietter le tofu dans la poele aussi finement que possible.
-3. **Faire** sauter 3 a 4 minutes jusqu'a ce que le tofu commence a se raffermir et a dorer. Ajouter la sauce soya, le vinaigre de riz et l'agave. Poursuivre la cuisson jusqu'a absorption du liquide, environ 1 a 2 minutes.
-4. **Incorporer** les graines de sesame et les oignons verts. Ajuster l'assaisonnement et retirer du feu. Laisser refroidir suffisamment pour manipuler.
-5. **Garnir** chaque feuille de dumpling de 1 a 2 c. a the de farce. Mouiller les bords avec de l'eau, plier et presser pour sceller. Plisser si desire.
-6. **Cuire** a la vapeur 7 a 8 minutes au-dessus d'eau fremissante. Optionnellement, poeler dans un peu d'huile 1 a 2 minutes apres la cuisson vapeur pour un dessous croustillant.
-7. **Servir** immediatement avec votre trempette preferee.
+1. **Presser** le tofu pendant au moins 15 minutes pour retirer l'excès d'eau.
+2. **Chauffer** l'huile de sésame dans un wok ou une poêle antiadhésive à feu moyen-vif. Ajouter l'ail, puis émietter le tofu dans la poêle aussi finement que possible.
+3. **Faire** sauter 3 à 4 minutes jusqu'à ce que le tofu commence a se raffermir et a dorer. Ajouter la sauce soya, le vinaigre de riz et l'agave. Poursuivre la cuisson jusqu'à absorption du liquide, environ 1 à 2 minutes.
+4. **Incorporer** les graines de sésame et les oignons verts. Ajuster l'assaisonnement et retirer du feu. Laisser refroidir suffisamment pour manipuler.
+5. **Garnir** chaque feuille de dumpling de 1 à 2 c. à thé de farce. Mouiller les bords avec de l'eau, plier et presser pour sceller. Plisser si désiré.
+6. **Cuire** à la vapeur 7 à 8 minutes au-dessus d'eau frémissante. Optionnellement, poêler dans un peu d'huile 1 à 2 minutes apres la cuisson vapeur pour un dessous croustillant.
+7. **Servir** immédiatement avec votre trempette préférée.
 
 ## Notes & conseils
 
-- Sans cuiseur vapeur, une passoire deposee sur une casserole d'eau bouillante fonctionne tres bien.
-- Se congelent bien sur une plaque tapissee de papier parchemin. Une fois geles, transferer dans un sac et cuire a la vapeur directement du congelateur en ajoutant quelques minutes.
+- Sans cuiseur vapeur, une passoire deposee sur une casserole d'eau bouillante fonctionne très bien.
+- Se congelent bien sur une plaque tapissée de papier parchemin. Une fois geles, transférer dans un sac et cuire à la vapeur directement du congelateur en ajoutant quelques minutes.
 
 </div>

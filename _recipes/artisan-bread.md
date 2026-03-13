@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Artisan Bread"
 title_fr: "Pain artisanal"
 excerpt: "Crusty, chewy homemade bread with just four simple ingredients."
@@ -65,7 +65,7 @@ Quatre ingrédients de base suffisent pour un pain maison digne d'une boulangeri
 ## Instructions
 
 1. **Mélanger les ingrédients secs.** Dans un grand bol, ajouter la farine, la levure et le sel. Mélanger à l'aide d'une grande cuillère en bois.
-2. **Ajouter l'eau.** Incorporer l'eau tiède jusqu'à ce que le mélange soit très collant et qu'il ne reste plus de grumeaux de farine. Couvrir et placer dans un endroit chaud à l'abri des courants d'air jusqu'à ce que le volume double, environ 1 ½ à 2 heures.
+2. **Ajouter l'eau.** Incorporer l'eau tiède jusqu'à ce que le mélangé soit très collant et qu'il ne reste plus de grumeaux de farine. Couvrir et placer dans un endroit chaud à l'abri des courants d'air jusqu'à ce que le volume double, environ 1 ½ à 2 heures.
 3. **Levée au réfrigérateur (optionnel).** Pour une saveur plus développée, couvrir la pâte et réfrigérer jusqu'à ce qu'elle double, environ 8 heures (24 heures maximum).
 4. **Préchauffer le four.** Préchauffer à 230 °C (450 °F). Placer une grande cocotte avec son couvercle dans le four pendant au moins 30 minutes.
 5. **Tempérer la pâte.** Si elle a été réfrigérée, laisser reposer à température ambiante pendant 15 minutes.

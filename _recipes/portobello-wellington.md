@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Portobello Wellington"
 title_fr: "Wellington de portobello"
 excerpt: "Whole portobellos wrapped in mushroom-cashew filling and golden puff pastry."
-excerpt_fr: "Portobellos entiers enrobes d'une garniture champignons-cajou en pate feuillettee doree."
+excerpt_fr: "Portobellos entiers enrobés d'une garniture champignons-cajou en pâte feuillettee dorée."
 date: 2025-06-14
 categories:
   - Main
@@ -71,51 +71,51 @@ A showstopping vegan Wellington worthy of any holiday table. Oven-roasted portob
 
 <div class="lang-fr-content" markdown="1">
 
-Un Wellington vegetalien spectaculaire, digne de n'importe quelle table des fetes. Des chapeaux de portobellos rotis au four sont niches dans une garniture savoureuse de champignons cremini, noix de cajou, sauge et epinards, puis roules en pate feuilletee et cuits jusqu'a ce qu'ils soient dores et croustillants. Servir avec une sauce aux champignons pour l'experience complete.
+Un Wellington végétalien spectaculaire, digne de n'importe quelle table des fetes. Des chapeaux de portobellos rôtis au four sont niches dans une garniture savoureuse de champignons cremini, noix de cajou, sauge et epinards, puis roules en pâte feuilletee et cuits jusqu'à ce qu'ils soient dorés et croustillants. Servir avec une sauce aux champignons pour l'experience complète.
 
-## Ingredients
+## Ingrédients
 
 **Chapeaux de portobellos**
 
 - 8 champignons portobellos (environ 350 g), pieds retires
-- 30 ml (2 c. a soupe) d'huile d'olive
-- Sel et poivre au gout
+- 30 ml (2 c. à soupe) d'huile d'olive
+- Sel et poivre au goût
 
 **Garniture champignons-cajou**
 
 - 450 g (1 lb) de champignons cremini (de Paris)
 - 80 g (2/3 tasse) de noix de cajou crues
-- 45 ml (3 c. a soupe) d'huile d'olive
-- 2 oignons, haches
-- 2 gousses d'ail, emincees
-- 30 ml (2 c. a soupe) de levure alimentaire
-- 4 feuilles de sauge fraiche, hachees
-- 10 ml (2 c. a the) de sirop d'erable
-- 5 ml (1 c. a the) de basilic seche
-- 5 ml (1 c. a the) d'origan seche
-- 5 ml (1 c. a the) de sel
-- 2,5 ml (1/2 c. a the) d'huile de truffe (facultatif)
+- 45 ml (3 c. à soupe) d'huile d'olive
+- 2 oignons, hachés
+- 2 gousses d'ail, émincées
+- 30 ml (2 c. à soupe) de levure alimentaire
+- 4 feuilles de sauge fraîche, hachées
+- 10 ml (2 c. à thé) de sirop d'érable
+- 5 ml (1 c. à thé) de basilic séché
+- 5 ml (1 c. à thé) d'origan séché
+- 5 ml (1 c. à thé) de sel
+- 2,5 ml (1/2 c. à thé) d'huile de truffe (facultatif)
 - 140 g (5 oz) de jeunes epinards
-- Poivre au gout
+- Poivre au goût
 
 **Assemblage**
 
-- 1 abaisse (550 g / 1 lb) de pate feuilletee
+- 1 abaisse (550 g / 1 lb) de pâte feuilletee
 
 ## Instructions
 
-1. **Rotir les portobellos.** Prechauffer le four a 175 °C (350 °F). Deposer les chapeaux de portobellos sur une plaque, badigeonner d'huile d'olive et assaisonner de sel et poivre. Cuire 20 minutes. Reserver.
-2. **Preparer la garniture.** Pulser les champignons cremini et les noix de cajou au robot culinaire jusqu'a consistance grossierement hachee. Dans une grande casserole, faire revenir les oignons dans l'huile d'olive a feu moyen-vif pendant 5 minutes. Ajouter le melange champignons-cajou, l'ail, la levure alimentaire, la sauge, le sirop d'erable, le basilic, l'origan, le sel, l'huile de truffe, les epinards et le poivre. Cuire 12 a 15 minutes en melangeant regulierement. Retirer du feu et refrigerer 30 minutes.
-3. **Abaisser la pate.** Sur un plan de travail farine, abaisser la pate feuilletee en un rectangle d'environ 33x30 cm (13x12 po).
-4. **Assembler.** Etaler la garniture refroidie en une couche uniforme sur la pate, en laissant une bordure de 5 cm (2 po). Aligner les chapeaux de portobellos rotis sur la garniture.
-5. **Enrouler et sceller.** Rabattre le bas de la pate par-dessus les champignons. Rouler fermement vers le haut. Couper l'excedent de pate et sceller les extremites. Transferer, joint vers le bas, sur une plaque tapissee de papier parchemin.
-6. **Cuire 45 minutes** a 175 °C (350 °F), ou jusqu'a ce que la pate soit bien doree.
-7. **Laisser reposer 5 a 10 minutes** avant de trancher pour permettre a la garniture de prendre.
+1. **Rotir les portobellos.** Préchauffer le four a 175 °C (350 °F). Déposer les chapeaux de portobellos sur une plaque, badigeonner d'huile d'olive et assaisonner de sel et poivre. Cuire 20 minutes. Réserver.
+2. **Préparer la garniture.** Pulser les champignons cremini et les noix de cajou au robot culinaire jusqu'à consistance grossièrement hachée. Dans une grande casserole, faire revenir les oignons dans l'huile d'olive à feu moyen-vif pendant 5 minutes. Ajouter le mélangé champignons-cajou, l'ail, la levure alimentaire, la sauge, le sirop d'érable, le basilic, l'origan, le sel, l'huile de truffe, les epinards et le poivre. Cuire 12 à 15 minutes en mélangéant regulierement. Retirer du feu et réfrigérer 30 minutes.
+3. **Abaisser la pâte.** Sur un plan de travail farine, abaisser la pâte feuilletee en un rectangle d'environ 33x30 cm (13x12 po).
+4. **Assembler.** Étaler la garniture refroidie en une couche uniforme sur la pâte, en laissant une bordure de 5 cm (2 po). Aligner les chapeaux de portobellos rôtis sur la garniture.
+5. **Enrouler et sceller.** Rabattre le bas de la pâte par-dessus les champignons. Rouler fermement vers le haut. Couper l'excédent de pâte et sceller les extremites. Transferer, joint vers le bas, sur une plaque tapissée de papier parchemin.
+6. **Cuire 45 minutes** a 175 °C (350 °F), ou jusqu'à ce que la pâte soit bien dorée.
+7. **Laisser reposer 5 à 10 minutes** avant de trancher pour permettre à la garniture de prendre.
 
 ## Notes & conseils
 
-- Accompagner d'une sauce aux champignons vegetalienne pour un repas de celebration complet.
-- La garniture peut etre preparee la veille et refrigeree.
-- Entailler legerement le dessus de la pate pour un fini decoratif et pour laisser la vapeur s'echapper.
+- Accompagner d'une sauce aux champignons végétalienne pour un repas de celebration complet.
+- La garniture peut être préparée la veille et refrigeree.
+- Entailler légèrement le dessus de la pâte pour un fini decoratif et pour laisser la vapeur s'echapper.
 
 </div>

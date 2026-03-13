@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Healthy Granola"
 title_fr: "Granola santé"
 excerpt: "A classic, versatile granola with big clusters, sweetened with maple syrup and finished with dried fruit."
@@ -59,20 +59,20 @@ Un granola équilibré et légèrement sucré qui cuit en belles grappes dorées
 ## Ingrédients
 
 - 1 L (4 tasses) de flocons d'avoine
-- 375 ml (1 1/2 tasse) de noix et/ou graines au choix (pacanes, noix de Grenoble, amandes, cajous, pepitas, ou un mélange)
+- 375 ml (1 1/2 tasse) de noix et/ou graines au choix (pacanes, noix de Grenoble, amandes, cajous, pepitas, ou un mélangé)
 - 1 c. à thé de sel de mer fin
 - 1/2 c. à thé de cannelle moulue
 - 125 ml (1/2 tasse) d'huile de coco, fondue
 - 125 ml (1/2 tasse) de sirop d'érable
 - 1 c. à thé d'extrait de vanille
-- 160 ml (2/3 tasse) de fruits séchés (canneberges, raisins secs, abricots hachés, ou un mélange)
+- 160 ml (2/3 tasse) de fruits séchés (canneberges, raisins secs, abricots hachés, ou un mélangé)
 
 ## Instructions
 
 1. **Préchauffer** le four à 175 °C (350 °F). Tapisser une grande plaque à rebords de papier parchemin.
 2. **Mélanger les ingrédients secs.** Dans un grand bol, combiner les flocons d'avoine, les noix et/ou graines, le sel et la cannelle.
 3. **Ajouter les ingrédients liquides.** Verser l'huile de coco fondue, le sirop d'érable et la vanille. Bien remuer jusqu'à ce que chaque flocon et noix soit enrobé.
-4. **Étaler** le mélange uniformément sur la plaque. Presser en une couche plate et compacte à l'aide d'une grande spatule.
+4. **Étaler** le mélangé uniformément sur la plaque. Presser en une couche plate et compacte à l'aide d'une grande spatule.
 5. **Cuire** 21 à 24 minutes, jusqu'à légèrement doré sur les bords. Le granola semblera mou, mais il deviendra croustillant en refroidissant. Ne pas remuer.
 6. **Laisser refroidir** complètement sur la plaque, puis garnir de fruits séchés. Briser en grappes et servir ou conserver.
 

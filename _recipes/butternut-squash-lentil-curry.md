@@ -1,4 +1,4 @@
----
+﻿---
 title: "Butternut Squash Lentil Curry"
 title_fr: "Cari de courge butternut et lentilles"
 excerpt: "A hearty, warming curry with butternut squash, brown lentils, coconut milk, and baby kale."
@@ -120,8 +120,8 @@ Un cari riche et doré, garni de courge butternut tendre et de lentilles brunes 
 1. **Rincer les lentilles** et les égoutter.
 2. **Griller le cumin.** Sélectionner le mode Saute sur l'Instant Pot. Ajouter 1/2 c. à soupe d'huile de coco, puis les graines de cumin. Remuer 30 à 60 secondes jusqu'à légèrement doré et parfumé.
 3. **Cuire les aromates.** Ajouter le reste de l'huile de coco, l'oignon et 1/2 c. à thé de sel. Cuire 4 à 5 minutes jusqu'à légèrement doré. Ajouter l'ail et le gingembre et cuire 1 minute en remuant souvent pour éviter que ça colle.
-4. **Faire revenir les épices.** Incorporer la poudre de cari, le curcuma et la cayenne (si utilisée) pendant 30 secondes, en ajoutant les 2 c. à soupe d'eau pour éviter que le mélange ne sèche.
-5. **Monter le cari.** Ajouter la courge et enrober du mélange d'épices. Verser le bouillon et gratter les morceaux caramélisés au fond. Ajouter le reste du sel, les lentilles et le lait de coco. Déposer le beurre de cajou sur le dessus sans mélanger (cela évite de déclencher l'avertissement de brûlure).
+4. **Faire revenir les épices.** Incorporer la poudre de cari, le curcuma et la cayenne (si utilisée) pendant 30 secondes, en ajoutant les 2 c. à soupe d'eau pour éviter que le mélangé ne sèche.
+5. **Monter le cari.** Ajouter la courge et enrober du mélangé d'épices. Verser le bouillon et gratter les morceaux caramélisés au fond. Ajouter le reste du sel, les lentilles et le lait de coco. Déposer le beurre de cajou sur le dessus sans mélanger (cela évite de déclencher l'avertissement de brûlure).
 6. **Cuisson sous pression.** Fermer le couvercle et régler la valve sur Scellage. Sélectionner Cuisson sous pression (ou Manuel) et régler le temps à 10 minutes.
 7. **Relâcher et terminer.** Une fois le minuteur terminé, laisser la pression se relâcher naturellement. Ouvrir et incorporer le jeune chou frisé. Sélectionner Saute et chauffer environ 2 minutes jusqu'à ce qu'il ramollisse, puis sélectionner Annuler. Incorporer le jus de lime et la coriandre.
 8. **Servir** sur du riz blanc ou avec du pain plat.

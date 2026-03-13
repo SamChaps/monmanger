@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Vegan Garlic Alfredo"
 title_fr: "Alfredo à l'ail végétalien"
 excerpt: "Creamy oil-free cashew alfredo sauce loaded with caramelized onion and garlic."
-excerpt_fr: "Sauce alfredo cremeuse sans huile aux noix de cajou, oignon caramelise et ail."
+excerpt_fr: "Sauce alfredo crémeuse sans huile aux noix de cajou, oignon caramélisé et ail."
 date: 2025-06-14
 categories:
   - Main
@@ -52,31 +52,31 @@ A luscious dairy-free and oil-free alfredo sauce that rivals the original. The s
 
 <div class="lang-fr-content" markdown="1">
 
-Une sauce alfredo onctueuse, sans produits laitiers et sans huile, qui rivalise avec l'originale. Le secret: beaucoup d'oignon cuit dans du bouillon de legumes jusqu'a ce qu'il soit fondant, puis melange avec des noix de cajou, de la levure alimentaire et un filet de citron. Verser sur vos pates preferees pour un repas rapide en semaine.
+Une sauce alfredo onctueuse, sans produits laitiers et sans huile, qui rivalise avec l'originale. Le secret: beaucoup d'oignon cuit dans du bouillon de légumes jusqu'à ce qu'il soit fondant, puis mélangé avec des noix de cajou, de la levure alimentaire et un filet de citron. Verser sur vos pâtes préférées pour un repas rapide en semaine.
 
-## Ingredients
+## Ingrédients
 
-- 200 g (1 moyen) d'oignon blanc, coupe en des (environ 1 1/2 tasse)
-- 240-480 ml (1-2 tasses) de bouillon de legumes a faible teneur en sodium, divise
-- 1/2 a 3/4 c. a the de sel
-- 1/4 a 1/2 c. a the de poivre noir moulu
-- 4 tres grosses gousses d'ail (environ 15 g), emincees
+- 200 g (1 moyen) d'oignon blanc, coupé en dés (environ 1 1/2 tasse)
+- 240-480 ml (1-2 tasses) de bouillon de légumes a faible teneur en sodium, divise
+- 1/2 à 3/4 c. à thé de sel
+- 1/4 à 1/2 c. à thé de poivre noir moulu
+- 4 très grosses gousses d'ail (environ 15 g), émincées
 - 75 g (1/2 tasse bien remplie) de noix de cajou crues non salees
-- 7,5-15 ml (1/2-1 c. a soupe) de jus de citron
-- 30 ml (2 c. a soupe) de levure alimentaire
+- 7,5-15 ml (1/2-1 c. à soupe) de jus de citron
+- 30 ml (2 c. à soupe) de levure alimentaire
 - Pates au choix, cuites et salees
 
 ## Instructions
 
-1. **Cuire l'oignon.** Mettre l'oignon coupe en des et seulement 1 tasse de bouillon dans une grande poele a feu moyen a moyen-eleve. Cuire environ 8 minutes jusqu'a ce qu'il soit tres tendre. Ajouter l'ail et cuire 2 minutes de plus en remuant souvent. Tout le bouillon devrait s'etre evapore a ce stade.
-2. **Melanger la sauce.** Transferer l'oignon et l'ail cuits au melangeur. Ajouter 1/2 tasse de bouillon supplementaire, les noix de cajou, 1/2 c. a soupe de jus de citron, la levure alimentaire, le sel et le poivre. Melanger a haute vitesse 1 a 2 minutes jusqu'a consistance parfaitement lisse et cremeuse. Ajouter plus de bouillon seulement si une consistance plus liquide est souhaitee.
+1. **Cuire l'oignon.** Mettre l'oignon coupé en dés et seulement 1 tasse de bouillon dans une grande poêle à feu moyen a moyen-élevé. Cuire environ 8 minutes jusqu'à ce qu'il soit très tendre. Ajouter l'ail et cuire 2 minutes de plus en remuant souvent. Tout le bouillon devrait s'être evapore à ce stade.
+2. **Mélanger la sauce.** Transferer l'oignon et l'ail cuits au mélangéur. Ajouter 1/2 tasse de bouillon supplementaire, les noix de cajou, 1/2 c. à soupe de jus de citron, la levure alimentaire, le sel et le poivre. Mélanger a haute vitesse 1 à 2 minutes jusqu'à consistance parfaitement lisse et crémeuse. Ajouter plus de bouillon seulement si une consistance plus liquide est souhaitee.
 3. **Gouter et ajuster.** Ajouter plus de sel, poivre ou jus de citron au besoin.
-4. **Servir sur des pates bien salees.** Garnir de persil frais, de zeste de citron et de poivre noir. Le brocoli ou les petits pois sont un excellent ajout.
+4. **Servir sur des pâtes bien salees.** Garnir de persil frais, de zeste de citron et de poivre noir. Le brocoli ou les petits pois sont un excellent ajout.
 
 ## Notes & conseils
 
-- Sans melangeur haute puissance, tremper les noix de cajou une nuit dans l'eau, puis egoutter avant de melanger.
-- Le jus de citron est essentiel: il elimine le gout brut des cajou et illumine la sauce.
-- La sauce restante epaissit au refrigerateur; la diluer avec un peu de bouillon en rechauffant.
+- Sans mélangéur haute puissance, tremper les noix de cajou une nuit dans l'eau, puis égoutter avant de mélanger.
+- Le jus de citron est essentiel: il elimine le goût brut des cajou et illumine la sauce.
+- La sauce restante épaissit au réfrigérateur; la diluer avec un peu de bouillon en rechauffant.
 
 </div>

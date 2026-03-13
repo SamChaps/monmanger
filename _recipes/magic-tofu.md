@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿---
 title: "Magic Tofu"
 title_fr: "Tofu magique"
 excerpt: "Bite-sized tofu coated in nutritional yeast and pan-fried or baked until golden and irresistible."
-excerpt_fr: "Bouchees de tofu enrobees de levure alimentaire, poelees ou cuites au four jusqu'a etre dorees et irresistibles."
+excerpt_fr: "Bouchées de tofu enrobées de levure alimentaire, poêlées ou cuites au four jusqu'à être dorées et irrésistibles."
 date: 2025-07-26
 categories:
   - Main
@@ -49,29 +49,29 @@ A base recipe with magical powers: it converts tofu skeptics. Bite-sized pieces 
 
 <div class="lang-fr-content" markdown="1">
 
-Une recette de base aux pouvoirs magiques: elle convertit les sceptiques du tofu. Des bouchees enrobees de vinaigre de cidre, sauce soya et sirop d'erable, recouvertes de levure alimentaire, puis poelees ou cuites au four jusqu'a etre dorees et croustillantes. Infiniment polyvalent - a utiliser dans les salades, bols, sautes, wraps, pates, ou a manger froid en collation.
+Une recette de base aux pouvoirs magiques: elle convertit les sceptiques du tofu. Des bouchées enrobées de vinaigre de cidre, sauce soya et sirop d'érable, recouvertes de levure alimentaire, puis poêlées ou cuites au four jusqu'à être dorées et croustillantes. Infiniment polyvalent - à utiliser dans les salades, bols, sautés, wraps, pâtes, ou à manger froid en collation.
 
-## Ingredients
+## Ingrédients
 
 - 1 bloc (450 g) de tofu extra-ferme, epongé dans un linge sec
-- 1 c. a soupe de vinaigre de cidre de pommes (ou jus de citron)
-- 1 c. a soupe de sauce soya ou tamari
-- 1 c. a soupe de sirop d'erable
+- 1 c. à soupe de vinaigre de cidre de pommes (ou jus de citron)
+- 1 c. à soupe de sauce soya ou tamari
+- 1 c. à soupe de sirop d'érable
 - 30 g (1/4 tasse) de levure alimentaire en flocons
-- 1 c. a soupe d'huile vegetale, pour la cuisson
+- 1 c. à soupe d'huile végétale, pour la cuisson
 
 ## Instructions
 
-1. **Defaire** le tofu en morceaux de la grosseur d'une bouchee avec les doigts (les morceaux n'ont pas besoin d'etre parfaitement uniformes).
-2. **Melanger** avec le vinaigre de cidre, la sauce soya et le sirop d'erable. Bien enrober.
-3. **Saupoudrer** la levure alimentaire sur le tofu et melanger jusqu'a ce que tout soit bien enrobe.
-4. **Poeler** dans l'huile dans une poele a feu moyen-vif pendant environ 10 minutes, en retournant de temps a autre, jusqu'a ce qu'ils soient bien dores. (Ou cuire au four a 200 C / 400 F pendant environ 25 minutes en retournant a mi-cuisson.)
+1. **Défaire** le tofu en morceaux de la grosseur d'une bouchée avec les doigts (les morceaux n'ont pas besoin d'être parfaitement uniformes).
+2. **Mélanger** avec le vinaigre de cidre, la sauce soya et le sirop d'érable. Bien enrober.
+3. **Saupoudrer** la levure alimentaire sur le tofu et mélanger jusqu'à ce que tout soit bien enrobé.
+4. **Poeler** dans l'huile dans une poêle à feu moyen-vif pendant environ 10 minutes, en retournant de temps à autre, jusqu'à ce qu'ils soient bien dorés. (Ou cuire au four a 200 C / 400 F pendant environ 25 minutes en retournant à mi-cuisson.)
 
 ## Notes & conseils
 
-- Pas besoin de presser le tofu; simplement l'eponger dans un linge propre et sec.
-- La levure alimentaire prend un gout roti rappelant celui du poulet lorsqu'elle est cuite.
-- Se conserve 4 a 5 jours au refrigerateur. Aussi delicieux froid que chaud.
-- Se congele, mais la texture pourrait etre legerement alteree.
+- Pas besoin de presser le tofu; simplement l'éponger dans un linge propre et sec.
+- La levure alimentaire prend un goût rôti rappelant celui du poulet lorsqu'elle est cuite.
+- Se conserve 4 à 5 jours au réfrigérateur. Aussi délicieux froid que chaud.
+- Se congelé, mais la texture pourrait être légèrement alteree.
 
 </div>

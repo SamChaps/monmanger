@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Stuffed Spaghetti Squash Bowls"
 title_fr: "Bols de courge spaghetti farcis"
 excerpt: "Roasted spaghetti squash shells filled with a savory mushroom and tomato sauce."
-excerpt_fr: "Coques de courge spaghetti roties farcies d'une sauce savoureuse aux champignons et tomates."
+excerpt_fr: "Coques de courge spaghetti rôties farcies d'une sauce savoureuse aux champignons et tomates."
 date: 2025-07-26
 categories:
   - Main
@@ -56,37 +56,37 @@ Spaghetti squash halves roasted until tender, then the noodle-like strands are t
 
 <div class="lang-fr-content" markdown="1">
 
-Des moities de courge spaghetti roties jusqu'a tendrete, puis les filaments sont melanges avec une sauce copieuse aux champignons et tomates assaisonnee d'origan, basilic et thym. Le tout est farci dans les coques pour une presentation belle et satisfaisante.
+Des moities de courge spaghetti rôties jusqu'à tendrete, puis les filaments sont mélangés avec une sauce copieuse aux champignons et tomates assaisonnée d'origan, basilic et thym. Le tout est farci dans les coques pour une présentation belle et satisfaisante.
 
-## Ingredients
+## Ingrédients
 
 - 2 petites courges spaghetti rondes
-- 1 c. a soupe + 1 c. a the d'huile d'olive, divisee
-- 1 oignon jaune, coupe en des
-- 1 echalote, coupee en des
-- 3 gousses d'ail, emincees
-- 8 champignons cremini, coupes en des
-- 1 c. a the d'origan seche
-- 1 c. a the de basilic seche
-- 1 c. a the de thym seche
-- Sel et poivre, au gout
+- 1 c. à soupe + 1 c. à thé d'huile d'olive, divisee
+- 1 oignon jaune, coupé en dés
+- 1 échalote, coupée en dés
+- 3 gousses d'ail, émincées
+- 8 champignons cremini, coupés en dés
+- 1 c. à thé d'origan séché
+- 1 c. à thé de basilic séché
+- 1 c. à thé de thym séché
+- Sel et poivre, au goût
 - 1 L (4 tasses) de sauce tomate
-- Parmesan rape, pour garnir (optionnel)
+- Parmesan râpé, pour garnir (optionnel)
 
 ## Instructions
 
-1. **Prechauffer** le four a 220 C (425 F) et tapisser une plaque de cuisson de papier d'aluminium.
+1. **Préchauffer** le four a 220 C (425 F) et tapisser une plaque de cuisson de papier d'aluminium.
 2. **Couper** les courges spaghetti en deux par la tige et retirer les graines. Arroser d'un peu d'huile d'olive et assaisonner de sel et poivre.
-3. **Rotir** cote coupe vers le haut pendant 40 a 45 minutes jusqu'a ce qu'une fourchette effiloche facilement la chair en filaments. Laisser refroidir legerement, puis gratter les filaments en gardant les peaux intactes comme bols.
-4. **Chauffer** le reste de l'huile d'olive dans une grande poele a feu moyen-vif. Ajouter l'oignon, l'echalote, l'ail et les champignons. Cuire jusqu'a ce que l'oignon soit tendre et les champignons dores.
+3. **Rotir** côté coupé vers le haut pendant 40 à 45 minutes jusqu'à ce qu'une fourchette effiloché facilement la chair en filaments. Laisser refroidir légèrement, puis gratter les filaments en gardant les peaux intactes comme bols.
+4. **Chauffer** le reste de l'huile d'olive dans une grande poêle à feu moyen-vif. Ajouter l'oignon, l'échalote, l'ail et les champignons. Cuire jusqu'à ce que l'oignon soit tendre et les champignons dorés.
 5. **Assaisonner** d'origan, basilic, thym, sel et poivre. Ajouter la sauce tomate et remuer. Laisser mijoter a couvert 15 minutes.
-6. **Melanger** les filaments de courge avec la sauce jusqu'a ce que le tout soit bien enrobe.
-7. **Farcir** chaque coque de courge avec le melange. Garnir de Parmesan si desire.
+6. **Mélanger** les filaments de courge avec la sauce jusqu'à ce que le tout soit bien enrobé.
+7. **Farcir** chaque coque de courge avec le mélangé. Garnir de Parmesan si désiré.
 
 ## Notes & conseils
 
 - Utiliser du Parmesan vegane ou de la levure nutritionnelle pour une version sans produits laitiers.
 - La taille des courges peut varier; ajuster le temps de cuisson pour que les filaments se separent facilement.
-- Le reste de garniture fonctionne bien comme sauce pour pates.
+- Le reste de garniture fonctionne bien comme sauce pour pâtes.
 
 </div>

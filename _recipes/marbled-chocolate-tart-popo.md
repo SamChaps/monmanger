@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Popo's Marbled Chocolate Tart"
 title_fr: "Tarte au chocolat marbré de Popo"
 excerpt: "A silky no-bake chocolate cream tart with swirled whipped cream."
@@ -54,7 +54,7 @@ A family recipe for a rich chocolate cream tart with a beautiful marbled finish.
 
 <div class="lang-fr-content" markdown="1">
 
-Une recette de famille pour une tarte crémeuse au chocolat avec un joli fini marbré. La garniture se prépare sur le poêle et se mélange à de la crème fouettée avant d'être versée dans une croûte à tarte. Simple, élégante, et toujours un succès.
+Une recette de famille pour une tarte crémeuse au chocolat avec un joli fini marbré. La garniture se prépare sur le poêle et se mélangé à de la crème fouettée avant d'être versée dans une croûte à tarte. Simple, élégante, et toujours un succès.
 
 ## Ingrédients
 
@@ -74,14 +74,14 @@ Une recette de famille pour une tarte crémeuse au chocolat avec un joli fini ma
 1. **Mélanger la base.** Dans une casserole à feu doux, fouetter ensemble le sucre, le cacao, le café, la farine, la fécule, le lait et le sel. Brasser constamment jusqu'à épaississement.
 2. **Retirer du feu** et ajouter la vanille. Laisser refroidir complètement.
 3. **Fouetter la crème** dans un autre bol jusqu'à formation de pics fermes.
-4. **Incorporer les deux tiers** de la crème fouettée au mélange de chocolat refroidi.
+4. **Incorporer les deux tiers** de la crème fouettée au mélangé de chocolat refroidi.
 5. **Verser dans la croûte à tarte** et égaliser.
 6. **Ajouter le reste de la crème fouettée** sur le dessus et marbrer doucement avec un couteau ou une spatule.
 7. **Réfrigérer** au moins 2 heures avant de servir.
 
 ## Notes & conseils
 
-- Le mélange au chocolat doit être complètement refroidi avant d'incorporer la crème fouettée, sinon elle va tomber.
+- Le mélangé au chocolat doit être complètement refroidi avant d'incorporer la crème fouettée, sinon elle va tomber.
 - Pour un goût plus intense, utiliser du cacao noir.
 
 </div>

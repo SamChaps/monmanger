@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿---
 title: "Sticky Sesame Tofu"
 title_fr: "Tofu collant au sésame"
 excerpt: "Crispy baked tofu tossed in a savory-sweet sesame glaze with garlic and scallions."
-excerpt_fr: "Tofu croustillant cuit au four enrobe d'un glacage sale-sucre au sesame, ail et oignons verts."
+excerpt_fr: "Tofu croustillant cuit au four enrobé d'un glacage salé-sucré au sésame, ail et oignons verts."
 date: 2025-07-26
 categories:
   - Main
@@ -67,47 +67,47 @@ Extra-firm tofu pressed, seasoned, coated in cornstarch, and baked until golden 
 
 <div class="lang-fr-content" markdown="1">
 
-Du tofu extra-ferme presse, assaisonne, enrobe de fecule de mais et cuit au four jusqu'a ce qu'il soit dore et croustillant. Puis enrobe d'une sauce glacee au sesame avec ail, cassonade et vinaigre de riz. Un repas de semaine satisfaisant qui rivalise avec la livraison.
+Du tofu extra-ferme pressé, assaisonné, enrobé de fécule de maïs et cuit au four jusqu'à ce qu'il soit doré et croustillant. Puis enrobé d'une sauce glacee au sésame avec ail, cassonade et vinaigre de riz. Un repas de semaine satisfaisant qui rivalise avec la livraison.
 
-## Ingredients
+## Ingrédients
 
 ### Tofu croustillant
 
 - 1 bloc (400-450 g / 14-16 oz) de tofu ferme ou extra-ferme
-- 1 c. a soupe d'huile vegetale neutre
-- 1/2 c. a the de sel
-- 1/2 c. a the de poudre d'oignon
-- 1/2 c. a the de poudre d'ail
-- Poivre noir, au gout
-- 2 c. a soupe de fecule de mais (ou de pomme de terre)
+- 1 c. à soupe d'huile végétale neutre
+- 1/2 c. à thé de sel
+- 1/2 c. à thé de poudre d'oignon
+- 1/2 c. à thé de poudre d'ail
+- Poivre noir, au goût
+- 2 c. à soupe de fécule de maïs (ou de pomme de terre)
 
 ### Sauce
 
-- 1 c. a soupe d'huile vegetale neutre
-- 1 c. a soupe d'ail emince
-- 3 c. a soupe de sauce soya
-- 2 c. a soupe de ketchup
-- 3 c. a soupe de cassonade
-- 2 c. a soupe de vinaigre de riz
-- 2 c. a the d'huile de sesame grillee
-- 2 c. a the de fecule de mais
-- 2 c. a soupe de graines de sesame grillees
-- 1 oignon vert, hache (blanc et vert separes)
+- 1 c. à soupe d'huile végétale neutre
+- 1 c. à soupe d'ail émincé
+- 3 c. à soupe de sauce soya
+- 2 c. à soupe de ketchup
+- 3 c. à soupe de cassonade
+- 2 c. à soupe de vinaigre de riz
+- 2 c. à thé d'huile de sésame grillée
+- 2 c. à thé de fécule de maïs
+- 2 c. à soupe de graines de sésame grillées
+- 1 oignon vert, haché (blanc et vert separes)
 
 ## Instructions
 
-1. **Presser** le tofu pendant au moins 15 minutes pour retirer l'exces d'eau.
-2. **Couper** en cubes ou dechirer en bouchees. Enrober d'huile, sel, poudre d'oignon, poudre d'ail et poivre. Saupoudrer de fecule de mais et melanger delicatement.
-3. **Cuire** au four a 220 C (425 F) sur une plaque tapissee pendant 15 minutes. Retourner et cuire 15 a 20 minutes de plus jusqu'a ce que le tofu soit dore et croustillant. (Friteuse a air: 200 C / 400 F pendant 18 a 20 minutes, en secouant occasionnellement.)
-4. **Fouetter** ensemble la sauce soya, le ketchup, la cassonade, le vinaigre de riz, l'huile de sesame et la fecule de mais pour la sauce.
-5. **Chauffer** l'huile vegetale dans une poele avec l'ail et le blanc de l'oignon vert a feu moyen. Quand ca gresille, faire sauter 2 a 3 minutes jusqu'a ce que ce soit odorant.
-6. **Verser** le melange de sauce et remuer constamment 1 a 2 minutes jusqu'a epaississement.
-7. **Ajouter** le tofu croustillant, le vert de l'oignon et les graines de sesame. Enrober et servir immediatement.
+1. **Presser** le tofu pendant au moins 15 minutes pour retirer l'excès d'eau.
+2. **Couper** en cubes ou déchirer en bouchées. Enrober d'huile, sel, poudre d'oignon, poudre d'ail et poivre. Saupoudrer de fécule de maïs et mélanger délicatement.
+3. **Cuire** au four a 220 C (425 F) sur une plaque tapissée pendant 15 minutes. Retourner et cuire 15 à 20 minutes de plus jusqu'à ce que le tofu soit doré et croustillant. (Friteuse a air: 200 C / 400 F pendant 18 à 20 minutes, en secouant occasionnellement.)
+4. **Fouetter** ensemble la sauce soya, le ketchup, la cassonade, le vinaigre de riz, l'huile de sésame et la fécule de mais pour la sauce.
+5. **Chauffer** l'huile végétale dans une poêle avec l'ail et le blanc de l'oignon vert à feu moyen. Quand ca gresille, faire sauter 2 à 3 minutes jusqu'à ce que ce soit odorant.
+6. **Verser** le mélangé de sauce et remuer constamment 1 à 2 minutes jusqu'à épaississement.
+7. **Ajouter** le tofu croustillant, le vert de l'oignon et les graines de sésame. Enrober et servir immédiatement.
 
 ## Notes & conseils
 
-- Plus le tofu est presse longtemps, plus il sera croustillant.
-- Servir sur du riz vapeur avec des legumes vapeur en accompagnement.
-- Les restes peuvent etre rechauffes au four ou a la friteuse a air pour retrouver le croustillant.
+- Plus le tofu est pressé longtemps, plus il sera croustillant.
+- Servir sur du riz vapeur avec des légumes vapeur en accompagnement.
+- Les restes peuvent être rechauffes au four ou à la friteuse a air pour retrouver le croustillant.
 
 </div>

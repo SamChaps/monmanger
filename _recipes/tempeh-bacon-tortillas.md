@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Tempeh Bacon Tortillas"
 title_fr: "Tortillas au bacon de tempeh"
 excerpt: "Smoky maple tempeh bacon in soft tortillas with fresh toppings."
-excerpt_fr: "Bacon de tempeh fume a l'erable en tortillas garnies de crudites."
+excerpt_fr: "Bacon de tempeh fumé à l'érable en tortillas garnies de crudites."
 date: 2025-06-14
 categories:
   - Main
@@ -54,34 +54,34 @@ A simple and satisfying wrap built around smoky tempeh bacon. Thin slices of tem
 
 <div class="lang-fr-content" markdown="1">
 
-Un wrap simple et satisfaisant construit autour d'un bacon de tempeh fume. Des tranches fines de tempeh sont braisees dans un melange d'erable et de fumee liquide, puis grillees a la poele et garnies dans des tortillas avec tomate fraiche, laitue et mayonnaise vegetalienne.
+Un wrap simple et satisfaisant construit autour d'un bacon de tempeh fumé. Des tranches fines de tempeh sont braisees dans un mélangé d'érable et de fumée liquide, puis grillées à la poêle et garnies dans des tortillas avec tomate fraîche, laitue et mayonnaise végétalienne.
 
-## Ingredients
+## Ingrédients
 
 - 240 g (8 oz) de tempeh, tranche finement
-- 5 ml (1 c. a the) de poudre d'ail
-- 45 ml (3 c. a soupe) de sirop d'erable
-- 30 ml (2 c. a soupe) d'huile vegetale
-- 5 ml (1 c. a the) de fumee liquide
-- 125 ml (1/2 tasse) de bouillon de legumes
-- 2,5 ml (1/2 c. a the) de sel
+- 5 ml (1 c. à thé) de poudre d'ail
+- 45 ml (3 c. à soupe) de sirop d'érable
+- 30 ml (2 c. à soupe) d'huile végétale
+- 5 ml (1 c. à thé) de fumée liquide
+- 125 ml (1/2 tasse) de bouillon de légumes
+- 2,5 ml (1/2 c. à thé) de sel
 - 5 tortillas de farine
-- 2 tomates, tranchees finement
+- 2 tomates, tranchées finement
 - Feuilles de laitue
-- Mayonnaise vegetalienne
+- Mayonnaise végétalienne
 
 ## Instructions
 
-1. **Disposer les tranches** de tempeh cote a cote dans une poele.
-2. **Preparer la glace.** Melanger la poudre d'ail, le sirop d'erable, l'huile vegetale, la fumee liquide, le bouillon de legumes et le sel. Verser sur le tempeh.
-3. **Porter a ebullition,** puis reduire le feu. Laisser mijoter jusqu'a ce que tout le liquide soit absorbe, environ 5 minutes.
-4. **Ajouter un peu d'huile** si necessaire et griller les tranches de tempeh jusqu'a ce qu'elles soient bien dorees des deux cotes.
-5. **Assembler les tortillas.** Deposer le tempeh croustillant sur chaque tortilla, garnir de tranches de tomate, de laitue et d'une genereuse couche de mayonnaise vegetalienne. Rouler et servir.
+1. **Disposer les tranches** de tempeh côté a côté dans une poêle.
+2. **Préparer la glace.** Mélanger la poudre d'ail, le sirop d'érable, l'huile végétale, la fumée liquide, le bouillon de légumes et le sel. Verser sur le tempeh.
+3. **Porter a ébullition,** puis réduire le feu. Laisser mijoter jusqu'à ce que tout le liquide soit absorbe, environ 5 minutes.
+4. **Ajouter un peu d'huile** si nécessaire et griller les tranches de tempeh jusqu'à ce qu'elles soient bien dorées des deux côtés.
+5. **Assembler les tortillas.** Déposer le tempeh croustillant sur chaque tortilla, garnir de tranches de tomate, de laitue et d'une généreuse couche de mayonnaise végétalienne. Rouler et servir.
 
 ## Notes & conseils
 
-- Se conserve jusqu'a 5 jours au refrigerateur et se rechauffe tres bien. Aussi bon servi froid.
+- Se conserve jusqu'à 5 jours au réfrigérateur et se rechauffe très bien. Aussi bon servi froid.
 - Doubler la quantite de tempeh et garder les extras pour des sandwichs, bols de grains ou wraps-dejeuner.
-- Ajuster la fumee liquide au gout: commencer avec 1/2 c. a the pour une saveur plus douce.
+- Ajuster la fumée liquide au goût: commencer avec 1/2 c. à thé pour une saveur plus douce.
 
 </div>

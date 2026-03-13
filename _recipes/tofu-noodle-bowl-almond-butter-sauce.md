@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Tofu Noodle Bowl with Almond Butter Sauce"
 title_fr: "Bol de nouilles au tofu et sauce au beurre d'amande"
 excerpt: "Five-spice tofu crumbles over noodles and broccoli in a creamy almond butter sauce."
-excerpt_fr: "Emiette de tofu cinq-epices sur nouilles et brocoli, sauce cremeuse au beurre d'amande."
+excerpt_fr: "Emiette de tofu cinq-épices sur nouilles et brocoli, sauce crémeuse au beurre d'amande."
 date: 2025-06-14
 categories:
   - Main
@@ -74,19 +74,19 @@ A quick weeknight noodle bowl that comes together in about 20 minutes. Seasoned 
 
 <div class="lang-fr-content" markdown="1">
 
-Un bol de nouilles rapide pour les soirs de semaine, pret en une vingtaine de minutes. Des emiettes de tofu assaisonnes au cinq-epices sont poeles jusqu'a ce qu'ils soient dores, puis servis sur des nouilles de ble entier et du brocoli croquant, le tout enrobe d'une sauce cremeuse au beurre d'amande.
+Un bol de nouilles rapide pour les soirs de semaine, pret en une vingtaine de minutes. Des émiettés de tofu assaisonnes au cinq-épices sont poêles jusqu'à ce qu'ils soient dorés, puis servis sur des nouilles de ble entier et du brocoli croquant, le tout enrobé d'une sauce crémeuse au beurre d'amande.
 
-## Ingredients
+## Ingrédients
 
 **Emiette de tofu**
 
-- 227 g (8 oz) de tofu super ferme (ou extra-ferme, bien presse)
-- 3/4 c. a the de sel kasher
+- 227 g (8 oz) de tofu super ferme (ou extra-ferme, bien pressé)
+- 3/4 c. à thé de sel kasher
 - Poivre noir fraichement moulu
-- 1/2 c. a the de poudre d'ail
-- 1/2 c. a the de poudre d'oignon
-- 1/2 c. a the de cinq-epices chinois
-- 15 ml (1 c. a soupe) d'huile au choix
+- 1/2 c. à thé de poudre d'ail
+- 1/2 c. à thé de poudre d'oignon
+- 1/2 c. à thé de cinq-épices chinois
+- 15 ml (1 c. à soupe) d'huile au choix
 
 **Nouilles et brocoli**
 
@@ -95,32 +95,32 @@ Un bol de nouilles rapide pour les soirs de semaine, pret en une vingtaine de mi
 
 **Sauce au beurre d'amande**
 
-- 60 ml (4 c. a soupe) de beurre d'amande cremeux
-- 1/2 c. a soupe de sirop d'agave ou d'erable
-- 15 ml (1 c. a soupe) de vinaigre de riz
-- 10 ml (2 c. a the) de sauce soya ou tamari
-- 1/2 c. a the de flocons de piment du Sichuan ou de piment fort
-- 30-45 ml (2-3 c. a soupe) d'eau, au besoin
+- 60 ml (4 c. à soupe) de beurre d'amande crémeux
+- 1/2 c. à soupe de sirop d'agave ou d'érable
+- 15 ml (1 c. à soupe) de vinaigre de riz
+- 10 ml (2 c. à thé) de sauce soya ou tamari
+- 1/2 c. à thé de flocons de piment du Sichuan ou de piment fort
+- 30-45 ml (2-3 c. à soupe) d'eau, au besoin
 
 **Finition**
 
-- Un filet d'huile de sesame grillee (facultatif)
-- 30 ml (2 c. a soupe) de graines de sesame grillees
+- Un filet d'huile de sésame grillée (facultatif)
+- 30 ml (2 c. à soupe) de graines de sésame grillées
 
 ## Instructions
 
-1. **Porter une casserole d'eau** a ebullition et saler genereusement pour les pates.
-2. **Preparer le tofu.** Couper en tranches et bien essorer. Emietter en petits morceaux de la taille d'un bleuet. Melanger le sel et les epices dans un petit bol, saupoudrer sur le tofu et enrober delicatement.
-3. **Cuire le tofu.** Chauffer l'huile dans une poele antiadhesive a feu moyen-eleve. Repartir le tofu en une seule couche et cuire 2 a 3 minutes sans toucher. Retourner et continuer la cuisson 10 a 12 minutes au total, en remuant seulement toutes les 2 minutes, jusqu'a ce que la majorite des morceaux soient dores.
-4. **Cuire les nouilles.** Pendant la cuisson du tofu, cuire les pates selon les instructions. Environ 3 minutes avant la fin, ajouter le brocoli. Egoutter et rincer a l'eau froide.
-5. **Preparer la sauce.** Melanger le beurre d'amande, le sirop d'agave, le vinaigre de riz, la sauce soya et les flocons de piment. Diluer avec de l'eau jusqu'a consistance versable.
-6. **Assembler les bols.** Enrober les nouilles et le brocoli de sauce au beurre d'amande. Garnir d'emiette de tofu, d'un filet d'huile de sesame et de graines de sesame.
+1. **Porter une casserole d'eau** a ébullition et saler généreusement pour les pâtes.
+2. **Préparer le tofu.** Couper en tranches et bien essorer. Emietter en petits morceaux de la taille d'un bleuet. Mélanger le sel et les épices dans un petit bol, saupoudrer sur le tofu et enrober délicatement.
+3. **Cuire le tofu.** Chauffer l'huile dans une poêle antiadhésive à feu moyen-élevé. Repartir le tofu en une seule couche et cuire 2 à 3 minutes sans toucher. Retourner et continuer la cuisson 10 à 12 minutes au total, en remuant seulement toutes les 2 minutes, jusqu'à ce que la majorite des morceaux soient dorés.
+4. **Cuire les nouilles.** Pendant la cuisson du tofu, cuire les pâtes selon les instructions. Environ 3 minutes avant la fin, ajouter le brocoli. Égoutter et rincer à l'eau froide.
+5. **Préparer la sauce.** Mélanger le beurre d'amande, le sirop d'agave, le vinaigre de riz, la sauce soya et les flocons de piment. Diluer avec de l'eau jusqu'à consistance versable.
+6. **Assembler les bols.** Enrober les nouilles et le brocoli de sauce au beurre d'amande. Garnir d'émietté de tofu, d'un filet d'huile de sésame et de graines de sésame.
 
 ## Notes & conseils
 
 - Le tofu super ferme (aussi vendu comme tofu "haute proteine") ne necessite pas de pressage. Pour du tofu extra-ferme, presser 10 minutes d'abord.
-- Le tempeh peut remplacer le tofu: l'emietter en petits morceaux, assaisonner et poeler jusqu'a ce qu'il soit bien dore.
+- Le tempeh peut remplacer le tofu: l'émietter en petits morceaux, assaisonner et poêler jusqu'à ce qu'il soit bien doré.
 - Le beurre d'arachide remplace parfaitement le beurre d'amande.
-- Pour un repas en 20 minutes, faire du multitache: preparer le tofu pendant que l'eau bout, puis cuire les pates et la sauce pendant que le tofu cuit.
+- Pour un repas en 20 minutes, faire du multitache: préparer le tofu pendant que l'eau bout, puis cuire les pâtes et la sauce pendant que le tofu cuit.
 
 </div>

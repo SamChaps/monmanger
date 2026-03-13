@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Vegan Caesar Salad"
 title_fr: "Salade César végétalienne"
 excerpt: "Creamy cashew Caesar dressing with roasted chickpea croutons and nut parmesan."
-excerpt_fr: "Vinaigrette Cesar cremeuse aux cajou avec croutons de pois chiches rotis et parmesan de noix."
+excerpt_fr: "Vinaigrette Cesar crémeuse aux cajou avec croutons de pois chiches rôtis et parmesan de noix."
 date: 2025-06-14
 categories:
   - Salad
@@ -78,59 +78,59 @@ A crowd-pleasing vegan Caesar built from scratch. Creamy cashew dressing coats a
 
 <div class="lang-fr-content" markdown="1">
 
-Une salade Cesar vegetalienne genereuse, preparee entierement maison. Une vinaigrette cremeuse aux noix de cajou enrobe un melange de chou frise lacinato et de laitue romaine, garni de croutons de pois chiches rotis croustillants et d'un parmesan de noix et graines maison. Chaque element s'harmonise pour une salade qui convainc meme les sceptiques.
+Une salade Cesar végétalienne généreuse, préparée entièrement maison. Une vinaigrette crémeuse aux noix de cajou enrobé un mélangé de chou frise lacinato et de laitue romaine, garni de croutons de pois chiches rôtis croustillants et d'un parmesan de noix et graines maison. Chaque element s'harmonise pour une salade qui convainc même les sceptiques.
 
-## Ingredients
+## Ingrédients
 
-**Croutons de pois chiches rotis**
+**Croutons de pois chiches rôtis**
 
-- 1 boite (398 ml / 14 oz) de pois chiches, egouttes et rinces
-- 5 ml (1 c. a the) d'huile d'olive
-- 1/2 c. a the de sel fin
-- 1/2 c. a the de poudre d'ail
-- 1/8 a 1/4 c. a the de cayenne (facultatif)
+- 1 boîte (398 ml / 14 oz) de pois chiches, égouttés et rincés
+- 5 ml (1 c. à thé) d'huile d'olive
+- 1/2 c. à thé de sel fin
+- 1/2 c. à thé de poudre d'ail
+- 1/8 à 1/4 c. à thé de cayenne (facultatif)
 
 **Vinaigrette Cesar**
 
-- 120 ml (1/2 tasse) de noix de cajou crues, trempees plusieurs heures, egouttees
+- 120 ml (1/2 tasse) de noix de cajou crues, trempées plusieurs heures, égouttées
 - 60 ml (1/4 tasse) d'eau
-- 30 ml (2 c. a soupe) d'huile d'olive
-- 15 ml (1 c. a soupe) de jus de citron
-- 7,5 ml (1/2 c. a soupe) de moutarde de Dijon
-- 1/2 c. a the de poudre d'ail
+- 30 ml (2 c. à soupe) d'huile d'olive
+- 15 ml (1 c. à soupe) de jus de citron
+- 7,5 ml (1/2 c. à soupe) de moutarde de Dijon
+- 1/2 c. à thé de poudre d'ail
 - 1 petite gousse d'ail
-- 7,5 ml (1/2 c. a soupe) de sauce Worcestershire vegetalienne
-- 10 ml (2 c. a the) de capres
-- 1/2 c. a the de sel fin et poivre, ou au gout
+- 7,5 ml (1/2 c. à soupe) de sauce Worcestershire végétalienne
+- 10 ml (2 c. à thé) de capres
+- 1/2 c. à thé de sel fin et poivre, ou au goût
 
 **Parmesan de noix et graines**
 
 - 80 ml (1/3 tasse) de noix de cajou crues
-- 30 ml (2 c. a soupe) de graines de chanvre decortiqueees
+- 30 ml (2 c. à soupe) de graines de chanvre decortiqueees
 - 1 petite gousse d'ail
-- 15 ml (1 c. a soupe) de levure alimentaire
-- 15 ml (1 c. a soupe) d'huile d'olive
-- 1/2 c. a the de poudre d'ail
-- Sel fin, au gout
+- 15 ml (1 c. à soupe) de levure alimentaire
+- 15 ml (1 c. à soupe) d'huile d'olive
+- 1/2 c. à thé de poudre d'ail
+- Sel fin, au goût
 
 **Laitue**
 
-- 1 petit bouquet de chou frise lacinato (toscan), effeuille (environ 5 tasses, hache)
-- 2 petites laitues romaines (environ 10 tasses, hachees)
+- 1 petit bouquet de chou frise lacinato (toscan), effeuille (environ 5 tasses, haché)
+- 2 petites laitues romaines (environ 10 tasses, hachées)
 
 ## Instructions
 
-1. **Tremper les noix de cajou** une nuit ou plusieurs heures. Egoutter et rincer.
-2. **Rotir les croutons de pois chiches.** Prechauffer le four a 200 °C (400 °F). Eponger les pois chiches dans un linge. Enrober d'huile, de poudre d'ail, de sel et de cayenne sur une plaque. Rotir 20 minutes, puis remuer. Poursuivre la cuisson 10 a 20 minutes jusqu'a ce qu'ils soient legerement dores. Ils durciront en refroidissant.
-3. **Preparer la vinaigrette.** Combiner les noix de cajou egouttees et tous les ingredients de la vinaigrette (sauf le sel) dans un melangeur haute puissance. Melanger jusqu'a consistance parfaitement lisse, en ajoutant un peu d'eau si necessaire. Saler au gout.
-4. **Preparer le parmesan.** Hacher finement les noix de cajou et l'ail au robot culinaire. Ajouter le reste des ingredients et pulser jusqu'a ce que le tout soit combine. Saler au gout.
-5. **Preparer les verdures.** Effeuiller et hacher finement le chou frise; laver et essorer. Couper la romaine en morceaux; essorer. Combiner dans un grand bol.
-6. **Assembler.** Verser la vinaigrette sur les verdures et melanger jusqu'a ce qu'elles soient bien enrobees. Assaisonner d'une pincee de sel. Garnir de croutons de pois chiches et de parmesan de noix. Servir immediatement.
+1. **Tremper les noix de cajou** une nuit ou plusieurs heures. Égoutter et rincer.
+2. **Rotir les croutons de pois chiches.** Préchauffer le four a 200 °C (400 °F). Eponger les pois chiches dans un linge. Enrober d'huile, de poudre d'ail, de sel et de cayenne sur une plaque. Rotir 20 minutes, puis remuer. Poursuivre la cuisson 10 à 20 minutes jusqu'à ce qu'ils soient légèrement dorés. Ils durciront en refroidissant.
+3. **Préparer la vinaigrette.** Combiner les noix de cajou égouttées et tous les ingrédients de la vinaigrette (sauf le sel) dans un mélangéur haute puissance. Mélanger jusqu'à consistance parfaitement lisse, en ajoutant un peu d'eau si nécessaire. Saler au goût.
+4. **Préparer le parmesan.** Hacher finement les noix de cajou et l'ail au robot culinaire. Ajouter le reste des ingrédients et pulser jusqu'à ce que le tout soit combiné. Saler au goût.
+5. **Préparer les verdures.** Effeuiller et hacher finement le chou frise; laver et essorer. Couper la romaine en morceaux; essorer. Combiner dans un grand bol.
+6. **Assembler.** Verser la vinaigrette sur les verdures et mélanger jusqu'à ce qu'elles soient bien enrobées. Assaisonner d'une pincee de sel. Garnir de croutons de pois chiches et de parmesan de noix. Servir immédiatement.
 
 ## Notes & conseils
 
-- Verifier que la sauce Worcestershire est vegetalienne (et sans gluten si necessaire).
-- La vinaigrette epaissit au refrigerateur; la laisser a temperature ambiante avant utilisation.
+- Verifier que la sauce Worcestershire est végétalienne (et sans gluten si nécessaire).
+- La vinaigrette épaissit au réfrigérateur; la laisser a temperature ambiante avant utilisation.
 - La vinaigrette se double facilement pour un grand groupe et se conserve quelques jours au frigo.
 
 </div>

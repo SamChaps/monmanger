@@ -1,8 +1,8 @@
----
+﻿﻿﻿---
 title: "Vegan Banana Bread"
 title_fr: "Pain aux bananes végétalien"
 excerpt: "A simple, egg-free and dairy-free banana bread with a soft, dense crumb."
-excerpt_fr: "Un pain aux bananes simple, sans oeufs ni produits laitiers, avec une mie tendre et dense."
+excerpt_fr: "Un pain aux bananes simple, sans œufs ni produits laitiers, avec une mie tendre et dense."
 date: 2025-07-26
 categories:
   - Breakfast
@@ -54,7 +54,7 @@ A no-frills vegan banana bread with a wonderfully dense, moist crumb. No eggs, n
 
 <div class="lang-fr-content" markdown="1">
 
-Un pain aux bananes végétalien sans chichis, avec une mie merveilleusement dense et moelleuse. Sans oeufs, sans produits laitiers, juste des bananes mûres, de l'huile, du sucre et de la farine. L'utilisation parfaite pour ces vieilles bananes au congélateur.
+Un pain aux bananes végétalien sans chichis, avec une mie merveilleusement dense et moelleuse. Sans œufs, sans produits laitiers, juste des bananes mûres, de l'huile, du sucre et de la farine. L'utilisation parfaite pour ces vieilles bananes au congélateur.
 
 ## Ingrédients
 
@@ -72,7 +72,7 @@ Un pain aux bananes végétalien sans chichis, avec une mie merveilleusement den
 1. **Préchauffer** le four à 175 °C (350 °F).
 2. **Mélanger les ingrédients humides.** Dans un bol, écraser les bananes avec l'huile, le sucre et la vanille.
 3. **Ajouter les agents levants.** Saupoudrer la poudre à pâte et le bicarbonate de soude et mélanger à l'aide d'une cuillère de bois.
-4. **Ajouter la farine.** Ajouter la farine et le sel et mélanger jusqu'à l'obtention d'un mélange homogène. La pâte sera plus épaisse qu'un mélange à gâteau.
+4. **Ajouter la farine.** Ajouter la farine et le sel et mélanger jusqu'à l'obtention d'un mélangé homogène. La pâte sera plus épaisse qu'un mélangé à gâteau.
 5. **Verser** dans un moule à pain légèrement huilé.
 6. **Cuire** environ 1 heure, ou jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.
 7. **Laisser refroidir**, démouler, trancher et servir.

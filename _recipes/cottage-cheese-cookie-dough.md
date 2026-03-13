@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cottage Cheese Cookie Dough"
 title_fr: "Pâte à biscuit au fromage cottage"
 excerpt: "Protein-packed edible cookie dough made with cottage cheese in 10 minutes."
@@ -63,8 +63,8 @@ Du fromage cottage mixé jusqu'à consistance lisse, mélangé à de la farine d
 
 ## Instructions
 
-1. **Mixer la base.** Au mélangeur ou au robot culinaire, mixer le fromage cottage, le sirop d'érable et la vanille jusqu'à consistance parfaitement lisse.
-2. **Préparer la pâte.** Transférer dans un bol et incorporer la farine d'amande, la poudre de protéines et le beurre d'arachide jusqu'à ce que le mélange soit homogène.
+1. **Mixer la base.** Au mélangéur ou au robot culinaire, mixer le fromage cottage, le sirop d'érable et la vanille jusqu'à consistance parfaitement lisse.
+2. **Préparer la pâte.** Transférer dans un bol et incorporer la farine d'amande, la poudre de protéines et le beurre d'arachide jusqu'à ce que le mélangé soit homogène.
 3. **Ajouter les pépites de chocolat.** Incorporer délicatement les pépites de chocolat.
 4. **Réfrigérer et servir.** Conserver dans un contenant hermétique au réfrigérateur. Déguster froid.
 

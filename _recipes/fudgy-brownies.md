@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿﻿---
 title: "Fudgy Homemade Brownies"
 title_fr: "Brownies fondants maison"
 excerpt: "Fudgy, moist brownies with crispy edges, made with olive oil and dark chocolate chips."
-excerpt_fr: "Brownies fondants et humides aux bords croustillants, prepares a l'huile d'olive et pepites de chocolat noir."
+excerpt_fr: "Brownies fondants et humides aux bords croustillants, préparés à l'huile d'olive et pépites de chocolat noir."
 date: 2025-07-26
 categories:
   - Dessert
@@ -55,35 +55,35 @@ Deeply chocolatey brownies that are fudgy in the center with perfectly crispy ed
 
 <div class="lang-fr-content" markdown="1">
 
-Des brownies intensement chocolates, fondants au centre avec des bords parfaitement croustillants. Prepares a l'huile d'olive pour une saveur riche et sophistiquee qui s'agence a merveille avec le cacao. Les laisser refroidir completement pour la meilleure texture.
+Des brownies intensément chocolatés, fondants au centre avec des bords parfaitement croustillants. Préparés à l'huile d'olive pour une saveur riche et sophistiquée qui s'agence à merveille avec le cacao. Les laisser refroidir complètement pour la meilleure texture.
 
-## Ingredients
+## Ingrédients
 
-- 315 g (1 1/2 tasse) de sucre granule
+- 315 g (1 1/2 tasse) de sucre granulé
 - 95 g (3/4 tasse) de farine tout usage
-- 85 g (2/3 tasse) de poudre de cacao, tamisee si grumeleuse
-- 60 g (1/2 tasse) de sucre a glacer, tamise si grumeleux
-- 85 g (1/2 tasse) de pepites de chocolat noir
-- 3/4 c. a the de sel de mer
-- 2 gros oeufs
+- 85 g (2/3 tasse) de poudre de cacao, tamisée si grumeleuse
+- 60 g (1/2 tasse) de sucre à glacer, tamisé si grumeleux
+- 85 g (1/2 tasse) de pépites de chocolat noir
+- 3/4 c. à thé de sel de mer
+- 2 gros œufs
 - 120 ml (1/2 tasse) d'huile d'olive (ou huile de canola)
-- 2 c. a soupe d'eau
-- 1/2 c. a the d'extrait de vanille
+- 2 c. à soupe d'eau
+- 1/2 c. à thé d'extrait de vanille
 
 ## Instructions
 
-1. **Prechauffer** le four a 165 C (325 F). Tapisser un moule de 20 cm (8x8 po) de papier parchemin et graisser legerement.
-2. **Combiner** le sucre, la farine, la poudre de cacao, le sucre a glacer, les pepites de chocolat et le sel dans un bol moyen.
-3. **Fouetter** ensemble les oeufs, l'huile, l'eau et la vanille dans un grand bol.
-4. **Ajouter** les ingredients secs aux ingredients humides et melanger jusqu'a ce que le tout soit juste combine.
-5. **Verser** la pate epaisse dans le moule prepare et lisser le dessus avec une spatule. Cuire 40 a 48 minutes, jusqu'a ce qu'un cure-dent en ressorte avec quelques miettes.
-6. **Laisser** refroidir completement (environ 2 heures) avant de trancher. Les brownies continueront a se raffermir en refroidissant.
+1. **Préchauffer** le four a 165 C (325 F). Tapisser un moule de 20 cm (8x8 po) de papier parchemin et graisser légèrement.
+2. **Combiner** le sucre, la farine, la poudre de cacao, le sucre à glacer, les pépites de chocolat et le sel dans un bol moyen.
+3. **Fouetter** ensemble les œufs, l'huile, l'eau et la vanille dans un grand bol.
+4. **Ajouter** les ingrédients secs aux ingrédients humides et mélanger jusqu'à ce que le tout soit juste combiné.
+5. **Verser** la pâte épaisse dans le moule prépare et lisser le dessus avec une spatule. Cuire 40 à 48 minutes, jusqu'à ce qu'un cure-dent en ressorte avec quelques miettes.
+6. **Laisser** refroidir complètement (environ 2 heures) avant de trancher. Les brownies continueront a se raffermir en refroidissant.
 
 ## Notes & conseils
 
 - Utiliser un moule de 20 cm (8x8 po) et non un plus grand, sinon les brownies seront trop cuits.
-- L'huile d'olive ajoute une saveur riche qui s'agence bien avec le chocolat. Pour un gout neutre, utiliser de l'huile de canola.
-- Le sucre peut etre reduit a 200 g (1 tasse) pour une version moins sucree.
-- Conserver dans un contenant hermetique a temperature ambiante jusqu'a 3 jours. Se congele bien.
+- L'huile d'olive ajoute une saveur riche qui s'agence bien avec le chocolat. Pour un goût neutre, utiliser de l'huile de canola.
+- Le sucre peut être réduit a 200 g (1 tasse) pour une version moins sucrée.
+- Conserver dans un contenant hermétique a temperature ambiante jusqu'à 3 jours. Se congelé bien.
 
 </div>

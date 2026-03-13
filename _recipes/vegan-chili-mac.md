@@ -1,4 +1,4 @@
----
+﻿﻿---
 title: "One-Pot Vegan Chili Mac"
 title_fr: "Chili mac végane en un pot"
 excerpt: "A hearty one-pot meal with elbow pasta, beans, tempeh, mushrooms, and smoky chili spices."
@@ -111,8 +111,8 @@ Tout cuit dans un seul pot : macaronis, haricots pinto, tempeh émietté, champi
 2. **Déglacer.** Verser le bouillon et gratter les sucs au fond du pot.
 3. **Ajouter le reste.** Incorporer les haricots, les tomates broyées, la pâte de tomate, le maïs et les pâtes.
 4. **Mijoter.** Porter à ébullition, réduire le feu et laisser mijoter 12 à 15 minutes jusqu'à ce que les pâtes soient cuites. Ajouter un peu de bouillon ou d'eau pour une consistance plus liquide.
-5. **Assaisonner.** Incorporer le sirop d'érable. Goûter et ajuster sel, poivre et sucré.
-6. **Garnir et servir.** Si désiré, saupoudrer de fromage végane, couvrir et laisser fondre quelques minutes. Laisser reposer au moins 15 minutes avant de servir (le mélange épaissit en refroidissant). Garnir de coriandre, jus de lime et garnitures au goût.
+5. **Assaisonner.** Incorporer le sirop d'érable. Goûter et ajuster sel, poivre et sucre.
+6. **Garnir et servir.** Si désiré, saupoudrer de fromage végane, couvrir et laisser fondre quelques minutes. Laisser reposer au moins 15 minutes avant de servir (le mélangé épaissit en refroidissant). Garnir de coriandre, jus de lime et garnitures au goût.
 
 ## Notes & conseils
 

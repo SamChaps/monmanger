@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Plant-Based Gyro"
 title_fr: "Gyro végétalien"
 excerpt: "Crispy baked tofu and oyster mushrooms in warm pita with homemade dairy-free tzatziki."
@@ -80,60 +80,60 @@ Shredded tofu and torn oyster mushrooms marinated in a smoky, spiced blend, then
 
 <div class="lang-fr-content" markdown="1">
 
-Du tofu effiloche et des pleurotes marines dans un melange fume et epice, puis cuits au four jusqu'a ce qu'ils soient croustillants et dores. Garnis dans du pain pita chaud avec un tzatziki frais au concombre et a l'aneth, de la laitue croquante et des legumes frais. Copieux, satisfaisant et entierement vegetalien.
+Du tofu effiloché et des pleurotes marinés dans un mélangé fumé et épicé, puis cuits au four jusqu'à ce qu'ils soient croustillants et dorés. Garnis dans du pain pita chaud avec un tzatziki frais au concombre et à l'aneth, de la laitue croquante et des légumes frais. Copieux, satisfaisant et entièrement végétalien.
 
-## Ingredients
+## Ingrédients
 
 ### Garniture gyro
 
-- 200 g (1/2 bloc) de tofu extra-ferme, effiloche
-- 500 ml (2 tasses) de pleurotes effilochees
-- 2 c. a soupe d'huile d'olive
-- 3 c. a soupe d'aminos de noix de coco
-- 1 c. a the de paprika fume
-- 1/4 c. a the de poivre de Cayenne
-- 2-3 c. a the de poudre d'ail
-- 1 c. a the de coriandre moulue
-- 2-3 c. a the de poudre d'oignon
-- 2-3 c. a the de thym seche
-- 1/4 c. a the de poivre noir
-- 1 c. a the d'origan frais, hache
-- 60 ml (1/4 tasse) de bouillon de legumes
-- Sel, au gout
+- 200 g (1/2 bloc) de tofu extra-ferme, effiloché
+- 500 ml (2 tasses) de pleurotes effilochées
+- 2 c. à soupe d'huile d'olive
+- 3 c. à soupe d'aminos de noix de coco
+- 1 c. à thé de paprika fumé
+- 1/4 c. à thé de poivre de Cayenne
+- 2-3 c. à thé de poudre d'ail
+- 1 c. à thé de coriandre moulue
+- 2-3 c. à thé de poudre d'oignon
+- 2-3 c. à thé de thym séché
+- 1/4 c. à thé de poivre noir
+- 1 c. à thé d'origan frais, haché
+- 60 ml (1/4 tasse) de bouillon de légumes
+- Sel, au goût
 
 ### Sauce tzatziki
 
 - 250 ml (1 tasse) de yogourt nature sans produits laitiers
-- 80 ml (1/3 tasse) de concombre rape, bien essore
-- 2 c. a the de vinaigre de vin rouge
-- 2-3 gousses d'ail, emincees
-- 2 c. a the d'huile d'olive
-- 1 c. a soupe d'aneth frais hache
-- 1 c. a soupe de menthe fraiche hachee
-- Sel et poivre noir, au gout
+- 80 ml (1/3 tasse) de concombre râpé, bien essore
+- 2 c. à thé de vinaigre de vin rouge
+- 2-3 gousses d'ail, émincées
+- 2 c. à thé d'huile d'olive
+- 1 c. à soupe d'aneth frais haché
+- 1 c. à soupe de menthe fraîche hachée
+- Sel et poivre noir, au goût
 
 ### Pour servir
 
 - 4 pains pita
-- Laitue effilochee
+- Laitue effilochée
 - Concombre tranche
-- Tomate tranchee
+- Tomate tranchée
 - Oignon rouge tranche
 
 ## Instructions
 
-1. **Prechauffer** le four a 190 C (375 F).
-2. **Fouetter** ensemble l'huile d'olive, les aminos, le paprika fume, le Cayenne, la poudre d'ail, la coriandre, la poudre d'oignon, le thym, le poivre, l'origan et le bouillon dans un grand bol.
-3. **Presser** l'exces d'eau du tofu, puis l'effilocher. Ajouter le tofu et les pleurotes a la marinade et bien melanger. Laisser mariner 20 a 30 minutes.
-4. **Etaler** le melange marine sur une plaque de cuisson graissee. Cuire 20 a 25 minutes en remuant toutes les 10 minutes, jusqu'a ce que le tout soit bien dore et croustillant.
-5. **Preparer** le tzatziki pendant la cuisson: combiner le yogourt, le concombre, le vinaigre, l'ail, l'huile d'olive, l'aneth et la menthe. Assaisonner et refrigerer.
-6. **Rechauffer** les pains pita au four pendant les 5 dernieres minutes de cuisson.
+1. **Préchauffer** le four a 190 C (375 F).
+2. **Fouetter** ensemble l'huile d'olive, les aminos, le paprika fumé, le Cayenne, la poudre d'ail, la coriandre, la poudre d'oignon, le thym, le poivre, l'origan et le bouillon dans un grand bol.
+3. **Presser** l'excès d'eau du tofu, puis l'effilocher. Ajouter le tofu et les pleurotes à la marinade et bien mélanger. Laisser mariner 20 à 30 minutes.
+4. **Étaler** le mélangé mariné sur une plaque de cuisson graissee. Cuire 20 à 25 minutes en remuant toutes les 10 minutes, jusqu'à ce que le tout soit bien doré et croustillant.
+5. **Préparer** le tzatziki pendant la cuisson: combiner le yogourt, le concombre, le vinaigre, l'ail, l'huile d'olive, l'aneth et la menthe. Assaisonner et réfrigérer.
+6. **Rechauffer** les pains pita au four pendant les 5 dernières minutes de cuisson.
 7. **Assembler** en tartinant du tzatziki sur chaque pita, puis en superposant la laitue, le concombre, la tomate, l'oignon rouge et la garniture de tofu et pleurotes. Arroser de tzatziki supplementaire.
 
 ## Notes & conseils
 
-- Bien essorer le concombre rape pour garder le tzatziki epais et cremeux.
-- Les aminos de noix de coco peuvent etre remplaces par de la sauce soya ou du tamari (reduire a 2 c. a soupe car ils sont plus sales).
-- La garniture se rechauffe bien dans une poele pour les restes.
+- Bien essorer le concombre râpé pour garder le tzatziki épais et crémeux.
+- Les aminos de noix de coco peuvent être remplaces par de la sauce soya ou du tamari (réduire a 2 c. à soupe car ils sont plus sales).
+- La garniture se rechauffe bien dans une poêle pour les restes.
 
 </div>

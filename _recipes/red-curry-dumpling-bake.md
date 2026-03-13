@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Red Curry Dumpling Bake"
 title_fr: "Dumplings au four à la sauce cari rouge"
 excerpt: "Frozen dumplings baked in a creamy coconut red curry broth."
@@ -88,7 +88,7 @@ Un souper sur une seule plaque où des dumplings surgelés cuisent directement d
 
 ## Instructions
 
-1. **Préparer le bouillon.** Dans un plat de cuisson de 30 x 20 cm (12 x 8 po), fouetter ensemble le lait de coco, la pâte de cari rouge, la sauce soya, le vinaigre, le miel et l'huile de sésame jusqu'à consistance lisse. Râper l'ail et le gingembre dans le mélange.
+1. **Préparer le bouillon.** Dans un plat de cuisson de 30 x 20 cm (12 x 8 po), fouetter ensemble le lait de coco, la pâte de cari rouge, la sauce soya, le vinaigre, le miel et l'huile de sésame jusqu'à consistance lisse. Râper l'ail et le gingembre dans le mélangé.
 2. **Ajouter les légumes.** Préchauffer le four à 200 °C (400 °F). Hacher le bok choy et trancher la courgette, puis les incorporer au bouillon.
 3. **Disposer les dumplings.** Placer les dumplings surgelés dans le bouillon sans les superposer, en les pressant légèrement. Arroser les dessus avec un peu de bouillon.
 4. **Cuire à couvert.** Couvrir hermétiquement de papier d'aluminium et cuire 20 minutes.

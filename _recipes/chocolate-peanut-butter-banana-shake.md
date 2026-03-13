@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Chocolate Peanut Butter Banana Shake"
 title_fr: "Frappé chocolat, beurre d'arachide et banane"
 excerpt: "Thick, creamy vegan shake with rich chocolate and peanut butter flavour."
@@ -61,7 +61,7 @@ Un frappé à cinq ingrédients qui goûte le lait frappé mais qui est entière
 
 ## Instructions
 
-1. **Tout mixer.** Mettre la banane congelée, le beurre d'arachide, les dattes, la poudre de cacao et la moitié du lait d'amande dans un mélangeur. Mixer jusqu'à consistance lisse en ajoutant du lait d'amande au besoin.
+1. **Tout mixer.** Mettre la banane congelée, le beurre d'arachide, les dattes, la poudre de cacao et la moitié du lait d'amande dans un mélangéur. Mixer jusqu'à consistance lisse en ajoutant du lait d'amande au besoin.
 2. **Goûter et ajuster.** Ajouter plus de banane ou de dattes pour la douceur, plus de cacao pour l'intensité du chocolat, ou plus de beurre d'arachide pour la richesse.
 3. **Servir.** Verser dans un verre et déguster immédiatement. Les restes se conservent au réfrigérateur jusqu'à 24 heures ou peuvent être congelés en sucettes glacées.
 

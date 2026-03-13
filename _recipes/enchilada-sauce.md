@@ -1,4 +1,4 @@
----
+﻿﻿﻿---
 title: "Homemade Enchilada Sauce"
 title_fr: "Sauce enchilada maison"
 excerpt: "A quick, smoky red enchilada sauce ready in 10 minutes."
@@ -75,8 +75,8 @@ Une sauce enchilada maison toute simple à base de poudre de chili, cumin et une
 
 ## Instructions
 
-1. **Préparer le mélange d'épices.** Mesurer la farine, la poudre de chili, le cumin, la poudre d'ail, l'origan, le sel et la cannelle dans un petit bol. Avoir la pâte de tomate et le bouillon à portée de main.
-2. **Griller les épices.** Dans une casserole moyenne à feu moyen, chauffer l'huile jusqu'à ce qu'une pincée du mélange grésille au contact. Verser le mélange d'épices et fouetter constamment environ 1 minute jusqu'à ce que le tout soit parfumé et légèrement foncé.
+1. **Préparer le mélangé d'épices.** Mesurer la farine, la poudre de chili, le cumin, la poudre d'ail, l'origan, le sel et la cannelle dans un petit bol. Avoir la pâte de tomate et le bouillon à portée de main.
+2. **Griller les épices.** Dans une casserole moyenne à feu moyen, chauffer l'huile jusqu'à ce qu'une pincée du mélangé grésille au contact. Verser le mélangé d'épices et fouetter constamment environ 1 minute jusqu'à ce que le tout soit parfumé et légèrement foncé.
 3. **Bâtir la sauce.** Incorporer la pâte de tomate en fouettant, puis verser lentement le bouillon tout en fouettant pour éviter les grumeaux.
 4. **Mijoter.** Augmenter le feu pour amener à frémissement, puis réduire et maintenir un mijotage doux 5 à 7 minutes en fouettant souvent, jusqu'à ce que la sauce épaississe légèrement.
 5. **Terminer.** Retirer du feu, incorporer le vinaigre et assaisonner généreusement de poivre et de sel supplémentaire au besoin.

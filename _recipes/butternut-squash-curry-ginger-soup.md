@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Butternut Squash Curry & Ginger Soup"
 title_fr: "Potage de courge musquée, cari et gingembre frais"
 excerpt: "Velvety butternut squash soup seasoned with curry powder and fresh ginger."
-excerpt_fr: "Potage veloute a la courge musquee assaisonne de poudre de cari et de gingembre frais."
+excerpt_fr: "Potage velouté à la courge musquée assaisonné de poudre de cari et de gingembre frais."
 date: 2025-07-26
 categories:
   - Soup
@@ -53,33 +53,33 @@ A silky butternut squash soup with warm curry and a ginger kick. Just a handful 
 
 <div class="lang-fr-content" markdown="1">
 
-Un potage soyeux a la courge musquee avec un cari chaleureux et un coup de gingembre. Juste une poignee d'ingredients du quotidien mijoter ensemble puis reduits en puree lisse. Le genre de recette qu'on prepare en boucle tout l'hiver sans s'en lasser.
+Un potage soyeux à la courge musquée avec un cari chaleureux et un coup de gingembre. Juste une poignée d'ingrédients du quotidien mijoter ensemble puis réduits en purée lisse. Le genre de recette qu'on prépare en boucle tout l'hiver sans s'en lasser.
 
-## Ingredients
+## Ingrédients
 
-- 1 grosse courge musquee (environ 1,25 L / 5 tasses), pelee, epepinee et coupee en cubes
-- 900 ml (1 boite) de bouillon de legumes
-- 1 oignon, grossierement hache
-- 2 gousses d'ail, emincees
-- 1 a 2 c. a soupe de poudre de cari (au gout)
-- 1 c. a soupe de gingembre frais, finement hache
-- 2 c. a soupe de beurre (ou beurre vegetal)
-- Creme, pour la presentation
-- Sel et poivre, au gout
+- 1 grosse courge musquée (environ 1,25 L / 5 tasses), pelée, épépinée et coupée en cubes
+- 900 ml (1 boîte) de bouillon de légumes
+- 1 oignon, grossièrement haché
+- 2 gousses d'ail, émincées
+- 1 à 2 c. à soupe de poudre de cari (au goût)
+- 1 c. à soupe de gingembre frais, finement haché
+- 2 c. à soupe de beurre (ou beurre végétal)
+- Crème, pour la présentation
+- Sel et poivre, au goût
 
 ## Instructions
 
-1. **Attendrir** l'oignon dans le beurre dans une grande casserole a feu moyen, environ 10 minutes ou jusqu'a ce qu'il soit translucide. Bien assaisonner.
-2. **Ajouter** l'ail, la poudre de cari et le gingembre. Laisser les saveurs se melanger quelques minutes.
-3. **Ajouter** la courge et le bouillon. Assaisonner a nouveau et porter a ebullition.
-4. **Laisser** mijoter 25 a 30 minutes ou jusqu'a ce que les cubes de courge soient bien tendres.
-5. **Reduire** en puree lisse a l'aide d'un pied-melangeur ou d'un robot culinaire. Rectifier l'assaisonnement au besoin.
-6. **Servir** avec un filet de creme.
+1. **Attendrir** l'oignon dans le beurre dans une grande casserole à feu moyen, environ 10 minutes ou jusqu'à ce qu'il soit translucide. Bien assaisonner.
+2. **Ajouter** l'ail, la poudre de cari et le gingembre. Laisser les saveurs se mélanger quelques minutes.
+3. **Ajouter** la courge et le bouillon. Assaisonner à nouveau et porter a ébullition.
+4. **Laisser** mijoter 25 à 30 minutes ou jusqu'à ce que les cubes de courge soient bien tendres.
+5. **Réduire** en purée lisse à l'aide d'un pied-mélangéur ou d'un robot culinaire. Rectifier l'assaisonnement au besoin.
+6. **Servir** avec un filet de crème.
 
 ## Notes & conseils
 
-- Utiliser du beurre vegetal et omettre la creme pour une version entierement vegetale.
-- Truc pour le gingembre: peler et trancher l'excedent, congeler dans un sac hermetique. Il se rape facilement meme gele.
-- Se congele parfaitement pour plusieurs semaines.
+- Utiliser du beurre végétal et omettre la crème pour une version entièrement végétale.
+- Truc pour le gingembre: peler et trancher l'excédent, congeler dans un sac hermétique. Il se râpé facilement même gelé.
+- Se congelé parfaitement pour plusieurs semaines.
 
 </div>

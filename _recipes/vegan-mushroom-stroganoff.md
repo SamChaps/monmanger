@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿---
 title: "Vegan Mushroom Stroganoff"
 title_fr: "Stroganoff végane aux champignons"
 excerpt: "Creamy dairy-free stroganoff with mushrooms, cashew cream, and coconut milk."
-excerpt_fr: "Stroganoff cremeux sans produits laitiers aux champignons, creme de cajou et lait de coco."
+excerpt_fr: "Stroganoff crémeux sans produits laitiers aux champignons, crème de cajou et lait de coco."
 date: 2025-07-26
 categories:
   - Main
@@ -55,35 +55,35 @@ A rich, creamy stroganoff made entirely without dairy. Mushrooms in a luscious c
 
 <div class="lang-fr-content" markdown="1">
 
-Un stroganoff riche et cremeux entierement sans produits laitiers. Des champignons dans une sauce luxueuse a la creme de cajou et coco avec du paprika fume, de la tomate et une touche de moutarde de Dijon. Servir sur du riz, des pates ou de la puree de pommes de terre.
+Un stroganoff riche et crémeux entièrement sans produits laitiers. Des champignons dans une sauce luxueuse à la crème de cajou et coco avec du paprika fumé, de la tomate et une touche de moutarde de Dijon. Servir sur du riz, des pâtes ou de la purée de pommes de terre.
 
-## Ingredients
+## Ingrédients
 
-- 2 c. a soupe d'huile de coco
-- 1 oignon moyen, hache
-- 3 gousses d'ail, emincees
+- 2 c. à soupe d'huile de coco
+- 1 oignon moyen, haché
+- 3 gousses d'ail, émincées
 - 450 g (1 lb) de champignons frais (cremini, shiitake, pleurotes ou portobello), tranches
-- 190-250 ml (3/4 a 1 tasse) de noix de cajou, trempees 30 a 60 minutes dans l'eau chaude
-- 1 boite (400 ml) de lait de coco
+- 190-250 ml (3/4 à 1 tasse) de noix de cajou, trempées 30 à 60 minutes dans l'eau chaude
+- 1 boîte (400 ml) de lait de coco
 - 500 ml (2 tasses) de sauce tomate
-- 2 c. a the de paprika fume
-- 1 c. a the de moutarde de Dijon
-- 2 c. a soupe de jus de citron (optionnel)
-- Sel et poivre, au gout
+- 2 c. à thé de paprika fumé
+- 1 c. à thé de moutarde de Dijon
+- 2 c. à soupe de jus de citron (optionnel)
+- Sel et poivre, au goût
 
 ## Instructions
 
-1. **Faire** tremper les noix de cajou dans de l'eau bouillante pendant la preparation des autres ingredients, au moins 30 minutes.
-2. **Chauffer** l'huile de coco dans un grand chaudron a fond large. Faire revenir l'oignon 2 a 3 minutes, puis ajouter l'ail et cuire 2 minutes de plus.
-3. **Ajouter** les champignons et les faire sauter jusqu'a ce qu'ils soient dores et tendres. Assaisonner de sel et poivre.
-4. **Egoutter** les noix de cajou et les melanger avec le lait de coco jusqu'a consistance tres lisse et cremeuse.
-5. **Incorporer** le paprika fume et la sauce tomate aux champignons, puis ajouter la creme de cajou. Laisser mijoter 5 a 10 minutes en remuant souvent jusqu'a epaississement.
-6. **Retirer** du feu, incorporer la moutarde et le jus de citron. Servir immediatement.
+1. **Faire** tremper les noix de cajou dans de l'eau bouillante pendant la préparation des autres ingrédients, au moins 30 minutes.
+2. **Chauffer** l'huile de coco dans un grand chaudron a fond large. Faire revenir l'oignon 2 à 3 minutes, puis ajouter l'ail et cuire 2 minutes de plus.
+3. **Ajouter** les champignons et les faire sauter jusqu'à ce qu'ils soient dorés et tendres. Assaisonner de sel et poivre.
+4. **Égoutter** les noix de cajou et les mélanger avec le lait de coco jusqu'à consistance très lisse et crémeuse.
+5. **Incorporer** le paprika fumé et la sauce tomate aux champignons, puis ajouter la crème de cajou. Laisser mijoter 5 à 10 minutes en remuant souvent jusqu'à épaississement.
+6. **Retirer** du feu, incorporer la moutarde et le jus de citron. Servir immédiatement.
 
 ## Notes & conseils
 
-- Servir sur du riz, de la puree de pommes de terre, des pates ou du riz de chou-fleur.
-- D'autres legumes comme la courgette, les carottes ou les coeurs de palmier fonctionnent bien en remplacement ou en complement des champignons.
-- Faire tremper les noix de cajou dans l'eau bouillante plutot que froide pour une creme plus rapide et plus lisse.
+- Servir sur du riz, de la purée de pommes de terre, des pâtes ou du riz de chou-fleur.
+- D'autres légumes comme la courgette, les carottes ou les coeurs de palmier fonctionnent bien en remplacement ou en complement des champignons.
+- Faire tremper les noix de cajou dans l'eau bouillante plutot que froide pour une crème plus rapide et plus lisse.
 
 </div>

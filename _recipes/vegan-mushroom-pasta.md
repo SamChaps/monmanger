@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Vegan Mushroom Pasta"
 title_fr: "Pâtes aux champignons végétaliennes"
 excerpt: "Creamy 25-minute pasta with sauteed mushrooms and a lemon Dijon sauce."
-excerpt_fr: "Pates cremeuses en 25 minutes aux champignons sautes, sauce citron-Dijon."
+excerpt_fr: "Pates cremeuses en 25 minutes aux champignons sautés, sauce citron-Dijon."
 date: 2025-06-14
 categories:
   - Main
@@ -59,38 +59,38 @@ A quick and creamy weeknight pasta featuring sauteed bella mushrooms in a simple
 
 <div class="lang-fr-content" markdown="1">
 
-Des pates rapides et cremeuses pour les soirs de semaine, avec des champignons bella sautes dans une sauce simple a base de lait vegetal, levure alimentaire, citron et moutarde de Dijon. Pretes en seulement 25 minutes et debordantes de saveurs terreuses et savoureuses.
+Des pâtes rapides et cremeuses pour les soirs de semaine, avec des champignons bella sautés dans une sauce simple a base de lait végétal, levure alimentaire, citron et moutarde de Dijon. Pretes en seulement 25 minutes et debordantes de saveurs terreuses et savoureuses.
 
-## Ingredients
+## Ingrédients
 
-- 227 g (8 oz) de pates au choix, cuites
-- 15 ml (1 c. a soupe) d'huile d'olive
-- 45 ml (3 c. a soupe) de beurre vegetal, divise
-- 240 ml (1 tasse) d'oignon jaune, coupe en des
+- 227 g (8 oz) de pâtes au choix, cuites
+- 15 ml (1 c. à soupe) d'huile d'olive
+- 45 ml (3 c. à soupe) de beurre végétal, divise
+- 240 ml (1 tasse) d'oignon jaune, coupé en dés
 - 227 g (8 oz) de champignons bella, tranches
-- 3 gousses d'ail, emincees
-- 1/2 c. a the de sel, plus au gout
-- 15 ml (1 c. a soupe) de farine tout usage
-- 240 ml (1 tasse) de lait de soya (ou lait vegetal au choix)
-- 30 ml (2 c. a soupe) de levure alimentaire
-- 10 ml (2 c. a the) de jus de citron
-- 2,5 ml (1/2 c. a the) de moutarde de Dijon
-- Poivre noir au gout
-- Persil frais hache, pour garnir
+- 3 gousses d'ail, émincées
+- 1/2 c. à thé de sel, plus au goût
+- 15 ml (1 c. à soupe) de farine tout usage
+- 240 ml (1 tasse) de lait de soya (ou lait végétal au choix)
+- 30 ml (2 c. à soupe) de levure alimentaire
+- 10 ml (2 c. à thé) de jus de citron
+- 2,5 ml (1/2 c. à thé) de moutarde de Dijon
+- Poivre noir au goût
+- Persil frais haché, pour garnir
 
 ## Instructions
 
-1. **Cuire les pates** jusqu'a al dente selon les instructions. Egoutter et reserver.
-2. **Faire sauter les legumes.** Chauffer l'huile et 1 c. a soupe de beurre dans une grande poele profonde a feu moyen. Ajouter l'oignon et cuire 2 minutes. Ajouter les champignons et faire sauter 4 minutes jusqu'a ce qu'ils soient tendres. Incorporer l'ail et cuire 1 minute de plus jusqu'a ce qu'il soit parfume.
-3. **Preparer la sauce.** Dans un petit bol, fouetter le sel, la farine, le lait vegetal, la levure alimentaire, le jus de citron et la Dijon. Verser dans la poele.
-4. **Epaissir.** Reduire le feu a moyen-doux, en remuant frequemment jusqu'a ce que la sauce nappe le dos d'une cuillere.
-5. **Ajouter les pates** dans la poele et utiliser des pinces pour bien enrober le tout de sauce.
+1. **Cuire les pâtes** jusqu'à al dente selon les instructions. Égoutter et réserver.
+2. **Faire sauter les légumes.** Chauffer l'huile et 1 c. à soupe de beurre dans une grande poêle profonde à feu moyen. Ajouter l'oignon et cuire 2 minutes. Ajouter les champignons et faire sauter 4 minutes jusqu'à ce qu'ils soient tendres. Incorporer l'ail et cuire 1 minute de plus jusqu'à ce qu'il soit parfume.
+3. **Préparer la sauce.** Dans un petit bol, fouetter le sel, la farine, le lait végétal, la levure alimentaire, le jus de citron et la Dijon. Verser dans la poêle.
+4. **Epaissir.** Réduire le feu a moyen-doux, en remuant frequemment jusqu'à ce que la sauce nappe le dos d'une cuillere.
+5. **Ajouter les pâtes** dans la poêle et utiliser des pinces pour bien enrober le tout de sauce.
 6. **Servir** dans des bols garnis de poivre noir et de persil frais.
 
 ## Notes & conseils
 
-- N'importe quelle variete de champignons convient: cremini, shiitake ou un melange.
-- Ajouter une poignee d'epinards ou de chou frise a la fin pour plus de verdure.
-- La sauce epaissit en refroidissant; ajouter un peu de lait vegetal en rechauffant les restes.
+- N'importe quelle variete de champignons convient: cremini, shiitake ou un mélangé.
+- Ajouter une poignée d'epinards ou de chou frise à la fin pour plus de verdure.
+- La sauce épaissit en refroidissant; ajouter un peu de lait végétal en rechauffant les restes.
 
 </div>

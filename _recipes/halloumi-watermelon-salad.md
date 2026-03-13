@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Halloumi Watermelon Cucumber Salad"
 title_fr: "Salade de fromage halloumi, concombres et melon d'eau"
 excerpt: "Grilled halloumi with watermelon, cucumber, fresh mint, and a za'atar lime dressing."
-excerpt_fr: "Halloumi grille avec melon d'eau, concombre, menthe fraiche et vinaigrette au za'atar et lime."
+excerpt_fr: "Halloumi grillé avec melon d'eau, concombre, menthe fraîche et vinaigrette au za'atar et lime."
 date: 2025-07-26
 categories:
   - Salad
@@ -48,29 +48,29 @@ A bright summer salad of cubed watermelon and Lebanese cucumber tossed with fres
 
 <div class="lang-fr-content" markdown="1">
 
-Une salade d'ete eclatante de cubes de melon d'eau et de concombres libanais melanges avec de la menthe fraiche, du za'atar, du jus de lime et de l'huile d'olive. Garnir de halloumi dore a la poele. Simple, rafraichissant et parfaitement sale-sucre.
+Une salade d'ete eclatante de cubes de melon d'eau et de concombres libanais mélangés avec de la menthe fraîche, du za'atar, du jus de lime et de l'huile d'olive. Garnir de halloumi doré à la poêle. Simple, rafraichissant et parfaitement salé-sucré.
 
-## Ingredients
+## Ingrédients
 
-- 4 a 6 concombres libanais (ou 1 concombre anglais), coupes en cubes
+- 4 à 6 concombres libanais (ou 1 concombre anglais), coupés en cubes
 - 1 L (4 tasses) de melon d'eau en cubes
-- 125 ml (1/2 tasse) de menthe fraiche
-- 1 c. a soupe de za'atar
+- 125 ml (1/2 tasse) de menthe fraîche
+- 1 c. à soupe de za'atar
 - Filet d'huile d'olive
-- 30 ml (2 c. a soupe) de jus de lime
-- Poivre du moulin, au gout
+- 30 ml (2 c. à soupe) de jus de lime
+- Poivre du moulin, au goût
 - 400 g de fromage halloumi tempere, en cubes
 
 ## Instructions
 
-1. **Melanger** les concombres, le melon d'eau, la menthe et le za'atar dans un grand bol.
-2. **Arroser** d'huile d'olive et de jus de lime. Poivrer. Attention de ne pas saler, ou tres peu, car le fromage le sera suffisamment. Gouter et rectifier l'assaisonnement au besoin.
-3. **Griller** les cubes de halloumi dans une poele antiadhesive avec un leger filet d'huile d'olive, pour colorer chaque face.
-4. **Disposer** la salade dans une assiette de service et garnir du fromage grille.
+1. **Mélanger** les concombres, le melon d'eau, la menthe et le za'atar dans un grand bol.
+2. **Arroser** d'huile d'olive et de jus de lime. Poivrer. Attention de ne pas saler, ou très peu, car le fromage le sera suffisamment. Gouter et rectifier l'assaisonnement au besoin.
+3. **Griller** les cubes de halloumi dans une poêle antiadhésive avec un léger filet d'huile d'olive, pour colorer chaque face.
+4. **Disposer** la salade dans une assiette de service et garnir du fromage grillé.
 
 ## Notes & conseils
 
-- On peut remplacer le halloumi par du fromage feta: l'ajouter emiette directement dans la salade sans le griller.
-- Sortir le halloumi du refrigerateur a l'avance pour une meilleure texture a la cuisson.
+- On peut remplacer le halloumi par du fromage feta: l'ajouter émietté directement dans la salade sans le griller.
+- Sortir le halloumi du réfrigérateur à l'avance pour une meilleure texture à la cuisson.
 
 </div>

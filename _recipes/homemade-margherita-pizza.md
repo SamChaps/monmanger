@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿﻿﻿﻿---
 title: "Homemade Margherita Pizza"
 title_fr: "Pizza margherita maison"
 excerpt: "Classic margherita pizza with homemade dough, fresh tomato sauce, mozzarella, and basil."
-excerpt_fr: "Pizza margherita classique avec pate maison, sauce tomate fraiche, mozzarella et basilic."
+excerpt_fr: "Pizza margherita classique avec pâte maison, sauce tomate fraîche, mozzarella et basilic."
 date: 2025-07-26
 categories:
   - Main
@@ -73,52 +73,52 @@ A classic margherita made entirely from scratch in a regular home oven. The doug
 
 <div class="lang-fr-content" markdown="1">
 
-Une margherita classique preparee entierement maison dans un four ordinaire. La pate demande deux heures de levee, mais le travail actif est simple. Sauce tomate fraiche aux San Marzano, cubes de mozzarella et basilic dechire pour des garnitures sans complication.
+Une margherita classique préparée entièrement maison dans un four ordinaire. La pâte demande deux heures de levee, mais le travail actif est simple. Sauce tomate fraîche aux San Marzano, cubes de mozzarella et basilic déchiré pour des garnitures sans complication.
 
-## Ingredients
+## Ingrédients
 
 ### Pate a pizza
 
 - 300 g (2 1/2 tasses) de farine tout usage non blanchie
-- 1 c. a the de sucre granule
-- 1/2 c. a the de levure seche active
-- 3/4 c. a the de sel casher
-- 210 ml (7 oz) d'eau tiede (40-46 C / 105-115 F)
-- 1 c. a soupe d'huile d'olive extra vierge
+- 1 c. à thé de sucre granulé
+- 1/2 c. à thé de levure séché active
+- 3/4 c. à thé de sel casher
+- 210 ml (7 oz) d'eau tiède (40-46 C / 105-115 F)
+- 1 c. à soupe d'huile d'olive extra vierge
 - Semoule et farine tout usage, pour saupoudrer
 
 ### Sauce a pizza
 
 - 250 ml (1 tasse) de tomates San Marzano en conserve, ecrasees
 - 2-3 gousses d'ail frais, rapees ou pressees
-- 1 c. a soupe d'huile d'olive extra vierge, plus pour arroser
+- 1 c. à soupe d'huile d'olive extra vierge, plus pour arroser
 - 2-3 pincees de sel casher
-- 1/4 c. a the de poivre noir fraichement moulu
+- 1/4 c. à thé de poivre noir fraichement moulu
 
 ### Garnitures
 
-- 2-3 c. a soupe de Parmigiano-Reggiano finement rape, plus pour servir
-- 200 g (7 oz) de mozzarella fraiche, coupee en cubes de 1 cm
+- 2-3 c. à soupe de Parmigiano-Reggiano finement râpé, plus pour servir
+- 200 g (7 oz) de mozzarella fraîche, coupée en cubes de 1 cm
 - 5-6 grandes feuilles de basilic frais, plus pour garnir
-- Flocons de piment rouge seche (optionnel)
+- Flocons de piment rouge séché (optionnel)
 
 ## Instructions
 
-1. **Melanger** la farine, le sucre, la levure et le sel. Ajouter l'eau tiede et l'huile d'olive, puis remuer avec une cuillere en bois jusqu'a ce que la pate se forme.
-2. **Petrir** sur une surface bien farinee pendant environ 3 minutes jusqu'a obtenir une pate lisse et legerement collante. Deposer dans un bol legerement huile.
-3. **Couvrir** d'un linge a vaisselle et laisser lever dans un endroit chaud pendant 2 heures, ou jusqu'a ce que la pate ait double de volume.
-4. **Prechauffer** le four (avec une pierre ou un acier a pizza sur la grille superieure) a 285 C (550 F) pendant au moins 1 heure. Si le four ne monte pas aussi haut, utiliser 260 C (500 F).
-5. **Preparer** la sauce en melangeant les tomates ecrasees, l'ail, l'huile d'olive, le sel et le poivre.
-6. **Diviser** la pate en deux portions egales, couvrir et laisser reposer 5 a 10 minutes.
-7. **Etirer** une boule de pate en un cercle d'environ 25 cm (10 pouces). Transferer sur une pelle a pizza saupoudree de semoule ou une plaque inversee.
-8. **Garnir** la pate: badigeonner legerement d'huile d'olive, etaler environ 125 ml (1/2 tasse) de sauce, saupoudrer de Parmigiano-Reggiano, repartir la moitie de la mozzarella, et dechirer quelques feuilles de basilic par-dessus.
-9. **Cuire** sur la pierre chaude 7 a 8 minutes jusqu'a ce que la croute soit doree et le fromage bouillonne. Passer sous le gril brievement pour plus de couleur si desire.
-10. **Garnir** d'un filet d'huile d'olive, de Parmigiano-Reggiano et de basilic frais. Repeter avec la pate restante.
+1. **Mélanger** la farine, le sucre, la levure et le sel. Ajouter l'eau tiède et l'huile d'olive, puis remuer avec une cuillere en bois jusqu'à ce que la pâte se forme.
+2. **Petrir** sur une surface bien farinee pendant environ 3 minutes jusqu'à obtenir une pâte lisse et légèrement collante. Déposer dans un bol légèrement huile.
+3. **Couvrir** d'un linge a vaisselle et laisser lever dans un endroit chaud pendant 2 heures, ou jusqu'à ce que la pâte ait double de volume.
+4. **Préchauffer** le four (avec une pierre ou un acier a pizza sur la grille supérieure) a 285 C (550 F) pendant au moins 1 heure. Si le four ne monte pas aussi haut, utiliser 260 C (500 F).
+5. **Préparer** la sauce en mélangéant les tomates ecrasees, l'ail, l'huile d'olive, le sel et le poivre.
+6. **Diviser** la pâte en deux portions egales, couvrir et laisser reposer 5 à 10 minutes.
+7. **Etirer** une boule de pâte en un cercle d'environ 25 cm (10 pouces). Transferer sur une pelle a pizza saupoudree de semoule ou une plaque inversee.
+8. **Garnir** la pâte: badigeonner légèrement d'huile d'olive, étaler environ 125 ml (1/2 tasse) de sauce, saupoudrer de Parmigiano-Reggiano, répartir la moitié de la mozzarella, et déchirer quelques feuilles de basilic par-dessus.
+9. **Cuire** sur la pierre chaude 7 à 8 minutes jusqu'à ce que la croute soit dorée et le fromage bouillonne. Passer sous le gril brievement pour plus de couleur si désiré.
+10. **Garnir** d'un filet d'huile d'olive, de Parmigiano-Reggiano et de basilic frais. Répéter avec la pâte restante.
 
 ## Notes & conseils
 
-- Eponger les cubes de mozzarella avec un essuie-tout pour eviter une pizza detrempee.
-- La pate peut etre preparee a l'avance: emballer les portions dans du film plastique et refrigerer jusqu'a 24 heures ou congeler jusqu'a 3 mois. Decongeler et ramener a temperature ambiante avant d'etirer.
-- La semoule empeche la pate de coller a la pelle mieux que la farine ordinaire.
+- Eponger les cubes de mozzarella avec un essuie-tout pour éviter une pizza detrempee.
+- La pâte peut être préparée à l'avance: emballer les portions dans du film plastique et réfrigérer jusqu'à 24 heures ou congeler jusqu'à 3 mois. Decongeler et ramener a temperature ambiante avant d'etirer.
+- La semoule empeche la pâte de coller à la pelle mieux que la farine ordinaire.
 
 </div>

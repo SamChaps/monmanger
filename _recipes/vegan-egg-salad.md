@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Vegan Egg Salad"
 title_fr: "Salade aux œufs végane"
 excerpt: "Creamy tofu egg salad with vegan mayo, Dijon mustard, dill, and black salt for an eggy flavor."
-excerpt_fr: "Salade aux oeufs vegane cremeuse au tofu, mayo vegetale, moutarde de Dijon, aneth et sel noir pour un gout d'oeuf."
+excerpt_fr: "Salade aux œufs vegane crémeuse au tofu, mayo végétale, moutarde de Dijon, aneth et sel noir pour un goût d'œuf."
 date: 2025-07-26
 categories:
   - Salad
@@ -54,35 +54,35 @@ A creamy, protein-packed vegan egg salad using firm tofu, vegan mayo, Dijon must
 
 <div class="lang-fr-content" markdown="1">
 
-Une salade aux oeufs vegane cremeuse et riche en proteines a base de tofu ferme, mayo vegetale, moutarde de Dijon et sel noir (kala namak) pour cette saveur d'oeuf inimitable. Parfaite en garniture a sandwich, sur des roties ou sur une salade verte.
+Une salade aux œufs vegane crémeuse et riche en proteines a base de tofu ferme, mayo végétale, moutarde de Dijon et sel noir (kala namak) pour cette saveur d'œuf inimitable. Parfaite en garniture a sandwich, sur des rôties ou sur une salade verte.
 
-## Ingredients
+## Ingrédients
 
 - 1 bloc (400 g / 14 oz) de tofu ferme ou extra-ferme
-- 125 ml (1/2 tasse) de mayonnaise vegetale
-- 1 c. a soupe de moutarde de Dijon
-- 1/2 c. a the de sel noir (kala namak)
+- 125 ml (1/2 tasse) de mayonnaise végétale
+- 1 c. à soupe de moutarde de Dijon
+- 1/2 c. à thé de sel noir (kala namak)
 - 2 oignons verts, finement tranches
-- 1-2 c. a soupe d'aneth frais, finement hache
-- 1 branche de celeri, coupee en petits des
-- Poivre noir, au gout
-- Sel, au gout
-- 1/8 c. a the de curcuma (optionnel, pour la couleur)
+- 1-2 c. à soupe d'aneth frais, finement haché
+- 1 branche de céleri, coupée en petits des
+- Poivre noir, au goût
+- Sel, au goût
+- 1/8 c. à thé de curcuma (optionnel, pour la couleur)
 - Jus de 1/2 citron (optionnel)
 
 ## Instructions
 
-1. **Presser** le tofu pendant au moins 30 minutes pour retirer l'exces de liquide.
-2. **Ecraser** la moitie du tofu dans un bol avec la mayo vegetale, la moutarde et le curcuma (si desire) pour creer une base epaisse.
-3. **Hacher** grossierement le reste du tofu pour imiter la texture de blancs d'oeufs haches. Ajouter au bol.
-4. **Incorporer** le celeri, l'oignon vert, l'aneth, le sel noir et le poivre. Melanger delicatement.
-5. **Gouter** et ajuster: ajouter plus d'aneth, de moutarde, de jus de citron ou de sel au gout.
-6. **Servir** immediatement ou refrigerer 1 a 2 heures pour laisser les saveurs se developper.
+1. **Presser** le tofu pendant au moins 30 minutes pour retirer l'excès de liquide.
+2. **Écraser** la moitié du tofu dans un bol avec la mayo végétale, la moutarde et le curcuma (si désiré) pour creer une base épaisse.
+3. **Hacher** grossièrement le reste du tofu pour imiter la texture de blancs d'œufs hachés. Ajouter au bol.
+4. **Incorporer** le céleri, l'oignon vert, l'aneth, le sel noir et le poivre. Mélanger délicatement.
+5. **Gouter** et ajuster: ajouter plus d'aneth, de moutarde, de jus de citron ou de sel au goût.
+6. **Servir** immédiatement ou réfrigérer 1 à 2 heures pour laisser les saveurs se developper.
 
 ## Notes & conseils
 
-- Le sel noir (kala namak) est ce qui cree la saveur et l'arome d'oeuf. On le trouve dans les epiceries indiennes ou en ligne. Le sel de mer ordinaire peut le remplacer mais sans le meme effet.
-- Choisir une mayo vegetale que vous aimez vraiment, car sa saveur est au premier plan.
+- Le sel noir (kala namak) est ce qui cree la saveur et l'arome d'œuf. On le trouve dans les epiceries indiennes ou en ligne. Le sel de mer ordinaire peut le remplacer mais sans le même effet.
+- Choisir une mayo végétale que vous aimez vraiment, car sa saveur est au premier plan.
 - Bien presser le tofu est essentiel; sauter cette etape rend la salade aqueuse.
 
 </div>

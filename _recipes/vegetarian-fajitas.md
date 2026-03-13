@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Vegetarian Fajitas"
 title_fr: "Fajitas végétariennes"
 excerpt: "Roasted pepper and onion fajitas with garlicky black beans and guacamole."
-excerpt_fr: "Fajitas aux poivrons et oignons rotis avec haricots noirs a l'ail et guacamole."
+excerpt_fr: "Fajitas aux poivrons et oignons rôtis avec haricots noirs à l'ail et guacamole."
 date: 2025-06-14
 categories:
   - Main
@@ -76,9 +76,9 @@ Quick and colourful fajitas loaded with sheet-pan roasted bell peppers and onion
 
 <div class="lang-fr-content" markdown="1">
 
-Des fajitas rapides et colorees garnies de poivrons et d'oignons rotis a la plaque, de haricots noirs a l'ail mijoter et d'un guacamole maison tout simple. Le tout se prepare en environ 30 minutes pour un souper de semaine facile et riche en proteines.
+Des fajitas rapides et colorees garnies de poivrons et d'oignons rôtis à la plaque, de haricots noirs à l'ail mijoter et d'un guacamole maison tout simple. Le tout se prépare en environ 30 minutes pour un souper de semaine facile et riche en proteines.
 
-## Ingredients
+## Ingrédients
 
 **Legumes**
 
@@ -86,27 +86,27 @@ Des fajitas rapides et colorees garnies de poivrons et d'oignons rotis a la plaq
 - 1 poivron rouge, tranche
 - 1 poivron jaune, tranche
 - 1 oignon moyen, tranche
-- 15 ml (1 c. a soupe) d'huile
+- 15 ml (1 c. à soupe) d'huile
 
 **Assaisonnement fajita**
 
-- 10 ml (2 c. a the) de poudre de chili
-- 5 ml (1 c. a the) de paprika
-- 1/2 c. a the chacun: poudre d'ail, poudre d'oignon, sel, poivre noir
-- Pincee de cayenne (ajuster au gout)
+- 10 ml (2 c. à thé) de poudre de chili
+- 5 ml (1 c. à thé) de paprika
+- 1/2 c. à thé chacun: poudre d'ail, poudre d'oignon, sel, poivre noir
+- Pincee de cayenne (ajuster au goût)
 
 **Haricots noirs**
 
-- 1 boite (398 ml / 14 oz) de haricots noirs (avec le liquide, ou egouttes avec quelques c. a soupe d'eau)
-- 1/2 c. a the de poudre d'ail
-- Sel au gout
+- 1 boîte (398 ml / 14 oz) de haricots noirs (avec le liquide, ou égouttés avec quelques c. à soupe d'eau)
+- 1/2 c. à thé de poudre d'ail
+- Sel au goût
 
 **Guacamole simple**
 
 - 2 avocats murs
-- 1/2 c. a the de poudre d'ail
+- 1/2 c. à thé de poudre d'ail
 - Jus de 1 lime
-- Sel au gout
+- Sel au goût
 
 **Assemblage**
 
@@ -114,17 +114,17 @@ Des fajitas rapides et colorees garnies de poivrons et d'oignons rotis a la plaq
 
 ## Instructions
 
-1. **Prechauffer le four** a 200 °C (400 °F).
-2. **Rotir les legumes.** Disposer les poivrons et oignons tranches sur une plaque. Arroser d'huile et saupoudrer d'assaisonnement fajita. Melanger pour bien enrober et etaler. Cuire 20 minutes, en retournant a mi-cuisson.
-3. **Cuire les haricots noirs.** Faire mijoter les haricots avec la poudre d'ail et le sel dans une casserole a feu doux pendant 8 a 10 minutes, jusqu'a ce que le liquide ait legerement reduit et que les haricots soient epais.
-4. **Preparer le guacamole.** Ecraser les avocats a la fourchette. Incorporer la poudre d'ail, le jus de lime et le sel.
-5. **Rechauffer les tortillas.** Les envelopper de papier d'aluminium et mettre au four 5 minutes, ou les rechauffer au micro-ondes 15 secondes.
-6. **Assembler.** Garnir chaque tortilla de poivrons et oignons rotis, de haricots noirs et de guacamole. Presser de la lime sur le dessus et garnir de coriandre fraiche si desire.
+1. **Préchauffer le four** a 200 °C (400 °F).
+2. **Rotir les légumes.** Disposer les poivrons et oignons tranches sur une plaque. Arroser d'huile et saupoudrer d'assaisonnement fajita. Mélanger pour bien enrober et étaler. Cuire 20 minutes, en retournant à mi-cuisson.
+3. **Cuire les haricots noirs.** Faire mijoter les haricots avec la poudre d'ail et le sel dans une casserole à feu doux pendant 8 à 10 minutes, jusqu'à ce que le liquide ait légèrement réduit et que les haricots soient épais.
+4. **Préparer le guacamole.** Écraser les avocats à la fourchette. Incorporer la poudre d'ail, le jus de lime et le sel.
+5. **Rechauffer les tortillas.** Les envelopper de papier d'aluminium et mettre au four 5 minutes, ou les réchauffer au micro-ondes 15 secondes.
+6. **Assembler.** Garnir chaque tortilla de poivrons et oignons rôtis, de haricots noirs et de guacamole. Presser de la lime sur le dessus et garnir de coriandre fraîche si désiré.
 
 ## Notes & conseils
 
 - Excellent avec un accompagnement de riz, quinoa ou chips de tortilla et salsa.
-- L'assaisonnement fajita peut etre double et conserve pour d'autres utilisations.
-- Ajouter du fromage frais emiette ou du fromage vegetalien pour plus de richesse.
+- L'assaisonnement fajita peut être double et conserve pour d'autres utilisations.
+- Ajouter du fromage frais émietté ou du fromage végétalien pour plus de richesse.
 
 </div>

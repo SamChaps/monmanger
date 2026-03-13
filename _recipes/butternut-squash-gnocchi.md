@@ -1,4 +1,4 @@
----
+﻿﻿---
 title: "Spiced Butternut Squash Gnocchi"
 title_fr: "Poêlée de gnocchis épicés à la courge rôtie"
 excerpt: "Homemade gnocchi made from roasted butternut squash, pan-fried with shallots."

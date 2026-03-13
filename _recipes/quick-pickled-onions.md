@@ -1,8 +1,8 @@
----
+﻿﻿﻿﻿﻿---
 title: "Quick Pickled Onions"
 title_fr: "Oignons marinés rapides"
 excerpt: "Tangy, crisp pickled red onions ready in 30 minutes. The perfect condiment for tacos, burgers, and bowls."
-excerpt_fr: "Oignons rouges marines acidules et croquants prets en 30 minutes. Le condiment parfait pour tacos, burgers et bols."
+excerpt_fr: "Oignons rouges marinés acidules et croquants prets en 30 minutes. Le condiment parfait pour tacos, burgers et bols."
 date: 2025-07-26
 categories:
   - Appetizer
@@ -50,30 +50,30 @@ A simple hot-brine poured over thinly sliced red onion, ready to use in about 30
 
 <div class="lang-fr-content" markdown="1">
 
-Une simple saumure chaude versee sur des oignons rouges finement tranches, prets a utiliser en environ 30 minutes. Ces oignons marines acidules et legerement sucres rehaussent les tacos, burritos, bols de grains, burgers et a peu pres tout le reste.
+Une simple saumure chaude versee sur des oignons rouges finement tranches, prets à utiliser en environ 30 minutes. Ces oignons marinés acidules et légèrement sucres rehaussent les tacos, burritos, bols de grains, burgers et a peu pres tout le reste.
 
-## Ingredients
+## Ingrédients
 
-- 1 oignon rouge moyen, tranche tres finement
+- 1 oignon rouge moyen, tranche très finement
 - 125 ml (1/2 tasse) d'eau
 - 60 ml (1/4 tasse) de vinaigre blanc distille
 - 60 ml (1/4 tasse) de vinaigre de cidre de pomme
-- 1 1/2 c. a soupe de sirop d'erable (ou miel)
-- 1 1/2 c. a the de sel de mer fin
-- 1/4 c. a the de flocons de piment rouge (optionnel)
+- 1 1/2 c. à soupe de sirop d'érable (ou miel)
+- 1 1/2 c. à thé de sel de mer fin
+- 1/4 c. à thé de flocons de piment rouge (optionnel)
 
 ## Instructions
 
-1. **Tasser** les oignons tranches dans un pot Mason de 500 ml (1 pinte) ou un recipient resistant a la chaleur. Placer dans l'evier pour eviter les eclaboussures.
-2. **Combiner** l'eau, les deux vinaigres, le sirop d'erable, le sel et les flocons de piment dans une petite casserole. Porter a leger fremissement a feu moyen.
+1. **Tasser** les oignons tranches dans un pot Mason de 500 ml (1 pinte) ou un recipient resistant à la chaleur. Placer dans l'evier pour éviter les eclaboussures.
+2. **Combiner** l'eau, les deux vinaigres, le sirop d'érable, le sel et les flocons de piment dans une petite casserole. Porter a léger frémissement à feu moyen.
 3. **Verser** la saumure chaude sur les oignons. Utiliser un couteau ou une cuillere pour presser les oignons et liberer les bulles d'air.
-4. **Laisser** refroidir a temperature ambiante, environ 20 a 30 minutes. Les oignons sont prets a servir une fois refroidis.
-5. **Couvrir** et refrigerer les restes.
+4. **Laisser** refroidir a temperature ambiante, environ 20 à 30 minutes. Les oignons sont prêts à servir une fois refroidis.
+5. **Couvrir** et réfrigérer les restes.
 
 ## Notes & conseils
 
-- Meilleurs dans les 3 premiers jours, mais se conservent 2 a 3 semaines au refrigerateur.
-- Utiliser du sirop d'erable pour une version vegane.
+- Meilleurs dans les 3 premiers jours, mais se conservent 2 à 3 semaines au réfrigérateur.
+- Utiliser du sirop d'érable pour une version vegane.
 - Il s'agit de marinades refrigerees, non concues pour la mise en conserve.
 
 </div>

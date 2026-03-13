@@ -1,4 +1,4 @@
----
+﻿---
 title: "Grilled Corn Salad"
 title_fr: "Salade de maïs grillé"
 excerpt: "A smoky, fresh summer salad with charred corn, blistered tomatoes, pinto beans, and avocado."
@@ -88,7 +88,7 @@ Une salade estivale colorée à base de maïs grillé fumé et de tomates cerise
 2. **Griller le maïs.** Chauffer un poêlon à griller à feu vif. Badigeonner légèrement les épis d'huile d'olive. Griller 10 à 12 minutes en tournant de temps en temps avec des pinces, jusqu'à ce que chaque côté soit grillé. Réserver.
 3. **Griller les tomates.** Enrober les tomates cerises de 2 c. à thé d'huile d'olive, sel et poivre. Ajouter au poêlon chaud et cuire 3 à 5 minutes en tournant de temps en temps, jusqu'à ce qu'elles soient boursouflées. Transférer dans une assiette.
 4. **Égrener le maïs.** Tenir chaque épi debout dans un grand bol. Couper les grains vers le bas avec un couteau, en les laissant tomber dans le bol.
-5. **Assembler.** Ajouter les tomates grillées, le mélange d'échalotes marinées avec son liquide, les haricots pinto et la coriandre au maïs. Mélanger. Ajouter l'avocat et plier délicatement. Goûter et ajuster avec plus de jus de lime, sel ou poivre au besoin.
+5. **Assembler.** Ajouter les tomates grillées, le mélangé d'échalotes marinées avec son liquide, les haricots pinto et la coriandre au maïs. Mélanger. Ajouter l'avocat et plier délicatement. Goûter et ajuster avec plus de jus de lime, sel ou poivre au besoin.
 
 ## Notes & conseils
 

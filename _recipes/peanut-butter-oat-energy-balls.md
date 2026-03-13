@@ -1,4 +1,4 @@
----
+﻿---
 title: "Peanut Butter Oat Energy Balls"
 title_fr: "Boules d'énergie au beurre d'arachide et avoine"
 excerpt: "Simple 4-ingredient no-bake energy balls with peanut butter, oats, honey, and chocolate chips."
@@ -61,13 +61,13 @@ Les boules d'énergie les plus simples possibles : juste du beurre d'arachide, d
 
 1. **Mélanger.** Combiner tous les ingrédients dans un bol et mélanger jusqu'à homogénéité.
 2. **Réfrigérer.** Mettre au réfrigérateur 30 minutes.
-3. **Rouler.** Diviser le mélange en 6 portions égales et rouler en boules.
+3. **Rouler.** Diviser le mélangé en 6 portions égales et rouler en boules.
 4. **Conserver** dans un contenant hermétique au réfrigérateur jusqu'à 1 semaine.
 
 ## Notes & conseils
 
 - Utiliser du sirop d'érable au lieu du miel pour une version végane.
 - Ces boules sont infiniment personnalisables : ajouter de la noix de coco râpée, des graines de chia ou des fruits séchés.
-- Si le mélange est trop friable, ajouter un peu plus de beurre d'arachide.
+- Si le mélangé est trop friable, ajouter un peu plus de beurre d'arachide.
 
 </div>

@@ -1,4 +1,4 @@
----
+﻿﻿﻿﻿﻿---
 title: "Burrata with Roasted Cherry Tomatoes"
 title_fr: "Burrata à la tomate cerise confite"
 excerpt: "Creamy burrata split open over slow-roasted cherry tomatoes and grilled bread."
@@ -86,7 +86,7 @@ Des tomates cerises confites au four, une burrata crémeuse ouverte au tout dern
 2. **Faire macérer les tomates.** Dans un bol, mélanger les tomates, le jus de citron, le sucre et le sel. Laisser reposer 5 minutes, puis bien égoutter.
 3. **Rôtir les tomates.** Transférer dans un plat de cuisson, arroser d'huile d'olive et cuire au four 25 minutes jusqu'à ce que les tomates soient tendres et commencent à caraméliser. Transférer dans une assiette de service et réfrigérer environ 30 minutes jusqu'à refroidissement complet.
 4. **Griller le pain.** Dans un grand poêlon à feu moyen-vif, dorer les demi-gousses d'ail dans l'huile d'olive. Retirer l'ail, puis griller les tranches de pain des deux côtés en ajoutant de l'huile au besoin.
-5. **Servir.** Déposer la burrata sur les tomates refroidies et la couper en deux pour que le centre crémeux se mélange aux tomates. Poivrer, parsemer de basilic déchiré et servir avec le pain grillé.
+5. **Servir.** Déposer la burrata sur les tomates refroidies et la couper en deux pour que le centre crémeux se mélangé aux tomates. Poivrer, parsemer de basilic déchiré et servir avec le pain grillé.
 
 ## Notes & conseils
 
