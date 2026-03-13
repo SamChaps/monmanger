@@ -10,6 +10,7 @@ tags:
   - vegan
   - spicy
   - comfort
+  - instantpot
 prep_time: "15 min"
 cook_time: "45 min"
 total_time: "1 hr"
