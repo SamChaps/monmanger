@@ -19,7 +19,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           # Find open PRs from copilot agent, skip WIP ones
-          all_prs=$(gh pr list --repo "$GITHUB_REPOSITORY" --author "app/copilot-swe-agent" --state open --json number,title --jq -c '.[]')
+          all_prs=$(gh pr list --repo "$GITHUB_REPOSITORY" --author "app/copilot-swe-agent" --state open --json number,title --jq '.[] | @json')
 
           if [ -z "$all_prs" ]; then
             echo "No open Copilot PRs found."
