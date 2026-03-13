@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Recipes"
 title_fr: "Recettes"
 author_profile: false

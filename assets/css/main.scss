@@ -646,14 +646,25 @@ html.lang-fr p.lang-fr-content { display: block !important; }
 // ============================================================
 // Recipe Grid (listing pages)
 // ============================================================
+
+// Force wide layout on recipe listing pages
+.layout--single .page,
+.layout--category-archive .page,
+.layout--tag-archive .page {
+  padding-inline-end: 0 !important;
+}
+
 .recipe-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 1.5rem;
   margin-top: 1.5rem;
+  width: 100%;
 }
 
 .recipe-card {
+  display: flex;
+  flex-direction: column;
   border: 1px solid var(--border-color);
   border-radius: 8px;
   overflow: hidden;
@@ -685,15 +696,35 @@ html.lang-fr p.lang-fr-content { display: block !important; }
 
 .recipe-card__body {
   padding: 1rem 1.1rem 1.1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
 }
 
 .recipe-card__title {
   font-size: 1.1rem;
   margin: 0 0 0.4rem;
+  line-height: 1.3;
+  height: 2.6em;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  border: none !important;
 
-  a {
+  a, a:visited, a:hover, a:active {
     text-decoration: none !important;
+    border-bottom: none !important;
+    border: none !important;
+    background: none !important;
+    background-image: none !important;
+    box-shadow: none !important;
     color: inherit;
+
+    &::before, &::after {
+      display: none !important;
+    }
   }
 }
 
@@ -702,11 +733,16 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   color: var(--text-light);
   margin: 0 0 0.75rem;
   line-height: 1.4;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
 }
 
 .recipe-card__meta {
   display: flex;
-  gap: 1rem;
+  flex-wrap: wrap;
+  gap: 0.3rem 1rem;
   font-size: 0.8rem;
   color: var(--text-muted);
   margin-bottom: 0.65rem;
@@ -717,16 +753,16 @@ html.lang-fr p.lang-fr-content { display: block !important; }
 }
 
 .recipe-card__source {
-  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  max-width: 150px;
+  white-space: nowrap;
 }
 
 .recipe-card__tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
+  margin-top: auto;
+  line-height: 1.85;
+  height: 1.85em;
+  overflow: hidden;
 }
 
 .recipe-tag {
@@ -736,6 +772,9 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   padding: 0.2rem 0.5rem;
   border-radius: 3px;
   font-weight: 500;
+  display: inline-block;
+  margin-right: 0.35rem;
+  white-space: nowrap;
 }
 
 .recipe-tag--link {

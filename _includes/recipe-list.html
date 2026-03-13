@@ -12,7 +12,7 @@
     {% endif %}
     <div class="recipe-card__body">
       <h2 class="recipe-card__title">
-        <a href="{{ recipe.url | relative_url }}">
+        <a href="{{ recipe.url | relative_url }}" data-title-en="{{ recipe.title }}" data-title-fr="{{ recipe.title_fr | default: recipe.title }}" title="{{ recipe.title }}">
           <span class="lang-en-content">{{ recipe.title }}</span>
           {% if recipe.title_fr %}<span class="lang-fr-content">{{ recipe.title_fr }}</span>{% endif %}
         </a>

@@ -69,6 +69,11 @@
         }
 
         try { localStorage.setItem('site-lang', lang); } catch (e) {}
+
+        // Update recipe card title tooltips
+        document.querySelectorAll('.recipe-card__title a[data-title-en]').forEach(function(a) {
+          a.title = isFr ? a.dataset.titleFr : a.dataset.titleEn;
+        });
       }
 
       // Apply saved preference on load
