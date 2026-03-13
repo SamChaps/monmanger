@@ -1,0 +1,8 @@
+{% if page.last_modified_at or page.date %}
+  {% if page.last_modified_at %}
+    {% assign page_date = page.last_modified_at %}
+  {% else %}
+    {% assign page_date = page.date %}
+  {% endif %}
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> <span class="lang-en-content">Updated:</span><span class="lang-fr-content">Mis à jour :</span></strong> <time class="dt-published" datetime="{{ page_date | date_to_xmlschema }}"><span class="lang-en-content">{{ page_date | date: "%B %d, %Y" }}</span><span class="lang-fr-content">{{ page_date | date: "%d/%m/%Y" }}</span></time></p>
+{% endif %}
