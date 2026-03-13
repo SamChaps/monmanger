@@ -34,8 +34,8 @@ jobs:
               gh pr ready "$pr" --repo "$GITHUB_REPOSITORY"
             fi
 
-            # Enable auto-merge (will merge once status checks pass)
-            echo "Enabling auto-merge on PR #$pr..."
-            gh pr merge "$pr" --repo "$GITHUB_REPOSITORY" --squash --auto --delete-branch || true
-            echo "Auto-merge enabled for PR #$pr"
+            # Merge the PR
+            echo "Merging PR #$pr..."
+            gh pr merge "$pr" --repo "$GITHUB_REPOSITORY" --squash --delete-branch
+            echo "Merged PR #$pr"
           done
