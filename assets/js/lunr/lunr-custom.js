@@ -14,6 +14,8 @@ lunr.Pipeline.registerFunction(accentNormalizer, 'accentNormalizer');
 var idx = lunr(function () {
   this.field('title', { boost: 10 })
   this.field('title_fr', { boost: 10 })
+  this.field('title_joined', { boost: 10 })
+  this.field('title_fr_joined', { boost: 10 })
   this.field('excerpt')
   this.field('categories', { boost: 5 })
   this.field('tags', { boost: 5 })
@@ -29,9 +31,13 @@ var idx = lunr(function () {
   this.searchPipeline.add(accentNormalizer)
 
   for (var item in store) {
+    var titleEn = store[item]._titleEn || store[item].title;
+    var titleFr = store[item].title_fr || '';
     this.add({
-      title: store[item]._titleEn || store[item].title,
-      title_fr: store[item].title_fr || '',
+      title: titleEn,
+      title_fr: titleFr,
+      title_joined: titleEn.replace(/-/g, ''),
+      title_fr_joined: titleFr.replace(/-/g, ''),
       excerpt: store[item].excerpt,
       categories: store[item].categories,
       tags: store[item].tags,
@@ -54,17 +60,17 @@ $(document).ready(function() {
       resultdiv.empty();
       return;
     }
+    var terms = query.split(lunr.tokenizer.separator).map(removeAccents).filter(Boolean);
+    var presence = terms.length > 1 ? lunr.Query.presence.REQUIRED : lunr.Query.presence.OPTIONAL;
     var result =
       idx.query(function (q) {
-        query.split(lunr.tokenizer.separator).forEach(function (term) {
-          var normalised = removeAccents(term);
-          if (normalised === "") return;
+        terms.forEach(function (normalised) {
           // Exact match on normalised term (highest priority)
-          q.term(normalised, { boost: 100 })
+          q.term(normalised, { boost: 100, presence: presence })
           // Wildcard trailing (partial match while typing)
-          q.term(normalised, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+          q.term(normalised, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10, presence: presence })
           // Fuzzy match (typo tolerance)
-          q.term(normalised, { usePipeline: false, editDistance: 1, boost: 1 })
+          q.term(normalised, { usePipeline: false, editDistance: 1, boost: 1, presence: presence })
         })
       });
     resultdiv.empty();
