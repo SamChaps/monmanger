@@ -16,7 +16,7 @@ layout: single
     </div>
   </div>
   {% endif %}
-  {% if page.cook_time %}
+  {% if page.cook_time and page.cook_time != "0 min" %}
   <div class="recipe-meta-item">
     <div class="recipe-meta-icon"><i class="fas fa-fire" aria-hidden="true"></i></div>
     <div class="recipe-meta-text">
@@ -25,6 +25,18 @@ layout: single
         <span class="lang-fr-content">{{ t.fr.cook_time }}</span>
       </span>
       <span class="recipe-meta-value">{{ page.cook_time }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.wait_time and page.wait_time != "0 min" %}
+  <div class="recipe-meta-item">
+    <div class="recipe-meta-icon"><i class="fas fa-snowflake" aria-hidden="true"></i></div>
+    <div class="recipe-meta-text">
+      <span class="recipe-meta-label">
+        <span class="lang-en-content">{{ t.en.wait_time }}</span>
+        <span class="lang-fr-content">{{ t.fr.wait_time }}</span>
+      </span>
+      <span class="recipe-meta-value">{{ page.wait_time }}</span>
     </div>
   </div>
   {% endif %}

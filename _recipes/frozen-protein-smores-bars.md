@@ -11,6 +11,7 @@ tags:
   - snack
 prep_time: "10 min"
 cook_time: "0 min"
+wait_time: "1 hr"
 total_time: "1 hr 10 min"
 servings: "10"
 difficulty: "Easy"

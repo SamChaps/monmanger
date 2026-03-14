@@ -9,7 +9,8 @@ categories:
 tags:
   - snack
 prep_time: "10 min"
-cook_time: "2 hr"
+cook_time: "0 min"
+wait_time: "2 hr"
 total_time: "2 hr 10 min"
 servings: "8"
 difficulty: "Easy"

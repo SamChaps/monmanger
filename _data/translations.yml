@@ -1,6 +1,7 @@
 en:
   prep_time: "Prep Time"
   cook_time: "Cook Time"
+  wait_time: "Wait Time"
   total_time: "Total Time"
   servings: "Servings"
   difficulty: "Difficulty"
@@ -9,6 +10,7 @@ en:
 fr:
   prep_time: "Préparation"
   cook_time: "Cuisson"
+  wait_time: "Temps d'attente"
   total_time: "Temps total"
   servings: "Portions"
   difficulty: "Difficulté"
