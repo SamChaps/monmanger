@@ -1,5 +1,9 @@
 - name: asian
   name_fr: asiatique
+- name: brazilian
+  name_fr: brésilien
+- name: cookies
+  name_fr: biscuits
 - name: baked
   name_fr: au four
 - name: banana
