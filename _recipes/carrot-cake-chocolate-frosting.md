@@ -50,7 +50,7 @@ A deeply flavoured carrot cake made with browned butter and warm spices, finishe
 
 ## Instructions
 
-1. **Preheat the oven** to 175 °C (350 °F). Butter and flour two 25 cm (10 inch) round pans or one half-sheet pan.
+1. **Preheat the oven** to 175 °C (350 °F). Butter and flour two 25 cm (10 inch) round pans (for 12 portions).
 2. **Combine the dry ingredients.** Sift together the flour, baking powder, baking soda, salt, allspice, nutmeg, and cinnamon.
 3. **Mix the wet ingredients.** In a large bowl, whisk together both sugars, eggs, sour cream, oil, and browned butter until smooth.
 4. **Combine wet and dry.** Add the wet mixture to the dry ingredients and whisk until just combined. Fold in the shredded carrots.
@@ -60,6 +60,7 @@ A deeply flavoured carrot cake made with browned butter and warm spices, finishe
 
 ## Notes & Tips
 
+- This recipe makes 12 portions using 2 pans. For a single-pan version, halve the recipe.
 - Browned butter adds a nutty depth that sets this cake apart. Watch it carefully so it doesn't burn.
 - Squeeze excess moisture from the shredded carrots so the batter isn't too wet.
 - All ingredients should be at room temperature before mixing for the best texture.
@@ -97,7 +98,7 @@ Un gâteau aux carottes plein de saveur, fait avec du beurre noisette et des ép
 
 ## Instructions
 
-1. **Préchauffer le four** à 175 °C (350 °F). Beurrer et fariner deux moules ronds de 25 cm (10 po) ou un moule rectangulaire.
+1. **Préchauffer le four** à 175 °C (350 °F). Beurrer et fariner deux moules ronds de 25 cm (10 po) (pour 12 portions).
 2. **Mélanger les ingrédients secs.** Tamiser ensemble la farine, la poudre à pâte, le bicarbonate, le sel, le quatre-épices, la muscade et la cannelle.
 3. **Mélanger les ingrédients humides.** Dans un grand bol, fouetter les deux sucres, les œufs, la crème sure, l'huile et le beurre noisette jusqu'à consistance lisse.
 4. **Combiner le tout.** Verser le mélange humide sur les ingrédients secs et fouetter jusqu'à ce que ce soit juste combiné. Incorporer les carottes râpées en pliant.
@@ -107,6 +108,7 @@ Un gâteau aux carottes plein de saveur, fait avec du beurre noisette et des ép
 
 ## Notes & conseils
 
+- Cette recette donne 12 portions en utilisant 2 moules. Pour une version à un seul moule, diviser la recette en deux.
 - Le beurre noisette ajoute une profondeur de saveur qui distingue ce gâteau. Surveillez-le attentivement pour éviter qu'il ne brûle.
 - Presser l'excès d'humidité des carottes râpées pour que la pâte ne soit pas trop liquide.
 - Tous les ingrédients doivent être à température ambiante avant de mélanger pour une meilleure texture.
