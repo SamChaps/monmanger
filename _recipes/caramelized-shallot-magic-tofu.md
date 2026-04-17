@@ -26,24 +26,24 @@ An elevated take on Loounie's magic tofu, fit for a special dinner. Bite-sized t
 
 **Magic Tofu**
 
-- 1 block (450 g / 1 lb) extra-firm tofu, well pressed
-- 15 ml (1 tbsp) apple cider vinegar or lemon juice
-- 15 ml (1 tbsp) soy sauce or tamari
-- 15 ml (1 tbsp) maple syrup
-- 30 g (1/3 cup) nutritional yeast flakes
-- 15 ml (1 tbsp) vegetable oil
+- <span class="qty">1</span> block (<span class="qty">450</span> g / <span class="qty">1</span> lb) extra-firm tofu, well pressed
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) apple cider vinegar or lemon juice
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) soy sauce or tamari
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) maple syrup
+- <span class="qty">30</span> g (<span class="qty">1/3</span> cup) nutritional yeast flakes
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) vegetable oil
 
 **Shallot Sauce**
 
-- 60 ml (1/4 cup) olive oil
-- 60 ml (1/4 cup) wine vinegar or cider vinegar
-- 60 ml (1/4 cup) water
-- 30 ml (2 tbsp) Dijon mustard
-- 15-30 ml (1-2 tbsp) maple syrup
-- 2.5 ml (1/2 tsp) red pepper flakes
-- 1 ml (1/4 tsp) salt
-- 2 large or 3-4 small shallots, thinly sliced
-- 60 ml (1/4 cup) dry white wine or water, for deglazing
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) wine vinegar or cider vinegar
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) water
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) Dijon mustard
+- <span class="qty">15</span>-<span class="qty">30</span> ml (<span class="qty">1</span>-<span class="qty">2</span> tbsp) maple syrup
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) red pepper flakes
+- <span class="qty">1</span> ml (<span class="qty">1/4</span> tsp) salt
+- <span class="qty">2</span> large or <span class="qty">3</span>-<span class="qty">4</span> small shallots, thinly sliced
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) dry white wine or water, for deglazing
 
 **Garnish**
 
@@ -78,24 +78,24 @@ Une version chic du tofu magique de Loounie, parfaite pour un souper spécial. D
 
 **Tofu magique**
 
-- 1 bloc (450 g) de tofu extra-ferme, bien épongé
-- 15 ml (1 c. à soupe) de vinaigre de cidre ou jus de citron
-- 15 ml (1 c. à soupe) de sauce soya ou tamari
-- 15 ml (1 c. à soupe) de sirop d'érable
-- 30 g (1/3 tasse) de levure alimentaire en flocons
-- 15 ml (1 c. à soupe) d'huile végétale
+- <span class="qty">1</span> bloc (<span class="qty">450</span> g) de tofu extra-ferme, bien épongé
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de vinaigre de cidre ou jus de citron
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de sauce soya ou tamari
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de sirop d'érable
+- <span class="qty">30</span> g (<span class="qty">1/3</span> tasse) de levure alimentaire en flocons
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile végétale
 
 **Sauce à l'échalote**
 
-- 60 ml (1/4 tasse) d'huile d'olive
-- 60 ml (1/4 tasse) de vinaigre de vin ou de cidre
-- 60 ml (1/4 tasse) d'eau
-- 30 ml (2 c. à soupe) de moutarde de Dijon
-- 15-30 ml (1-2 c. à soupe) de sirop d'érable
-- 2,5 ml (1/2 c. à thé) de flocons de piment fort
-- 1 ml (1/4 c. à thé) de sel
-- 2 grosses ou 3-4 petites échalotes, tranchées finement
-- 60 ml (1/4 tasse) de vin blanc sec ou d'eau pour déglacer
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de vinaigre de vin ou de cidre
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'eau
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de moutarde de Dijon
+- <span class="qty">15</span>-<span class="qty">30</span> ml (<span class="qty">1</span>-<span class="qty">2</span> c. à soupe) de sirop d'érable
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de flocons de piment fort
+- <span class="qty">1</span> ml (<span class="qty">1/4</span> c. à thé) de sel
+- <span class="qty">2</span> grosses ou <span class="qty">3</span>-<span class="qty">4</span> petites échalotes, tranchées finement
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de vin blanc sec ou d'eau pour déglacer
 
 **Garniture**
 

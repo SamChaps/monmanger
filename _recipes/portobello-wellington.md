@@ -26,30 +26,30 @@ A showstopping vegan Wellington worthy of any holiday table. Oven-roasted portob
 
 **Portobello Caps**
 
-- 8 portobello mushrooms (about 350 g), stemmed
-- 30 ml (2 tbsp) olive oil
+- <span class="qty">8</span> portobello mushrooms (about <span class="qty">350</span> g), stemmed
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) olive oil
 - Salt and pepper to taste
 
 **Mushroom-Cashew Filling**
 
-- 450 g (1 lb) cremini (button) mushrooms
-- 80 g (2/3 cup) raw cashews
-- 45 ml (3 tbsp) olive oil
-- 2 onions, chopped
-- 2 garlic cloves, minced
-- 30 ml (2 tbsp) nutritional yeast
-- 4 fresh sage leaves, chopped
-- 10 ml (2 tsp) maple syrup
-- 5 ml (1 tsp) dried basil
-- 5 ml (1 tsp) dried oregano
-- 5 ml (1 tsp) salt
-- 2.5 ml (1/2 tsp) truffle oil (optional)
-- 140 g (5 oz) baby spinach
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) cremini (button) mushrooms
+- <span class="qty">80</span> g (<span class="qty">2/3</span> cup) raw cashews
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) olive oil
+- <span class="qty">2</span> onions, chopped
+- <span class="qty">2</span> garlic cloves, minced
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) nutritional yeast
+- <span class="qty">4</span> fresh sage leaves, chopped
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) maple syrup
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) dried basil
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) dried oregano
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) salt
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) truffle oil (optional)
+- <span class="qty">140</span> g (<span class="qty">5</span> oz) baby spinach
 - Pepper to taste
 
 **Assembly**
 
-- 1 sheet (550 g / 1 lb) puff pastry
+- <span class="qty">1</span> sheet (<span class="qty">550</span> g / <span class="qty">1</span> lb) puff pastry
 
 ## Instructions
 
@@ -77,30 +77,30 @@ Un Wellington végétalien spectaculaire, digne de n'importe quelle table des fe
 
 **Chapeaux de portobellos**
 
-- 8 champignons portobellos (environ 350 g), pieds retires
-- 30 ml (2 c. à soupe) d'huile d'olive
+- <span class="qty">8</span> champignons portobellos (environ <span class="qty">350</span> g), pieds retires
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'huile d'olive
 - Sel et poivre au goût
 
 **Garniture champignons-cajou**
 
-- 450 g (1 lb) de champignons cremini (de Paris)
-- 80 g (2/3 tasse) de noix de cajou crues
-- 45 ml (3 c. à soupe) d'huile d'olive
-- 2 oignons, hachés
-- 2 gousses d'ail, émincées
-- 30 ml (2 c. à soupe) de levure alimentaire
-- 4 feuilles de sauge fraîche, hachées
-- 10 ml (2 c. à thé) de sirop d'érable
-- 5 ml (1 c. à thé) de basilic séché
-- 5 ml (1 c. à thé) d'origan séché
-- 5 ml (1 c. à thé) de sel
-- 2,5 ml (1/2 c. à thé) d'huile de truffe (facultatif)
-- 140 g (5 oz) de jeunes epinards
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de champignons cremini (de Paris)
+- <span class="qty">80</span> g (<span class="qty">2/3</span> tasse) de noix de cajou crues
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) d'huile d'olive
+- <span class="qty">2</span> oignons, hachés
+- <span class="qty">2</span> gousses d'ail, émincées
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de levure alimentaire
+- <span class="qty">4</span> feuilles de sauge fraîche, hachées
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de sirop d'érable
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de basilic séché
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'origan séché
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de sel
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) d'huile de truffe (facultatif)
+- <span class="qty">140</span> g (<span class="qty">5</span> oz) de jeunes epinards
 - Poivre au goût
 
 **Assemblage**
 
-- 1 abaisse (550 g / 1 lb) de pâte feuilletee
+- <span class="qty">1</span> abaisse (<span class="qty">550</span> g / <span class="qty">1</span> lb) de pâte feuilletee
 
 ## Instructions
 

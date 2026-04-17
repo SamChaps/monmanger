@@ -24,18 +24,18 @@ A hearty Tuscan-inspired pasta that comes together in barely 15 minutes. Sliced 
 
 ## Ingredients
 
-- 1 package Beyond Sausage Hot Italian (4 links), sliced
-- 227 g (8 oz) linguine or similar pasta
-- 15 ml (1 tbsp) olive oil
-- 15 ml (1 tbsp) plant-based butter
-- 3 cloves garlic, minced
-- 1 cup (150 g) grape or cherry tomatoes
+- <span class="qty">1</span> package Beyond Sausage Hot Italian (<span class="qty">4</span> links), sliced
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) linguine or similar pasta
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) olive oil
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) plant-based butter
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">1</span> cup (<span class="qty">150</span> g) grape or cherry tomatoes
 - Freshly ground black pepper
-- 1/2 tsp salt
-- 1/2 tsp dried basil
-- 1 can (425 g / 15 oz) cannellini beans, rinsed and drained
-- 113 g (4 oz) baby spinach
-- 85 g (3 oz) vegan shredded parmesan
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1/2</span> tsp dried basil
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) cannellini beans, rinsed and drained
+- <span class="qty">113</span> g (<span class="qty">4</span> oz) baby spinach
+- <span class="qty">85</span> g (<span class="qty">3</span> oz) vegan shredded parmesan
 
 ## Instructions
 
@@ -61,18 +61,18 @@ Des pâtes d'inspiration toscane qui se préparént en a peine 15 minutes. Des r
 
 ## Ingrédients
 
-- 1 paquet de saucisses Beyond Meat Hot Italian (4 saucisses), tranchées
-- 227 g (8 oz) de linguine ou pâtes similaires
-- 15 ml (1 c. à soupe) d'huile d'olive
-- 15 ml (1 c. à soupe) de beurre végétal
-- 3 gousses d'ail, émincées
-- 1 tasse (150 g) de tomates cerises ou raisins
+- <span class="qty">1</span> paquet de saucisses Beyond Meat Hot Italian (<span class="qty">4</span> saucisses), tranchées
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) de linguine ou pâtes similaires
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile d'olive
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de beurre végétal
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">1</span> tasse (<span class="qty">150</span> g) de tomates cerises ou raisins
 - Poivre noir fraichement moulu
-- 1/2 c. à thé de sel
-- 1/2 c. à thé de basilic séché
-- 1 boîte (425 g / 15 oz) de haricots blancs cannellini, rincés et égouttés
-- 113 g (4 oz) d'epinards bebe
-- 85 g (3 oz) de parmesan végétalien râpé
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1/2</span> c. à thé de basilic séché
+- <span class="qty">1</span> boîte (<span class="qty">425</span> g / <span class="qty">15</span> oz) de haricots blancs cannellini, rincés et égouttés
+- <span class="qty">113</span> g (<span class="qty">4</span> oz) d'epinards bebe
+- <span class="qty">85</span> g (<span class="qty">3</span> oz) de parmesan végétalien râpé
 
 ## Instructions
 

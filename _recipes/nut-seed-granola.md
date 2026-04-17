@@ -25,17 +25,17 @@ A simple, generously nutty granola that bakes into golden, crunchy clusters. Pac
 
 ## Ingredients
 
-- 500 ml (2 cups) rolled oats
-- 125 ml (1/2 cup) walnuts, roughly chopped
-- 125 ml (1/2 cup) almonds, roughly chopped
-- 60 ml (1/4 cup) pumpkin seeds
-- 60 ml (1/4 cup) sunflower seeds
-- 60 ml (1/4 cup) pistachios, shelled
-- 80 ml (1/3 cup) maple syrup
-- 60 ml (1/4 cup) coconut oil, melted
-- 1 tsp vanilla extract
-- 1/2 tsp cinnamon
-- 1/4 tsp salt
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) rolled oats
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) walnuts, roughly chopped
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) almonds, roughly chopped
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) pumpkin seeds
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) sunflower seeds
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) pistachios, shelled
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) maple syrup
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) coconut oil, melted
+- <span class="qty">1</span> tsp vanilla extract
+- <span class="qty">1/2</span> tsp cinnamon
+- <span class="qty">1/4</span> tsp salt
 
 ## Instructions
 
@@ -60,17 +60,17 @@ Un granola simple et généreux en noix, qui cuit en belles grappes dorées et c
 
 ## Ingrédients
 
-- 500 ml (2 tasses) de flocons d'avoine
-- 125 ml (1/2 tasse) de noix de Grenoble, hachées grossièrement
-- 125 ml (1/2 tasse) d'amandes, hachées grossièrement
-- 60 ml (1/4 tasse) de graines de citrouille
-- 60 ml (1/4 tasse) de graines de tournesol
-- 60 ml (1/4 tasse) de pistaches, décortiquées
-- 80 ml (1/3 tasse) de sirop d'érable
-- 60 ml (1/4 tasse) d'huile de coco, fondue
-- 1 c. à thé d'extrait de vanille
-- 1/2 c. à thé de cannelle
-- 1/4 c. à thé de sel
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de flocons d'avoine
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de noix de Grenoble, hachées grossièrement
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'amandes, hachées grossièrement
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de graines de citrouille
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de graines de tournesol
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de pistaches, décortiquées
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de sirop d'érable
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile de coco, fondue
+- <span class="qty">1</span> c. à thé d'extrait de vanille
+- <span class="qty">1/2</span> c. à thé de cannelle
+- <span class="qty">1/4</span> c. à thé de sel
 
 ## Instructions
 

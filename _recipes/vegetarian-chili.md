@@ -26,22 +26,22 @@ A hearty, satisfying chili built on two kinds of beans, fire-roasted tomatoes, a
 
 ## Ingredients
 
-- 30 ml (2 tbsp) olive oil
-- 1 small yellow onion, chopped
-- 1 red bell pepper, seeded and diced
-- 2 garlic cloves, minced
-- 5 ml (1 tsp) chili powder (optional)
-- 5 ml (1 tsp) ground cumin (optional)
-- 1 can (398 ml / 14 oz) diced fire-roasted tomatoes
-- 1 can (398 ml / 14 oz) kidney beans, drained and rinsed
-- 1 can (398 ml / 14 oz) pinto beans, drained and rinsed
-- 240 ml (1 cup) water or vegetable broth
-- 3 chipotle peppers from a can of chipotles in adobo, diced
-- 45 ml (3 tbsp) adobo sauce
-- 240 ml (1 cup) corn kernels, fresh or frozen
-- 1/2 tsp sea salt, plus more to taste
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) olive oil
+- <span class="qty">1</span> small yellow onion, chopped
+- <span class="qty">1</span> red bell pepper, seeded and diced
+- <span class="qty">2</span> garlic cloves, minced
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) chili powder (optional)
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) ground cumin (optional)
+- <span class="qty">1</span> can (<span class="qty">398</span> ml / <span class="qty">14</span> oz) diced fire-roasted tomatoes
+- <span class="qty">1</span> can (<span class="qty">398</span> ml / <span class="qty">14</span> oz) kidney beans, drained and rinsed
+- <span class="qty">1</span> can (<span class="qty">398</span> ml / <span class="qty">14</span> oz) pinto beans, drained and rinsed
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) water or vegetable broth
+- <span class="qty">3</span> chipotle peppers from a can of chipotles in adobo, diced
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) adobo sauce
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) corn kernels, fresh or frozen
+- <span class="qty">1/2</span> tsp sea salt, plus more to taste
 - Freshly ground black pepper
-- 15 ml (1 tbsp) fresh lime juice, plus wedges for serving
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) fresh lime juice, plus wedges for serving
 
 **Toppings**
 
@@ -72,22 +72,22 @@ Un chili copieux et satisfaisant a base de deux types de haricots, de tomates gr
 
 ## Ingrédients
 
-- 30 ml (2 c. à soupe) d'huile d'olive
-- 1 petit oignon jaune, haché
-- 1 poivron rouge, épépiné et coupé en dés
-- 2 gousses d'ail, émincées
-- 5 ml (1 c. à thé) de poudre de chili (facultatif)
-- 5 ml (1 c. à thé) de cumin moulu (facultatif)
-- 1 boîte (398 ml / 14 oz) de tomates en dés grillées au feu
-- 1 boîte (398 ml / 14 oz) de haricots rouges, égouttés et rincés
-- 1 boîte (398 ml / 14 oz) de haricots pinto, égouttés et rincés
-- 240 ml (1 tasse) d'eau ou de bouillon de légumes
-- 3 chipotles d'une boîte de chipotles en adobo, coupés en dés
-- 45 ml (3 c. à soupe) de sauce adobo
-- 240 ml (1 tasse) de grains de maïs, frais ou surgeles
-- 1/2 c. à thé de sel de mer, plus au goût
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'huile d'olive
+- <span class="qty">1</span> petit oignon jaune, haché
+- <span class="qty">1</span> poivron rouge, épépiné et coupé en dés
+- <span class="qty">2</span> gousses d'ail, émincées
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de poudre de chili (facultatif)
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de cumin moulu (facultatif)
+- <span class="qty">1</span> boîte (<span class="qty">398</span> ml / <span class="qty">14</span> oz) de tomates en dés grillées au feu
+- <span class="qty">1</span> boîte (<span class="qty">398</span> ml / <span class="qty">14</span> oz) de haricots rouges, égouttés et rincés
+- <span class="qty">1</span> boîte (<span class="qty">398</span> ml / <span class="qty">14</span> oz) de haricots pinto, égouttés et rincés
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) d'eau ou de bouillon de légumes
+- <span class="qty">3</span> chipotles d'une boîte de chipotles en adobo, coupés en dés
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de sauce adobo
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de grains de maïs, frais ou surgeles
+- <span class="qty">1/2</span> c. à thé de sel de mer, plus au goût
 - Poivre noir fraichement moulu
-- 15 ml (1 c. à soupe) de jus de lime frais, plus des quartiers pour servir
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de lime frais, plus des quartiers pour servir
 
 **Garnitures**
 

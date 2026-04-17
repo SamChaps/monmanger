@@ -26,34 +26,34 @@ Thinly sliced Brussels sprouts get roasted until crispy, then tossed in a tangy 
 
 ### Brussels Sprouts
 
-- 900 g (2 lbs) Brussels sprouts, trimmed and sliced 5 mm (1/4 inch) thick
-- 60 ml (1/4 cup) olive oil
+- <span class="qty">900</span> g (<span class="qty">2</span> lbs) Brussels sprouts, trimmed and sliced 5 mm (1/4 inch) thick
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
 - Salt and freshly ground black pepper
 
 ### Caesar Dressing
 
-- 90 ml (6 tbsp) mayonnaise (or raw cashew butter for vegan)
-- 2 tbsp water
-- Juice of 1 lemon
-- 1/2 tsp Dijon mustard
-- 1 to 2 cloves garlic, minced
-- 1 tbsp capers, drained
-- 1 tsp Worcestershire sauce
-- 1/8 tsp salt
+- <span class="qty">90</span> ml (<span class="qty">6</span> tbsp) mayonnaise (or raw cashew butter for vegan)
+- <span class="qty">2</span> tbsp water
+- Juice of <span class="qty">1</span> lemon
+- <span class="qty">1/2</span> tsp Dijon mustard
+- <span class="qty">1</span> to <span class="qty">2</span> cloves garlic, minced
+- <span class="qty">1</span> tbsp capers, drained
+- <span class="qty">1</span> tsp Worcestershire sauce
+- <span class="qty">1/8</span> tsp salt
 - Freshly ground black pepper
-- 3 tbsp olive oil
+- <span class="qty">3</span> tbsp olive oil
 
 ### Toasted Breadcrumbs
 
-- 2 tbsp unsalted butter
-- 2 tbsp olive oil
-- 1 cup (60 g) panko breadcrumbs
-- 1/2 tsp garlic powder
+- <span class="qty">2</span> tbsp unsalted butter
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> cup (<span class="qty">60</span> g) panko breadcrumbs
+- <span class="qty">1/2</span> tsp garlic powder
 - Salt to taste
 
 ### Topping
 
-- 115 g (4 oz) Parmesan, shaved or grated
+- <span class="qty">115</span> g (<span class="qty">4</span> oz) Parmesan, shaved or grated
 
 ## Instructions
 
@@ -79,34 +79,34 @@ Des choux de Bruxelles finement tranchés et rôtis jusqu'à ce qu'ils soient cr
 
 ### Choux de Bruxelles
 
-- 900 g (2 lb) de choux de Bruxelles, parés et tranchés à 5 mm (1/4 po) d'épaisseur
-- 60 ml (1/4 tasse) d'huile d'olive
+- <span class="qty">900</span> g (<span class="qty">2</span> lb) de choux de Bruxelles, parés et tranchés à 5 mm (1/4 po) d'épaisseur
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
 - Sel et poivre noir fraîchement moulu
 
 ### Vinaigrette César
 
-- 90 ml (6 c. à soupe) de mayonnaise (ou beurre de cajou pour version végétalienne)
-- 2 c. à soupe d'eau
+- <span class="qty">90</span> ml (<span class="qty">6</span> c. à soupe) de mayonnaise (ou beurre de cajou pour version végétalienne)
+- <span class="qty">2</span> c. à soupe d'eau
 - Jus d'un citron
-- 1/2 c. à thé de moutarde de Dijon
-- 1 à 2 gousses d'ail, émincées
-- 1 c. à soupe de câpres, égouttées
-- 1 c. à thé de sauce Worcestershire
-- 1/8 c. à thé de sel
+- <span class="qty">1/2</span> c. à thé de moutarde de Dijon
+- <span class="qty">1</span> à <span class="qty">2</span> gousses d'ail, émincées
+- <span class="qty">1</span> c. à soupe de câpres, égouttées
+- <span class="qty">1</span> c. à thé de sauce Worcestershire
+- <span class="qty">1/8</span> c. à thé de sel
 - Poivre noir fraîchement moulu
-- 3 c. à soupe d'huile d'olive
+- <span class="qty">3</span> c. à soupe d'huile d'olive
 
 ### Chapelure grillée
 
-- 2 c. à soupe de beurre non salé
-- 2 c. à soupe d'huile d'olive
-- 1 tasse (60 g) de chapelure panko
-- 1/2 c. à thé de poudre d'ail
+- <span class="qty">2</span> c. à soupe de beurre non salé
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> tasse (<span class="qty">60</span> g) de chapelure panko
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
 - Sel au goût
 
 ### Garniture
 
-- 115 g (4 oz) de parmesan, en copeaux ou râpé
+- <span class="qty">115</span> g (<span class="qty">4</span> oz) de parmesan, en copeaux ou râpé
 
 ## Instructions
 

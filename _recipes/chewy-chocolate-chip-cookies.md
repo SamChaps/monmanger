@@ -25,15 +25,15 @@ These thick, chewy chocolate chip cookies owe their irresistible texture to melt
 
 ## Ingredients
 
-- 225 g (1 1/2 cups) unbleached all-purpose flour
-- 1/2 tsp baking soda
-- 1 pinch of salt
-- 170 g (3/4 cup) unsalted butter, melted
-- 210 g (1 cup) brown sugar
-- 2 tbsp granulated sugar
-- 1 egg
-- 1 egg yolk
-- 195 g (7 oz) milk or semisweet chocolate, coarsely chopped
+- <span class="qty">225</span> g (<span class="qty">1 1/2</span> cups) unbleached all-purpose flour
+- <span class="qty">1/2</span> tsp baking soda
+- <span class="qty">1</span> pinch of salt
+- <span class="qty">170</span> g (<span class="qty">3/4</span> cup) unsalted butter, melted
+- <span class="qty">210</span> g (<span class="qty">1</span> cup) brown sugar
+- <span class="qty">2</span> tbsp granulated sugar
+- <span class="qty">1</span> egg
+- <span class="qty">1</span> egg yolk
+- <span class="qty">195</span> g (<span class="qty">7</span> oz) milk or semisweet chocolate, coarsely chopped
 
 ## Instructions
 
@@ -61,15 +61,15 @@ Ces biscuits aux pépites de chocolat épais et moelleux doivent leur texture ir
 
 ## Ingrédients
 
-- 225 g (1 1/2 tasse) de farine tout usage non blanchie
-- 1/2 c. à thé de bicarbonate de soude
-- 1 pincée de sel
-- 170 g (3/4 tasse) de beurre non salé, fondu
-- 210 g (1 tasse) de cassonade
-- 2 c. à soupe de sucre blanc
-- 1 œuf
-- 1 jaune d'œuf
-- 195 g (7 oz) de chocolat au lait ou mi-sucré, haché grossièrement
+- <span class="qty">225</span> g (<span class="qty">1 1/2</span> tasse) de farine tout usage non blanchie
+- <span class="qty">1/2</span> c. à thé de bicarbonate de soude
+- <span class="qty">1</span> pincée de sel
+- <span class="qty">170</span> g (<span class="qty">3/4</span> tasse) de beurre non salé, fondu
+- <span class="qty">210</span> g (<span class="qty">1</span> tasse) de cassonade
+- <span class="qty">2</span> c. à soupe de sucre blanc
+- <span class="qty">1</span> œuf
+- <span class="qty">1</span> jaune d'œuf
+- <span class="qty">195</span> g (<span class="qty">7</span> oz) de chocolat au lait ou mi-sucré, haché grossièrement
 
 ## Instructions
 

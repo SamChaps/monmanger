@@ -27,20 +27,20 @@ A one-pan dinner where frozen dumplings bake right in a fragrant coconut red cur
 
 ### Red Curry Broth
 
-- 1 can (400 ml / 13.5 fl oz) coconut milk
-- 2 to 3 tbsp red curry paste
-- 2 tbsp soy sauce (low sodium)
-- 1 tbsp rice vinegar
-- 1 tbsp honey or sugar
-- 1 tsp sesame oil
-- 1 large clove garlic, grated
-- 1 small cube of ginger, grated
+- <span class="qty">1</span> can (<span class="qty">400</span> ml / <span class="qty">13.5</span> fl oz) coconut milk
+- <span class="qty">2</span> to <span class="qty">3</span> tbsp red curry paste
+- <span class="qty">2</span> tbsp soy sauce (low sodium)
+- <span class="qty">1</span> tbsp rice vinegar
+- <span class="qty">1</span> tbsp honey or sugar
+- <span class="qty">1</span> tsp sesame oil
+- <span class="qty">1</span> large clove garlic, grated
+- <span class="qty">1</span> small cube of ginger, grated
 
 ### Bake
 
-- 16 to 20 frozen dumplings (veggie or your choice)
-- 2 bok choy bulbs, chopped
-- 1 zucchini, sliced
+- <span class="qty">16</span> to <span class="qty">20</span> frozen dumplings (veggie or your choice)
+- <span class="qty">2</span> bok choy bulbs, chopped
+- <span class="qty">1</span> zucchini, sliced
 - Sesame seeds, green onions, cilantro, and chili crisp for garnish
 - Cooked rice or noodles, for serving
 
@@ -69,20 +69,20 @@ Un souper sur une seule plaque où des dumplings surgelés cuisent directement d
 
 ### Bouillon au cari rouge
 
-- 1 conserve (400 ml / 13,5 oz liq.) de lait de coco
-- 2 à 3 c. à soupe de pâte de cari rouge
-- 2 c. à soupe de sauce soya (réduite en sodium)
-- 1 c. à soupe de vinaigre de riz
-- 1 c. à soupe de miel ou de sucre
-- 1 c. à thé d'huile de sésame
-- 1 grosse gousse d'ail, râpée
-- 1 petit morceau de gingembre, râpé
+- <span class="qty">1</span> conserve (<span class="qty">400</span> ml / <span class="qty">13</span>,<span class="qty">5</span> oz liq.) de lait de coco
+- <span class="qty">2</span> à <span class="qty">3</span> c. à soupe de pâte de cari rouge
+- <span class="qty">2</span> c. à soupe de sauce soya (réduite en sodium)
+- <span class="qty">1</span> c. à soupe de vinaigre de riz
+- <span class="qty">1</span> c. à soupe de miel ou de sucre
+- <span class="qty">1</span> c. à thé d'huile de sésame
+- <span class="qty">1</span> grosse gousse d'ail, râpée
+- <span class="qty">1</span> petit morceau de gingembre, râpé
 
 ### Plat
 
-- 16 à 20 dumplings surgelés (aux légumes ou au choix)
-- 2 bok choys, hachés
-- 1 courgette, tranchée
+- <span class="qty">16</span> à <span class="qty">20</span> dumplings surgelés (aux légumes ou au choix)
+- <span class="qty">2</span> bok choys, hachés
+- <span class="qty">1</span> courgette, tranchée
 - Graines de sésame, oignons verts, coriandre et huile de chili pour garnir
 - Riz cuit ou nouilles, pour servir
 

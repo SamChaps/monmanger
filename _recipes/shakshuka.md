@@ -24,18 +24,18 @@ A classic North African and Middle Eastern dish of eggs gently poached in a simm
 
 ## Ingredients
 
-- 2 tbsp olive oil
-- 1 medium onion, diced
-- 1 red bell pepper, seeded and diced
-- 4 cloves garlic, finely chopped
-- 2 tsp paprika
-- 1 tsp cumin
-- 1/4 tsp chili powder
-- 1 can (796 ml / 28 oz) whole peeled tomatoes
-- 6 large eggs
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> medium onion, diced
+- <span class="qty">1</span> red bell pepper, seeded and diced
+- <span class="qty">4</span> cloves garlic, finely chopped
+- <span class="qty">2</span> tsp paprika
+- <span class="qty">1</span> tsp cumin
+- <span class="qty">1/4</span> tsp chili powder
+- <span class="qty">1</span> can (<span class="qty">796</span> ml / <span class="qty">28</span> oz) whole peeled tomatoes
+- <span class="qty">6</span> large eggs
 - Salt and pepper, to taste
-- 1 small bunch fresh cilantro, chopped
-- 1 small bunch fresh parsley, chopped
+- <span class="qty">1</span> small bunch fresh cilantro, chopped
+- <span class="qty">1</span> small bunch fresh parsley, chopped
 
 ## Instructions
 
@@ -59,18 +59,18 @@ Un classique nord-africain et moyen-oriental d'œufs délicatement poches dans u
 
 ## Ingrédients
 
-- 2 c. à soupe d'huile d'olive
-- 1 oignon moyen, coupé en dés
-- 1 poivron rouge, épépiné et coupé en dés
-- 4 gousses d'ail, finement hachées
-- 2 c. à thé de paprika
-- 1 c. à thé de cumin
-- 1/4 c. à thé de poudre de chili
-- 1 boîte (796 ml / 28 oz) de tomates entieres pelées
-- 6 gros œufs
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> oignon moyen, coupé en dés
+- <span class="qty">1</span> poivron rouge, épépiné et coupé en dés
+- <span class="qty">4</span> gousses d'ail, finement hachées
+- <span class="qty">2</span> c. à thé de paprika
+- <span class="qty">1</span> c. à thé de cumin
+- <span class="qty">1/4</span> c. à thé de poudre de chili
+- <span class="qty">1</span> boîte (<span class="qty">796</span> ml / <span class="qty">28</span> oz) de tomates entieres pelées
+- <span class="qty">6</span> gros œufs
 - Sel et poivre, au goût
-- 1 petit bouquet de coriandre fraîche, hachée
-- 1 petit bouquet de persil frais, haché
+- <span class="qty">1</span> petit bouquet de coriandre fraîche, hachée
+- <span class="qty">1</span> petit bouquet de persil frais, haché
 
 ## Instructions
 

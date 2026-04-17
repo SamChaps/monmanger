@@ -23,13 +23,13 @@ These pancakes are proof that you need very little to make something great. A si
 
 ## Ingredients
 
-- 125 g (1 cup) all-purpose flour
-- 30 ml (2 tbsp) sugar
-- 15 ml (1 tbsp) baking powder
-- 1/4 tsp salt
-- 240 ml (1 cup) non-dairy milk
-- 15 ml (1 tbsp) apple cider vinegar
-- 5 ml (1 tsp) vanilla extract
+- <span class="qty">125</span> g (<span class="qty">1</span> cup) all-purpose flour
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) sugar
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) baking powder
+- <span class="qty">1/4</span> tsp salt
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) non-dairy milk
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) apple cider vinegar
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) vanilla extract
 - Maple syrup, for serving
 
 ## Instructions
@@ -54,13 +54,13 @@ Ces crêpes sont la preuve qu'il faut très peu pour faire quelque chose de dél
 
 ## Ingrédients
 
-- 125 g (1 tasse) de farine tout usage
-- 30 ml (2 c. à soupe) de sucre
-- 15 ml (1 c. à soupe) de poudre à pâte
-- 1/4 c. à thé de sel
-- 240 ml (1 tasse) de lait végétal
-- 15 ml (1 c. à soupe) de vinaigre de cidre
-- 5 ml (1 c. à thé) d'extrait de vanille
+- <span class="qty">125</span> g (<span class="qty">1</span> tasse) de farine tout usage
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de sucre
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de poudre à pâte
+- <span class="qty">1/4</span> c. à thé de sel
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de lait végétal
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de vinaigre de cidre
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'extrait de vanille
 - Sirop d'érable, pour servir
 
 ## Instructions

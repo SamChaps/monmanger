@@ -26,22 +26,22 @@ Flour tortillas stuffed with a quick seasoned black bean mash, folded in half, a
 
 ### Tacos
 
-- 1 can (400 ml / 14 oz) black beans, rinsed and drained
-- 60 ml (1/4 cup) salsa
-- 1 tbsp taco seasoning
-- 6 to 8 small flour tortillas
-- 60 to 120 ml (1/4 to 1/2 cup) olive oil or butter, for frying
+- <span class="qty">1</span> can (<span class="qty">400</span> ml / <span class="qty">14</span> oz) black beans, rinsed and drained
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) salsa
+- <span class="qty">1</span> tbsp taco seasoning
+- <span class="qty">6</span> to <span class="qty">8</span> small flour tortillas
+- <span class="qty">60</span> to <span class="qty">120</span> ml (<span class="qty">1/4</span> to <span class="qty">1/2</span> cup) olive oil or butter, for frying
 
 ### Cilantro Lime Sauce
 
-- 60 ml (1/4 cup) avocado oil
-- 60 ml (1/4 cup) water
-- 1/2 cup (50 g) chopped green onions
-- 1/2 cup (20 g) cilantro leaves
-- 2 cloves garlic
-- 1/2 tsp salt
-- Juice of 2 limes
-- 1/2 cup (115 g) sour cream (or avocado for vegan)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) avocado oil
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) water
+- <span class="qty">1/2</span> cup (<span class="qty">50</span> g) chopped green onions
+- <span class="qty">1/2</span> cup (<span class="qty">20</span> g) cilantro leaves
+- <span class="qty">2</span> cloves garlic
+- <span class="qty">1/2</span> tsp salt
+- Juice of <span class="qty">2</span> limes
+- <span class="qty">1/2</span> cup (<span class="qty">115</span> g) sour cream (or avocado for vegan)
 
 ## Instructions
 
@@ -66,22 +66,22 @@ Des tortillas de farine garnies d'une purée de haricots noirs assaisonnée, pli
 
 ### Tacos
 
-- 1 conserve (400 ml / 14 oz) de haricots noirs, égouttés et rincés
-- 60 ml (1/4 tasse) de salsa
-- 1 c. à soupe d'assaisonnement à tacos
-- 6 à 8 petites tortillas de farine
-- 60 à 120 ml (1/4 à 1/2 tasse) d'huile d'olive ou de beurre, pour la friture
+- <span class="qty">1</span> conserve (<span class="qty">400</span> ml / <span class="qty">14</span> oz) de haricots noirs, égouttés et rincés
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de salsa
+- <span class="qty">1</span> c. à soupe d'assaisonnement à tacos
+- <span class="qty">6</span> à <span class="qty">8</span> petites tortillas de farine
+- <span class="qty">60</span> à <span class="qty">120</span> ml (<span class="qty">1/4</span> à <span class="qty">1/2</span> tasse) d'huile d'olive ou de beurre, pour la friture
 
 ### Sauce coriandre-lime
 
-- 60 ml (1/4 tasse) d'huile d'avocat
-- 60 ml (1/4 tasse) d'eau
-- 1/2 tasse (50 g) d'oignons verts hachés
-- 1/2 tasse (20 g) de feuilles de coriandre
-- 2 gousses d'ail
-- 1/2 c. à thé de sel
-- Jus de 2 limes
-- 1/2 tasse (115 g) de crème sure (ou avocat pour version végétalienne)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'avocat
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'eau
+- <span class="qty">1/2</span> tasse (<span class="qty">50</span> g) d'oignons verts hachés
+- <span class="qty">1/2</span> tasse (<span class="qty">20</span> g) de feuilles de coriandre
+- <span class="qty">2</span> gousses d'ail
+- <span class="qty">1/2</span> c. à thé de sel
+- Jus de <span class="qty">2</span> limes
+- <span class="qty">1/2</span> tasse (<span class="qty">115</span> g) de crème sure (ou avocat pour version végétalienne)
 
 ## Instructions
 

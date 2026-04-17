@@ -27,25 +27,25 @@ A layered plant-based lasagna with all the comfort of the classic. Tender noodle
 
 **Tempeh Marinara**
 
-- 15 ml (1 tbsp) olive oil
-- 227 g (8 oz) tempeh, finely chopped
-- 30 ml (2 tbsp) coconut aminos (or tamari, slightly reduced)
-- 1/2 tsp fennel seed (optional)
-- 1/4 tsp red pepper flakes (optional)
-- 2 jars (700 ml / 25 oz each) marinara sauce
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) olive oil
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) tempeh, finely chopped
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) coconut aminos (or tamari, slightly reduced)
+- <span class="qty">1/2</span> tsp fennel seed (optional)
+- <span class="qty">1/4</span> tsp red pepper flakes (optional)
+- <span class="qty">2</span> jars (<span class="qty">700</span> ml / <span class="qty">25</span> oz each) marinara sauce
 
 **Macadamia Ricotta**
 
-- 310 ml (2 1/2 cups) raw macadamia nuts (or cashews, soaked 1 hour, drained)
-- 45 ml (3 tbsp) lemon juice
-- 60 ml (4 tbsp) nutritional yeast
-- 3/4 tsp garlic powder
-- 1/3 tsp sea salt
-- 80-180 ml (1/3 to 3/4 cup) water
+- <span class="qty">310</span> ml (<span class="qty">2 1/2</span> cups) raw macadamia nuts (or cashews, soaked 1 hour, drained)
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) lemon juice
+- <span class="qty">60</span> ml (<span class="qty">4</span> tbsp) nutritional yeast
+- <span class="qty">3/4</span> tsp garlic powder
+- <span class="qty">1/3</span> tsp sea salt
+- <span class="qty">80</span>-<span class="qty">180</span> ml (<span class="qty">1/3</span> to <span class="qty">3/4</span> cup) water
 
 **Assembly**
 
-- 280 g (10 oz) lasagna noodles
+- <span class="qty">280</span> g (<span class="qty">10</span> oz) lasagna noodles
 - Vegan parmesan and fresh basil or parsley, for serving (optional)
 
 ## Instructions
@@ -73,25 +73,25 @@ Une lasagne végétale en couches avec tout le reconfort du classique. Des pâte
 
 **Marinara au tempeh**
 
-- 15 ml (1 c. à soupe) d'huile d'olive
-- 227 g (8 oz) de tempeh, haché finement
-- 30 ml (2 c. à soupe) d'acides amines de coco (ou tamari, en quantite réduite)
-- 1/2 c. à thé de graines de fenouil (facultatif)
-- 1/4 c. à thé de flocons de piment fort (facultatif)
-- 2 pots (700 ml / 25 oz chacun) de sauce marinara
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile d'olive
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) de tempeh, haché finement
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'acides amines de coco (ou tamari, en quantite réduite)
+- <span class="qty">1/2</span> c. à thé de graines de fenouil (facultatif)
+- <span class="qty">1/4</span> c. à thé de flocons de piment fort (facultatif)
+- <span class="qty">2</span> pots (<span class="qty">700</span> ml / <span class="qty">25</span> oz chacun) de sauce marinara
 
 **Ricotta de macadamia**
 
-- 310 ml (2 1/2 tasses) de noix de macadamia crues (ou noix de cajou, trempées 1 heure, égouttées)
-- 45 ml (3 c. à soupe) de jus de citron
-- 60 ml (4 c. à soupe) de levure alimentaire
-- 3/4 c. à thé de poudre d'ail
-- 1/3 c. à thé de sel de mer
-- 80-180 ml (1/3 à 3/4 tasse) d'eau
+- <span class="qty">310</span> ml (<span class="qty">2 1/2</span> tasses) de noix de macadamia crues (ou noix de cajou, trempées <span class="qty">1</span> heure, égouttées)
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de jus de citron
+- <span class="qty">60</span> ml (<span class="qty">4</span> c. à soupe) de levure alimentaire
+- <span class="qty">3/4</span> c. à thé de poudre d'ail
+- <span class="qty">1/3</span> c. à thé de sel de mer
+- <span class="qty">80</span>-<span class="qty">180</span> ml (<span class="qty">1/3</span> à <span class="qty">3/4</span> tasse) d'eau
 
 **Assemblage**
 
-- 280 g (10 oz) de pâtes a lasagne
+- <span class="qty">280</span> g (<span class="qty">10</span> oz) de pâtes a lasagne
 - Parmesan végétalien et basilic ou persil frais, pour servir (facultatif)
 
 ## Instructions

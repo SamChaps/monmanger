@@ -24,13 +24,13 @@ These air fryer chickpeas come out perfectly golden and crunchy on the outside w
 
 ## Ingredients
 
-- 1 can (540 ml / 19 oz) chickpeas, drained and rinsed
-- 1 tbsp olive oil
-- 1/2 tsp salt
-- 1/4 tsp garlic powder
-- 1/4 tsp onion powder
-- 1/4 tsp paprika
-- 1/4 tsp cayenne pepper (optional)
+- <span class="qty">1</span> can (<span class="qty">540</span> ml / <span class="qty">19</span> oz) chickpeas, drained and rinsed
+- <span class="qty">1</span> tbsp olive oil
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1/4</span> tsp garlic powder
+- <span class="qty">1/4</span> tsp onion powder
+- <span class="qty">1/4</span> tsp paprika
+- <span class="qty">1/4</span> tsp cayenne pepper (optional)
 
 ## Instructions
 
@@ -53,13 +53,13 @@ Ces pois chiches à la friteuse à air ressortent dorés et croustillants à l'e
 
 ## Ingrédients
 
-- 1 conserve (540 ml / 19 oz) de pois chiches, égouttés et rincés
-- 1 c. à soupe d'huile d'olive
-- 1/2 c. à thé de sel
-- 1/4 c. à thé de poudre d'ail
-- 1/4 c. à thé de poudre d'oignon
-- 1/4 c. à thé de paprika
-- 1/4 c. à thé de cayenne (optionnel)
+- <span class="qty">1</span> conserve (<span class="qty">540</span> ml / <span class="qty">19</span> oz) de pois chiches, égouttés et rincés
+- <span class="qty">1</span> c. à soupe d'huile d'olive
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1/4</span> c. à thé de poudre d'ail
+- <span class="qty">1/4</span> c. à thé de poudre d'oignon
+- <span class="qty">1/4</span> c. à thé de paprika
+- <span class="qty">1/4</span> c. à thé de cayenne (optionnel)
 
 ## Instructions
 

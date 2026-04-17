@@ -26,24 +26,24 @@ A deeply satisfying one-pot dish of brown rice and lentils simmered with cumin a
 
 ### Rice & Lentils
 
-- 4 medium cloves garlic, smashed and peeled
-- 2 bay leaves
-- 1 tbsp ground cumin
-- 1 3/4 tsp fine sea salt, divided
+- <span class="qty">4</span> medium cloves garlic, smashed and peeled
+- <span class="qty">2</span> bay leaves
+- <span class="qty">1</span> tbsp ground cumin
+- <span class="qty">1 3/4</span> tsp fine sea salt, divided
 - Freshly ground black pepper
-- 1.25 L (5 cups) water
-- 250 ml (1 cup) brown basmati rice, rinsed and drained
-- 250 ml (1 cup) brown or green lentils, rinsed and drained
+- <span class="qty">1.25</span> L (<span class="qty">5</span> cups) water
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) brown basmati rice, rinsed and drained
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) brown or green lentils, rinsed and drained
 
 ### Caramelized Onions
 
-- 80 ml (1/3 cup) extra-virgin olive oil
-- 2 medium-to-large yellow onions, halved and thinly sliced
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) extra-virgin olive oil
+- <span class="qty">2</span> medium-to-large yellow onions, halved and thinly sliced
 
 ### For Serving
 
-- 125 ml (1/2 cup) green onions, thinly sliced
-- 125 ml (1/2 cup) fresh cilantro or parsley, chopped
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) green onions, thinly sliced
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) fresh cilantro or parsley, chopped
 - Plain yogurt (or hummus for a vegan version)
 - Spicy sauce (optional)
 
@@ -73,24 +73,24 @@ Un plat mijoté profondément satisfaisant de riz brun et lentilles cuits avec c
 
 ### Riz et lentilles
 
-- 4 gousses d'ail moyennes, écrasées et pelées
-- 2 feuilles de laurier
-- 1 c. à soupe de cumin moulu
-- 1 3/4 c. à thé de sel de mer fin, divisé
+- <span class="qty">4</span> gousses d'ail moyennes, écrasées et pelées
+- <span class="qty">2</span> feuilles de laurier
+- <span class="qty">1</span> c. à soupe de cumin moulu
+- <span class="qty">1 3/4</span> c. à thé de sel de mer fin, divisé
 - Poivre noir fraîchement moulu
-- 1,25 L (5 tasses) d'eau
-- 250 ml (1 tasse) de riz brun basmati, rincé et égoutté
-- 250 ml (1 tasse) de lentilles brunes ou vertes, rincées et égouttées
+- <span class="qty">1</span>,<span class="qty">25</span> L (<span class="qty">5</span> tasses) d'eau
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de riz brun basmati, rincé et égoutté
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de lentilles brunes ou vertes, rincées et égouttées
 
 ### Oignons caramélisés
 
-- 80 ml (1/3 tasse) d'huile d'olive extra vierge
-- 2 oignons jaunes moyens à gros, coupés en deux et tranchés finement
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) d'huile d'olive extra vierge
+- <span class="qty">2</span> oignons jaunes moyens à gros, coupés en deux et tranchés finement
 
 ### Pour servir
 
-- 125 ml (1/2 tasse) d'oignons verts, tranchés finement
-- 125 ml (1/2 tasse) de coriandre ou persil frais, haché
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'oignons verts, tranchés finement
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de coriandre ou persil frais, haché
 - Yogourt nature (ou houmous pour une version végane)
 - Sauce piquante (optionnel)
 

@@ -24,12 +24,12 @@ Golden, chewy cheese bread balls with a crispy crust and gooey, stretchy interio
 
 ## Ingredients
 
-- 1 kg (about 8 cups) sour tapioca flour (polvilho azedo), or half sour and half sweet
-- 500 g (1 lb) parmesan and aged cheddar, finely grated (minimum total)
-- 500 ml (2 cups) whole milk
-- 250 ml (1 cup) vegetable oil
-- 6 eggs
-- 1 tbsp salt
+- <span class="qty">1</span> kg (about <span class="qty">8</span> cups) sour tapioca flour (polvilho azedo), or half sour and half sweet
+- <span class="qty">500</span> g (<span class="qty">1</span> lb) parmesan and aged cheddar, finely grated (minimum total)
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) whole milk
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) vegetable oil
+- <span class="qty">6</span> eggs
+- <span class="qty">1</span> tbsp salt
 
 ## Instructions
 
@@ -54,12 +54,12 @@ Des boulettes de pain au fromage dorées et moelleuses avec une croûte croustil
 
 ## Ingrédients
 
-- 1 kg (environ 8 tasses) de farine de tapioca aigre (polvilho azedo), ou moitié aigre et moitié douce
-- 500 g (1 lb) de parmesan et cheddar fort, râpés finement (minimum au total)
-- 500 ml (2 tasses) de lait entier
-- 250 ml (1 tasse) d'huile végétale
-- 6 œufs
-- 1 c. à soupe de sel
+- <span class="qty">1</span> kg (environ <span class="qty">8</span> tasses) de farine de tapioca aigre (polvilho azedo), ou moitié aigre et moitié douce
+- <span class="qty">500</span> g (<span class="qty">1</span> lb) de parmesan et cheddar fort, râpés finement (minimum au total)
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de lait entier
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) d'huile végétale
+- <span class="qty">6</span> œufs
+- <span class="qty">1</span> c. à soupe de sel
 
 ## Instructions
 

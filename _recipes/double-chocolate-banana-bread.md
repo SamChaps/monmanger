@@ -25,18 +25,18 @@ A deeply chocolatey banana bread with cocoa in the batter and a generous handful
 
 ## Ingredients
 
-- 250 ml (1 cup) all-purpose flour
-- 5 ml (1 tsp) baking powder
-- 2.5 ml (1/2 tsp) baking soda
-- 125 ml (1/2 cup) unsalted butter, softened
-- 180 ml (3/4 cup) brown sugar
-- 45 ml (3 tbsp) cocoa powder
-- 5 ml (1 tsp) vanilla extract
-- 2 eggs
-- 250 ml (1 cup) ripe bananas, mashed (about 2 bananas)
-- 60 ml (1/4 cup) milk
-- 180 ml (3/4 cup) chocolate chips
-- 60 ml (1/4 cup) roasted salted peanuts, roughly crushed
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) all-purpose flour
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) baking powder
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) baking soda
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) unsalted butter, softened
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> cup) brown sugar
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) cocoa powder
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) vanilla extract
+- <span class="qty">2</span> eggs
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) ripe bananas, mashed (about <span class="qty">2</span> bananas)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) milk
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> cup) chocolate chips
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) roasted salted peanuts, roughly crushed
 
 ## Instructions
 
@@ -61,18 +61,18 @@ Un pain aux bananes profondément chocolaté avec du cacao dans la pâte et une 
 
 ## Ingrédients
 
-- 250 ml (1 tasse) de farine tout usage
-- 5 ml (1 c. à thé) de poudre à pâte
-- 2,5 ml (1/2 c. à thé) de bicarbonate de soude
-- 125 ml (1/2 tasse) de beurre non salé, ramolli
-- 180 ml (3/4 tasse) de cassonade
-- 45 ml (3 c. à soupe) de cacao
-- 5 ml (1 c. à thé) d'extrait de vanille
-- 2 œufs
-- 250 ml (1 tasse) de bananes mûres, écrasées à la fourchette (environ 2 bananes)
-- 60 ml (1/4 tasse) de lait
-- 180 ml (3/4 tasse) de pépites de chocolat
-- 60 ml (1/4 tasse) d'arachides grillées et salées, concassées grossièrement
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de farine tout usage
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de poudre à pâte
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de bicarbonate de soude
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de beurre non salé, ramolli
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> tasse) de cassonade
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de cacao
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'extrait de vanille
+- <span class="qty">2</span> œufs
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de bananes mûres, écrasées à la fourchette (environ <span class="qty">2</span> bananes)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de lait
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> tasse) de pépites de chocolat
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'arachides grillées et salées, concassées grossièrement
 
 ## Instructions
 

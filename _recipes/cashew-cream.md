@@ -26,18 +26,18 @@ A silky, tangy cashew cream that stands in beautifully for sour cream or heavy c
 
 ### Cashew Cream
 
-- 1 cup (140 g) raw cashews
-- 1/2 cup (120 ml) water
-- 2 tbsp extra-virgin olive oil
-- 2 tbsp lemon juice
-- 1 clove garlic, peeled
-- 1/2 tsp sea salt
+- <span class="qty">1</span> cup (<span class="qty">140</span> g) raw cashews
+- <span class="qty">1/2</span> cup (<span class="qty">120</span> ml) water
+- <span class="qty">2</span> tbsp extra-virgin olive oil
+- <span class="qty">2</span> tbsp lemon juice
+- <span class="qty">1</span> clove garlic, peeled
+- <span class="qty">1/2</span> tsp sea salt
 
 ### Cashew Sour Cream Variation
 
-- Replace 1 tbsp lemon juice with 1 tbsp white wine vinegar
-- Add 1/2 tsp Dijon mustard
-- Add 1/4 tsp onion powder
+- Replace <span class="qty">1</span> tbsp lemon juice with <span class="qty">1</span> tbsp white wine vinegar
+- Add <span class="qty">1/2</span> tsp Dijon mustard
+- Add <span class="qty">1/4</span> tsp onion powder
 
 ## Instructions
 
@@ -60,18 +60,18 @@ Une crème de cajou soyeuse et légèrement acidulée qui remplace magnifiquemen
 
 ### Crème de cajou
 
-- 1 tasse (140 g) de cajous crus
-- 1/2 tasse (120 ml) d'eau
-- 2 c. à soupe d'huile d'olive extra-vierge
-- 2 c. à soupe de jus de citron
-- 1 gousse d'ail, pelée
-- 1/2 c. à thé de sel de mer
+- <span class="qty">1</span> tasse (<span class="qty">140</span> g) de cajous crus
+- <span class="qty">1/2</span> tasse (<span class="qty">120</span> ml) d'eau
+- <span class="qty">2</span> c. à soupe d'huile d'olive extra-vierge
+- <span class="qty">2</span> c. à soupe de jus de citron
+- <span class="qty">1</span> gousse d'ail, pelée
+- <span class="qty">1/2</span> c. à thé de sel de mer
 
 ### Variante crème sure
 
-- Remplacer 1 c. à soupe de jus de citron par 1 c. à soupe de vinaigre de vin blanc
-- Ajouter 1/2 c. à thé de moutarde de Dijon
-- Ajouter 1/4 c. à thé de poudre d'oignon
+- Remplacer <span class="qty">1</span> c. à soupe de jus de citron par <span class="qty">1</span> c. à soupe de vinaigre de vin blanc
+- Ajouter <span class="qty">1/2</span> c. à thé de moutarde de Dijon
+- Ajouter <span class="qty">1/4</span> c. à thé de poudre d'oignon
 
 ## Instructions
 

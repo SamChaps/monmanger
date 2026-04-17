@@ -25,28 +25,28 @@ Portobello caps filled with savory lentils glazed in tahini, soy sauce, and bals
 
 ### Mushrooms
 
-- 1 tbsp vegetable oil
-- 2 whole portobello mushrooms
+- <span class="qty">1</span> tbsp vegetable oil
+- <span class="qty">2</span> whole portobello mushrooms
 
 ### Lentil Filling
 
-- 1 tbsp vegetable oil
-- 1 clove garlic, minced
-- 125 ml (1/2 cup) canned green lentils, rinsed and drained
-- 1 tbsp tahini (sesame butter)
-- 2 tsp soy sauce
-- 2 tsp balsamic vinegar
-- 1/4 tsp allspice
+- <span class="qty">1</span> tbsp vegetable oil
+- <span class="qty">1</span> clove garlic, minced
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) canned green lentils, rinsed and drained
+- <span class="qty">1</span> tbsp tahini (sesame butter)
+- <span class="qty">2</span> tsp soy sauce
+- <span class="qty">2</span> tsp balsamic vinegar
+- <span class="qty">1/4</span> tsp allspice
 - Salt and pepper, to taste
 
 ### Crunchy Gremolata
 
-- 1 slice of bread, cut into 1 cm cubes
-- Zest of 1/2 lemon
-- 1 tbsp fresh parsley, chopped
-- 1 tbsp fresh chives, chopped
-- 1/2 clove garlic, minced
-- 2 tbsp olive oil
+- <span class="qty">1</span> slice of bread, cut into 1 cm cubes
+- Zest of <span class="qty">1/2</span> lemon
+- <span class="qty">1</span> tbsp fresh parsley, chopped
+- <span class="qty">1</span> tbsp fresh chives, chopped
+- <span class="qty">1/2</span> clove garlic, minced
+- <span class="qty">2</span> tbsp olive oil
 
 ## Instructions
 
@@ -71,28 +71,28 @@ Des chapeaux de portobellos garnis de lentilles savoureuses glacees au tahini, s
 
 ### Champignons
 
-- 1 c. à soupe d'huile végétale
-- 2 champignons portobellos entiers
+- <span class="qty">1</span> c. à soupe d'huile végétale
+- <span class="qty">2</span> champignons portobellos entiers
 
 ### Garniture de lentilles
 
-- 1 c. à soupe d'huile végétale
-- 1 gousse d'ail, hachée
-- 125 ml (1/2 tasse) de lentilles vertes en conserve, rincées et égouttées
-- 1 c. à soupe de beurre de sésame (tahini)
-- 2 c. à thé de sauce soya
-- 2 c. à thé de vinaigre balsamique
-- 1/4 c. à thé de quatre-épices
+- <span class="qty">1</span> c. à soupe d'huile végétale
+- <span class="qty">1</span> gousse d'ail, hachée
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de lentilles vertes en conserve, rincées et égouttées
+- <span class="qty">1</span> c. à soupe de beurre de sésame (tahini)
+- <span class="qty">2</span> c. à thé de sauce soya
+- <span class="qty">2</span> c. à thé de vinaigre balsamique
+- <span class="qty">1/4</span> c. à thé de quatre-épices
 - Sel et poivre, au goût
 
 ### Gremolata croquante
 
-- 1 tranche de pain, coupée en cubes de 1 cm
-- Le zeste de 1/2 citron
-- 1 c. à soupe de persil frais, haché
-- 1 c. à soupe de ciboulette fraîche, hachée
-- 1/2 gousse d'ail, hachée
-- 2 c. à soupe d'huile d'olive
+- <span class="qty">1</span> tranche de pain, coupée en cubes de 1 cm
+- Le zeste de <span class="qty">1/2</span> citron
+- <span class="qty">1</span> c. à soupe de persil frais, haché
+- <span class="qty">1</span> c. à soupe de ciboulette fraîche, hachée
+- <span class="qty">1/2</span> gousse d'ail, hachée
+- <span class="qty">2</span> c. à soupe d'huile d'olive
 
 ## Instructions
 

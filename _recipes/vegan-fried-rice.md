@@ -26,21 +26,21 @@ A flavour-packed vegan fried rice loaded with crispy oven-baked tofu, peas, carr
 
 **Rice and Vegetables**
 
-- 240 ml (1 cup) long- or short-grain brown rice, rinsed
-- 227 g (1 cup cubed) extra-firm tofu
-- 4 cloves garlic, minced
-- 240 ml (1 cup) chopped green onion
-- 120 ml (1/2 cup) peas
-- 120 ml (1/2 cup) carrots, finely diced
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) long- or short-grain brown rice, rinsed
+- <span class="qty">227</span> g (<span class="qty">1</span> cup cubed) extra-firm tofu
+- <span class="qty">4</span> cloves garlic, minced
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) chopped green onion
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) peas
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) carrots, finely diced
 
 **Sauce**
 
-- 45 ml (3 tbsp) tamari or soy sauce, plus more to taste
-- 15 ml (1 tbsp) peanut butter
-- 30-45 ml (2-3 tbsp) brown sugar or maple syrup
-- 1 clove garlic, minced
-- 5-10 ml (1-2 tsp) chili garlic sauce
-- 5 ml (1 tsp) toasted sesame oil (optional)
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) tamari or soy sauce, plus more to taste
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) peanut butter
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> tbsp) brown sugar or maple syrup
+- <span class="qty">1</span> clove garlic, minced
+- <span class="qty">5</span>-<span class="qty">10</span> ml (<span class="qty">1</span>-<span class="qty">2</span> tsp) chili garlic sauce
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) toasted sesame oil (optional)
 
 ## Instructions
 
@@ -69,21 +69,21 @@ Un riz frit végétalien debordant de saveurs, garni de tofu croustillant cuit a
 
 **Riz et légumes**
 
-- 240 ml (1 tasse) de riz brun a grains longs ou courts, rince
-- 227 g (1 tasse en cubes) de tofu extra-ferme
-- 4 gousses d'ail, émincées
-- 240 ml (1 tasse) d'oignons verts hachés
-- 120 ml (1/2 tasse) de petits pois
-- 120 ml (1/2 tasse) de carottes, coupées en petits des
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de riz brun a grains longs ou courts, rince
+- <span class="qty">227</span> g (<span class="qty">1</span> tasse en cubes) de tofu extra-ferme
+- <span class="qty">4</span> gousses d'ail, émincées
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) d'oignons verts hachés
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) de petits pois
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) de carottes, coupées en petits des
 
 **Sauce**
 
-- 45 ml (3 c. à soupe) de tamari ou sauce soya, plus au goût
-- 15 ml (1 c. à soupe) de beurre d'arachide
-- 30-45 ml (2-3 c. à soupe) de cassonade ou sirop d'érable
-- 1 gousse d'ail, émincée
-- 5-10 ml (1-2 c. à thé) de sauce chili à l'ail
-- 5 ml (1 c. à thé) d'huile de sésame grillée (facultatif)
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de tamari ou sauce soya, plus au goût
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de beurre d'arachide
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> c. à soupe) de cassonade ou sirop d'érable
+- <span class="qty">1</span> gousse d'ail, émincée
+- <span class="qty">5</span>-<span class="qty">10</span> ml (<span class="qty">1</span>-<span class="qty">2</span> c. à thé) de sauce chili à l'ail
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'huile de sésame grillée (facultatif)
 
 ## Instructions
 

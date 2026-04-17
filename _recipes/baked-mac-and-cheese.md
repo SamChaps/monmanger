@@ -26,20 +26,20 @@ A rich and comforting baked mac and cheese loaded with sharp cheddar and Colby J
 
 ## Ingredients
 
-- 225 g (8 oz) elbow macaroni
-- 4 tbsp unsalted butter, divided
-- 2 tbsp all-purpose flour
-- 60 ml (1/4 cup) heavy cream
-- 1 cup shredded sharp cheddar cheese
-- 1 cup shredded Colby Jack cheese
-- 1/2 tsp salt
-- 1/2 tsp black pepper
-- 1/2 tbsp garlic powder
-- 1/2 tsp onion powder
-- 1 tsp dry mustard powder
-- 1 tsp paprika
-- 720 ml (3 cups) water
-- 1 1/4 cups milk, plus 720 ml (3 cups) for boiling
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) elbow macaroni
+- <span class="qty">4</span> tbsp unsalted butter, divided
+- <span class="qty">2</span> tbsp all-purpose flour
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) heavy cream
+- <span class="qty">1</span> cup shredded sharp cheddar cheese
+- <span class="qty">1</span> cup shredded Colby Jack cheese
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1/2</span> tsp black pepper
+- <span class="qty">1/2</span> tbsp garlic powder
+- <span class="qty">1/2</span> tsp onion powder
+- <span class="qty">1</span> tsp dry mustard powder
+- <span class="qty">1</span> tsp paprika
+- <span class="qty">720</span> ml (<span class="qty">3</span> cups) water
+- <span class="qty">1 1/4</span> cups milk, plus <span class="qty">720</span> ml (<span class="qty">3</span> cups) for boiling
 - Extra shredded cheese for topping (optional)
 - Fresh or dried thyme for garnish (optional)
 
@@ -69,20 +69,20 @@ Un macaroni au fromage gratiné riche et réconfortant, garni de cheddar fort et
 
 ## Ingrédients
 
-- 225 g (8 oz) de macaroni coude
-- 4 c. à soupe de beurre non salé, divisé
-- 2 c. à soupe de farine tout usage
-- 60 ml (1/4 tasse) de crème épaisse
-- 1 tasse de cheddar fort râpé
-- 1 tasse de Colby Jack râpé
-- 1/2 c. à thé de sel
-- 1/2 c. à thé de poivre noir
-- 1/2 c. à soupe de poudre d'ail
-- 1/2 c. à thé de poudre d'oignon
-- 1 c. à thé de moutarde en poudre
-- 1 c. à thé de paprika
-- 720 ml (3 tasses) d'eau
-- 1 1/4 tasse de lait, plus 720 ml (3 tasses) pour la cuisson
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) de macaroni coude
+- <span class="qty">4</span> c. à soupe de beurre non salé, divisé
+- <span class="qty">2</span> c. à soupe de farine tout usage
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de crème épaisse
+- <span class="qty">1</span> tasse de cheddar fort râpé
+- <span class="qty">1</span> tasse de Colby Jack râpé
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1/2</span> c. à thé de poivre noir
+- <span class="qty">1/2</span> c. à soupe de poudre d'ail
+- <span class="qty">1/2</span> c. à thé de poudre d'oignon
+- <span class="qty">1</span> c. à thé de moutarde en poudre
+- <span class="qty">1</span> c. à thé de paprika
+- <span class="qty">720</span> ml (<span class="qty">3</span> tasses) d'eau
+- <span class="qty">1 1/4</span> tasse de lait, plus <span class="qty">720</span> ml (<span class="qty">3</span> tasses) pour la cuisson
 - Fromage râpé supplémentaire pour le dessus (facultatif)
 - Thym frais ou séché pour garnir (facultatif)
 

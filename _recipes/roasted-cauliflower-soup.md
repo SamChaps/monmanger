@@ -26,14 +26,14 @@ A simple, satisfying soup built on deeply roasted cauliflower, Yukon Gold potato
 
 **Soup**
 
-- 1 large head cauliflower, cored and chopped into florets
-- 450 g (1 lb) Yukon Gold potatoes, scrubbed and cut into pieces
-- 2 medium yellow onions, roughly chopped
-- 15-30 ml (1-2 tbsp) fresh rosemary leaves
-- 30 ml (2 tbsp) olive oil
+- <span class="qty">1</span> large head cauliflower, cored and chopped into florets
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) Yukon Gold potatoes, scrubbed and cut into pieces
+- <span class="qty">2</span> medium yellow onions, roughly chopped
+- <span class="qty">15</span>-<span class="qty">30</span> ml (<span class="qty">1</span>-<span class="qty">2</span> tbsp) fresh rosemary leaves
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) olive oil
 - Sea salt and ground black pepper, to taste
-- 15 ml (1 tbsp) fresh lemon juice
-- 1.2-1.5 L (5-6 cups) vegetable stock
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) fresh lemon juice
+- <span class="qty">1.2</span>-<span class="qty">1.5</span> L (<span class="qty">5</span>-<span class="qty">6</span> cups) vegetable stock
 
 **Optional Toppings**
 
@@ -69,14 +69,14 @@ Une soupe simple et reconfortante construite sur des légumes profondement rôti
 
 **Soupe**
 
-- 1 grosse tete de chou-fleur, sans le coeur, en fleurons
-- 450 g (1 lb) de pommes de terre Yukon Gold, brossees et coupées en morceaux
-- 2 oignons jaunes moyens, coupés grossièrement
-- 15-30 ml (1-2 c. à soupe) de feuilles de romarin frais
-- 30 ml (2 c. à soupe) d'huile d'olive
+- <span class="qty">1</span> grosse tete de chou-fleur, sans le coeur, en fleurons
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de pommes de terre Yukon Gold, brossees et coupées en morceaux
+- <span class="qty">2</span> oignons jaunes moyens, coupés grossièrement
+- <span class="qty">15</span>-<span class="qty">30</span> ml (<span class="qty">1</span>-<span class="qty">2</span> c. à soupe) de feuilles de romarin frais
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'huile d'olive
 - Sel de mer et poivre noir moulu, au goût
-- 15 ml (1 c. à soupe) de jus de citron frais
-- 1,2-1,5 L (5-6 tasses) de bouillon de légumes
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de citron frais
+- <span class="qty">1</span>,<span class="qty">2</span>-<span class="qty">1</span>,<span class="qty">5</span> L (<span class="qty">5</span>-<span class="qty">6</span> tasses) de bouillon de légumes
 
 **Garnitures au choix**
 

@@ -26,31 +26,31 @@ A flavour-packed grain bowl built on fluffy quinoa and tender lentils, topped wi
 
 ### Quinoa
 
-- 1 cup (175 g) uncooked quinoa
+- <span class="qty">1</span> cup (<span class="qty">175</span> g) uncooked quinoa
 
 ### Vegan Ricotta
 
-- 1 block (400 g / 14 oz) extra-firm tofu, drained
-- 20 g (1/4 cup) nutritional yeast
-- 1/2 tsp garlic powder
-- 1/2 tsp onion powder
-- 1 heaping tsp kosher salt
+- <span class="qty">1</span> block (<span class="qty">400</span> g / <span class="qty">14</span> oz) extra-firm tofu, drained
+- <span class="qty">20</span> g (<span class="qty">1/4</span> cup) nutritional yeast
+- <span class="qty">1/2</span> tsp garlic powder
+- <span class="qty">1/2</span> tsp onion powder
+- <span class="qty">1</span> heaping tsp kosher salt
 - Freshly cracked black pepper
-- 1 1/2 tbsp extra-virgin olive oil
-- Zest of 1 lemon + 1 tbsp lemon juice
+- <span class="qty">1 1/2</span> tbsp extra-virgin olive oil
+- Zest of <span class="qty">1</span> lemon + <span class="qty">1</span> tbsp lemon juice
 
 ### Garlicky Pepitas
 
-- 2 tbsp extra-virgin olive oil
-- 4 cloves garlic, thinly sliced
-- 2 tsp coriander seeds, lightly crushed
-- 70 g (1/2 cup) pepitas (pumpkin seeds)
-- 1/2 to 1 tsp red pepper flakes
+- <span class="qty">2</span> tbsp extra-virgin olive oil
+- <span class="qty">4</span> cloves garlic, thinly sliced
+- <span class="qty">2</span> tsp coriander seeds, lightly crushed
+- <span class="qty">70</span> g (<span class="qty">1/2</span> cup) pepitas (pumpkin seeds)
+- <span class="qty">1/2</span> to <span class="qty">1</span> tsp red pepper flakes
 - Flaky sea salt
 
 ### Assembly
 
-- 1 1/2 cups (260 g) cooked lentils
+- <span class="qty">1 1/2</span> cups (<span class="qty">260</span> g) cooked lentils
 - Pickled onions or sauerkraut (optional)
 
 ## Instructions
@@ -76,31 +76,31 @@ Un bol de grains plein de saveur construit sur du quinoa moelleux et des lentill
 
 ### Quinoa
 
-- 1 tasse (175 g) de quinoa non cuit
+- <span class="qty">1</span> tasse (<span class="qty">175</span> g) de quinoa non cuit
 
 ### Ricotta végétalienne
 
-- 1 bloc (400 g / 14 oz) de tofu extra-ferme, égoutté
-- 20 g (1/4 tasse) de levure nutritionnelle
-- 1/2 c. à thé de poudre d'ail
-- 1/2 c. à thé de poudre d'oignon
-- 1 bonne c. à thé de gros sel
+- <span class="qty">1</span> bloc (<span class="qty">400</span> g / <span class="qty">14</span> oz) de tofu extra-ferme, égoutté
+- <span class="qty">20</span> g (<span class="qty">1/4</span> tasse) de levure nutritionnelle
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
+- <span class="qty">1/2</span> c. à thé de poudre d'oignon
+- <span class="qty">1</span> bonne c. à thé de gros sel
 - Poivre noir fraîchement moulu
-- 1 1/2 c. à soupe d'huile d'olive extra-vierge
-- Zeste d'un citron + 1 c. à soupe de jus de citron
+- <span class="qty">1 1/2</span> c. à soupe d'huile d'olive extra-vierge
+- Zeste d'un citron + <span class="qty">1</span> c. à soupe de jus de citron
 
 ### Pepitas à l'ail
 
-- 2 c. à soupe d'huile d'olive extra-vierge
-- 4 gousses d'ail, finement tranchées
-- 2 c. à thé de graines de coriandre, légèrement écrasées
-- 70 g (1/2 tasse) de pepitas (graines de citrouille)
-- 1/2 à 1 c. à thé de flocons de piment rouge
+- <span class="qty">2</span> c. à soupe d'huile d'olive extra-vierge
+- <span class="qty">4</span> gousses d'ail, finement tranchées
+- <span class="qty">2</span> c. à thé de graines de coriandre, légèrement écrasées
+- <span class="qty">70</span> g (<span class="qty">1/2</span> tasse) de pepitas (graines de citrouille)
+- <span class="qty">1/2</span> à <span class="qty">1</span> c. à thé de flocons de piment rouge
 - Fleur de sel
 
 ### Assemblage
 
-- 1 1/2 tasse (260 g) de lentilles cuites
+- <span class="qty">1 1/2</span> tasse (<span class="qty">260</span> g) de lentilles cuites
 - Oignons marinés ou choucroute (optionnel)
 
 ## Instructions

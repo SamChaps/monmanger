@@ -24,16 +24,16 @@ A family recipe for a rich chocolate cream tart with a beautiful marbled finish.
 
 ## Ingredients
 
-- 120 g (1/2 cup) sugar
-- 2 tbsp cocoa powder
-- 1 tbsp instant coffee
-- 3 tbsp flour
-- 1 tbsp cornstarch
-- 250 ml (1 cup) milk
-- 1/2 tsp salt
-- 1 tsp vanilla extract
-- 250 ml (1 cup) whipping cream
-- 1 pie crust (pre-baked)
+- <span class="qty">120</span> g (<span class="qty">1/2</span> cup) sugar
+- <span class="qty">2</span> tbsp cocoa powder
+- <span class="qty">1</span> tbsp instant coffee
+- <span class="qty">3</span> tbsp flour
+- <span class="qty">1</span> tbsp cornstarch
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) milk
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1</span> tsp vanilla extract
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) whipping cream
+- <span class="qty">1</span> pie crust (pre-baked)
 
 ## Instructions
 
@@ -58,16 +58,16 @@ Une recette de famille pour une tarte crémeuse au chocolat avec un joli fini ma
 
 ## Ingrédients
 
-- 120 g (1/2 tasse) de sucre
-- 2 c. à soupe de cacao
-- 1 c. à soupe de café instantané
-- 3 c. à soupe de farine
-- 1 c. à soupe de fécule de maïs
-- 250 ml (1 tasse) de lait
-- 1/2 c. à thé de sel
-- 1 c. à thé de vanille
-- 250 ml (1 tasse) de crème à fouetter
-- 1 croûte à tarte (précuite)
+- <span class="qty">120</span> g (<span class="qty">1/2</span> tasse) de sucre
+- <span class="qty">2</span> c. à soupe de cacao
+- <span class="qty">1</span> c. à soupe de café instantané
+- <span class="qty">3</span> c. à soupe de farine
+- <span class="qty">1</span> c. à soupe de fécule de maïs
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de lait
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1</span> c. à thé de vanille
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de crème à fouetter
+- <span class="qty">1</span> croûte à tarte (précuite)
 
 ## Instructions
 

@@ -24,20 +24,20 @@ A simplified, weeknight-friendly take on the classic Brazilian moqueca. Ripe pla
 
 ## Ingredients
 
-- 2 tbsp olive oil
-- 1 onion, diced
-- 1 medium red bell pepper, diced
-- 3 cloves garlic, minced
-- 1 hot chili pepper (such as fresno or jalapeno), minced (optional)
-- 1 can (400 ml / 14 oz) coconut milk
-- 1 can (400 ml / 14 oz) diced tomatoes
-- 1 tbsp lime juice
-- 2 tsp sweet paprika
-- 2 ripe plantains, peeled and cut into 2.5 cm (1 inch) chunks
-- 1 medium zucchini, chopped
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> onion, diced
+- <span class="qty">1</span> medium red bell pepper, diced
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">1</span> hot chili pepper (such as fresno or jalapeno), minced (optional)
+- <span class="qty">1</span> can (<span class="qty">400</span> ml / <span class="qty">14</span> oz) coconut milk
+- <span class="qty">1</span> can (<span class="qty">400</span> ml / <span class="qty">14</span> oz) diced tomatoes
+- <span class="qty">1</span> tbsp lime juice
+- <span class="qty">2</span> tsp sweet paprika
+- <span class="qty">2</span> ripe plantains, peeled and cut into 2.5 cm (1 inch) chunks
+- <span class="qty">1</span> medium zucchini, chopped
 - Salt and pepper, to taste
-- 60 ml (1/4 cup) fresh cilantro, chopped, plus extra for serving
-- 60 ml (1/4 cup) scallions, chopped
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) fresh cilantro, chopped, plus extra for serving
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) scallions, chopped
 - Cooked rice, for serving
 
 ## Instructions
@@ -62,20 +62,20 @@ Une version simplifiée et rapide de la moqueca brésilienne classique. Des plan
 
 ## Ingrédients
 
-- 2 c. à soupe d'huile d'olive
-- 1 oignon, coupé en dés
-- 1 poivron rouge moyen, coupé en dés
-- 3 gousses d'ail, hachées
-- 1 piment fort (de type fresno ou jalapeno), haché (optionnel)
-- 1 boîte (400 ml / 14 oz) de lait de coco
-- 1 boîte (400 ml / 14 oz) de tomates en dés
-- 1 c. à soupe de jus de lime
-- 2 c. à thé de paprika doux
-- 2 bananes plantain mûres, pelées et coupées en morceaux de 2,5 cm (1 po)
-- 1 courgette moyenne, hachée
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> oignon, coupé en dés
+- <span class="qty">1</span> poivron rouge moyen, coupé en dés
+- <span class="qty">3</span> gousses d'ail, hachées
+- <span class="qty">1</span> piment fort (de type fresno ou jalapeno), haché (optionnel)
+- <span class="qty">1</span> boîte (<span class="qty">400</span> ml / <span class="qty">14</span> oz) de lait de coco
+- <span class="qty">1</span> boîte (<span class="qty">400</span> ml / <span class="qty">14</span> oz) de tomates en dés
+- <span class="qty">1</span> c. à soupe de jus de lime
+- <span class="qty">2</span> c. à thé de paprika doux
+- <span class="qty">2</span> bananes plantain mûres, pelées et coupées en morceaux de 2,5 cm (1 po)
+- <span class="qty">1</span> courgette moyenne, hachée
 - Sel et poivre, au goût
-- 60 ml (1/4 tasse) de coriandre fraîche, hachée, plus pour garnir
-- 60 ml (1/4 tasse) d'oignons verts, hachés
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de coriandre fraîche, hachée, plus pour garnir
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'oignons verts, hachés
 - Riz cuit, pour servir
 
 ## Instructions

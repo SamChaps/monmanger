@@ -25,16 +25,16 @@ A silky, satisfying pasta sauce that comes together in just 15 minutes. Blending
 
 ## Ingredients
 
-- 349 g (12.3 oz) block silken tofu
-- 1 medium onion, diced (about 1 cup)
-- 3 cloves garlic, minced
-- 45 ml (3 tbsp) olive oil
-- 15 ml (1 tbsp) nutritional yeast
-- 15 ml (1 tbsp) lemon juice
-- 360 ml (1 1/2 cups) reserved pasta water
-- 1 tsp salt, divided
-- 1/4 tsp black pepper
-- 454 g (16 oz) pasta of choice
+- <span class="qty">349</span> g (<span class="qty">12.3</span> oz) block silken tofu
+- <span class="qty">1</span> medium onion, diced (about <span class="qty">1</span> cup)
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) olive oil
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) nutritional yeast
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) lemon juice
+- <span class="qty">360</span> ml (<span class="qty">1 1/2</span> cups) reserved pasta water
+- <span class="qty">1</span> tsp salt, divided
+- <span class="qty">1/4</span> tsp black pepper
+- <span class="qty">454</span> g (<span class="qty">16</span> oz) pasta of choice
 
 ## Instructions
 
@@ -59,16 +59,16 @@ Une sauce pour pâtes onctueuse et satisfaisante qui se prépare en seulement 15
 
 ## Ingrédients
 
-- 349 g (12,3 oz) de tofu soyeux en bloc
-- 1 oignon moyen, coupé en dés (environ 1 tasse)
-- 3 gousses d'ail, émincées
-- 45 ml (3 c. à soupe) d'huile d'olive
-- 15 ml (1 c. à soupe) de levure alimentaire
-- 15 ml (1 c. à soupe) de jus de citron
-- 360 ml (1 1/2 tasse) d'eau de cuisson des pâtes réservée
-- 1 c. à thé de sel, divisé
-- 1/4 c. à thé de poivre noir
-- 454 g (16 oz) de pâtes au choix
+- <span class="qty">349</span> g (<span class="qty">12</span>,<span class="qty">3</span> oz) de tofu soyeux en bloc
+- <span class="qty">1</span> oignon moyen, coupé en dés (environ <span class="qty">1</span> tasse)
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) d'huile d'olive
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de levure alimentaire
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de citron
+- <span class="qty">360</span> ml (<span class="qty">1 1/2</span> tasse) d'eau de cuisson des pâtes réservée
+- <span class="qty">1</span> c. à thé de sel, divisé
+- <span class="qty">1/4</span> c. à thé de poivre noir
+- <span class="qty">454</span> g (<span class="qty">16</span> oz) de pâtes au choix
 
 ## Instructions
 

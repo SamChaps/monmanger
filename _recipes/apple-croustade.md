@@ -27,17 +27,17 @@ A childhood favourite made vegan. Tender spiced apple slices under a crispy oat 
 
 ### Crisp Topping
 
-- 1 1/2 cups (130 g) rolled oats
-- 1/2 cup (75 g) all-purpose flour
-- 2/3 cup (125 g) packed brown sugar
-- 1/2 tsp salt
-- 1/2 cup (125 ml) vegan butter or margarine
+- <span class="qty">1 1/2</span> cups (<span class="qty">130</span> g) rolled oats
+- <span class="qty">1/2</span> cup (<span class="qty">75</span> g) all-purpose flour
+- <span class="qty">2/3</span> cup (<span class="qty">125</span> g) packed brown sugar
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1/2</span> cup (<span class="qty">125</span> ml) vegan butter or margarine
 
 ### Apple Filling
 
-- 10 Cortland or McIntosh apples (about 1 kg peeled and cored), peeled, cored, and sliced
-- 1/2 cup (100 g) packed brown sugar
-- 1/2 tsp ground cinnamon
+- <span class="qty">10</span> Cortland or McIntosh apples (about <span class="qty">1</span> kg peeled and cored), peeled, cored, and sliced
+- <span class="qty">1/2</span> cup (<span class="qty">100</span> g) packed brown sugar
+- <span class="qty">1/2</span> tsp ground cinnamon
 
 ## Instructions
 
@@ -63,17 +63,17 @@ Un classique de l'enfance en version végétalienne. Des tranches de pommes épi
 
 ### Croustillant
 
-- 1 1/2 tasse (130 g) de flocons d'avoine
-- 1/2 tasse (75 g) de farine tout usage
-- 2/3 tasse (125 g) de cassonade pressée
-- 1/2 c. à thé de sel
-- 1/2 tasse (125 ml) de beurre végétalien ou de margarine
+- <span class="qty">1 1/2</span> tasse (<span class="qty">130</span> g) de flocons d'avoine
+- <span class="qty">1/2</span> tasse (<span class="qty">75</span> g) de farine tout usage
+- <span class="qty">2/3</span> tasse (<span class="qty">125</span> g) de cassonade pressée
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1/2</span> tasse (<span class="qty">125</span> ml) de beurre végétalien ou de margarine
 
 ### Garniture aux pommes
 
-- 10 pommes Cortland ou McIntosh (environ 1 kg pelées et épépinées), pelées, épépinées et tranchées
-- 1/2 tasse (100 g) de cassonade pressée
-- 1/2 c. à thé de cannelle moulue
+- <span class="qty">10</span> pommes Cortland ou McIntosh (environ <span class="qty">1</span> kg pelées et épépinées), pelées, épépinées et tranchées
+- <span class="qty">1/2</span> tasse (<span class="qty">100</span> g) de cassonade pressée
+- <span class="qty">1/2</span> c. à thé de cannelle moulue
 
 ## Instructions
 

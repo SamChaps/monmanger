@@ -24,16 +24,16 @@ The secret to this banana bread's incredible moisture is coconut milk and a touc
 
 ## Ingredients
 
-- 225 g (1 1/2 cups) all-purpose flour
-- 5 ml (1 tsp) baking powder
-- 5 ml (1 tsp) baking soda
-- 310 ml (1 1/4 cups) ripe bananas, mashed (3 to 4 bananas)
-- 125 ml (1/2 cup) coconut milk
-- 15 ml (1 tbsp) lime juice
-- 115 g (1/2 cup) unsalted butter, softened
-- 210 g (1 cup) sugar
-- 1 egg
-- 5 ml (1 tsp) vanilla extract
+- <span class="qty">225</span> g (<span class="qty">1 1/2</span> cups) all-purpose flour
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) baking powder
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) baking soda
+- <span class="qty">310</span> ml (<span class="qty">1 1/4</span> cups) ripe bananas, mashed (<span class="qty">3</span> to <span class="qty">4</span> bananas)
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) coconut milk
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) lime juice
+- <span class="qty">115</span> g (<span class="qty">1/2</span> cup) unsalted butter, softened
+- <span class="qty">210</span> g (<span class="qty">1</span> cup) sugar
+- <span class="qty">1</span> egg
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) vanilla extract
 
 ## Instructions
 
@@ -59,16 +59,16 @@ Le secret de ce pain aux bananes incroyablement moelleux est le lait de coco et 
 
 ## Ingrédients
 
-- 225 g (1 1/2 tasse) de farine tout usage
-- 5 ml (1 c. à thé) de poudre à pâte
-- 5 ml (1 c. à thé) de bicarbonate de soude
-- 310 ml (1 1/4 tasse) de bananes mûres, écrasées à la fourchette (3 à 4 bananes)
-- 125 ml (1/2 tasse) de lait de coco
-- 15 ml (1 c. à soupe) de jus de lime
-- 115 g (1/2 tasse) de beurre non salé, ramolli
-- 210 g (1 tasse) de sucre
-- 1 œuf
-- 5 ml (1 c. à thé) d'extrait de vanille
+- <span class="qty">225</span> g (<span class="qty">1 1/2</span> tasse) de farine tout usage
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de poudre à pâte
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de bicarbonate de soude
+- <span class="qty">310</span> ml (<span class="qty">1 1/4</span> tasse) de bananes mûres, écrasées à la fourchette (<span class="qty">3</span> à <span class="qty">4</span> bananes)
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de lait de coco
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de lime
+- <span class="qty">115</span> g (<span class="qty">1/2</span> tasse) de beurre non salé, ramolli
+- <span class="qty">210</span> g (<span class="qty">1</span> tasse) de sucre
+- <span class="qty">1</span> œuf
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'extrait de vanille
 
 ## Instructions
 

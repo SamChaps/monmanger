@@ -24,17 +24,17 @@ Thick, chewy oatmeal raisin cookies with slightly crispy edges. The trick is chi
 
 ## Ingredients
 
-- 115 g (1/2 cup) unsalted butter, softened
-- 125 g (2/3 cup) light brown sugar, packed
-- 1 large egg
-- 1/2 tsp vanilla extract
-- 95 g (3/4 cup) all-purpose flour
-- 1/2 tsp baking soda
-- 1/2 tsp ground cinnamon
-- 1/4 tsp salt
-- 120 g (1 1/2 cups) old-fashioned rolled oats
-- 120 g (3/4 cup) raisins
-- 65 g (1/2 cup) walnuts, chopped (optional)
+- <span class="qty">115</span> g (<span class="qty">1/2</span> cup) unsalted butter, softened
+- <span class="qty">125</span> g (<span class="qty">2/3</span> cup) light brown sugar, packed
+- <span class="qty">1</span> large egg
+- <span class="qty">1/2</span> tsp vanilla extract
+- <span class="qty">95</span> g (<span class="qty">3/4</span> cup) all-purpose flour
+- <span class="qty">1/2</span> tsp baking soda
+- <span class="qty">1/2</span> tsp ground cinnamon
+- <span class="qty">1/4</span> tsp salt
+- <span class="qty">120</span> g (<span class="qty">1 1/2</span> cups) old-fashioned rolled oats
+- <span class="qty">120</span> g (<span class="qty">3/4</span> cup) raisins
+- <span class="qty">65</span> g (<span class="qty">1/2</span> cup) walnuts, chopped (optional)
 
 ## Instructions
 
@@ -59,17 +59,17 @@ Des biscuits à l'avoine et aux raisins épais et moelleux avec des bords légè
 
 ## Ingrédients
 
-- 115 g (1/2 tasse) de beurre non salé, ramolli
-- 125 g (2/3 tasse) de cassonade légère, bien tassee
-- 1 gros œuf
-- 1/2 c. à thé d'extrait de vanille
-- 95 g (3/4 tasse) de farine tout usage
-- 1/2 c. à thé de bicarbonate de soude
-- 1/2 c. à thé de cannelle moulue
-- 1/4 c. à thé de sel
-- 120 g (1 1/2 tasse) de flocons d'avoine à l'ancienne
-- 120 g (3/4 tasse) de raisins secs
-- 65 g (1/2 tasse) de noix de Grenoble, hachées (optionnel)
+- <span class="qty">115</span> g (<span class="qty">1/2</span> tasse) de beurre non salé, ramolli
+- <span class="qty">125</span> g (<span class="qty">2/3</span> tasse) de cassonade légère, bien tassee
+- <span class="qty">1</span> gros œuf
+- <span class="qty">1/2</span> c. à thé d'extrait de vanille
+- <span class="qty">95</span> g (<span class="qty">3/4</span> tasse) de farine tout usage
+- <span class="qty">1/2</span> c. à thé de bicarbonate de soude
+- <span class="qty">1/2</span> c. à thé de cannelle moulue
+- <span class="qty">1/4</span> c. à thé de sel
+- <span class="qty">120</span> g (<span class="qty">1 1/2</span> tasse) de flocons d'avoine à l'ancienne
+- <span class="qty">120</span> g (<span class="qty">3/4</span> tasse) de raisins secs
+- <span class="qty">65</span> g (<span class="qty">1/2</span> tasse) de noix de Grenoble, hachées (optionnel)
 
 ## Instructions
 

@@ -24,17 +24,17 @@ A simple one-bowl recipe that turns ripe bananas and oats into soft, chewy cooki
 
 ## Ingredients
 
-- 2 cups (180 g) quick oats
-- 1/2 tsp cinnamon
-- 1/2 tsp baking powder
-- 1/2 tsp baking soda
-- 1/4 tsp salt
-- 1 cup (240 g) mashed ripe banana (about 2 large)
-- 1/3 cup (85 g) peanut butter
-- 2 tbsp honey
-- 1 tsp vanilla extract
-- 1/3 cup (40 g) chopped pecans
-- 1/4 cup (45 g) chocolate chips (optional)
+- <span class="qty">2</span> cups (<span class="qty">180</span> g) quick oats
+- <span class="qty">1/2</span> tsp cinnamon
+- <span class="qty">1/2</span> tsp baking powder
+- <span class="qty">1/2</span> tsp baking soda
+- <span class="qty">1/4</span> tsp salt
+- <span class="qty">1</span> cup (<span class="qty">240</span> g) mashed ripe banana (about <span class="qty">2</span> large)
+- <span class="qty">1/3</span> cup (<span class="qty">85</span> g) peanut butter
+- <span class="qty">2</span> tbsp honey
+- <span class="qty">1</span> tsp vanilla extract
+- <span class="qty">1/3</span> cup (<span class="qty">40</span> g) chopped pecans
+- <span class="qty">1/4</span> cup (<span class="qty">45</span> g) chocolate chips (optional)
 
 ## Instructions
 
@@ -59,17 +59,17 @@ Une recette toute simple, en un seul bol, qui transforme des bananes mûres et d
 
 ## Ingrédients
 
-- 2 tasses (180 g) de flocons d'avoine à cuisson rapide
-- 1/2 c. à thé de cannelle
-- 1/2 c. à thé de poudre à pâte
-- 1/2 c. à thé de bicarbonate de soude
-- 1/4 c. à thé de sel
-- 1 tasse (240 g) de banane mûre écrasée (environ 2 grosses)
-- 1/3 tasse (85 g) de beurre d'arachide
-- 2 c. à soupe de miel
-- 1 c. à thé d'extrait de vanille
-- 1/3 tasse (40 g) de pacanes hachées
-- 1/4 tasse (45 g) de pépites de chocolat (optionnel)
+- <span class="qty">2</span> tasses (<span class="qty">180</span> g) de flocons d'avoine à cuisson rapide
+- <span class="qty">1/2</span> c. à thé de cannelle
+- <span class="qty">1/2</span> c. à thé de poudre à pâte
+- <span class="qty">1/2</span> c. à thé de bicarbonate de soude
+- <span class="qty">1/4</span> c. à thé de sel
+- <span class="qty">1</span> tasse (<span class="qty">240</span> g) de banane mûre écrasée (environ <span class="qty">2</span> grosses)
+- <span class="qty">1/3</span> tasse (<span class="qty">85</span> g) de beurre d'arachide
+- <span class="qty">2</span> c. à soupe de miel
+- <span class="qty">1</span> c. à thé d'extrait de vanille
+- <span class="qty">1/3</span> tasse (<span class="qty">40</span> g) de pacanes hachées
+- <span class="qty">1/4</span> tasse (<span class="qty">45</span> g) de pépites de chocolat (optionnel)
 
 ## Instructions
 

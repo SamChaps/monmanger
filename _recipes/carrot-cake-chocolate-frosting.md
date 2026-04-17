@@ -27,26 +27,26 @@ A deeply flavoured carrot cake made with browned butter and warm spices, finishe
 
 ### Cake
 
-- 369 g (3 cups) all-purpose flour
-- 1 1/4 tsp (5 g) baking powder
-- 1 1/4 tsp (5 g) baking soda
-- 1/2 tsp allspice
-- 1/2 tsp nutmeg
-- 1 1/4 tsp cinnamon
-- 3/4 tsp (4 g) salt
-- 255 g (1 1/4 cups) granulated sugar
-- 142 g (3/4 cup packed) brown sugar
-- 4 large eggs
-- 198 g (3/4 cup + 2 tbsp) sour cream or creme fraiche
-- 113 ml (1/2 cup) neutral oil
-- 142 g (5 oz) browned butter, cooled slightly
-- 369 g (about 4 cups) shredded carrots, drained
+- <span class="qty">369</span> g (<span class="qty">3</span> cups) all-purpose flour
+- <span class="qty">1 1/4</span> tsp (<span class="qty">5</span> g) baking powder
+- <span class="qty">1 1/4</span> tsp (<span class="qty">5</span> g) baking soda
+- <span class="qty">1/2</span> tsp allspice
+- <span class="qty">1/2</span> tsp nutmeg
+- <span class="qty">1 1/4</span> tsp cinnamon
+- <span class="qty">3/4</span> tsp (<span class="qty">4</span> g) salt
+- <span class="qty">255</span> g (<span class="qty">1 1/4</span> cups) granulated sugar
+- <span class="qty">142</span> g (<span class="qty">3/4</span> cup packed) brown sugar
+- <span class="qty">4</span> large eggs
+- <span class="qty">198</span> g (<span class="qty">3/4</span> cup + <span class="qty">2</span> tbsp) sour cream or creme fraiche
+- <span class="qty">113</span> ml (<span class="qty">1/2</span> cup) neutral oil
+- <span class="qty">142</span> g (<span class="qty">5</span> oz) browned butter, cooled slightly
+- <span class="qty">369</span> g (about <span class="qty">4</span> cups) shredded carrots, drained
 
 ### Chocolate Frosting
 
-- 170 g (1 cup) semi-sweet chocolate chips
-- 85 g (6 tbsp) unsalted butter
-- 2 tbsp honey
+- <span class="qty">170</span> g (<span class="qty">1</span> cup) semi-sweet chocolate chips
+- <span class="qty">85</span> g (<span class="qty">6</span> tbsp) unsalted butter
+- <span class="qty">2</span> tbsp honey
 
 ## Instructions
 
@@ -74,26 +74,26 @@ Un gâteau aux carottes plein de saveur, fait avec du beurre noisette et des ép
 
 ### Gâteau
 
-- 369 g (3 tasses) de farine tout usage
-- 1 1/4 c. à thé (5 g) de poudre à pâte
-- 1 1/4 c. à thé (5 g) de bicarbonate de soude
-- 1/2 c. à thé de quatre-épices
-- 1/2 c. à thé de muscade
-- 1 1/4 c. à thé de cannelle
-- 3/4 c. à thé (4 g) de sel
-- 255 g (1 1/4 tasse) de sucre granulé
-- 142 g (3/4 tasse tassée) de cassonade
-- 4 gros œufs
-- 198 g (3/4 tasse + 2 c. à soupe) de crème sure ou crème fraîche
-- 113 ml (1/2 tasse) d'huile neutre
-- 142 g (5 oz) de beurre noisette, légèrement refroidi
-- 369 g (environ 4 tasses) de carottes râpées, égouttées
+- <span class="qty">369</span> g (<span class="qty">3</span> tasses) de farine tout usage
+- <span class="qty">1 1/4</span> c. à thé (<span class="qty">5</span> g) de poudre à pâte
+- <span class="qty">1 1/4</span> c. à thé (<span class="qty">5</span> g) de bicarbonate de soude
+- <span class="qty">1/2</span> c. à thé de quatre-épices
+- <span class="qty">1/2</span> c. à thé de muscade
+- <span class="qty">1 1/4</span> c. à thé de cannelle
+- <span class="qty">3/4</span> c. à thé (<span class="qty">4</span> g) de sel
+- <span class="qty">255</span> g (<span class="qty">1 1/4</span> tasse) de sucre granulé
+- <span class="qty">142</span> g (<span class="qty">3/4</span> tasse tassée) de cassonade
+- <span class="qty">4</span> gros œufs
+- <span class="qty">198</span> g (<span class="qty">3/4</span> tasse + <span class="qty">2</span> c. à soupe) de crème sure ou crème fraîche
+- <span class="qty">113</span> ml (<span class="qty">1/2</span> tasse) d'huile neutre
+- <span class="qty">142</span> g (<span class="qty">5</span> oz) de beurre noisette, légèrement refroidi
+- <span class="qty">369</span> g (environ <span class="qty">4</span> tasses) de carottes râpées, égouttées
 
 ### Glaçage au chocolat
 
-- 170 g (1 tasse) de pépites de chocolat mi-sucré
-- 85 g (6 c. à soupe) de beurre non salé
-- 2 c. à soupe de miel
+- <span class="qty">170</span> g (<span class="qty">1</span> tasse) de pépites de chocolat mi-sucré
+- <span class="qty">85</span> g (<span class="qty">6</span> c. à soupe) de beurre non salé
+- <span class="qty">2</span> c. à soupe de miel
 
 ## Instructions
 

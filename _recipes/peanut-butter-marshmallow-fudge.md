@@ -24,9 +24,9 @@ An absurdly easy fudge that comes together in minutes. Melted chocolate and pean
 
 ## Ingredients
 
-- 250 ml (1 cup) peanut butter (creamy or chunky)
-- 340 g (12 oz) chocolate chips
-- 1 L (4 cups) mini marshmallows
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) peanut butter (creamy or chunky)
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) chocolate chips
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) mini marshmallows
 
 ## Instructions
 
@@ -50,9 +50,9 @@ Un fudge ridiculement facile qui se prépare en quelques minutes. Du chocolat fo
 
 ## Ingrédients
 
-- 250 ml (1 tasse) de beurre d'arachide (crémeux ou croquant)
-- 340 g (12 oz) de pépites de chocolat
-- 1 L (4 tasses) de mini guimauves
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de beurre d'arachide (crémeux ou croquant)
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) de pépites de chocolat
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de mini guimauves
 
 ## Instructions
 

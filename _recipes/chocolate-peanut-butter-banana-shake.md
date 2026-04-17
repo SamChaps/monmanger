@@ -25,12 +25,12 @@ A five-ingredient shake that tastes like a milkshake but is completely plant-bas
 
 ## Ingredients
 
-- 1 large ripe banana, previously peeled, sliced, and frozen (about 200 g)
-- 2 tbsp salted natural peanut butter
-- 1 to 2 pitted dates (soak in hot water 10 minutes if not soft)
-- 1 tbsp cacao powder or unsweetened cocoa powder
-- 250 to 375 ml (1 to 1 1/2 cups) unsweetened almond milk
-- 1/2 cup ice (optional, for extra thickness)
+- <span class="qty">1</span> large ripe banana, previously peeled, sliced, and frozen (about <span class="qty">200</span> g)
+- <span class="qty">2</span> tbsp salted natural peanut butter
+- <span class="qty">1</span> to <span class="qty">2</span> pitted dates (soak in hot water 10 minutes if not soft)
+- <span class="qty">1</span> tbsp cacao powder or unsweetened cocoa powder
+- <span class="qty">250</span> to <span class="qty">375</span> ml (<span class="qty">1</span> to <span class="qty">1 1/2</span> cups) unsweetened almond milk
+- <span class="qty">1/2</span> cup ice (optional, for extra thickness)
 
 ## Instructions
 
@@ -52,12 +52,12 @@ Un frappé à cinq ingrédients qui goûte le lait frappé mais qui est entière
 
 ## Ingrédients
 
-- 1 grosse banane mûre, pelée, tranchée et congelée (environ 200 g)
-- 2 c. à soupe de beurre d'arachide naturel salé
-- 1 à 2 dattes dénoyautées (tremper dans l'eau chaude 10 min si elles ne sont pas moelleuses)
-- 1 c. à soupe de poudre de cacao ou de cacao non sucré
-- 250 à 375 ml (1 à 1 1/2 tasse) de lait d'amande non sucré
-- 1/2 tasse de glaçons (optionnel, pour plus d'épaisseur)
+- <span class="qty">1</span> grosse banane mûre, pelée, tranchée et congelée (environ <span class="qty">200</span> g)
+- <span class="qty">2</span> c. à soupe de beurre d'arachide naturel salé
+- <span class="qty">1</span> à <span class="qty">2</span> dattes dénoyautées (tremper dans l'eau chaude 10 min si elles ne sont pas moelleuses)
+- <span class="qty">1</span> c. à soupe de poudre de cacao ou de cacao non sucré
+- <span class="qty">250</span> à <span class="qty">375</span> ml (<span class="qty">1</span> à <span class="qty">1 1/2</span> tasse) de lait d'amande non sucré
+- <span class="qty">1/2</span> tasse de glaçons (optionnel, pour plus d'épaisseur)
 
 ## Instructions
 

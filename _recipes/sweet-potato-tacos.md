@@ -26,45 +26,45 @@ Maple-roasted sweet potato cubes piled into warm tortillas with tangy pickled re
 
 ### Pickled Onions
 
-- 60 ml (1/4 cup) sugar
-- 1 tbsp salt
-- 250 ml (1 cup) white vinegar
-- 3 red onions, thinly sliced
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) sugar
+- <span class="qty">1</span> tbsp salt
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) white vinegar
+- <span class="qty">3</span> red onions, thinly sliced
 
 ### Maple Sweet Potatoes
 
-- 1.25 L (5 cups) sweet potatoes, cubed
-- 3 tbsp olive oil
-- 3 tbsp maple syrup
-- 2 tsp paprika
-- 1/2 tsp salt
+- <span class="qty">1.25</span> L (<span class="qty">5</span> cups) sweet potatoes, cubed
+- <span class="qty">3</span> tbsp olive oil
+- <span class="qty">3</span> tbsp maple syrup
+- <span class="qty">2</span> tsp paprika
+- <span class="qty">1/2</span> tsp salt
 
 ### Avocado Cream
 
-- 4 avocados
-- Juice of 2 limes
-- 125 ml (1/2 cup) plain Greek yogurt (or sour cream)
-- 1/2 tsp salt
+- <span class="qty">4</span> avocados
+- Juice of <span class="qty">2</span> limes
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) plain Greek yogurt (or sour cream)
+- <span class="qty">1/2</span> tsp salt
 - Hot sauce, to taste
 
 ### Chipotle Cashew Sauce
 
-- 125 ml (1/2 cup) cashews
-- 125 ml (1/2 cup) plain Greek yogurt
-- 60 ml (1/4 cup) olive oil
-- 60 ml (1/4 cup) water
-- 2 1/2 tbsp chipotle peppers in adobo sauce, minced
-- 1 tbsp honey
-- 1 tsp paprika
-- Juice of 2 limes
-- 1 clove garlic, whole, peeled
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) cashews
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) plain Greek yogurt
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) water
+- <span class="qty">2 1/2</span> tbsp chipotle peppers in adobo sauce, minced
+- <span class="qty">1</span> tbsp honey
+- <span class="qty">1</span> tsp paprika
+- Juice of <span class="qty">2</span> limes
+- <span class="qty">1</span> clove garlic, whole, peeled
 - Salt and pepper, to taste
 
 ### For Serving
 
-- 8 small tortillas
-- 125 ml (1/2 cup) crumbled goat feta
-- 1 jalapeno, sliced into rounds (optional)
+- <span class="qty">8</span> small tortillas
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) crumbled goat feta
+- <span class="qty">1</span> jalapeno, sliced into rounds (optional)
 
 ## Instructions
 
@@ -92,45 +92,45 @@ Des cubes de patate douce rôtis à l'érable garnis dans des tortillas chaudes 
 
 ### Oignons marinés
 
-- 60 ml (1/4 tasse) de sucre
-- 1 c. à soupe de sel
-- 250 ml (1 tasse) de vinaigre blanc
-- 3 oignons rouges, émincés
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de sucre
+- <span class="qty">1</span> c. à soupe de sel
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de vinaigre blanc
+- <span class="qty">3</span> oignons rouges, émincés
 
 ### Patates douces à l'érable
 
-- 1,25 L (5 tasses) de patates douces, coupées en dés
-- 3 c. à soupe d'huile d'olive
-- 3 c. à soupe de sirop d'érable
-- 2 c. à thé de paprika
-- 1/2 c. à thé de sel
+- <span class="qty">1</span>,<span class="qty">25</span> L (<span class="qty">5</span> tasses) de patates douces, coupées en dés
+- <span class="qty">3</span> c. à soupe d'huile d'olive
+- <span class="qty">3</span> c. à soupe de sirop d'érable
+- <span class="qty">2</span> c. à thé de paprika
+- <span class="qty">1/2</span> c. à thé de sel
 
 ### Crème à l'avocat
 
-- 4 avocats
-- Jus de 2 limes
-- 125 ml (1/2 tasse) de yogourt grec nature (ou crème sure)
-- 1/2 c. à thé de sel
+- <span class="qty">4</span> avocats
+- Jus de <span class="qty">2</span> limes
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de yogourt grec nature (ou crème sure)
+- <span class="qty">1/2</span> c. à thé de sel
 - Sauce piquante, au goût
 
 ### Sauce chipotle aux noix de cajou
 
-- 125 ml (1/2 tasse) de noix de cajou
-- 125 ml (1/2 tasse) de yogourt grec nature
-- 60 ml (1/4 tasse) d'huile d'olive
-- 60 ml (1/4 tasse) d'eau
-- 2 1/2 c. à soupe de piments chipotle en sauce adobo, hachés
-- 1 c. à soupe de miel
-- 1 c. à thé de paprika
-- Jus de 2 limes
-- 1 gousse d'ail entière, pelée
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de noix de cajou
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de yogourt grec nature
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'eau
+- <span class="qty">2 1/2</span> c. à soupe de piments chipotle en sauce adobo, hachés
+- <span class="qty">1</span> c. à soupe de miel
+- <span class="qty">1</span> c. à thé de paprika
+- Jus de <span class="qty">2</span> limes
+- <span class="qty">1</span> gousse d'ail entière, pelée
 - Sel et poivre, au goût
 
 ### Pour servir
 
-- 8 petites tortillas
-- 125 ml (1/2 tasse) de feta de chevre émiettée
-- 1 jalapeno coupé en rondelles (optionnel)
+- <span class="qty">8</span> petites tortillas
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de feta de chevre émiettée
+- <span class="qty">1</span> jalapeno coupé en rondelles (optionnel)
 
 ## Instructions
 

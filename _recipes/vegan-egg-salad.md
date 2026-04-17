@@ -23,17 +23,17 @@ A creamy, protein-packed vegan egg salad using firm tofu, vegan mayo, Dijon must
 
 ## Ingredients
 
-- 1 block (400 g / 14 oz) firm or extra-firm tofu
-- 125 ml (1/2 cup) vegan mayonnaise
-- 1 tbsp Dijon mustard
-- 1/2 tsp black salt (kala namak)
-- 2 green onions, finely sliced
-- 1-2 tbsp fresh dill, finely chopped
-- 1 stalk celery, finely diced
+- <span class="qty">1</span> block (<span class="qty">400</span> g / <span class="qty">14</span> oz) firm or extra-firm tofu
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) vegan mayonnaise
+- <span class="qty">1</span> tbsp Dijon mustard
+- <span class="qty">1/2</span> tsp black salt (kala namak)
+- <span class="qty">2</span> green onions, finely sliced
+- <span class="qty">1</span>-<span class="qty">2</span> tbsp fresh dill, finely chopped
+- <span class="qty">1</span> stalk celery, finely diced
 - Black pepper, to taste
 - Salt, to taste
-- 1/8 tsp turmeric (optional, for color)
-- Juice of 1/2 lemon (optional)
+- <span class="qty">1/8</span> tsp turmeric (optional, for color)
+- Juice of <span class="qty">1/2</span> lemon (optional)
 
 ## Instructions
 
@@ -58,17 +58,17 @@ Une salade aux œufs vegane crémeuse et riche en proteines a base de tofu ferme
 
 ## Ingrédients
 
-- 1 bloc (400 g / 14 oz) de tofu ferme ou extra-ferme
-- 125 ml (1/2 tasse) de mayonnaise végétale
-- 1 c. à soupe de moutarde de Dijon
-- 1/2 c. à thé de sel noir (kala namak)
-- 2 oignons verts, finement tranches
-- 1-2 c. à soupe d'aneth frais, finement haché
-- 1 branche de céleri, coupée en petits des
+- <span class="qty">1</span> bloc (<span class="qty">400</span> g / <span class="qty">14</span> oz) de tofu ferme ou extra-ferme
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de mayonnaise végétale
+- <span class="qty">1</span> c. à soupe de moutarde de Dijon
+- <span class="qty">1/2</span> c. à thé de sel noir (kala namak)
+- <span class="qty">2</span> oignons verts, finement tranches
+- <span class="qty">1</span>-<span class="qty">2</span> c. à soupe d'aneth frais, finement haché
+- <span class="qty">1</span> branche de céleri, coupée en petits des
 - Poivre noir, au goût
 - Sel, au goût
-- 1/8 c. à thé de curcuma (optionnel, pour la couleur)
-- Jus de 1/2 citron (optionnel)
+- <span class="qty">1/8</span> c. à thé de curcuma (optionnel, pour la couleur)
+- Jus de <span class="qty">1/2</span> citron (optionnel)
 
 ## Instructions
 

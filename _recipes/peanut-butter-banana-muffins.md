@@ -27,23 +27,23 @@ Soft, naturally sweetened muffins packed with peanut butter and ripe banana. Mad
 
 ### Wet Ingredients
 
-- 250 ml (1 cup) mashed ripe bananas (about 3 medium)
-- 190 g (3/4 cup) natural creamy peanut butter
-- 2 large eggs
-- 60 ml (1/4 cup) pure maple syrup
-- 2 tsp vanilla extract
-- 1/2 tbsp dairy-free milk of choice
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) mashed ripe bananas (about <span class="qty">3</span> medium)
+- <span class="qty">190</span> g (<span class="qty">3/4</span> cup) natural creamy peanut butter
+- <span class="qty">2</span> large eggs
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) pure maple syrup
+- <span class="qty">2</span> tsp vanilla extract
+- <span class="qty">1/2</span> tbsp dairy-free milk of choice
 
 ### Dry Ingredients
 
-- 250 ml (1 cup) oat flour
-- 1 tsp baking powder
-- 1/2 tsp cinnamon
-- 1/4 tsp salt
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) oat flour
+- <span class="qty">1</span> tsp baking powder
+- <span class="qty">1/2</span> tsp cinnamon
+- <span class="qty">1/4</span> tsp salt
 
 ### Add-In
 
-- 80 ml (1/3 cup) mini chocolate chips, plus 2 to 3 tbsp for sprinkling on top
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) mini chocolate chips, plus <span class="qty">2</span> to <span class="qty">3</span> tbsp for sprinkling on top
 
 ## Instructions
 
@@ -70,23 +70,23 @@ Des muffins moelleux et naturellement sucrés, débordants de beurre d'arachide 
 
 ### Ingrédients humides
 
-- 250 ml (1 tasse) de bananes mûres écrasées (environ 3 moyennes)
-- 190 g (3/4 tasse) de beurre d'arachide naturel crémeux
-- 2 gros œufs
-- 60 ml (1/4 tasse) de sirop d'érable pur
-- 2 c. à thé d'extrait de vanille
-- 1/2 c. à soupe de lait végétal au choix
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de bananes mûres écrasées (environ <span class="qty">3</span> moyennes)
+- <span class="qty">190</span> g (<span class="qty">3/4</span> tasse) de beurre d'arachide naturel crémeux
+- <span class="qty">2</span> gros œufs
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de sirop d'érable pur
+- <span class="qty">2</span> c. à thé d'extrait de vanille
+- <span class="qty">1/2</span> c. à soupe de lait végétal au choix
 
 ### Ingrédients secs
 
-- 250 ml (1 tasse) de farine d'avoine
-- 1 c. à thé de poudre à pâte
-- 1/2 c. à thé de cannelle
-- 1/4 c. à thé de sel
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de farine d'avoine
+- <span class="qty">1</span> c. à thé de poudre à pâte
+- <span class="qty">1/2</span> c. à thé de cannelle
+- <span class="qty">1/4</span> c. à thé de sel
 
 ### Ajout
 
-- 80 ml (1/3 tasse) de mini pépites de chocolat, plus 2 à 3 c. à soupe pour saupoudrer dessus
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de mini pépites de chocolat, plus <span class="qty">2</span> à <span class="qty">3</span> c. à soupe pour saupoudrer dessus
 
 ## Instructions
 

@@ -27,28 +27,28 @@ Thick, chewy udon noodles stir-fried with crumbled tofu, shiitake mushrooms, gar
 
 ### Sauce
 
-- 1 tbsp gochugaru (Korean chili flakes) or other chili powder
-- 1 tbsp vegetarian mushroom oyster sauce (or stir-fry sauce)
-- 1 tbsp soy sauce
-- 1 tbsp sugar
-- 1 tsp sesame seeds
-- 1 tbsp sesame oil
-- 1 tbsp water
+- <span class="qty">1</span> tbsp gochugaru (Korean chili flakes) or other chili powder
+- <span class="qty">1</span> tbsp vegetarian mushroom oyster sauce (or stir-fry sauce)
+- <span class="qty">1</span> tbsp soy sauce
+- <span class="qty">1</span> tbsp sugar
+- <span class="qty">1</span> tsp sesame seeds
+- <span class="qty">1</span> tbsp sesame oil
+- <span class="qty">1</span> tbsp water
 
 ### Minced Tofu
 
-- 2 tbsp neutral oil
-- 225 g (1/2 lb) extra-firm tofu, crumbled
-- 1 tsp dark soy sauce
+- <span class="qty">2</span> tbsp neutral oil
+- <span class="qty">225</span> g (<span class="qty">1/2</span> lb) extra-firm tofu, crumbled
+- <span class="qty">1</span> tsp dark soy sauce
 
 ### Stir-Fry
 
-- 400 g (14 oz) fresh udon noodles
-- 1 tbsp neutral oil
-- 1 tbsp minced garlic
-- 2 green onions, thinly sliced (divided)
-- 100 g (3.5 oz) shiitake mushrooms, sliced
-- 2-4 tbsp water, as needed
+- <span class="qty">400</span> g (<span class="qty">14</span> oz) fresh udon noodles
+- <span class="qty">1</span> tbsp neutral oil
+- <span class="qty">1</span> tbsp minced garlic
+- <span class="qty">2</span> green onions, thinly sliced (divided)
+- <span class="qty">100</span> g (<span class="qty">3.5</span> oz) shiitake mushrooms, sliced
+- <span class="qty">2</span>-<span class="qty">4</span> tbsp water, as needed
 
 ## Instructions
 
@@ -75,28 +75,28 @@ Des nouilles udon epaisses et moelleuses sautées avec du tofu émietté, des ch
 
 ### Sauce
 
-- 1 c. à soupe de gochugaru (flocons de chili coreen) ou autre poudre de chili
-- 1 c. à soupe de sauce aux huitres vegetarienne aux champignons (ou sauce pour sauté)
-- 1 c. à soupe de sauce soya
-- 1 c. à soupe de sucre
-- 1 c. à thé de graines de sésame
-- 1 c. à soupe d'huile de sésame
-- 1 c. à soupe d'eau
+- <span class="qty">1</span> c. à soupe de gochugaru (flocons de chili coreen) ou autre poudre de chili
+- <span class="qty">1</span> c. à soupe de sauce aux huitres vegetarienne aux champignons (ou sauce pour sauté)
+- <span class="qty">1</span> c. à soupe de sauce soya
+- <span class="qty">1</span> c. à soupe de sucre
+- <span class="qty">1</span> c. à thé de graines de sésame
+- <span class="qty">1</span> c. à soupe d'huile de sésame
+- <span class="qty">1</span> c. à soupe d'eau
 
 ### Tofu émietté
 
-- 2 c. à soupe d'huile neutre
-- 225 g (1/2 lb) de tofu extra-ferme, émietté
-- 1 c. à thé de sauce soya foncee
+- <span class="qty">2</span> c. à soupe d'huile neutre
+- <span class="qty">225</span> g (<span class="qty">1/2</span> lb) de tofu extra-ferme, émietté
+- <span class="qty">1</span> c. à thé de sauce soya foncee
 
 ### Saute
 
-- 400 g (14 oz) de nouilles udon fraiches
-- 1 c. à soupe d'huile neutre
-- 1 c. à soupe d'ail émincé
-- 2 oignons verts, finement tranches (divises)
-- 100 g (3,5 oz) de champignons shiitake, tranches
-- 2 à 4 c. à soupe d'eau, au besoin
+- <span class="qty">400</span> g (<span class="qty">14</span> oz) de nouilles udon fraiches
+- <span class="qty">1</span> c. à soupe d'huile neutre
+- <span class="qty">1</span> c. à soupe d'ail émincé
+- <span class="qty">2</span> oignons verts, finement tranches (divises)
+- <span class="qty">100</span> g (<span class="qty">3</span>,<span class="qty">5</span> oz) de champignons shiitake, tranches
+- <span class="qty">2</span> à <span class="qty">4</span> c. à soupe d'eau, au besoin
 
 ## Instructions
 

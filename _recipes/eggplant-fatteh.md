@@ -26,32 +26,32 @@ A stunning layered dish with a crunchy pita base, spiced roasted eggplant, and a
 
 ### Eggplant
 
-- 1 large eggplant, cut into 2.5 cm (1 inch) cubes
-- 60 ml (1/4 cup) olive oil
-- 1 tsp salt
-- 1 tsp sumac
-- 1/2 tsp paprika
+- <span class="qty">1</span> large eggplant, cut into 2.5 cm (1 inch) cubes
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
+- <span class="qty">1</span> tsp salt
+- <span class="qty">1</span> tsp sumac
+- <span class="qty">1/2</span> tsp paprika
 
 ### Pita
 
-- 4 pita breads (20 cm / 8 inch), cut into 2.5 cm (1 inch) squares
-- 60 ml (1/4 cup) olive oil
-- 2 tsp sumac
+- <span class="qty">4</span> pita breads (20 cm / 8 inch), cut into 2.5 cm (1 inch) squares
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
+- <span class="qty">2</span> tsp sumac
 
 ### Tahini Yogurt Sauce
 
-- 2 cups (500 g) plain yogurt
-- 60 ml (1/4 cup) tahini
-- 1 clove garlic, minced
-- Juice of 1/2 lemon
-- 1/2 tsp salt, or to taste
+- <span class="qty">2</span> cups (<span class="qty">500</span> g) plain yogurt
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) tahini
+- <span class="qty">1</span> clove garlic, minced
+- Juice of <span class="qty">1/2</span> lemon
+- <span class="qty">1/2</span> tsp salt, or to taste
 
 ### Garnish
 
-- 60 ml (1/4 cup) slivered almonds or pine nuts
-- 2 tbsp olive oil
-- 60 ml (1/4 cup) fresh parsley, finely chopped
-- 60 ml (1/4 cup) pomegranate seeds (optional)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) slivered almonds or pine nuts
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) fresh parsley, finely chopped
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) pomegranate seeds (optional)
 
 ## Instructions
 
@@ -77,32 +77,32 @@ Un plat en couches spectaculaire avec une base de pita croustillant, de l'auberg
 
 ### Aubergine
 
-- 1 grosse aubergine, coupée en cubes de 2,5 cm (1 po)
-- 60 ml (1/4 tasse) d'huile d'olive
-- 1 c. à thé de sel
-- 1 c. à thé de sumac
-- 1/2 c. à thé de paprika
+- <span class="qty">1</span> grosse aubergine, coupée en cubes de 2,5 cm (1 po)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
+- <span class="qty">1</span> c. à thé de sel
+- <span class="qty">1</span> c. à thé de sumac
+- <span class="qty">1/2</span> c. à thé de paprika
 
 ### Pita
 
-- 4 pains pitas (20 cm / 8 po), coupés en carrés de 2,5 cm (1 po)
-- 60 ml (1/4 tasse) d'huile d'olive
-- 2 c. à thé de sumac
+- <span class="qty">4</span> pains pitas (20 cm / 8 po), coupés en carrés de 2,5 cm (1 po)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
+- <span class="qty">2</span> c. à thé de sumac
 
 ### Sauce tahini-yogourt
 
-- 2 tasses (500 g) de yogourt nature
-- 60 ml (1/4 tasse) de tahini
-- 1 gousse d'ail, émincée
+- <span class="qty">2</span> tasses (<span class="qty">500</span> g) de yogourt nature
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de tahini
+- <span class="qty">1</span> gousse d'ail, émincée
 - Jus d'un demi-citron
-- 1/2 c. à thé de sel, ou au goût
+- <span class="qty">1/2</span> c. à thé de sel, ou au goût
 
 ### Garniture
 
-- 60 ml (1/4 tasse) d'amandes effilées ou de pignons
-- 2 c. à soupe d'huile d'olive
-- 60 ml (1/4 tasse) de persil frais, finement haché
-- 60 ml (1/4 tasse) de graines de grenade (optionnel)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'amandes effilées ou de pignons
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de persil frais, finement haché
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de graines de grenade (optionnel)
 
 ## Instructions
 

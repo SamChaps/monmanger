@@ -24,12 +24,12 @@ Grated tempeh coated in a smoky, sweet, savory glaze and baked until the edges t
 
 ## Ingredients
 
-- 250 g (8.8 oz) tempeh block
-- 2 tbsp grapeseed oil (or neutral oil)
-- 1 tbsp soy sauce (or tamari)
-- 1 tbsp maple syrup
-- 1/2 tsp liquid smoke
-- 1/2 tsp smoked paprika
+- <span class="qty">250</span> g (<span class="qty">8.8</span> oz) tempeh block
+- <span class="qty">2</span> tbsp grapeseed oil (or neutral oil)
+- <span class="qty">1</span> tbsp soy sauce (or tamari)
+- <span class="qty">1</span> tbsp maple syrup
+- <span class="qty">1/2</span> tsp liquid smoke
+- <span class="qty">1/2</span> tsp smoked paprika
 
 ## Instructions
 
@@ -54,12 +54,12 @@ Du tempeh râpé enrobé d'un glaçage fumé, sucré et salé, cuit au four jusq
 
 ## Ingrédients
 
-- 250 g (8,8 oz) de tempeh en bloc
-- 2 c. à soupe d'huile de pépins de raisin (ou huile neutre)
-- 1 c. à soupe de sauce soya (ou tamari)
-- 1 c. à soupe de sirop d'érable
-- 1/2 c. à thé de fumée liquide
-- 1/2 c. à thé de paprika fumé
+- <span class="qty">250</span> g (<span class="qty">8</span>,<span class="qty">8</span> oz) de tempeh en bloc
+- <span class="qty">2</span> c. à soupe d'huile de pépins de raisin (ou huile neutre)
+- <span class="qty">1</span> c. à soupe de sauce soya (ou tamari)
+- <span class="qty">1</span> c. à soupe de sirop d'érable
+- <span class="qty">1/2</span> c. à thé de fumée liquide
+- <span class="qty">1/2</span> c. à thé de paprika fumé
 
 ## Instructions
 

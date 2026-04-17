@@ -26,26 +26,26 @@ Extra-firm tofu pressed, seasoned, coated in cornstarch, and baked until golden 
 
 ### Crispy Tofu
 
-- 1 block (400-450 g / 14-16 oz) firm or extra-firm tofu
-- 1 tbsp neutral vegetable oil
-- 1/2 tsp salt
-- 1/2 tsp onion powder
-- 1/2 tsp garlic powder
+- <span class="qty">1</span> block (<span class="qty">400</span>-<span class="qty">450</span> g / <span class="qty">14</span>-<span class="qty">16</span> oz) firm or extra-firm tofu
+- <span class="qty">1</span> tbsp neutral vegetable oil
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1/2</span> tsp onion powder
+- <span class="qty">1/2</span> tsp garlic powder
 - Black pepper, to taste
-- 2 tbsp cornstarch (or potato starch)
+- <span class="qty">2</span> tbsp cornstarch (or potato starch)
 
 ### Sauce
 
-- 1 tbsp neutral vegetable oil
-- 1 tbsp minced garlic
-- 3 tbsp soy sauce
-- 2 tbsp ketchup
-- 3 tbsp brown sugar
-- 2 tbsp rice vinegar
-- 2 tsp toasted sesame oil
-- 2 tsp cornstarch
-- 2 tbsp toasted sesame seeds
-- 1 green onion, chopped (whites and greens separated)
+- <span class="qty">1</span> tbsp neutral vegetable oil
+- <span class="qty">1</span> tbsp minced garlic
+- <span class="qty">3</span> tbsp soy sauce
+- <span class="qty">2</span> tbsp ketchup
+- <span class="qty">3</span> tbsp brown sugar
+- <span class="qty">2</span> tbsp rice vinegar
+- <span class="qty">2</span> tsp toasted sesame oil
+- <span class="qty">2</span> tsp cornstarch
+- <span class="qty">2</span> tbsp toasted sesame seeds
+- <span class="qty">1</span> green onion, chopped (whites and greens separated)
 
 ## Instructions
 
@@ -73,26 +73,26 @@ Du tofu extra-ferme pressé, assaisonné, enrobé de fécule de maïs et cuit au
 
 ### Tofu croustillant
 
-- 1 bloc (400-450 g / 14-16 oz) de tofu ferme ou extra-ferme
-- 1 c. à soupe d'huile végétale neutre
-- 1/2 c. à thé de sel
-- 1/2 c. à thé de poudre d'oignon
-- 1/2 c. à thé de poudre d'ail
+- <span class="qty">1</span> bloc (<span class="qty">400</span>-<span class="qty">450</span> g / <span class="qty">14</span>-<span class="qty">16</span> oz) de tofu ferme ou extra-ferme
+- <span class="qty">1</span> c. à soupe d'huile végétale neutre
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1/2</span> c. à thé de poudre d'oignon
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
 - Poivre noir, au goût
-- 2 c. à soupe de fécule de maïs (ou de pomme de terre)
+- <span class="qty">2</span> c. à soupe de fécule de maïs (ou de pomme de terre)
 
 ### Sauce
 
-- 1 c. à soupe d'huile végétale neutre
-- 1 c. à soupe d'ail émincé
-- 3 c. à soupe de sauce soya
-- 2 c. à soupe de ketchup
-- 3 c. à soupe de cassonade
-- 2 c. à soupe de vinaigre de riz
-- 2 c. à thé d'huile de sésame grillée
-- 2 c. à thé de fécule de maïs
-- 2 c. à soupe de graines de sésame grillées
-- 1 oignon vert, haché (blanc et vert separes)
+- <span class="qty">1</span> c. à soupe d'huile végétale neutre
+- <span class="qty">1</span> c. à soupe d'ail émincé
+- <span class="qty">3</span> c. à soupe de sauce soya
+- <span class="qty">2</span> c. à soupe de ketchup
+- <span class="qty">3</span> c. à soupe de cassonade
+- <span class="qty">2</span> c. à soupe de vinaigre de riz
+- <span class="qty">2</span> c. à thé d'huile de sésame grillée
+- <span class="qty">2</span> c. à thé de fécule de maïs
+- <span class="qty">2</span> c. à soupe de graines de sésame grillées
+- <span class="qty">1</span> oignon vert, haché (blanc et vert separes)
 
 ## Instructions
 

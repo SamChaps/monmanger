@@ -26,28 +26,28 @@ A colorful autumn-inspired grain bowl loaded with roasted cauliflower and sweet 
 
 ### Roasted Vegetables
 
-- 1/2 small head cauliflower, cut into florets
-- 1 medium sweet potato, cubed
-- 1 tbsp olive oil
+- <span class="qty">1/2</span> small head cauliflower, cut into florets
+- <span class="qty">1</span> medium sweet potato, cubed
+- <span class="qty">1</span> tbsp olive oil
 - Salt and pepper, to taste
 
 ### Bowl
 
-- 250 ml (1 cup) cooked quinoa
-- 2 large handfuls kale, stems removed, roughly chopped
-- 1 tsp olive oil
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) cooked quinoa
+- <span class="qty">2</span> large handfuls kale, stems removed, roughly chopped
+- <span class="qty">1</span> tsp olive oil
 - Pinch of salt
-- 1 small apple, thinly sliced
-- 60 ml (1/4 cup) vegan feta, crumbled
-- 2 tbsp pumpkin seeds
+- <span class="qty">1</span> small apple, thinly sliced
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) vegan feta, crumbled
+- <span class="qty">2</span> tbsp pumpkin seeds
 
 ### Apple Cider Hummus Dressing
 
-- 60 ml (1/4 cup) hummus
-- 2 tbsp apple cider vinegar
-- 1 tbsp maple syrup
-- 1 tbsp olive oil
-- 1 tbsp water, or more to thin
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) hummus
+- <span class="qty">2</span> tbsp apple cider vinegar
+- <span class="qty">1</span> tbsp maple syrup
+- <span class="qty">1</span> tbsp olive oil
+- <span class="qty">1</span> tbsp water, or more to thin
 
 ## Instructions
 
@@ -72,28 +72,28 @@ Un bol d'automne coloré garni de chou-fleur et patate douce rôtis, chou frisé
 
 ### Légumes rôtis
 
-- 1/2 petit chou-fleur, coupé en bouquets
-- 1 patate douce moyenne, coupée en cubes
-- 1 c. à soupe d'huile d'olive
+- <span class="qty">1/2</span> petit chou-fleur, coupé en bouquets
+- <span class="qty">1</span> patate douce moyenne, coupée en cubes
+- <span class="qty">1</span> c. à soupe d'huile d'olive
 - Sel et poivre, au goût
 
 ### Bol
 
-- 250 ml (1 tasse) de quinoa cuit
-- 2 grosses poignées de chou frisé, tiges retirées, haché grossièrement
-- 1 c. à thé d'huile d'olive
-- 1 pincée de sel
-- 1 petite pomme, tranchée finement
-- 60 ml (1/4 tasse) de feta végane, émiettée
-- 2 c. à soupe de graines de citrouille
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de quinoa cuit
+- <span class="qty">2</span> grosses poignées de chou frisé, tiges retirées, haché grossièrement
+- <span class="qty">1</span> c. à thé d'huile d'olive
+- <span class="qty">1</span> pincée de sel
+- <span class="qty">1</span> petite pomme, tranchée finement
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de feta végane, émiettée
+- <span class="qty">2</span> c. à soupe de graines de citrouille
 
 ### Vinaigrette au cidre de pomme et houmous
 
-- 60 ml (1/4 tasse) de houmous
-- 2 c. à soupe de vinaigre de cidre de pomme
-- 1 c. à soupe de sirop d'érable
-- 1 c. à soupe d'huile d'olive
-- 1 c. à soupe d'eau, ou plus pour diluer
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de houmous
+- <span class="qty">2</span> c. à soupe de vinaigre de cidre de pomme
+- <span class="qty">1</span> c. à soupe de sirop d'érable
+- <span class="qty">1</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> c. à soupe d'eau, ou plus pour diluer
 
 ## Instructions
 

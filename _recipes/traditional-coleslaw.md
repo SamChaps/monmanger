@@ -25,17 +25,17 @@ A classic vinaigrette-style coleslaw with finely shredded cabbage and grated car
 
 ### Vinaigrette
 
-- 1 tbsp sugar
-- 60 ml (1/4 cup) white vinegar
-- 60 ml (1/4 cup) vegetable oil
-- 1/2 tsp onion salt
-- 1/2 tsp garlic powder
+- <span class="qty">1</span> tbsp sugar
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) white vinegar
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) vegetable oil
+- <span class="qty">1/2</span> tsp onion salt
+- <span class="qty">1/2</span> tsp garlic powder
 - Salt and pepper, to taste
 
 ### Salad
 
-- 1.5 L (6 cups) cabbage, finely shredded with a knife
-- 250 ml (1 cup) grated carrots
+- <span class="qty">1.5</span> L (<span class="qty">6</span> cups) cabbage, finely shredded with a knife
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) grated carrots
 
 ## Instructions
 
@@ -58,17 +58,17 @@ Une salade de chou classique en vinaigrette avec du chou finement émincé et de
 
 ### Vinaigrette
 
-- 15 ml (1 c. à soupe) de sucre
-- 60 ml (1/4 tasse) de vinaigre blanc
-- 60 ml (1/4 tasse) d'huile végétale
-- 2,5 ml (1/2 c. à thé) de sel d'oignon
-- 2,5 ml (1/2 c. à thé) de poudre d'ail
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de sucre
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de vinaigre blanc
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile végétale
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de sel d'oignon
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de poudre d'ail
 - Sel et poivre, au goût
 
 ### Salade
 
-- 1,5 L (6 tasses) de chou émincé finement au couteau
-- 250 ml (1 tasse) de carottes rapees
+- <span class="qty">1</span>,<span class="qty">5</span> L (<span class="qty">6</span> tasses) de chou émincé finement au couteau
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de carottes rapees
 
 ## Instructions
 

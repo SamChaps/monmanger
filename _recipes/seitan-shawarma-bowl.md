@@ -26,21 +26,21 @@ A hearty grain bowl inspired by shawarma flavours. Pan-seared seitan sits on flu
 
 ### Bowl
 
-- 150 g seitan (shawarma or kebab style), cubed
-- 2 tbsp olive oil
-- 1 cup (185 g) cooked basmati rice
-- 2 cups (80 g) kale, chopped
-- 8 cherry tomatoes, halved
-- 1/4 red onion, thinly sliced
+- <span class="qty">150</span> g seitan (shawarma or kebab style), cubed
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> cup (<span class="qty">185</span> g) cooked basmati rice
+- <span class="qty">2</span> cups (<span class="qty">80</span> g) kale, chopped
+- <span class="qty">8</span> cherry tomatoes, halved
+- <span class="qty">1/4</span> red onion, thinly sliced
 
 ### Garlic Dressing
 
-- 35 g (1/4 cup) raw cashews, soaked 10 minutes in hot water
-- 2 tbsp olive oil
-- 1 tsp maple syrup
-- 1 tbsp lemon juice
-- 1 tsp garlic powder
-- 2 tbsp water
+- <span class="qty">35</span> g (<span class="qty">1/4</span> cup) raw cashews, soaked 10 minutes in hot water
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> tsp maple syrup
+- <span class="qty">1</span> tbsp lemon juice
+- <span class="qty">1</span> tsp garlic powder
+- <span class="qty">2</span> tbsp water
 - Pinch of salt
 
 ## Instructions
@@ -66,21 +66,21 @@ Un bol-repas généreux aux saveurs de shawarma. Du seitan doré à la poêle re
 
 ### Bol
 
-- 150 g de seitan (style shawarma ou kebab), en cubes
-- 2 c. à soupe d'huile d'olive
-- 1 tasse (185 g) de riz basmati cuit
-- 2 tasses (80 g) de chou kale, haché
-- 8 tomates cerises, coupées en deux
-- 1/4 d'oignon rouge, finement émincé
+- <span class="qty">150</span> g de seitan (style shawarma ou kebab), en cubes
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> tasse (<span class="qty">185</span> g) de riz basmati cuit
+- <span class="qty">2</span> tasses (<span class="qty">80</span> g) de chou kale, haché
+- <span class="qty">8</span> tomates cerises, coupées en deux
+- <span class="qty">1/4</span> d'oignon rouge, finement émincé
 
 ### Vinaigrette à l'ail
 
-- 35 g (1/4 tasse) de cajous crus, trempés 10 min dans l'eau chaude
-- 2 c. à soupe d'huile d'olive
-- 1 c. à thé de sirop d'érable
-- 1 c. à soupe de jus de citron
-- 1 c. à thé de poudre d'ail
-- 2 c. à soupe d'eau
+- <span class="qty">35</span> g (<span class="qty">1/4</span> tasse) de cajous crus, trempés 10 min dans l'eau chaude
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> c. à thé de sirop d'érable
+- <span class="qty">1</span> c. à soupe de jus de citron
+- <span class="qty">1</span> c. à thé de poudre d'ail
+- <span class="qty">2</span> c. à soupe d'eau
 - Pincée de sel
 
 ## Instructions

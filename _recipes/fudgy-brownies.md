@@ -24,16 +24,16 @@ Deeply chocolatey brownies that are fudgy in the center with perfectly crispy ed
 
 ## Ingredients
 
-- 315 g (1 1/2 cups) granulated sugar
-- 95 g (3/4 cup) all-purpose flour
-- 85 g (2/3 cup) cocoa powder, sifted if lumpy
-- 60 g (1/2 cup) powdered sugar, sifted if lumpy
-- 85 g (1/2 cup) dark chocolate chips
-- 3/4 tsp sea salt
-- 2 large eggs
-- 120 ml (1/2 cup) olive oil (or canola oil)
-- 2 tbsp water
-- 1/2 tsp vanilla extract
+- <span class="qty">315</span> g (<span class="qty">1 1/2</span> cups) granulated sugar
+- <span class="qty">95</span> g (<span class="qty">3/4</span> cup) all-purpose flour
+- <span class="qty">85</span> g (<span class="qty">2/3</span> cup) cocoa powder, sifted if lumpy
+- <span class="qty">60</span> g (<span class="qty">1/2</span> cup) powdered sugar, sifted if lumpy
+- <span class="qty">85</span> g (<span class="qty">1/2</span> cup) dark chocolate chips
+- <span class="qty">3/4</span> tsp sea salt
+- <span class="qty">2</span> large eggs
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) olive oil (or canola oil)
+- <span class="qty">2</span> tbsp water
+- <span class="qty">1/2</span> tsp vanilla extract
 
 ## Instructions
 
@@ -59,16 +59,16 @@ Des brownies intensément chocolatés, fondants au centre avec des bords parfait
 
 ## Ingrédients
 
-- 315 g (1 1/2 tasse) de sucre granulé
-- 95 g (3/4 tasse) de farine tout usage
-- 85 g (2/3 tasse) de poudre de cacao, tamisée si grumeleuse
-- 60 g (1/2 tasse) de sucre à glacer, tamisé si grumeleux
-- 85 g (1/2 tasse) de pépites de chocolat noir
-- 3/4 c. à thé de sel de mer
-- 2 gros œufs
-- 120 ml (1/2 tasse) d'huile d'olive (ou huile de canola)
-- 2 c. à soupe d'eau
-- 1/2 c. à thé d'extrait de vanille
+- <span class="qty">315</span> g (<span class="qty">1 1/2</span> tasse) de sucre granulé
+- <span class="qty">95</span> g (<span class="qty">3/4</span> tasse) de farine tout usage
+- <span class="qty">85</span> g (<span class="qty">2/3</span> tasse) de poudre de cacao, tamisée si grumeleuse
+- <span class="qty">60</span> g (<span class="qty">1/2</span> tasse) de sucre à glacer, tamisé si grumeleux
+- <span class="qty">85</span> g (<span class="qty">1/2</span> tasse) de pépites de chocolat noir
+- <span class="qty">3/4</span> c. à thé de sel de mer
+- <span class="qty">2</span> gros œufs
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) d'huile d'olive (ou huile de canola)
+- <span class="qty">2</span> c. à soupe d'eau
+- <span class="qty">1/2</span> c. à thé d'extrait de vanille
 
 ## Instructions
 

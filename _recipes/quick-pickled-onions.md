@@ -24,13 +24,13 @@ A simple hot-brine poured over thinly sliced red onion, ready to use in about 30
 
 ## Ingredients
 
-- 1 medium red onion, very thinly sliced
-- 125 ml (1/2 cup) water
-- 60 ml (1/4 cup) distilled white vinegar
-- 60 ml (1/4 cup) apple cider vinegar
-- 1 1/2 tbsp maple syrup (or honey)
-- 1 1/2 tsp fine sea salt
-- 1/4 tsp red pepper flakes (optional)
+- <span class="qty">1</span> medium red onion, very thinly sliced
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) water
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) distilled white vinegar
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) apple cider vinegar
+- <span class="qty">1 1/2</span> tbsp maple syrup (or honey)
+- <span class="qty">1 1/2</span> tsp fine sea salt
+- <span class="qty">1/4</span> tsp red pepper flakes (optional)
 
 ## Instructions
 
@@ -54,13 +54,13 @@ Une simple saumure chaude versee sur des oignons rouges finement tranches, prets
 
 ## Ingrédients
 
-- 1 oignon rouge moyen, tranche très finement
-- 125 ml (1/2 tasse) d'eau
-- 60 ml (1/4 tasse) de vinaigre blanc distille
-- 60 ml (1/4 tasse) de vinaigre de cidre de pomme
-- 1 1/2 c. à soupe de sirop d'érable (ou miel)
-- 1 1/2 c. à thé de sel de mer fin
-- 1/4 c. à thé de flocons de piment rouge (optionnel)
+- <span class="qty">1</span> oignon rouge moyen, tranche très finement
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'eau
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de vinaigre blanc distille
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de vinaigre de cidre de pomme
+- <span class="qty">1 1/2</span> c. à soupe de sirop d'érable (ou miel)
+- <span class="qty">1 1/2</span> c. à thé de sel de mer fin
+- <span class="qty">1/4</span> c. à thé de flocons de piment rouge (optionnel)
 
 ## Instructions
 

@@ -25,11 +25,11 @@ Medjool dates pressed together, layered with peanut butter and chopped peanuts, 
 
 ## Ingredients
 
-- 10 to 12 pitted Medjool dates
-- 2 tbsp drippy peanut butter
-- 2 tbsp chopped peanuts
-- 1/2 cup (85 g) dark chocolate chips
-- 1 tsp coconut oil
+- <span class="qty">10</span> to <span class="qty">12</span> pitted Medjool dates
+- <span class="qty">2</span> tbsp drippy peanut butter
+- <span class="qty">2</span> tbsp chopped peanuts
+- <span class="qty">1/2</span> cup (<span class="qty">85</span> g) dark chocolate chips
+- <span class="qty">1</span> tsp coconut oil
 - Flaky sea salt
 
 ## Instructions
@@ -53,11 +53,11 @@ Des dattes Medjool pressées ensemble, recouvertes de beurre d'arachide et d'ara
 
 ## Ingrédients
 
-- 10 à 12 dattes Medjool dénoyautées
-- 2 c. à soupe de beurre d'arachide coulant
-- 2 c. à soupe d'arachides hachées
-- 1/2 tasse (85 g) de pépites de chocolat noir
-- 1 c. à thé d'huile de coco
+- <span class="qty">10</span> à <span class="qty">12</span> dattes Medjool dénoyautées
+- <span class="qty">2</span> c. à soupe de beurre d'arachide coulant
+- <span class="qty">2</span> c. à soupe d'arachides hachées
+- <span class="qty">1/2</span> tasse (<span class="qty">85</span> g) de pépites de chocolat noir
+- <span class="qty">1</span> c. à thé d'huile de coco
 - Fleur de sel
 
 ## Instructions

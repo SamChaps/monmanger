@@ -26,24 +26,24 @@ A rich, golden curry loaded with tender butternut squash and brown lentils simme
 
 ## Ingredients
 
-- 1 1/2 tbsp virgin coconut oil, divided
-- 1 tsp whole cumin seeds
-- 1 medium yellow onion, diced
-- 1 1/2 tsp kosher salt, divided
-- 6 cloves garlic, minced
-- 1 piece fresh ginger (5 cm / 2 inches), finely grated
-- 1 tbsp curry powder
-- 1 1/2 tsp ground turmeric
-- 1/2 tsp cayenne pepper (optional)
-- 2 tbsp water
-- 700 to 850 g (5 to 6 cups) butternut squash, peeled and roughly chopped
-- 375 ml (1 1/2 cups) low-sodium vegetable broth
-- 250 ml (1 cup) brown or green lentils, rinsed
-- 1 can (400 ml) light coconut milk
-- 3 tbsp cashew butter
-- 120 g (4 oz) baby kale or baby spinach
-- 1 tbsp fresh lime or lemon juice
-- 1 large handful fresh cilantro, roughly chopped
+- <span class="qty">1 1/2</span> tbsp virgin coconut oil, divided
+- <span class="qty">1</span> tsp whole cumin seeds
+- <span class="qty">1</span> medium yellow onion, diced
+- <span class="qty">1 1/2</span> tsp kosher salt, divided
+- <span class="qty">6</span> cloves garlic, minced
+- <span class="qty">1</span> piece fresh ginger (5 cm / 2 inches), finely grated
+- <span class="qty">1</span> tbsp curry powder
+- <span class="qty">1 1/2</span> tsp ground turmeric
+- <span class="qty">1/2</span> tsp cayenne pepper (optional)
+- <span class="qty">2</span> tbsp water
+- <span class="qty">700</span> to <span class="qty">850</span> g (<span class="qty">5</span> to <span class="qty">6</span> cups) butternut squash, peeled and roughly chopped
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> cups) low-sodium vegetable broth
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) brown or green lentils, rinsed
+- <span class="qty">1</span> can (<span class="qty">400</span> ml) light coconut milk
+- <span class="qty">3</span> tbsp cashew butter
+- <span class="qty">120</span> g (<span class="qty">4</span> oz) baby kale or baby spinach
+- <span class="qty">1</span> tbsp fresh lime or lemon juice
+- <span class="qty">1</span> large handful fresh cilantro, roughly chopped
 
 ### For Serving
 
@@ -84,24 +84,24 @@ Un cari riche et doré, garni de courge butternut tendre et de lentilles brunes 
 
 ## Ingrédients
 
-- 1 1/2 c. à soupe d'huile de coco vierge, divisée
-- 1 c. à thé de graines de cumin entières
-- 1 oignon jaune moyen, coupé en dés
-- 1 1/2 c. à thé de gros sel, divisé
-- 6 gousses d'ail, hachées
-- 1 morceau de gingembre frais (5 cm / 2 po), râpé finement
-- 1 c. à soupe de poudre de cari
-- 1 1/2 c. à thé de curcuma moulu
-- 1/2 c. à thé de cayenne (optionnel)
-- 2 c. à soupe d'eau
-- 700 à 850 g (5 à 6 tasses) de courge butternut, pelée et coupée grossièrement
-- 375 ml (1 1/2 tasse) de bouillon de légumes faible en sodium
-- 250 ml (1 tasse) de lentilles brunes ou vertes, rincées
-- 1 boîte (400 ml) de lait de coco léger
-- 3 c. à soupe de beurre de cajou
-- 120 g (4 oz) de jeunes pousses de chou frisé ou bébé épinards
-- 1 c. à soupe de jus de lime ou citron frais
-- 1 grosse poignée de coriandre fraîche, hachée grossièrement
+- <span class="qty">1 1/2</span> c. à soupe d'huile de coco vierge, divisée
+- <span class="qty">1</span> c. à thé de graines de cumin entières
+- <span class="qty">1</span> oignon jaune moyen, coupé en dés
+- <span class="qty">1 1/2</span> c. à thé de gros sel, divisé
+- <span class="qty">6</span> gousses d'ail, hachées
+- <span class="qty">1</span> morceau de gingembre frais (5 cm / 2 po), râpé finement
+- <span class="qty">1</span> c. à soupe de poudre de cari
+- <span class="qty">1 1/2</span> c. à thé de curcuma moulu
+- <span class="qty">1/2</span> c. à thé de cayenne (optionnel)
+- <span class="qty">2</span> c. à soupe d'eau
+- <span class="qty">700</span> à <span class="qty">850</span> g (<span class="qty">5</span> à <span class="qty">6</span> tasses) de courge butternut, pelée et coupée grossièrement
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> tasse) de bouillon de légumes faible en sodium
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de lentilles brunes ou vertes, rincées
+- <span class="qty">1</span> boîte (<span class="qty">400</span> ml) de lait de coco léger
+- <span class="qty">3</span> c. à soupe de beurre de cajou
+- <span class="qty">120</span> g (<span class="qty">4</span> oz) de jeunes pousses de chou frisé ou bébé épinards
+- <span class="qty">1</span> c. à soupe de jus de lime ou citron frais
+- <span class="qty">1</span> grosse poignée de coriandre fraîche, hachée grossièrement
 
 ### Pour servir
 

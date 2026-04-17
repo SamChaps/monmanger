@@ -24,12 +24,12 @@ A base recipe with magical powers: it converts tofu skeptics. Bite-sized pieces 
 
 ## Ingredients
 
-- 1 block (450 g) extra-firm tofu, patted dry with a clean towel
-- 1 tbsp apple cider vinegar (or lemon juice)
-- 1 tbsp soy sauce (or tamari)
-- 1 tbsp maple syrup
-- 30 g (1/4 cup) nutritional yeast flakes
-- 1 tbsp vegetable oil, for cooking
+- <span class="qty">1</span> block (<span class="qty">450</span> g) extra-firm tofu, patted dry with a clean towel
+- <span class="qty">1</span> tbsp apple cider vinegar (or lemon juice)
+- <span class="qty">1</span> tbsp soy sauce (or tamari)
+- <span class="qty">1</span> tbsp maple syrup
+- <span class="qty">30</span> g (<span class="qty">1/4</span> cup) nutritional yeast flakes
+- <span class="qty">1</span> tbsp vegetable oil, for cooking
 
 ## Instructions
 
@@ -53,12 +53,12 @@ Une recette de base aux pouvoirs magiques: elle convertit les sceptiques du tofu
 
 ## Ingrédients
 
-- 1 bloc (450 g) de tofu extra-ferme, epongé dans un linge sec
-- 1 c. à soupe de vinaigre de cidre de pommes (ou jus de citron)
-- 1 c. à soupe de sauce soya ou tamari
-- 1 c. à soupe de sirop d'érable
-- 30 g (1/4 tasse) de levure alimentaire en flocons
-- 1 c. à soupe d'huile végétale, pour la cuisson
+- <span class="qty">1</span> bloc (<span class="qty">450</span> g) de tofu extra-ferme, epongé dans un linge sec
+- <span class="qty">1</span> c. à soupe de vinaigre de cidre de pommes (ou jus de citron)
+- <span class="qty">1</span> c. à soupe de sauce soya ou tamari
+- <span class="qty">1</span> c. à soupe de sirop d'érable
+- <span class="qty">30</span> g (<span class="qty">1/4</span> tasse) de levure alimentaire en flocons
+- <span class="qty">1</span> c. à soupe d'huile végétale, pour la cuisson
 
 ## Instructions
 

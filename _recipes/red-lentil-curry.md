@@ -25,24 +25,24 @@ A deeply spiced red lentil curry simmered in crushed tomatoes and coconut milk, 
 
 ## Ingredients
 
-- 1 tbsp coconut oil (or neutral oil)
-- 4 cloves garlic, minced
+- <span class="qty">1</span> tbsp coconut oil (or neutral oil)
+- <span class="qty">4</span> cloves garlic, minced
 - 5 cm (2-inch) piece fresh ginger, peeled and minced
-- 1 tbsp fresh turmeric, minced (or 1 tsp ground turmeric)
-- 1-2 serrano peppers, diced
-- 1 tsp ground cumin
-- 1/2 tsp ground coriander
-- 1/2 tsp Indian red chili powder
-- 2 tsp curry powder
-- 1/2 tsp garam masala
+- <span class="qty">1</span> tbsp fresh turmeric, minced (or <span class="qty">1</span> tsp ground turmeric)
+- <span class="qty">1</span>-<span class="qty">2</span> serrano peppers, diced
+- <span class="qty">1</span> tsp ground cumin
+- <span class="qty">1/2</span> tsp ground coriander
+- <span class="qty">1/2</span> tsp Indian red chili powder
+- <span class="qty">2</span> tsp curry powder
+- <span class="qty">1/2</span> tsp garam masala
 - Salt and pepper, to taste
-- 180 g (1 cup) red lentils, rinsed
-- 480 ml (2 cups) low-sodium vegetable broth
-- 1 can (400 g) crushed tomatoes
-- 1 can (400 ml) full-fat coconut milk
-- 3 tbsp unsweetened creamy almond butter
-- Juice of 1/2 lemon
-- 125 ml (1/2 cup) fresh cilantro, roughly chopped
+- <span class="qty">180</span> g (<span class="qty">1</span> cup) red lentils, rinsed
+- <span class="qty">480</span> ml (<span class="qty">2</span> cups) low-sodium vegetable broth
+- <span class="qty">1</span> can (<span class="qty">400</span> g) crushed tomatoes
+- <span class="qty">1</span> can (<span class="qty">400</span> ml) full-fat coconut milk
+- <span class="qty">3</span> tbsp unsweetened creamy almond butter
+- Juice of <span class="qty">1/2</span> lemon
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) fresh cilantro, roughly chopped
 - Basmati or jasmine rice, for serving
 
 ## Instructions
@@ -68,24 +68,24 @@ Un cari de lentilles rouges bien épicé, mijote dans des tomates broyées et du
 
 ## Ingrédients
 
-- 1 c. à soupe d'huile de coco (ou huile neutre)
-- 4 gousses d'ail, émincées
-- 1 morceau de gingembre frais de 5 cm (2 po), pelé et émincé
-- 1 c. à soupe de curcuma frais, émincé (ou 1 c. à thé de curcuma moulu)
-- 1-2 piments serrano, coupés en dés
-- 1 c. à thé de cumin moulu
-- 1/2 c. à thé de coriandre moulue
-- 1/2 c. à thé de poudre de chili indien
-- 2 c. à thé de poudre de cari
-- 1/2 c. à thé de garam masala
+- <span class="qty">1</span> c. à soupe d'huile de coco (ou huile neutre)
+- <span class="qty">4</span> gousses d'ail, émincées
+- <span class="qty">1</span> morceau de gingembre frais de 5 cm (2 po), pelé et émincé
+- <span class="qty">1</span> c. à soupe de curcuma frais, émincé (ou <span class="qty">1</span> c. à thé de curcuma moulu)
+- <span class="qty">1</span>-<span class="qty">2</span> piments serrano, coupés en dés
+- <span class="qty">1</span> c. à thé de cumin moulu
+- <span class="qty">1/2</span> c. à thé de coriandre moulue
+- <span class="qty">1/2</span> c. à thé de poudre de chili indien
+- <span class="qty">2</span> c. à thé de poudre de cari
+- <span class="qty">1/2</span> c. à thé de garam masala
 - Sel et poivre, au goût
-- 180 g (1 tasse) de lentilles rouges, rincées
-- 480 ml (2 tasses) de bouillon de légumes faible en sodium
-- 1 boîte (400 g) de tomates broyées
-- 1 boîte (400 ml) de lait de coco entier
-- 3 c. à soupe de beurre d'amande crémeux non sucré
-- Jus de 1/2 citron
-- 125 ml (1/2 tasse) de coriandre fraîche, grossièrement hachée
+- <span class="qty">180</span> g (<span class="qty">1</span> tasse) de lentilles rouges, rincées
+- <span class="qty">480</span> ml (<span class="qty">2</span> tasses) de bouillon de légumes faible en sodium
+- <span class="qty">1</span> boîte (<span class="qty">400</span> g) de tomates broyées
+- <span class="qty">1</span> boîte (<span class="qty">400</span> ml) de lait de coco entier
+- <span class="qty">3</span> c. à soupe de beurre d'amande crémeux non sucré
+- Jus de <span class="qty">1/2</span> citron
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de coriandre fraîche, grossièrement hachée
 - Riz basmati ou jasmin, pour servir
 
 ## Instructions

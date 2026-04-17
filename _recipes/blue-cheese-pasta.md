@@ -24,10 +24,10 @@ A rich, creamy pasta that lets blue cheese take centre stage. With just a handfu
 
 ## Ingredients
 
-- 225 g (1/2 lb) capellini or spaghetti
-- 2 tbsp unsalted butter
-- 150 g (1/3 lb) blue cheese, crumbled
-- 60 ml (1/4 cup) fresh parsley, finely chopped
+- <span class="qty">225</span> g (<span class="qty">1/2</span> lb) capellini or spaghetti
+- <span class="qty">2</span> tbsp unsalted butter
+- <span class="qty">150</span> g (<span class="qty">1/3</span> lb) blue cheese, crumbled
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) fresh parsley, finely chopped
 - Kosher salt, to taste
 
 ## Instructions
@@ -52,10 +52,10 @@ Des pâtes riches et crémeuses qui mettent le fromage bleu à l'honneur. Avec s
 
 ## Ingrédients
 
-- 225 g (1/2 lb) de capellinis ou spaghettis
-- 2 c. à soupe de beurre non salé
-- 150 g (1/3 lb) de fromage bleu, émietté
-- 60 ml (1/4 tasse) de persil frais, finement haché
+- <span class="qty">225</span> g (<span class="qty">1/2</span> lb) de capellinis ou spaghettis
+- <span class="qty">2</span> c. à soupe de beurre non salé
+- <span class="qty">150</span> g (<span class="qty">1/3</span> lb) de fromage bleu, émietté
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de persil frais, finement haché
 - Gros sel, au goût
 
 ## Instructions

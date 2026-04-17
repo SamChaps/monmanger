@@ -24,15 +24,15 @@ Golden, crispy wedges roasted in a bath of lemon juice, olive oil, and herbs. Th
 
 ## Ingredients
 
-- 900 g (2 lbs) potatoes, washed and cut into wedges or halved
-- 60 ml (1/4 cup) olive oil
-- 60 ml (1/4 cup) lemon juice
-- 60 ml (1/4 cup) vegetable broth
-- 1 tbsp dried oregano
-- 1 tbsp dried rosemary
-- 1/4 tsp black pepper
-- 1 tsp salt, plus more to taste
-- 5 cloves garlic, minced
+- <span class="qty">900</span> g (<span class="qty">2</span> lbs) potatoes, washed and cut into wedges or halved
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) lemon juice
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) vegetable broth
+- <span class="qty">1</span> tbsp dried oregano
+- <span class="qty">1</span> tbsp dried rosemary
+- <span class="qty">1/4</span> tsp black pepper
+- <span class="qty">1</span> tsp salt, plus more to taste
+- <span class="qty">5</span> cloves garlic, minced
 
 ## Instructions
 
@@ -57,15 +57,15 @@ Des quartiers dorés et croustillants, rôtis dans un bain de jus de citron, d'h
 
 ## Ingrédients
 
-- 900 g (2 lb) de pommes de terre, lavées et coupées en quartiers ou en deux
-- 60 ml (1/4 tasse) d'huile d'olive
-- 60 ml (1/4 tasse) de jus de citron
-- 60 ml (1/4 tasse) de bouillon de légumes
-- 1 c. à soupe d'origan séché
-- 1 c. à soupe de romarin séché
-- 1/4 c. à thé de poivre noir
-- 1 c. à thé de sel, plus au goût
-- 5 gousses d'ail, hachées
+- <span class="qty">900</span> g (<span class="qty">2</span> lb) de pommes de terre, lavées et coupées en quartiers ou en deux
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de jus de citron
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de bouillon de légumes
+- <span class="qty">1</span> c. à soupe d'origan séché
+- <span class="qty">1</span> c. à soupe de romarin séché
+- <span class="qty">1/4</span> c. à thé de poivre noir
+- <span class="qty">1</span> c. à thé de sel, plus au goût
+- <span class="qty">5</span> gousses d'ail, hachées
 
 ## Instructions
 

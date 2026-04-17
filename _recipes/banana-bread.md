@@ -25,14 +25,14 @@ This is the kind of banana bread you make on a Sunday morning with overripe bana
 
 ## Ingredients
 
-- 240 g (2 cups) pastry flour
-- 10 ml (2 tsp) baking powder
-- 115 g (½ cup) unsalted butter, softened
-- 210 g (1 cup) brown sugar
-- 2 eggs, beaten
-- 5 ml (1 tsp) vanilla extract
-- 310 ml (1 ¼ cups) mashed bananas (about 3)
-- 125 ml (½ cup) milk
+- <span class="qty">240</span> g (<span class="qty">2</span> cups) pastry flour
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) baking powder
+- <span class="qty">115</span> g (½ cup) unsalted butter, softened
+- <span class="qty">210</span> g (<span class="qty">1</span> cup) brown sugar
+- <span class="qty">2</span> eggs, beaten
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) vanilla extract
+- <span class="qty">310</span> ml (<span class="qty">1</span> ¼ cups) mashed bananas (about <span class="qty">3</span>)
+- <span class="qty">125</span> ml (½ cup) milk
 
 ## Instructions
 
@@ -57,14 +57,14 @@ Le genre de pain aux bananes qu'on prépare un dimanche matin avec les bananes t
 
 ## Ingrédients
 
-- 240 g (2 tasses) de farine à pâtisserie
-- 10 ml (2 c. à thé) de poudre à pâte
-- 115 g (½ tasse) de beurre non salé, ramolli
-- 210 g (1 tasse) de cassonade
-- 2 œufs, battus
-- 5 ml (1 c. à thé) d'extrait de vanille
-- 310 ml (1 ¼ tasse) de bananes (environ 3), réduites en purée
-- 125 ml (½ tasse) de lait
+- <span class="qty">240</span> g (<span class="qty">2</span> tasses) de farine à pâtisserie
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de poudre à pâte
+- <span class="qty">115</span> g (½ tasse) de beurre non salé, ramolli
+- <span class="qty">210</span> g (<span class="qty">1</span> tasse) de cassonade
+- <span class="qty">2</span> œufs, battus
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'extrait de vanille
+- <span class="qty">310</span> ml (<span class="qty">1</span> ¼ tasse) de bananes (environ <span class="qty">3</span>), réduites en purée
+- <span class="qty">125</span> ml (½ tasse) de lait
 
 ## Instructions
 

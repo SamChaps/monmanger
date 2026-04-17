@@ -28,28 +28,28 @@ Everything cooks in one pot: elbow pasta, pinto beans, crumbled tempeh, mushroom
 
 ### Chili Mac
 
-- 1 tbsp olive oil
-- 1 medium yellow onion, diced
-- 6 cloves garlic, finely chopped
-- 225 g (8 oz) cremini mushrooms, chopped
-- 225 g (8 oz) tempeh, grated or crumbled
-- 1 tbsp chili powder
-- 1 tsp smoked paprika
-- 1 tsp dried oregano
-- 2 tsp ground cumin
-- 1/4 tsp cayenne pepper (optional)
-- 1 1/2 tsp kosher salt, plus more to taste
-- 1 L (4 cups) vegetable broth
-- 1 can (425 g / 15 oz) pinto beans, drained and rinsed
-- 1 can (800 g / 28 oz) crushed fire-roasted tomatoes
-- 2 tbsp tomato paste
-- 1 can (425 g / 15 oz) sweet corn, drained and rinsed
-- 340 g (12 oz) elbow pasta
-- 2 to 3 tsp maple syrup or brown sugar
+- <span class="qty">1</span> tbsp olive oil
+- <span class="qty">1</span> medium yellow onion, diced
+- <span class="qty">6</span> cloves garlic, finely chopped
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) cremini mushrooms, chopped
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) tempeh, grated or crumbled
+- <span class="qty">1</span> tbsp chili powder
+- <span class="qty">1</span> tsp smoked paprika
+- <span class="qty">1</span> tsp dried oregano
+- <span class="qty">2</span> tsp ground cumin
+- <span class="qty">1/4</span> tsp cayenne pepper (optional)
+- <span class="qty">1 1/2</span> tsp kosher salt, plus more to taste
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) vegetable broth
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) pinto beans, drained and rinsed
+- <span class="qty">1</span> can (<span class="qty">800</span> g / <span class="qty">28</span> oz) crushed fire-roasted tomatoes
+- <span class="qty">2</span> tbsp tomato paste
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) sweet corn, drained and rinsed
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) elbow pasta
+- <span class="qty">2</span> to <span class="qty">3</span> tsp maple syrup or brown sugar
 
 ### Toppings
 
-- 250 ml (1 cup) fresh cilantro, chopped
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) fresh cilantro, chopped
 - Lime juice
 - Shredded vegan cheese (optional)
 - Vegan sour cream (optional)
@@ -79,28 +79,28 @@ Tout cuit dans un seul pot : macaronis, haricots pinto, tempeh émietté, champi
 
 ### Chili mac
 
-- 1 c. à soupe d'huile d'olive
-- 1 oignon jaune moyen, coupé en dés
-- 6 gousses d'ail, hachées finement
-- 225 g (8 oz) de champignons cremini, hachés
-- 225 g (8 oz) de tempeh, râpé ou émietté
-- 1 c. à soupe de poudre de chili
-- 1 c. à thé de paprika fumé
-- 1 c. à thé d'origan séché
-- 2 c. à thé de cumin moulu
-- 1/4 c. à thé de cayenne (optionnel)
-- 1 1/2 c. à thé de gros sel, plus au goût
-- 1 L (4 tasses) de bouillon de légumes
-- 1 boîte (425 g / 15 oz) de haricots pinto, égouttés et rincés
-- 1 boîte (800 g / 28 oz) de tomates broyées grillées au feu
-- 2 c. à soupe de pâte de tomate
-- 1 boîte (425 g / 15 oz) de maïs sucré, égoutté et rincé
-- 340 g (12 oz) de macaronis
-- 2 à 3 c. à thé de sirop d'érable ou cassonade
+- <span class="qty">1</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> oignon jaune moyen, coupé en dés
+- <span class="qty">6</span> gousses d'ail, hachées finement
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) de champignons cremini, hachés
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) de tempeh, râpé ou émietté
+- <span class="qty">1</span> c. à soupe de poudre de chili
+- <span class="qty">1</span> c. à thé de paprika fumé
+- <span class="qty">1</span> c. à thé d'origan séché
+- <span class="qty">2</span> c. à thé de cumin moulu
+- <span class="qty">1/4</span> c. à thé de cayenne (optionnel)
+- <span class="qty">1 1/2</span> c. à thé de gros sel, plus au goût
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de bouillon de légumes
+- <span class="qty">1</span> boîte (<span class="qty">425</span> g / <span class="qty">15</span> oz) de haricots pinto, égouttés et rincés
+- <span class="qty">1</span> boîte (<span class="qty">800</span> g / <span class="qty">28</span> oz) de tomates broyées grillées au feu
+- <span class="qty">2</span> c. à soupe de pâte de tomate
+- <span class="qty">1</span> boîte (<span class="qty">425</span> g / <span class="qty">15</span> oz) de maïs sucré, égoutté et rincé
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) de macaronis
+- <span class="qty">2</span> à <span class="qty">3</span> c. à thé de sirop d'érable ou cassonade
 
 ### Garnitures
 
-- 250 ml (1 tasse) de coriandre fraîche, hachée
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de coriandre fraîche, hachée
 - Jus de lime
 - Fromage végane râpé (optionnel)
 - Crème sure végane (optionnel)

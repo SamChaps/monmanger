@@ -24,15 +24,15 @@ A simple and satisfying wrap built around smoky tempeh bacon. Thin slices of tem
 
 ## Ingredients
 
-- 240 g (8 oz) tempeh, thinly sliced
-- 5 ml (1 tsp) garlic powder
-- 45 ml (3 tbsp) maple syrup
-- 30 ml (2 tbsp) vegetable oil
-- 5 ml (1 tsp) liquid smoke
-- 125 ml (1/2 cup) vegetable broth
-- 2.5 ml (1/2 tsp) salt
-- 5 flour tortillas
-- 2 tomatoes, thinly sliced
+- <span class="qty">240</span> g (<span class="qty">8</span> oz) tempeh, thinly sliced
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) garlic powder
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) maple syrup
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) vegetable oil
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) liquid smoke
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) vegetable broth
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) salt
+- <span class="qty">5</span> flour tortillas
+- <span class="qty">2</span> tomatoes, thinly sliced
 - Lettuce leaves
 - Vegan mayonnaise
 
@@ -58,15 +58,15 @@ Un wrap simple et satisfaisant construit autour d'un bacon de tempeh fumé. Des 
 
 ## Ingrédients
 
-- 240 g (8 oz) de tempeh, tranche finement
-- 5 ml (1 c. à thé) de poudre d'ail
-- 45 ml (3 c. à soupe) de sirop d'érable
-- 30 ml (2 c. à soupe) d'huile végétale
-- 5 ml (1 c. à thé) de fumée liquide
-- 125 ml (1/2 tasse) de bouillon de légumes
-- 2,5 ml (1/2 c. à thé) de sel
-- 5 tortillas de farine
-- 2 tomates, tranchées finement
+- <span class="qty">240</span> g (<span class="qty">8</span> oz) de tempeh, tranche finement
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de poudre d'ail
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de sirop d'érable
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'huile végétale
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de fumée liquide
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de bouillon de légumes
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de sel
+- <span class="qty">5</span> tortillas de farine
+- <span class="qty">2</span> tomates, tranchées finement
 - Feuilles de laitue
 - Mayonnaise végétalienne
 

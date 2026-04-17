@@ -26,35 +26,35 @@ Shredded tofu and torn oyster mushrooms marinated in a smoky, spiced blend, then
 
 ### Gyro Filling
 
-- 200 g (1/2 block) extra-firm tofu, shredded
-- 500 ml (2 cups) shredded oyster mushrooms
-- 2 tbsp olive oil
-- 3 tbsp coconut aminos
-- 1 tsp smoked paprika
-- 1/4 tsp cayenne pepper
-- 2-3 tsp garlic powder
-- 1 tsp ground coriander
-- 2-3 tsp onion powder
-- 2-3 tsp dried thyme
-- 1/4 tsp black pepper
-- 1 tsp fresh oregano, chopped
-- 60 ml (1/4 cup) vegetable broth
+- <span class="qty">200</span> g (<span class="qty">1/2</span> block) extra-firm tofu, shredded
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) shredded oyster mushrooms
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">3</span> tbsp coconut aminos
+- <span class="qty">1</span> tsp smoked paprika
+- <span class="qty">1/4</span> tsp cayenne pepper
+- <span class="qty">2</span>-<span class="qty">3</span> tsp garlic powder
+- <span class="qty">1</span> tsp ground coriander
+- <span class="qty">2</span>-<span class="qty">3</span> tsp onion powder
+- <span class="qty">2</span>-<span class="qty">3</span> tsp dried thyme
+- <span class="qty">1/4</span> tsp black pepper
+- <span class="qty">1</span> tsp fresh oregano, chopped
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) vegetable broth
 - Salt, to taste
 
 ### Tzatziki Sauce
 
-- 250 ml (1 cup) plain dairy-free yogurt
-- 80 ml (1/3 cup) grated cucumber, squeezed dry
-- 2 tsp red wine vinegar
-- 2-3 cloves garlic, minced
-- 2 tsp olive oil
-- 1 tbsp chopped fresh dill
-- 1 tbsp chopped fresh mint
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) plain dairy-free yogurt
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) grated cucumber, squeezed dry
+- <span class="qty">2</span> tsp red wine vinegar
+- <span class="qty">2</span>-<span class="qty">3</span> cloves garlic, minced
+- <span class="qty">2</span> tsp olive oil
+- <span class="qty">1</span> tbsp chopped fresh dill
+- <span class="qty">1</span> tbsp chopped fresh mint
 - Salt and black pepper, to taste
 
 ### For Serving
 
-- 4 pita breads
+- <span class="qty">4</span> pita breads
 - Shredded lettuce
 - Sliced cucumber
 - Sliced tomato
@@ -86,35 +86,35 @@ Du tofu effiloché et des pleurotes marinés dans un mélange fumé et épicé, 
 
 ### Garniture gyro
 
-- 200 g (1/2 bloc) de tofu extra-ferme, effiloché
-- 500 ml (2 tasses) de pleurotes effilochées
-- 2 c. à soupe d'huile d'olive
-- 3 c. à soupe d'aminos de noix de coco
-- 1 c. à thé de paprika fumé
-- 1/4 c. à thé de poivre de Cayenne
-- 2-3 c. à thé de poudre d'ail
-- 1 c. à thé de coriandre moulue
-- 2-3 c. à thé de poudre d'oignon
-- 2-3 c. à thé de thym séché
-- 1/4 c. à thé de poivre noir
-- 1 c. à thé d'origan frais, haché
-- 60 ml (1/4 tasse) de bouillon de légumes
+- <span class="qty">200</span> g (<span class="qty">1/2</span> bloc) de tofu extra-ferme, effiloché
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de pleurotes effilochées
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">3</span> c. à soupe d'aminos de noix de coco
+- <span class="qty">1</span> c. à thé de paprika fumé
+- <span class="qty">1/4</span> c. à thé de poivre de Cayenne
+- <span class="qty">2</span>-<span class="qty">3</span> c. à thé de poudre d'ail
+- <span class="qty">1</span> c. à thé de coriandre moulue
+- <span class="qty">2</span>-<span class="qty">3</span> c. à thé de poudre d'oignon
+- <span class="qty">2</span>-<span class="qty">3</span> c. à thé de thym séché
+- <span class="qty">1/4</span> c. à thé de poivre noir
+- <span class="qty">1</span> c. à thé d'origan frais, haché
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de bouillon de légumes
 - Sel, au goût
 
 ### Sauce tzatziki
 
-- 250 ml (1 tasse) de yogourt nature sans produits laitiers
-- 80 ml (1/3 tasse) de concombre râpé, bien essore
-- 2 c. à thé de vinaigre de vin rouge
-- 2-3 gousses d'ail, émincées
-- 2 c. à thé d'huile d'olive
-- 1 c. à soupe d'aneth frais haché
-- 1 c. à soupe de menthe fraîche hachée
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de yogourt nature sans produits laitiers
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de concombre râpé, bien essore
+- <span class="qty">2</span> c. à thé de vinaigre de vin rouge
+- <span class="qty">2</span>-<span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">2</span> c. à thé d'huile d'olive
+- <span class="qty">1</span> c. à soupe d'aneth frais haché
+- <span class="qty">1</span> c. à soupe de menthe fraîche hachée
 - Sel et poivre noir, au goût
 
 ### Pour servir
 
-- 4 pains pita
+- <span class="qty">4</span> pains pita
 - Laitue effilochée
 - Concombre tranche
 - Tomate tranchée

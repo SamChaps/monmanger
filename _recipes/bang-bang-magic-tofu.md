@@ -27,28 +27,28 @@ A riff on the classic Bang Bang chicken, this version coats Loounie's famous mag
 
 **Tofu**
 
-- 1 block (450 g / 1 lb) firm or extra-firm tofu, well pressed
-- 30-45 ml (2-3 tbsp) cornstarch or tapioca starch
+- <span class="qty">1</span> block (<span class="qty">450</span> g / <span class="qty">1</span> lb) firm or extra-firm tofu, well pressed
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> tbsp) cornstarch or tapioca starch
 
 **Spicy Mayo Sauce**
 
-- 80 ml (1/3 cup) vegan mayonnaise
-- 15 ml (1 tbsp) sambal oelek chili paste (or ketchup for a mild version)
-- 15 ml (1 tbsp) soy sauce or tamari
-- 15 ml (1 tbsp) lemon juice or neutral vinegar
-- 15 ml (1 tbsp) maple syrup
-- 30 ml (2 tbsp) water
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) vegan mayonnaise
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) sambal oelek chili paste (or ketchup for a mild version)
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) soy sauce or tamari
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) lemon juice or neutral vinegar
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) maple syrup
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) water
 
 **Panko Coating**
 
-- 180 ml (3/4 cup) panko breadcrumbs (or gluten-free breadcrumbs)
-- 90 ml (1/4 cup + 2 tbsp) nutritional yeast flakes
-- 2.5 ml (1/2 tsp) garlic powder
-- 15 ml (1 tbsp) vegetable oil or oil spray (optional)
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> cup) panko breadcrumbs (or gluten-free breadcrumbs)
+- <span class="qty">90</span> ml (<span class="qty">1/4</span> cup + <span class="qty">2</span> tbsp) nutritional yeast flakes
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) garlic powder
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) vegetable oil or oil spray (optional)
 
 **Garnish**
 
-- 1 green onion, chopped (optional)
+- <span class="qty">1</span> green onion, chopped (optional)
 
 ## Instructions
 
@@ -77,28 +77,28 @@ Une version revisitée du classique poulet Bang Bang: le fameux tofu magique de 
 
 **Tofu**
 
-- 1 bloc (450 g) de tofu ferme ou extra-ferme, bien épongé
-- 30-45 ml (2-3 c. à soupe) de fécule de maïs ou de tapioca
+- <span class="qty">1</span> bloc (<span class="qty">450</span> g) de tofu ferme ou extra-ferme, bien épongé
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> c. à soupe) de fécule de maïs ou de tapioca
 
 **Sauce mayo épicée**
 
-- 80 ml (1/3 tasse) de mayonnaise végétalienne
-- 15 ml (1 c. à soupe) de pâte de chili sambal oelek (ou ketchup pour une version douce)
-- 15 ml (1 c. à soupe) de sauce soya ou tamari
-- 15 ml (1 c. à soupe) de jus de citron ou de vinaigre neutre
-- 15 ml (1 c. à soupe) de sirop d'érable
-- 30 ml (2 c. à soupe) d'eau
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de mayonnaise végétalienne
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de pâte de chili sambal oelek (ou ketchup pour une version douce)
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de sauce soya ou tamari
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de citron ou de vinaigre neutre
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de sirop d'érable
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'eau
 
 **Enrobage panko**
 
-- 180 ml (3/4 tasse) de chapelure panko (ou chapelure sans gluten)
-- 90 ml (1/4 tasse + 2 c. à soupe) de levure alimentaire en flocons
-- 2,5 ml (1/2 c. à thé) de poudre d'ail
-- 15 ml (1 c. à soupe) d'huile végétale ou huile en vaporisateur (facultatif)
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> tasse) de chapelure panko (ou chapelure sans gluten)
+- <span class="qty">90</span> ml (<span class="qty">1/4</span> tasse + <span class="qty">2</span> c. à soupe) de levure alimentaire en flocons
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de poudre d'ail
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile végétale ou huile en vaporisateur (facultatif)
 
 **Garniture**
 
-- 1 oignon vert haché (facultatif)
+- <span class="qty">1</span> oignon vert haché (facultatif)
 
 ## Instructions
 

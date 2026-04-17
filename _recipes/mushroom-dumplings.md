@@ -27,30 +27,30 @@ Crispy-bottomed dumplings stuffed with a savory filling of caramelized mushrooms
 
 ### Filling
 
-- 2 tbsp sesame oil
-- 2 shallots, chopped
-- 1 L (4 cups) shiitake or cremini mushrooms, chopped
-- 1 piece fresh ginger (2.5 cm / 1 inch), grated
-- 1 clove garlic, minced
-- 500 ml (2 cups) spinach or bok choy, roughly chopped
-- 2 tbsp low-sodium soy sauce or tamari
+- <span class="qty">2</span> tbsp sesame oil
+- <span class="qty">2</span> shallots, chopped
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) shiitake or cremini mushrooms, chopped
+- <span class="qty">1</span> piece fresh ginger (2.5 cm / 1 inch), grated
+- <span class="qty">1</span> clove garlic, minced
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) spinach or bok choy, roughly chopped
+- <span class="qty">2</span> tbsp low-sodium soy sauce or tamari
 - Black pepper, to taste
 
 ### Assembly
 
-- 32 round dumpling or wonton wrappers
-- 60 ml (1/4 cup) raw sesame seeds
+- <span class="qty">32</span> round dumpling or wonton wrappers
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) raw sesame seeds
 - Oil, for pan-frying
-- 2 green onions, chopped, for serving
+- <span class="qty">2</span> green onions, chopped, for serving
 
 ### Sweet Chili Ginger Sesame Sauce
 
-- 60 ml (1/4 cup) toasted sesame oil
-- 2 tbsp chili garlic sauce
-- 2 tbsp low-sodium soy sauce or tamari
-- 2 tbsp pomegranate molasses or honey
-- 1 1/2 tsp crushed red pepper flakes (adjust to taste)
-- 1 piece fresh ginger (1 cm / 1/2 inch), grated
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) toasted sesame oil
+- <span class="qty">2</span> tbsp chili garlic sauce
+- <span class="qty">2</span> tbsp low-sodium soy sauce or tamari
+- <span class="qty">2</span> tbsp pomegranate molasses or honey
+- <span class="qty">1 1/2</span> tsp crushed red pepper flakes (adjust to taste)
+- <span class="qty">1</span> piece fresh ginger (1 cm / 1/2 inch), grated
 
 ## Instructions
 
@@ -77,30 +77,30 @@ Des dumplings croustillants sur le dessous, farcis d'un mélange savoureux de ch
 
 ### Farce
 
-- 2 c. à soupe d'huile de sésame
-- 2 échalotes, hachées
-- 1 L (4 tasses) de champignons shiitake ou cremini, hachés
-- 1 morceau de gingembre frais (2,5 cm / 1 po), râpé
-- 1 gousse d'ail, hachée
-- 500 ml (2 tasses) d'épinards ou bok choy, hachés grossièrement
-- 2 c. à soupe de sauce soya à faible teneur en sodium ou tamari
+- <span class="qty">2</span> c. à soupe d'huile de sésame
+- <span class="qty">2</span> échalotes, hachées
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de champignons shiitake ou cremini, hachés
+- <span class="qty">1</span> morceau de gingembre frais (2,5 cm / 1 po), râpé
+- <span class="qty">1</span> gousse d'ail, hachée
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) d'épinards ou bok choy, hachés grossièrement
+- <span class="qty">2</span> c. à soupe de sauce soya à faible teneur en sodium ou tamari
 - Poivre noir, au goût
 
 ### Assemblage
 
-- 32 emballages ronds à dumplings ou wontons
-- 60 ml (1/4 tasse) de graines de sésame crues
+- <span class="qty">32</span> emballages ronds à dumplings ou wontons
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de graines de sésame crues
 - Huile, pour la cuisson
-- 2 oignons verts, hachés, pour servir
+- <span class="qty">2</span> oignons verts, hachés, pour servir
 
 ### Sauce sésame au piment et gingembre
 
-- 60 ml (1/4 tasse) d'huile de sésame grillé
-- 2 c. à soupe de sauce chili-ail
-- 2 c. à soupe de sauce soya à faible teneur en sodium ou tamari
-- 2 c. à soupe de mélasse de grenade ou miel
-- 1 1/2 c. à thé de flocons de piment broyés (ajuster au goût)
-- 1 morceau de gingembre frais (1 cm / 1/2 po), râpé
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile de sésame grillé
+- <span class="qty">2</span> c. à soupe de sauce chili-ail
+- <span class="qty">2</span> c. à soupe de sauce soya à faible teneur en sodium ou tamari
+- <span class="qty">2</span> c. à soupe de mélasse de grenade ou miel
+- <span class="qty">1 1/2</span> c. à thé de flocons de piment broyés (ajuster au goût)
+- <span class="qty">1</span> morceau de gingembre frais (1 cm / 1/2 po), râpé
 
 ## Instructions
 

@@ -27,35 +27,35 @@ Quick and colourful fajitas loaded with sheet-pan roasted bell peppers and onion
 
 **Vegetables**
 
-- 2 green bell peppers, sliced
-- 1 red bell pepper, sliced
-- 1 yellow bell pepper, sliced
-- 1 medium onion, sliced
-- 15 ml (1 tbsp) oil
+- <span class="qty">2</span> green bell peppers, sliced
+- <span class="qty">1</span> red bell pepper, sliced
+- <span class="qty">1</span> yellow bell pepper, sliced
+- <span class="qty">1</span> medium onion, sliced
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) oil
 
 **Fajita Seasoning**
 
-- 10 ml (2 tsp) chili powder
-- 5 ml (1 tsp) paprika
-- 1/2 tsp each: garlic powder, onion powder, salt, black pepper
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) chili powder
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) paprika
+- <span class="qty">1/2</span> tsp each: garlic powder, onion powder, salt, black pepper
 - Pinch of cayenne (adjust to taste)
 
 **Black Beans**
 
-- 1 can (398 ml / 14 oz) black beans (with liquid, or drained with a few tbsp water)
-- 1/2 tsp garlic powder
+- <span class="qty">1</span> can (<span class="qty">398</span> ml / <span class="qty">14</span> oz) black beans (with liquid, or drained with a few tbsp water)
+- <span class="qty">1/2</span> tsp garlic powder
 - Salt to taste
 
 **Simple Guacamole**
 
-- 2 ripe avocados
-- 1/2 tsp garlic powder
-- Juice of 1 lime
+- <span class="qty">2</span> ripe avocados
+- <span class="qty">1/2</span> tsp garlic powder
+- Juice of <span class="qty">1</span> lime
 - Salt to taste
 
 **Assembly**
 
-- 6 flour tortillas
+- <span class="qty">6</span> flour tortillas
 
 ## Instructions
 
@@ -82,35 +82,35 @@ Des fajitas rapides et colorees garnies de poivrons et d'oignons rôtis à la pl
 
 **Legumes**
 
-- 2 poivrons verts, tranches
-- 1 poivron rouge, tranche
-- 1 poivron jaune, tranche
-- 1 oignon moyen, tranche
-- 15 ml (1 c. à soupe) d'huile
+- <span class="qty">2</span> poivrons verts, tranches
+- <span class="qty">1</span> poivron rouge, tranche
+- <span class="qty">1</span> poivron jaune, tranche
+- <span class="qty">1</span> oignon moyen, tranche
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile
 
 **Assaisonnement fajita**
 
-- 10 ml (2 c. à thé) de poudre de chili
-- 5 ml (1 c. à thé) de paprika
-- 1/2 c. à thé chacun: poudre d'ail, poudre d'oignon, sel, poivre noir
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de poudre de chili
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de paprika
+- <span class="qty">1/2</span> c. à thé chacun: poudre d'ail, poudre d'oignon, sel, poivre noir
 - Pincee de cayenne (ajuster au goût)
 
 **Haricots noirs**
 
-- 1 boîte (398 ml / 14 oz) de haricots noirs (avec le liquide, ou égouttés avec quelques c. à soupe d'eau)
-- 1/2 c. à thé de poudre d'ail
+- <span class="qty">1</span> boîte (<span class="qty">398</span> ml / <span class="qty">14</span> oz) de haricots noirs (avec le liquide, ou égouttés avec quelques c. à soupe d'eau)
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
 - Sel au goût
 
 **Guacamole simple**
 
-- 2 avocats murs
-- 1/2 c. à thé de poudre d'ail
-- Jus de 1 lime
+- <span class="qty">2</span> avocats murs
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
+- Jus de <span class="qty">1</span> lime
 - Sel au goût
 
 **Assemblage**
 
-- 6 tortillas de farine
+- <span class="qty">6</span> tortillas de farine
 
 ## Instructions
 

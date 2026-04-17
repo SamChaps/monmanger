@@ -26,28 +26,28 @@ Rice noodles with sauteed carrots, broccoli, bell pepper, and onion, all tossed 
 
 ### Rice Noodles
 
-- 225 g (8 oz) rice noodles, cooked according to package
-- 2 tbsp olive oil
-- 1 small sweet onion, diced
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) rice noodles, cooked according to package
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> small sweet onion, diced
 - 2.5 cm (1-inch) piece fresh ginger, peeled and minced
-- 3 cloves garlic, minced
-- 1 medium carrot, peeled and cut into half moons
-- 1/2 red bell pepper, diced
-- 375 ml (1 1/2 cups) broccoli florets, chopped small
-- 60 ml (1/4 cup) scallions
-- 60 ml (1/4 cup) fresh cilantro
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">1</span> medium carrot, peeled and cut into half moons
+- <span class="qty">1/2</span> red bell pepper, diced
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> cups) broccoli florets, chopped small
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) scallions
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) fresh cilantro
 - Lime wedges, for serving
 
 ### Spicy Peanut Sauce
 
-- 100 ml (1/3 cup + 2 tbsp) natural peanut butter
-- 60 ml (1/4 cup) water
-- 2 tbsp soy sauce (or coconut aminos)
-- 2 tbsp honey (or maple syrup)
-- 2 tbsp fresh lime juice
-- 2 tbsp sambal oelek chili paste (or sriracha)
-- 1 tbsp sesame oil
-- 1 tsp red pepper flakes
+- <span class="qty">100</span> ml (<span class="qty">1/3</span> cup + <span class="qty">2</span> tbsp) natural peanut butter
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) water
+- <span class="qty">2</span> tbsp soy sauce (or coconut aminos)
+- <span class="qty">2</span> tbsp honey (or maple syrup)
+- <span class="qty">2</span> tbsp fresh lime juice
+- <span class="qty">2</span> tbsp sambal oelek chili paste (or sriracha)
+- <span class="qty">1</span> tbsp sesame oil
+- <span class="qty">1</span> tsp red pepper flakes
 
 ## Instructions
 
@@ -74,28 +74,28 @@ Des nouilles de riz avec des carottes, du brocoli, du poivron et de l'oignon sau
 
 ### Nouilles de riz
 
-- 225 g (8 oz) de nouilles de riz, cuites selon les instructions de l'emballage
-- 2 c. à soupe d'huile d'olive
-- 1 petit oignon doux, coupé en dés
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) de nouilles de riz, cuites selon les instructions de l'emballage
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> petit oignon doux, coupé en dés
 - 2,5 cm (1 po) de gingembre frais, pelé et émincé
-- 3 gousses d'ail, émincées
-- 1 carotte moyenne, pelée et coupée en demi-lunes
-- 1/2 poivron rouge, coupé en dés
-- 375 ml (1 1/2 tasse) de bouquets de brocoli, hachés petit
-- 60 ml (1/4 tasse) d'oignons verts
-- 60 ml (1/4 tasse) de coriandre fraîche
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">1</span> carotte moyenne, pelée et coupée en demi-lunes
+- <span class="qty">1/2</span> poivron rouge, coupé en dés
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> tasse) de bouquets de brocoli, hachés petit
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'oignons verts
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de coriandre fraîche
 - Quartiers de lime, pour servir
 
 ### Sauce piquante aux arachides
 
-- 100 ml (1/3 tasse + 2 c. à soupe) de beurre d'arachide naturel
-- 60 ml (1/4 tasse) d'eau
-- 2 c. à soupe de sauce soya (ou aminos de noix de coco)
-- 2 c. à soupe de miel (ou sirop d'érable)
-- 2 c. à soupe de jus de lime frais
-- 2 c. à soupe de pâte de chili sambal oelek (ou sriracha)
-- 1 c. à soupe d'huile de sésame
-- 1 c. à thé de flocons de piment rouge
+- <span class="qty">100</span> ml (<span class="qty">1/3</span> tasse + <span class="qty">2</span> c. à soupe) de beurre d'arachide naturel
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'eau
+- <span class="qty">2</span> c. à soupe de sauce soya (ou aminos de noix de coco)
+- <span class="qty">2</span> c. à soupe de miel (ou sirop d'érable)
+- <span class="qty">2</span> c. à soupe de jus de lime frais
+- <span class="qty">2</span> c. à soupe de pâte de chili sambal oelek (ou sriracha)
+- <span class="qty">1</span> c. à soupe d'huile de sésame
+- <span class="qty">1</span> c. à thé de flocons de piment rouge
 
 ## Instructions
 

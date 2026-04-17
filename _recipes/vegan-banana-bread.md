@@ -25,13 +25,13 @@ A no-frills vegan banana bread with a wonderfully dense, moist crumb. No eggs, n
 
 ## Ingredients
 
-- 3 ripe bananas, mashed
-- 125 ml (1/2 cup) canola or vegetable oil
-- 125 ml (1/2 cup) granulated sugar
-- 2.5 ml (1/2 tsp) vanilla extract
-- 10 ml (2 tsp) baking powder
-- 5 ml (1 tsp) baking soda
-- 350 ml (about 1 1/3 cups) all-purpose flour
+- <span class="qty">3</span> ripe bananas, mashed
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) canola or vegetable oil
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) granulated sugar
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) vanilla extract
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) baking powder
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) baking soda
+- <span class="qty">350</span> ml (about <span class="qty">1 1/3</span> cups) all-purpose flour
 - Pinch of salt
 
 ## Instructions
@@ -58,14 +58,14 @@ Un pain aux bananes végétalien sans chichis, avec une mie merveilleusement den
 
 ## Ingrédients
 
-- 3 bananes mûres, écrasées
-- 125 ml (1/2 tasse) d'huile de canola ou végétale
-- 125 ml (1/2 tasse) de sucre granulé
-- 2,5 ml (1/2 c. à thé) d'essence de vanille
-- 10 ml (2 c. à thé) de poudre à pâte
-- 5 ml (1 c. à thé) de bicarbonate de soude
-- 350 ml (environ 1 1/3 tasse) de farine
-- 1 pincée de sel
+- <span class="qty">3</span> bananes mûres, écrasées
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'huile de canola ou végétale
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de sucre granulé
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) d'essence de vanille
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de poudre à pâte
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de bicarbonate de soude
+- <span class="qty">350</span> ml (environ <span class="qty">1 1/3</span> tasse) de farine
+- <span class="qty">1</span> pincée de sel
 
 ## Instructions
 

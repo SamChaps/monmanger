@@ -24,13 +24,13 @@ A silky butternut squash soup with warm curry and a ginger kick. Just a handful 
 
 ## Ingredients
 
-- 1 large butternut squash (about 1.25 L / 5 cups), peeled, seeded, and cubed
-- 900 ml (1 carton) vegetable broth
-- 1 onion, roughly chopped
-- 2 cloves garlic, minced
-- 1-2 tbsp curry powder, to taste
-- 1 tbsp fresh ginger, finely chopped
-- 2 tbsp butter (or vegan butter)
+- <span class="qty">1</span> large butternut squash (about <span class="qty">1.25</span> L / <span class="qty">5</span> cups), peeled, seeded, and cubed
+- <span class="qty">900</span> ml (<span class="qty">1</span> carton) vegetable broth
+- <span class="qty">1</span> onion, roughly chopped
+- <span class="qty">2</span> cloves garlic, minced
+- <span class="qty">1</span>-<span class="qty">2</span> tbsp curry powder, to taste
+- <span class="qty">1</span> tbsp fresh ginger, finely chopped
+- <span class="qty">2</span> tbsp butter (or vegan butter)
 - Cream, for garnish
 - Salt and pepper, to taste
 
@@ -57,13 +57,13 @@ Un potage soyeux à la courge musquée avec un cari chaleureux et un coup de gin
 
 ## Ingrédients
 
-- 1 grosse courge musquée (environ 1,25 L / 5 tasses), pelée, épépinée et coupée en cubes
-- 900 ml (1 boîte) de bouillon de légumes
-- 1 oignon, grossièrement haché
-- 2 gousses d'ail, émincées
-- 1 à 2 c. à soupe de poudre de cari (au goût)
-- 1 c. à soupe de gingembre frais, finement haché
-- 2 c. à soupe de beurre (ou beurre végétal)
+- <span class="qty">1</span> grosse courge musquée (environ <span class="qty">1</span>,<span class="qty">25</span> L / <span class="qty">5</span> tasses), pelée, épépinée et coupée en cubes
+- <span class="qty">900</span> ml (<span class="qty">1</span> boîte) de bouillon de légumes
+- <span class="qty">1</span> oignon, grossièrement haché
+- <span class="qty">2</span> gousses d'ail, émincées
+- <span class="qty">1</span> à <span class="qty">2</span> c. à soupe de poudre de cari (au goût)
+- <span class="qty">1</span> c. à soupe de gingembre frais, finement haché
+- <span class="qty">2</span> c. à soupe de beurre (ou beurre végétal)
 - Crème, pour la présentation
 - Sel et poivre, au goût
 

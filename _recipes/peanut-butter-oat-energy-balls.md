@@ -24,10 +24,10 @@ The simplest energy balls imaginable: just peanut butter, oats, honey, and a han
 
 ## Ingredients
 
-- 180 ml (3/4 cup) rolled oats
-- 160 ml (2/3 cup) peanut butter
-- 1 tbsp honey
-- 1 tbsp dark chocolate chips (optional)
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> cup) rolled oats
+- <span class="qty">160</span> ml (<span class="qty">2/3</span> cup) peanut butter
+- <span class="qty">1</span> tbsp honey
+- <span class="qty">1</span> tbsp dark chocolate chips (optional)
 - Pinch of salt
 
 ## Instructions
@@ -51,11 +51,11 @@ Les boules d'énergie les plus simples possibles : juste du beurre d'arachide, d
 
 ## Ingrédients
 
-- 180 ml (3/4 tasse) de flocons d'avoine
-- 160 ml (2/3 tasse) de beurre d'arachide
-- 1 c. à soupe de miel
-- 1 c. à soupe de pépites de chocolat noir (optionnel)
-- 1 pincée de sel
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> tasse) de flocons d'avoine
+- <span class="qty">160</span> ml (<span class="qty">2/3</span> tasse) de beurre d'arachide
+- <span class="qty">1</span> c. à soupe de miel
+- <span class="qty">1</span> c. à soupe de pépites de chocolat noir (optionnel)
+- <span class="qty">1</span> pincée de sel
 
 ## Instructions
 

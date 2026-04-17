@@ -25,14 +25,14 @@ A luscious dairy-free and oil-free alfredo sauce that rivals the original. The s
 
 ## Ingredients
 
-- 200 g (1 medium) white onion, diced (about 1 1/2 cups)
-- 240-480 ml (1-2 cups) low-sodium vegetable broth, divided
-- 1/2 to 3/4 tsp salt
-- 1/4 to 1/2 tsp ground black pepper
-- 4 extra-large garlic cloves (about 15 g), minced
-- 75 g (1/2 heaping cup) raw unsalted cashews
-- 7.5-15 ml (1/2-1 tbsp) lemon juice
-- 30 ml (2 tbsp) nutritional yeast
+- <span class="qty">200</span> g (<span class="qty">1</span> medium) white onion, diced (about <span class="qty">1 1/2</span> cups)
+- <span class="qty">240</span>-<span class="qty">480</span> ml (<span class="qty">1</span>-<span class="qty">2</span> cups) low-sodium vegetable broth, divided
+- <span class="qty">1/2</span> to <span class="qty">3/4</span> tsp salt
+- <span class="qty">1/4</span> to <span class="qty">1/2</span> tsp ground black pepper
+- <span class="qty">4</span> extra-large garlic cloves (about <span class="qty">15</span> g), minced
+- <span class="qty">75</span> g (<span class="qty">1/2</span> heaping cup) raw unsalted cashews
+- <span class="qty">7.5</span>-<span class="qty">15</span> ml (<span class="qty">1/2</span>-<span class="qty">1</span> tbsp) lemon juice
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) nutritional yeast
 - Pasta of choice, cooked and salted
 
 ## Instructions
@@ -56,14 +56,14 @@ Une sauce alfredo onctueuse, sans produits laitiers et sans huile, qui rivalise 
 
 ## Ingrédients
 
-- 200 g (1 moyen) d'oignon blanc, coupé en dés (environ 1 1/2 tasse)
-- 240-480 ml (1-2 tasses) de bouillon de légumes a faible teneur en sodium, divise
-- 1/2 à 3/4 c. à thé de sel
-- 1/4 à 1/2 c. à thé de poivre noir moulu
-- 4 très grosses gousses d'ail (environ 15 g), émincées
-- 75 g (1/2 tasse bien remplie) de noix de cajou crues non salees
-- 7,5-15 ml (1/2-1 c. à soupe) de jus de citron
-- 30 ml (2 c. à soupe) de levure alimentaire
+- <span class="qty">200</span> g (<span class="qty">1</span> moyen) d'oignon blanc, coupé en dés (environ <span class="qty">1 1/2</span> tasse)
+- <span class="qty">240</span>-<span class="qty">480</span> ml (<span class="qty">1</span>-<span class="qty">2</span> tasses) de bouillon de légumes a faible teneur en sodium, divise
+- <span class="qty">1/2</span> à <span class="qty">3/4</span> c. à thé de sel
+- <span class="qty">1/4</span> à <span class="qty">1/2</span> c. à thé de poivre noir moulu
+- <span class="qty">4</span> très grosses gousses d'ail (environ <span class="qty">15</span> g), émincées
+- <span class="qty">75</span> g (<span class="qty">1/2</span> tasse bien remplie) de noix de cajou crues non salees
+- <span class="qty">7</span>,<span class="qty">5</span>-<span class="qty">15</span> ml (<span class="qty">1/2</span>-<span class="qty">1</span> c. à soupe) de jus de citron
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de levure alimentaire
 - Pates au choix, cuites et salees
 
 ## Instructions

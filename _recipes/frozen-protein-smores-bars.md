@@ -25,12 +25,12 @@ Layers of graham crackers, melted chocolate, and a fluffy protein-boosted cream 
 
 ## Ingredients
 
-- 10 sheets graham crackers (150 g)
-- 1 cup (165 g) chocolate chips
-- 1 to 2 tsp coconut oil
-- 225 g (8 oz) light whipped topping (like Cool Whip)
-- 1 scoop vanilla protein powder
-- 32 g (1/4 cup) powdered peanut butter (optional)
+- <span class="qty">10</span> sheets graham crackers (<span class="qty">150</span> g)
+- <span class="qty">1</span> cup (<span class="qty">165</span> g) chocolate chips
+- <span class="qty">1</span> to <span class="qty">2</span> tsp coconut oil
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) light whipped topping (like Cool Whip)
+- <span class="qty">1</span> scoop vanilla protein powder
+- <span class="qty">32</span> g (<span class="qty">1/4</span> cup) powdered peanut butter (optional)
 
 ## Instructions
 
@@ -54,12 +54,12 @@ Des couches de biscuits Graham, chocolat fondu et garniture fouettée enrichie d
 
 ## Ingrédients
 
-- 10 feuilles de biscuits Graham (150 g)
-- 1 tasse (165 g) de pépites de chocolat
-- 1 à 2 c. à thé d'huile de coco
-- 225 g (8 oz) de garniture fouettée légère (type Cool Whip)
-- 1 portion de poudre de protéines à la vanille
-- 32 g (1/4 tasse) de beurre d'arachide en poudre (optionnel)
+- <span class="qty">10</span> feuilles de biscuits Graham (<span class="qty">150</span> g)
+- <span class="qty">1</span> tasse (<span class="qty">165</span> g) de pépites de chocolat
+- <span class="qty">1</span> à <span class="qty">2</span> c. à thé d'huile de coco
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) de garniture fouettée légère (type Cool Whip)
+- <span class="qty">1</span> portion de poudre de protéines à la vanille
+- <span class="qty">32</span> g (<span class="qty">1/4</span> tasse) de beurre d'arachide en poudre (optionnel)
 
 ## Instructions
 

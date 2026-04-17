@@ -24,18 +24,18 @@ A vibrant, no-cook salad that is ready in 15 minutes. Canned white beans are tos
 
 ## Ingredients
 
-- 2 cans (425 g / 15 oz each) cannellini beans, drained and rinsed
-- 1 English cucumber, diced
-- 280 g (10 oz) grape or cherry tomatoes, halved
-- 4 green onions, chopped
-- 240 ml (1 cup) chopped fresh parsley
-- 15-20 fresh mint leaves, chopped
-- Zest and juice of 1 lemon
+- <span class="qty">2</span> cans (<span class="qty">425</span> g / <span class="qty">15</span> oz each) cannellini beans, drained and rinsed
+- <span class="qty">1</span> English cucumber, diced
+- <span class="qty">280</span> g (<span class="qty">10</span> oz) grape or cherry tomatoes, halved
+- <span class="qty">4</span> green onions, chopped
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) chopped fresh parsley
+- <span class="qty">15</span>-<span class="qty">20</span> fresh mint leaves, chopped
+- Zest and juice of <span class="qty">1</span> lemon
 - Salt and pepper to taste
-- 5 ml (1 tsp) za'atar
-- 2.5 ml (1/2 tsp) sumac
-- 2.5 ml (1/2 tsp) Aleppo pepper (or a pinch of red pepper flakes)
-- 30-45 ml (2-3 tbsp) extra virgin olive oil
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) za'atar
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) sumac
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) Aleppo pepper (or a pinch of red pepper flakes)
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> tbsp) extra virgin olive oil
 - Feta cheese, crumbled (optional)
 
 ## Instructions
@@ -59,18 +59,18 @@ Une salade vibrante sans cuisson, prete en 15 minutes. Des haricots blancs en co
 
 ## Ingrédients
 
-- 2 boîtes (425 g / 15 oz chacune) de haricots blancs cannellini, égouttés et rincés
-- 1 concombre anglais, coupé en dés
-- 280 g (10 oz) de tomates cerises ou raisins, coupées en deux
-- 4 oignons verts, hachés
-- 240 ml (1 tasse) de persil frais haché
-- 15-20 feuilles de menthe fraîche, hachées
-- Zeste et jus de 1 citron
+- <span class="qty">2</span> boîtes (<span class="qty">425</span> g / <span class="qty">15</span> oz chacune) de haricots blancs cannellini, égouttés et rincés
+- <span class="qty">1</span> concombre anglais, coupé en dés
+- <span class="qty">280</span> g (<span class="qty">10</span> oz) de tomates cerises ou raisins, coupées en deux
+- <span class="qty">4</span> oignons verts, hachés
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de persil frais haché
+- <span class="qty">15</span>-<span class="qty">20</span> feuilles de menthe fraîche, hachées
+- Zeste et jus de <span class="qty">1</span> citron
 - Sel et poivre au goût
-- 5 ml (1 c. à thé) de za'atar
-- 2,5 ml (1/2 c. à thé) de sumac
-- 2,5 ml (1/2 c. à thé) de piment d'Alep (ou une pincee de flocons de piment rouge)
-- 30-45 ml (2-3 c. à soupe) d'huile d'olive extra vierge
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de za'atar
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de sumac
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de piment d'Alep (ou une pincee de flocons de piment rouge)
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> c. à soupe) d'huile d'olive extra vierge
 - Fromage feta émietté (facultatif)
 
 ## Instructions

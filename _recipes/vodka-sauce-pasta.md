@@ -25,15 +25,15 @@ A classic Italian-American vodka sauce that comes together in under 30 minutes. 
 
 ## Ingredients
 
-- 227 g (8 oz) rotini or pasta of choice
-- 30 ml (2 tbsp) olive oil
-- 1 large shallot, minced
-- 2 garlic cloves, minced
-- 80 ml (1/3 cup) tomato paste
-- 45 ml (3 tbsp) vodka
-- 240 ml (1 cup) heavy cream (or plant-based cream for a dairy-free version)
-- 30 ml (2 tbsp) unsalted butter (or plant-based butter)
-- 60 g (1/2 cup) freshly grated Parmesan (or vegan parmesan)
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) rotini or pasta of choice
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) olive oil
+- <span class="qty">1</span> large shallot, minced
+- <span class="qty">2</span> garlic cloves, minced
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) tomato paste
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) vodka
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) heavy cream (or plant-based cream for a dairy-free version)
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) unsalted butter (or plant-based butter)
+- <span class="qty">60</span> g (<span class="qty">1/2</span> cup) freshly grated Parmesan (or vegan parmesan)
 - Salt and pepper to taste
 
 ## Instructions
@@ -59,15 +59,15 @@ Une sauce vodka classique italo-americaine qui se prépare en moins de 30 minute
 
 ## Ingrédients
 
-- 227 g (8 oz) de rotinis ou pâtes au choix
-- 30 ml (2 c. à soupe) d'huile d'olive
-- 1 grosse échalote, émincée
-- 2 gousses d'ail, émincées
-- 80 ml (1/3 tasse) de pâte de tomate
-- 45 ml (3 c. à soupe) de vodka
-- 240 ml (1 tasse) de crème épaisse (ou crème végétale pour une version sans produits laitiers)
-- 30 ml (2 c. à soupe) de beurre non salé (ou beurre végétal)
-- 60 g (1/2 tasse) de parmesan fraichement râpé (ou parmesan végétalien)
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) de rotinis ou pâtes au choix
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'huile d'olive
+- <span class="qty">1</span> grosse échalote, émincée
+- <span class="qty">2</span> gousses d'ail, émincées
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de pâte de tomate
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de vodka
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de crème épaisse (ou crème végétale pour une version sans produits laitiers)
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de beurre non salé (ou beurre végétal)
+- <span class="qty">60</span> g (<span class="qty">1/2</span> tasse) de parmesan fraichement râpé (ou parmesan végétalien)
 - Sel et poivre au goût
 
 ## Instructions

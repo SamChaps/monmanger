@@ -25,14 +25,14 @@ This single-serving mug cake is the fastest way to satisfy a chocolate craving. 
 
 ## Ingredients
 
-- 3 tbsp (45 ml) unbleached all-purpose flour
-- 2 tbsp (30 ml) brown sugar
-- 2 tsp (10 ml) cocoa powder
-- 1/4 tsp (1 ml) baking powder
-- 3 tbsp (45 ml) milk
-- 1 tbsp (15 ml) canola oil
-- 1 drop vanilla extract
-- 10 semisweet chocolate chips (about 1 tsp)
+- <span class="qty">3</span> tbsp (<span class="qty">45</span> ml) unbleached all-purpose flour
+- <span class="qty">2</span> tbsp (<span class="qty">30</span> ml) brown sugar
+- <span class="qty">2</span> tsp (<span class="qty">10</span> ml) cocoa powder
+- <span class="qty">1/4</span> tsp (<span class="qty">1</span> ml) baking powder
+- <span class="qty">3</span> tbsp (<span class="qty">45</span> ml) milk
+- <span class="qty">1</span> tbsp (<span class="qty">15</span> ml) canola oil
+- <span class="qty">1</span> drop vanilla extract
+- <span class="qty">10</span> semisweet chocolate chips (about <span class="qty">1</span> tsp)
 
 ## Instructions
 
@@ -56,14 +56,14 @@ Ce petit gâteau dans une tasse est la façon la plus rapide de combler une envi
 
 ## Ingrédients
 
-- 3 c. à soupe (45 ml) de farine tout usage non blanchie
-- 2 c. à soupe (30 ml) de cassonade
-- 2 c. à thé (10 ml) de cacao en poudre
-- 1/4 c. à thé (1 ml) de poudre à pâte
-- 3 c. à soupe (45 ml) de lait
-- 1 c. à soupe (15 ml) d'huile de canola
-- 1 goutte d'extrait de vanille
-- 10 pépites de chocolat mi-sucré (environ 1 c. à thé)
+- <span class="qty">3</span> c. à soupe (<span class="qty">45</span> ml) de farine tout usage non blanchie
+- <span class="qty">2</span> c. à soupe (<span class="qty">30</span> ml) de cassonade
+- <span class="qty">2</span> c. à thé (<span class="qty">10</span> ml) de cacao en poudre
+- <span class="qty">1/4</span> c. à thé (<span class="qty">1</span> ml) de poudre à pâte
+- <span class="qty">3</span> c. à soupe (<span class="qty">45</span> ml) de lait
+- <span class="qty">1</span> c. à soupe (<span class="qty">15</span> ml) d'huile de canola
+- <span class="qty">1</span> goutte d'extrait de vanille
+- <span class="qty">10</span> pépites de chocolat mi-sucré (environ <span class="qty">1</span> c. à thé)
 
 ## Instructions
 

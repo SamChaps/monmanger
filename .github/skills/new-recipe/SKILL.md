@@ -42,8 +42,8 @@ Brief intro paragraph about the dish.
 
 ## Ingredients
 
-- 200 g (7 oz) ingredient one
-- 2 tbsp ingredient two
+- <span class="qty">200</span> g (<span class="qty">7</span> oz) ingredient one
+- <span class="qty">2</span> tbsp ingredient two
 
 ## Instructions
 
@@ -62,8 +62,8 @@ Paragraphe d'introduction sur le plat.
 
 ## Ingrédients
 
-- 200 g d'ingrédient un
-- 2 c. à soupe d'ingrédient deux
+- <span class="qty">200</span> g d'ingrédient un
+- <span class="qty">2</span> c. à soupe d'ingrédient deux
 
 ## Instructions
 
@@ -99,6 +99,12 @@ Paragraphe d'introduction sur le plat.
 - Sections: Ingredients → Instructions → Notes & Tips (optional).
 - Sub-sections within Ingredients are fine (e.g. **Sauce**, **Dough**).
 - **Include ALL instruction variants.** If a recipe offers multiple cooking methods (e.g. stovetop, Instant Pot, oven, slow cooker, air fryer), include all of them as separate headed sections: `## Instructions (Stovetop)`, `## Instructions (Instant Pot)`, etc. Never omit an alternative method provided in the source.
+- **Scalable quantities.** Wrap every numeric quantity in ingredient lines with `<span class="qty">...</span>`. This enables the serving scaler on recipe pages. Examples:
+  - `<span class="qty">225</span> g (<span class="qty">1 1/2</span> cups) flour`
+  - `<span class="qty">1/2</span> tsp baking soda`
+  - `<span class="qty">1</span> egg`
+  - Lines without quantities (e.g. "Salt and pepper, to taste") get no spans.
+  - Apply to both English and French ingredient sections.
 
 ### Writing Style
 - **No em dashes (—).** Use commas, periods, colons, or semicolons instead. Rewrite the sentence if needed.

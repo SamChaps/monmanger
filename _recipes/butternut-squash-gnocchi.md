@@ -26,22 +26,22 @@ Pillowy homemade gnocchi made entirely from roasted butternut squash and flour. 
 
 ### Roasted Squash
 
-- 1 medium butternut squash, peeled, seeded, and cubed
-- 3 cloves garlic, halved
-- 2 tbsp olive oil
-- 1/4 tsp salt
+- <span class="qty">1</span> medium butternut squash, peeled, seeded, and cubed
+- <span class="qty">3</span> cloves garlic, halved
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1/4</span> tsp salt
 
 ### Dough
 
-- 250 ml (1 cup) all-purpose flour, plus more for kneading
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) all-purpose flour, plus more for kneading
 
 ### Pan-Fry
 
-- 2 tbsp oil
-- 1 French shallot, finely diced
-- 1/2 tsp chili flakes
+- <span class="qty">2</span> tbsp oil
+- <span class="qty">1</span> French shallot, finely diced
+- <span class="qty">1/2</span> tsp chili flakes
 - Pinch of salt
-- 125 ml (1/2 cup) fresh parsley, chopped
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) fresh parsley, chopped
 
 ## Instructions
 
@@ -67,22 +67,22 @@ Des gnocchis moelleux faits maison à base de courge butternut rôtie et de fari
 
 ### Courge rôtie
 
-- 1 courge butternut moyenne, pelée, épépinée et coupée en cubes
-- 3 gousses d'ail, coupées en deux
-- 2 c. à soupe d'huile d'olive
-- 1/4 c. à thé de sel
+- <span class="qty">1</span> courge butternut moyenne, pelée, épépinée et coupée en cubes
+- <span class="qty">3</span> gousses d'ail, coupées en deux
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1/4</span> c. à thé de sel
 
 ### Pâte
 
-- 250 ml (1 tasse) de farine tout usage, plus pour le pétrissage
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de farine tout usage, plus pour le pétrissage
 
 ### Poêlée
 
-- 2 c. à soupe d'huile
-- 1 échalote française, ciselée
-- 1/2 c. à thé de flocons de piment
-- 1 pincée de sel
-- 125 ml (1/2 tasse) de persil frais, haché
+- <span class="qty">2</span> c. à soupe d'huile
+- <span class="qty">1</span> échalote française, ciselée
+- <span class="qty">1/2</span> c. à thé de flocons de piment
+- <span class="qty">1</span> pincée de sel
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de persil frais, haché
 
 ## Instructions
 

@@ -24,16 +24,16 @@ A rich, creamy stroganoff made entirely without dairy. Mushrooms in a luscious c
 
 ## Ingredients
 
-- 2 tbsp coconut oil
-- 1 medium onion, chopped
-- 3 cloves garlic, minced
-- 450 g (1 lb) fresh mushrooms (cremini, shiitake, oyster, or portobello), sliced
-- 190-250 ml (3/4-1 cup) raw cashews, soaked 30-60 minutes in hot water
-- 1 can (400 ml) coconut milk
-- 500 ml (2 cups) tomato sauce
-- 2 tsp smoked paprika
-- 1 tsp Dijon mustard
-- 2 tbsp lemon juice (optional)
+- <span class="qty">2</span> tbsp coconut oil
+- <span class="qty">1</span> medium onion, chopped
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) fresh mushrooms (cremini, shiitake, oyster, or portobello), sliced
+- <span class="qty">190</span>-<span class="qty">250</span> ml (<span class="qty">3/4</span>-<span class="qty">1</span> cup) raw cashews, soaked <span class="qty">30</span>-60 minutes in hot water
+- <span class="qty">1</span> can (<span class="qty">400</span> ml) coconut milk
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) tomato sauce
+- <span class="qty">2</span> tsp smoked paprika
+- <span class="qty">1</span> tsp Dijon mustard
+- <span class="qty">2</span> tbsp lemon juice (optional)
 - Salt and pepper, to taste
 
 ## Instructions
@@ -59,16 +59,16 @@ Un stroganoff riche et crémeux entièrement sans produits laitiers. Des champig
 
 ## Ingrédients
 
-- 2 c. à soupe d'huile de coco
-- 1 oignon moyen, haché
-- 3 gousses d'ail, émincées
-- 450 g (1 lb) de champignons frais (cremini, shiitake, pleurotes ou portobello), tranches
-- 190-250 ml (3/4 à 1 tasse) de noix de cajou, trempées 30 à 60 minutes dans l'eau chaude
-- 1 boîte (400 ml) de lait de coco
-- 500 ml (2 tasses) de sauce tomate
-- 2 c. à thé de paprika fumé
-- 1 c. à thé de moutarde de Dijon
-- 2 c. à soupe de jus de citron (optionnel)
+- <span class="qty">2</span> c. à soupe d'huile de coco
+- <span class="qty">1</span> oignon moyen, haché
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de champignons frais (cremini, shiitake, pleurotes ou portobello), tranches
+- <span class="qty">190</span>-<span class="qty">250</span> ml (<span class="qty">3/4</span> à <span class="qty">1</span> tasse) de noix de cajou, trempées <span class="qty">30</span> à 60 minutes dans l'eau chaude
+- <span class="qty">1</span> boîte (<span class="qty">400</span> ml) de lait de coco
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de sauce tomate
+- <span class="qty">2</span> c. à thé de paprika fumé
+- <span class="qty">1</span> c. à thé de moutarde de Dijon
+- <span class="qty">2</span> c. à soupe de jus de citron (optionnel)
 - Sel et poivre, au goût
 
 ## Instructions

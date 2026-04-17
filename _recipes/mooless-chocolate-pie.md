@@ -25,12 +25,12 @@ A deceptively rich chocolate pie where silken tofu stands in for cream. Melted s
 
 ## Ingredients
 
-- 370 g (13 oz) semisweet chocolate chips
-- 80 ml (1/3 cup) coffee liqueur
-- 1 tsp vanilla extract
-- 450 g (1 lb) silken tofu, drained
-- 1 tbsp honey
-- 1 prepared chocolate wafer crust (23 cm / 9 inches)
+- <span class="qty">370</span> g (<span class="qty">13</span> oz) semisweet chocolate chips
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) coffee liqueur
+- <span class="qty">1</span> tsp vanilla extract
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) silken tofu, drained
+- <span class="qty">1</span> tbsp honey
+- <span class="qty">1</span> prepared chocolate wafer crust (23 cm / 9 inches)
 
 ## Instructions
 
@@ -54,12 +54,12 @@ Une tarte au chocolat trompeusement riche où le tofu soyeux remplace la crème.
 
 ## Ingrédients
 
-- 370 g (13 oz) de pépites de chocolat mi-sucré
-- 80 ml (1/3 tasse) de liqueur de café
-- 1 c. à thé d'extrait de vanille
-- 450 g (1 lb) de tofu soyeux, égoutté
-- 1 c. à soupe de miel
-- 1 croûte de biscuits au chocolat préparée (23 cm / 9 po)
+- <span class="qty">370</span> g (<span class="qty">13</span> oz) de pépites de chocolat mi-sucré
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de liqueur de café
+- <span class="qty">1</span> c. à thé d'extrait de vanille
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de tofu soyeux, égoutté
+- <span class="qty">1</span> c. à soupe de miel
+- <span class="qty">1</span> croûte de biscuits au chocolat préparée (23 cm / 9 po)
 
 ## Instructions
 

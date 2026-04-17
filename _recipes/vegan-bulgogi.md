@@ -25,22 +25,22 @@ A plant-based spin on Korean bulgogi that comes together in one skillet. Seasone
 
 ## Ingredients
 
-- 340 g (12 oz) plant-based beef crumbles (Impossible, Beyond, or similar)
-- 1 small onion, thinly sliced
-- 60 ml (4 tbsp) low-sodium soy sauce
-- 55 g (1/4 cup packed) brown sugar
-- 15 ml (1 tbsp) agave or maple syrup
-- 15 ml (1 tbsp) toasted sesame oil
-- 4 large garlic cloves, minced
-- 1/2 tsp ground ginger
-- 1/2 tsp dried red chili flakes, or more to taste
-- 1/4 tsp ground black pepper
-- 10 ml (2 tsp) sesame seeds
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) plant-based beef crumbles (Impossible, Beyond, or similar)
+- <span class="qty">1</span> small onion, thinly sliced
+- <span class="qty">60</span> ml (<span class="qty">4</span> tbsp) low-sodium soy sauce
+- <span class="qty">55</span> g (<span class="qty">1/4</span> cup packed) brown sugar
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) agave or maple syrup
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) toasted sesame oil
+- <span class="qty">4</span> large garlic cloves, minced
+- <span class="qty">1/2</span> tsp ground ginger
+- <span class="qty">1/2</span> tsp dried red chili flakes, or more to taste
+- <span class="qty">1/4</span> tsp ground black pepper
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) sesame seeds
 
 **For Serving**
 
-- 4 cups cooked white or brown rice
-- 120 ml (1/2 cup) chopped green onions
+- <span class="qty">4</span> cups cooked white or brown rice
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) chopped green onions
 
 ## Instructions
 
@@ -64,22 +64,22 @@ Une version végétale du bulgogi coreen qui se prépare en une seule poêle. De
 
 ## Ingrédients
 
-- 340 g (12 oz) d'émietté végétal style bœuf (Impossible, Beyond ou similaire)
-- 1 petit oignon, tranche finement
-- 60 ml (4 c. à soupe) de sauce soya a teneur réduite en sodium
-- 55 g (1/4 tasse bien tassee) de cassonade
-- 15 ml (1 c. à soupe) de sirop d'agave ou d'érable
-- 15 ml (1 c. à soupe) d'huile de sésame grillée
-- 4 grosses gousses d'ail, émincées
-- 1/2 c. à thé de gingembre moulu
-- 1/2 c. à thé de flocons de piment rouge seches, ou plus au goût
-- 1/4 c. à thé de poivre noir moulu
-- 10 ml (2 c. à thé) de graines de sésame
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) d'émietté végétal style bœuf (Impossible, Beyond ou similaire)
+- <span class="qty">1</span> petit oignon, tranche finement
+- <span class="qty">60</span> ml (<span class="qty">4</span> c. à soupe) de sauce soya a teneur réduite en sodium
+- <span class="qty">55</span> g (<span class="qty">1/4</span> tasse bien tassee) de cassonade
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de sirop d'agave ou d'érable
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile de sésame grillée
+- <span class="qty">4</span> grosses gousses d'ail, émincées
+- <span class="qty">1/2</span> c. à thé de gingembre moulu
+- <span class="qty">1/2</span> c. à thé de flocons de piment rouge seches, ou plus au goût
+- <span class="qty">1/4</span> c. à thé de poivre noir moulu
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de graines de sésame
 
 **Pour servir**
 
-- 4 tasses de riz blanc ou brun, cuit
-- 120 ml (1/2 tasse) d'oignons verts hachés
+- <span class="qty">4</span> tasses de riz blanc ou brun, cuit
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) d'oignons verts hachés
 
 ## Instructions
 

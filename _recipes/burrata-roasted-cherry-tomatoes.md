@@ -26,19 +26,19 @@ Slow-roasted cherry tomatoes, creamy burrata split open at the very last moment,
 
 ### Roasted Tomatoes
 
-- 280 g (2 cups) cherry tomatoes, halved
-- 15 ml (1 tbsp) lemon juice
-- 5 ml (1 tsp) sugar
-- 2.5 ml (1/2 tsp) salt
-- 60 ml (1/4 cup) olive oil
+- <span class="qty">280</span> g (<span class="qty">2</span> cups) cherry tomatoes, halved
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) lemon juice
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) sugar
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) salt
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
 
 ### Assembly
 
-- 3 cloves garlic, halved
-- 45 ml (3 tbsp) olive oil
-- 6 slices rustic bread
-- 1 burrata, about 225 g (1/2 lb), drained
-- 45 ml (3 tbsp) fresh basil leaves, torn
+- <span class="qty">3</span> cloves garlic, halved
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) olive oil
+- <span class="qty">6</span> slices rustic bread
+- <span class="qty">1</span> burrata, about <span class="qty">225</span> g (<span class="qty">1/2</span> lb), drained
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) fresh basil leaves, torn
 - Freshly ground black pepper
 
 ## Instructions
@@ -65,19 +65,19 @@ Des tomates cerises confites au four, une burrata crémeuse ouverte au tout dern
 
 ### Tomates confites
 
-- 280 g (2 tasses) de tomates cerises, coupées en deux
-- 15 ml (1 c. à soupe) de jus de citron
-- 5 ml (1 c. à thé) de sucre
-- 2,5 ml (1/2 c. à thé) de sel
-- 60 ml (1/4 tasse) d'huile d'olive
+- <span class="qty">280</span> g (<span class="qty">2</span> tasses) de tomates cerises, coupées en deux
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de citron
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de sucre
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de sel
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
 
 ### Assemblage
 
-- 3 gousses d'ail, coupées en deux
-- 45 ml (3 c. à soupe) d'huile d'olive
-- 6 tranches de pain de campagne
-- 1 burrata d'environ 225 g (1/2 lb), égouttée
-- 45 ml (3 c. à soupe) de feuilles de basilic frais, déchirées
+- <span class="qty">3</span> gousses d'ail, coupées en deux
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) d'huile d'olive
+- <span class="qty">6</span> tranches de pain de campagne
+- <span class="qty">1</span> burrata d'environ <span class="qty">225</span> g (<span class="qty">1/2</span> lb), égouttée
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de feuilles de basilic frais, déchirées
 - Poivre fraîchement moulu
 
 ## Instructions

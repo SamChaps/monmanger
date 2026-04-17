@@ -25,18 +25,18 @@ A quick and creamy weeknight pasta featuring sauteed bella mushrooms in a simple
 
 ## Ingredients
 
-- 227 g (8 oz) pasta of choice, cooked
-- 15 ml (1 tbsp) olive oil
-- 45 ml (3 tbsp) vegan butter, divided
-- 240 ml (1 cup) yellow onion, diced
-- 227 g (8 oz) bella mushrooms, sliced
-- 3 garlic cloves, minced
-- 1/2 tsp salt, plus more to taste
-- 15 ml (1 tbsp) all-purpose flour
-- 240 ml (1 cup) soy milk (or plant milk of choice)
-- 30 ml (2 tbsp) nutritional yeast
-- 10 ml (2 tsp) lemon juice
-- 2.5 ml (1/2 tsp) Dijon mustard
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) pasta of choice, cooked
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) olive oil
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) vegan butter, divided
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) yellow onion, diced
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) bella mushrooms, sliced
+- <span class="qty">3</span> garlic cloves, minced
+- <span class="qty">1/2</span> tsp salt, plus more to taste
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) all-purpose flour
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) soy milk (or plant milk of choice)
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) nutritional yeast
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) lemon juice
+- <span class="qty">2.5</span> ml (<span class="qty">1/2</span> tsp) Dijon mustard
 - Black pepper to taste
 - Fresh parsley, chopped, for garnish
 
@@ -63,18 +63,18 @@ Des pâtes rapides et cremeuses pour les soirs de semaine, avec des champignons 
 
 ## Ingrédients
 
-- 227 g (8 oz) de pâtes au choix, cuites
-- 15 ml (1 c. à soupe) d'huile d'olive
-- 45 ml (3 c. à soupe) de beurre végétal, divise
-- 240 ml (1 tasse) d'oignon jaune, coupé en dés
-- 227 g (8 oz) de champignons bella, tranches
-- 3 gousses d'ail, émincées
-- 1/2 c. à thé de sel, plus au goût
-- 15 ml (1 c. à soupe) de farine tout usage
-- 240 ml (1 tasse) de lait de soya (ou lait végétal au choix)
-- 30 ml (2 c. à soupe) de levure alimentaire
-- 10 ml (2 c. à thé) de jus de citron
-- 2,5 ml (1/2 c. à thé) de moutarde de Dijon
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) de pâtes au choix, cuites
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile d'olive
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de beurre végétal, divise
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) d'oignon jaune, coupé en dés
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) de champignons bella, tranches
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">1/2</span> c. à thé de sel, plus au goût
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de farine tout usage
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de lait de soya (ou lait végétal au choix)
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de levure alimentaire
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de jus de citron
+- <span class="qty">2</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à thé) de moutarde de Dijon
 - Poivre noir au goût
 - Persil frais haché, pour garnir
 

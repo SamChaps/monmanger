@@ -24,17 +24,17 @@ Turnip, pear, and carrot simmered in coconut milk and vegetable broth, then blen
 
 ## Ingredients
 
-- 2 tbsp vegetable oil
-- 1 onion, chopped
-- 2 cloves garlic, minced
-- 2 tbsp honey (or maple syrup for vegan)
-- 500 ml (2 cups) turnip, peeled and cubed
-- 500 ml (2 cups) pears, cut into pieces
-- 500 ml (2 cups) carrots, peeled and cut into pieces
-- 500 ml (2 cups) vegetable broth
-- 1 can (396 ml) coconut milk
+- <span class="qty">2</span> tbsp vegetable oil
+- <span class="qty">1</span> onion, chopped
+- <span class="qty">2</span> cloves garlic, minced
+- <span class="qty">2</span> tbsp honey (or maple syrup for vegan)
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) turnip, peeled and cubed
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) pears, cut into pieces
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) carrots, peeled and cut into pieces
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) vegetable broth
+- <span class="qty">1</span> can (<span class="qty">396</span> ml) coconut milk
 - Salt and pepper, to taste
-- 60 ml (1/4 cup) chopped nuts
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) chopped nuts
 - A drizzle of nut or sesame oil
 
 ## Instructions
@@ -58,17 +58,17 @@ Navet, poire et carotte mijoter dans le lait de coco et le bouillon de légumes,
 
 ## Ingrédients
 
-- 2 c. à soupe d'huile végétale
-- 1 oignon, haché
-- 2 gousses d'ail, hachées
-- 2 c. à soupe de miel (ou sirop d'érable pour la version vegane)
-- 500 ml (2 tasses) de navet, pelé et coupé en cubes
-- 500 ml (2 tasses) de poires, coupées en morceaux
-- 500 ml (2 tasses) de carottes, pelées et coupées en morceaux
-- 500 ml (2 tasses) de bouillon de légumes
-- 1 boîte (396 ml) de lait de coco
+- <span class="qty">2</span> c. à soupe d'huile végétale
+- <span class="qty">1</span> oignon, haché
+- <span class="qty">2</span> gousses d'ail, hachées
+- <span class="qty">2</span> c. à soupe de miel (ou sirop d'érable pour la version vegane)
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de navet, pelé et coupé en cubes
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de poires, coupées en morceaux
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de carottes, pelées et coupées en morceaux
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de bouillon de légumes
+- <span class="qty">1</span> boîte (<span class="qty">396</span> ml) de lait de coco
 - Sel et poivre, au goût
-- 60 ml (1/4 tasse) de noix hachées, au choix
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de noix hachées, au choix
 - Un filet d'huile de noix ou de sésame
 
 ## Instructions

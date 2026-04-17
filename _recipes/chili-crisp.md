@@ -24,16 +24,16 @@ Homemade chili crisp with crunchy peanuts, fragrant Sichuan peppercorns, and cri
 
 ## Ingredients
 
-- 2 cups (480 ml) neutral oil (grapeseed, soybean, or canola)
-- 2 to 3 cloves garlic, minced
-- 1/2 shallot, minced
-- 2 tbsp peanuts, chopped
-- 1 cup (40 g) dried chili flakes (a mix of gochugaru and Aleppo works well)
-- 2 tbsp Sichuan peppercorns
-- 1 tbsp sugar
-- 1 1/2 tbsp salt
-- Zest of 1 lemon
-- 2 tbsp sesame seeds
+- <span class="qty">2</span> cups (<span class="qty">480</span> ml) neutral oil (grapeseed, soybean, or canola)
+- <span class="qty">2</span> to <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">1/2</span> shallot, minced
+- <span class="qty">2</span> tbsp peanuts, chopped
+- <span class="qty">1</span> cup (<span class="qty">40</span> g) dried chili flakes (a mix of gochugaru and Aleppo works well)
+- <span class="qty">2</span> tbsp Sichuan peppercorns
+- <span class="qty">1</span> tbsp sugar
+- <span class="qty">1 1/2</span> tbsp salt
+- Zest of <span class="qty">1</span> lemon
+- <span class="qty">2</span> tbsp sesame seeds
 
 ## Instructions
 
@@ -57,16 +57,16 @@ Un chili crisp maison avec des arachides croquantes, des grains de poivre du Sic
 
 ## Ingrédients
 
-- 2 tasses (480 ml) d'huile neutre (pépins de raisin, soya ou canola)
-- 2 à 3 gousses d'ail, émincées
-- 1/2 échalote, émincée
-- 2 c. à soupe d'arachides, hachées
-- 1 tasse (40 g) de flocons de piment séché (un mélange de gochugaru et d'Alep fonctionne bien)
-- 2 c. à soupe de grains de poivre du Sichuan
-- 1 c. à soupe de sucre
-- 1 1/2 c. à soupe de sel
+- <span class="qty">2</span> tasses (<span class="qty">480</span> ml) d'huile neutre (pépins de raisin, soya ou canola)
+- <span class="qty">2</span> à <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">1/2</span> échalote, émincée
+- <span class="qty">2</span> c. à soupe d'arachides, hachées
+- <span class="qty">1</span> tasse (<span class="qty">40</span> g) de flocons de piment séché (un mélange de gochugaru et d'Alep fonctionne bien)
+- <span class="qty">2</span> c. à soupe de grains de poivre du Sichuan
+- <span class="qty">1</span> c. à soupe de sucre
+- <span class="qty">1 1/2</span> c. à soupe de sel
 - Zeste d'un citron
-- 2 c. à soupe de graines de sésame
+- <span class="qty">2</span> c. à soupe de graines de sésame
 
 ## Instructions
 

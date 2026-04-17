@@ -26,15 +26,15 @@ Few dishes are as deeply rooted in Quebec cooking as baked beans. This old-fashi
 
 ## Ingredients
 
-- 4 cups (800 g) dry white navy beans
-- 675 g (1 1/2 lb) lean salt pork (lard salé entrelardé), cut into large cubes
-- 2 medium onions, left whole
-- 1 tbsp dry mustard
-- 2 cups (400 g) packed brown sugar
-- 1 cup (250 ml) molasses
-- 1 tsp coarse salt
-- 1/2 tsp black pepper
-- 1 tsp dried summer savory
+- <span class="qty">4</span> cups (<span class="qty">800</span> g) dry white navy beans
+- <span class="qty">675</span> g (<span class="qty">1 1/2</span> lb) lean salt pork (lard salé entrelardé), cut into large cubes
+- <span class="qty">2</span> medium onions, left whole
+- <span class="qty">1</span> tbsp dry mustard
+- <span class="qty">2</span> cups (<span class="qty">400</span> g) packed brown sugar
+- <span class="qty">1</span> cup (<span class="qty">250</span> ml) molasses
+- <span class="qty">1</span> tsp coarse salt
+- <span class="qty">1/2</span> tsp black pepper
+- <span class="qty">1</span> tsp dried summer savory
 
 ## Instructions
 
@@ -62,15 +62,15 @@ Peu de plats sont aussi ancrés dans la cuisine québécoise que les fèves au l
 
 ## Ingrédients
 
-- 4 tasses (800 g) de petites fèves blanches sèches (haricots navy)
-- 675 g (1 1/2 lb) de lard salé entrelardé, coupé en gros cubes
-- 2 oignons moyens, entiers
-- 1 c. à soupe de moutarde en poudre
-- 2 tasses (400 g) de cassonade bien tassée
-- 1 tasse (250 ml) de mélasse
-- 1 c. à thé de gros sel
-- 1/2 c. à thé de poivre noir
-- 1 c. à thé de sarriette séchée
+- <span class="qty">4</span> tasses (<span class="qty">800</span> g) de petites fèves blanches sèches (haricots navy)
+- <span class="qty">675</span> g (<span class="qty">1 1/2</span> lb) de lard salé entrelardé, coupé en gros cubes
+- <span class="qty">2</span> oignons moyens, entiers
+- <span class="qty">1</span> c. à soupe de moutarde en poudre
+- <span class="qty">2</span> tasses (<span class="qty">400</span> g) de cassonade bien tassée
+- <span class="qty">1</span> tasse (<span class="qty">250</span> ml) de mélasse
+- <span class="qty">1</span> c. à thé de gros sel
+- <span class="qty">1/2</span> c. à thé de poivre noir
+- <span class="qty">1</span> c. à thé de sarriette séchée
 
 ## Instructions
 

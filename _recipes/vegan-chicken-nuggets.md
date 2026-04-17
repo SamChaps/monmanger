@@ -26,36 +26,36 @@ Crunchy on the outside, tender and flavourful on the inside. Pressed tofu is tor
 
 **Tofu**
 
-- 1 block (450 g / 1 lb) firm tofu, pressed and drained
+- <span class="qty">1</span> block (<span class="qty">450</span> g / <span class="qty">1</span> lb) firm tofu, pressed and drained
 
 **Marinade**
 
-- 80 ml (1/3 cup) light soy sauce or liquid aminos
-- 60 ml (1/4 cup) water
-- 1 tsp garlic powder
-- 1 tsp onion powder
-- 1 tsp smoked paprika
-- 15 ml (1 tbsp) nutritional yeast (optional)
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) light soy sauce or liquid aminos
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) water
+- <span class="qty">1</span> tsp garlic powder
+- <span class="qty">1</span> tsp onion powder
+- <span class="qty">1</span> tsp smoked paprika
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) nutritional yeast (optional)
 
 **Batter**
 
-- 120 ml (1/2 cup) unsweetened plant milk
-- 7.5 ml (1 1/2 tsp) apple cider vinegar
-- 240 ml (1 cup) all-purpose flour (or gluten-free flour)
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) unsweetened plant milk
+- <span class="qty">7.5</span> ml (<span class="qty">1 1/2</span> tsp) apple cider vinegar
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) all-purpose flour (or gluten-free flour)
 
 **Crumb Coating**
 
-- 310 ml (1 1/4 cup) breadcrumbs (panko or crushed rice cereal)
-- 3 tsp smoked paprika
-- 3 tsp nutritional yeast
-- 1 tsp garlic powder
-- 1 tsp onion powder
-- 1 tsp Italian seasoning
-- 1 tsp sea salt
+- <span class="qty">310</span> ml (<span class="qty">1 1/4</span> cup) breadcrumbs (panko or crushed rice cereal)
+- <span class="qty">3</span> tsp smoked paprika
+- <span class="qty">3</span> tsp nutritional yeast
+- <span class="qty">1</span> tsp garlic powder
+- <span class="qty">1</span> tsp onion powder
+- <span class="qty">1</span> tsp Italian seasoning
+- <span class="qty">1</span> tsp sea salt
 
 **For Pan-Frying**
 
-- 120 ml (1/2 cup) oil
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) oil
 
 ## Instructions
 
@@ -83,36 +83,36 @@ Croustillantes à l'extérieur, tendres et savoureuses à l'intérieur. Du tofu 
 
 **Tofu**
 
-- 1 bloc (450 g / 1 lb) de tofu ferme, bien pressé et égoutté
+- <span class="qty">1</span> bloc (<span class="qty">450</span> g / <span class="qty">1</span> lb) de tofu ferme, bien pressé et égoutté
 
 **Marinade**
 
-- 80 ml (1/3 tasse) de sauce soya légère ou acides amines liquides
-- 60 ml (1/4 tasse) d'eau
-- 1 c. à thé de poudre d'ail
-- 1 c. à thé de poudre d'oignon
-- 1 c. à thé de paprika fumé
-- 15 ml (1 c. à soupe) de levure alimentaire (facultatif)
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de sauce soya légère ou acides amines liquides
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'eau
+- <span class="qty">1</span> c. à thé de poudre d'ail
+- <span class="qty">1</span> c. à thé de poudre d'oignon
+- <span class="qty">1</span> c. à thé de paprika fumé
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de levure alimentaire (facultatif)
 
 **Panure liquide**
 
-- 120 ml (1/2 tasse) de lait végétal non sucré
-- 7,5 ml (1 1/2 c. à thé) de vinaigre de cidre
-- 240 ml (1 tasse) de farine tout usage (ou sans gluten)
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) de lait végétal non sucré
+- <span class="qty">7</span>,<span class="qty">5</span> ml (<span class="qty">1 1/2</span> c. à thé) de vinaigre de cidre
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de farine tout usage (ou sans gluten)
 
 **Enrobage**
 
-- 310 ml (1 1/4 tasse) de chapelure (panko ou cereales de riz ecrasees)
-- 3 c. à thé de paprika fumé
-- 3 c. à thé de levure alimentaire
-- 1 c. à thé de poudre d'ail
-- 1 c. à thé de poudre d'oignon
-- 1 c. à thé d'assaisonnement italien
-- 1 c. à thé de sel de mer
+- <span class="qty">310</span> ml (<span class="qty">1 1/4</span> tasse) de chapelure (panko ou cereales de riz ecrasees)
+- <span class="qty">3</span> c. à thé de paprika fumé
+- <span class="qty">3</span> c. à thé de levure alimentaire
+- <span class="qty">1</span> c. à thé de poudre d'ail
+- <span class="qty">1</span> c. à thé de poudre d'oignon
+- <span class="qty">1</span> c. à thé d'assaisonnement italien
+- <span class="qty">1</span> c. à thé de sel de mer
 
 **Pour la friture**
 
-- 120 ml (1/2 tasse) d'huile
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) d'huile
 
 ## Instructions
 

@@ -24,14 +24,14 @@ Dumplings stuffed with a quick stir-fried sesame tofu filling, flavored with soy
 
 ## Ingredients
 
-- 1 block extra-firm tofu
-- 1 tbsp sesame oil
-- 2 cloves garlic, chopped
-- 3 tbsp soy sauce
-- 1 tbsp rice wine vinegar
-- 1 tbsp agave nectar (or maple syrup)
-- 1 tbsp sesame seeds (half black, half white)
-- 3 green onions, finely chopped
+- <span class="qty">1</span> block extra-firm tofu
+- <span class="qty">1</span> tbsp sesame oil
+- <span class="qty">2</span> cloves garlic, chopped
+- <span class="qty">3</span> tbsp soy sauce
+- <span class="qty">1</span> tbsp rice wine vinegar
+- <span class="qty">1</span> tbsp agave nectar (or maple syrup)
+- <span class="qty">1</span> tbsp sesame seeds (half black, half white)
+- <span class="qty">3</span> green onions, finely chopped
 - Vegan dumpling wrappers
 
 ## Instructions
@@ -57,14 +57,14 @@ Des dumplings farcis d'une garniture rapide de tofu sauté au sésame, assaisonn
 
 ## Ingrédients
 
-- 1 bloc de tofu extra-ferme
-- 1 c. à soupe d'huile de sésame
-- 2 gousses d'ail, hachées
-- 3 c. à soupe de sauce soya
-- 1 c. à soupe de vinaigre de riz
-- 1 c. à soupe de sirop d'agave (ou sirop d'érable)
-- 1 c. à soupe de graines de sésame (moitié noire, moitié blanche)
-- 3 oignons verts, finement hachés
+- <span class="qty">1</span> bloc de tofu extra-ferme
+- <span class="qty">1</span> c. à soupe d'huile de sésame
+- <span class="qty">2</span> gousses d'ail, hachées
+- <span class="qty">3</span> c. à soupe de sauce soya
+- <span class="qty">1</span> c. à soupe de vinaigre de riz
+- <span class="qty">1</span> c. à soupe de sirop d'agave (ou sirop d'érable)
+- <span class="qty">1</span> c. à soupe de graines de sésame (moitié noire, moitié blanche)
+- <span class="qty">3</span> oignons verts, finement hachés
 - Feuilles de dumpling veganes
 
 ## Instructions

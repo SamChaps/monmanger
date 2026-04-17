@@ -26,20 +26,20 @@ A make-ahead salad built on fluffy quinoa dressed while still warm so it absorbs
 
 ### Salad
 
-- 250 ml (1 cup) quinoa, rinsed
-- 4 scallions (white and green parts), sliced
-- 2 bell peppers (red, yellow, or orange), chopped
-- 125 ml (1/2 cup) pitted Kalamata olives, drained and roughly chopped
-- 1 English cucumber, quartered and sliced
-- 125 ml (1/2 cup) crumbled feta cheese
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) quinoa, rinsed
+- <span class="qty">4</span> scallions (white and green parts), sliced
+- <span class="qty">2</span> bell peppers (red, yellow, or orange), chopped
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) pitted Kalamata olives, drained and roughly chopped
+- <span class="qty">1</span> English cucumber, quartered and sliced
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) crumbled feta cheese
 
 ### Dressing
 
-- Juice and zest of 1 lemon
-- 1 tsp dried oregano
-- 3/4 tsp kosher salt
-- 1/4 tsp black pepper
-- 60 ml (1/4 cup) extra-virgin olive oil
+- Juice and zest of <span class="qty">1</span> lemon
+- <span class="qty">1</span> tsp dried oregano
+- <span class="qty">3/4</span> tsp kosher salt
+- <span class="qty">1/4</span> tsp black pepper
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) extra-virgin olive oil
 
 ## Instructions
 
@@ -64,20 +64,20 @@ Une salade à préparer à l'avance, bâtie sur du quinoa moelleux assaisonné e
 
 ### Salade
 
-- 250 ml (1 tasse) de quinoa, rincé
-- 4 oignons verts (parties blanches et vertes), tranchés
-- 2 poivrons (rouge, jaune ou orange), hachés
-- 125 ml (1/2 tasse) d'olives Kalamata dénoyautées, égouttées et hachées grossièrement
-- 1 concombre anglais, coupé en quartiers puis tranché
-- 125 ml (1/2 tasse) de feta émiettée
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de quinoa, rincé
+- <span class="qty">4</span> oignons verts (parties blanches et vertes), tranchés
+- <span class="qty">2</span> poivrons (rouge, jaune ou orange), hachés
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'olives Kalamata dénoyautées, égouttées et hachées grossièrement
+- <span class="qty">1</span> concombre anglais, coupé en quartiers puis tranché
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de feta émiettée
 
 ### Vinaigrette
 
-- Jus et zeste de 1 citron
-- 1 c. à thé d'origan séché
-- 3/4 c. à thé de gros sel
-- 1/4 c. à thé de poivre noir
-- 60 ml (1/4 tasse) d'huile d'olive extra vierge
+- Jus et zeste de <span class="qty">1</span> citron
+- <span class="qty">1</span> c. à thé d'origan séché
+- <span class="qty">3/4</span> c. à thé de gros sel
+- <span class="qty">1/4</span> c. à thé de poivre noir
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive extra vierge
 
 ## Instructions
 

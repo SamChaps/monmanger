@@ -25,17 +25,17 @@ Dense, fudgy brownies where sweet potato puree provides the moisture and natural
 
 ## Ingredients
 
-- 240 ml (1 cup) sweet potato puree (about 1 medium sweet potato)
-- 160 ml (2/3 cup) maple syrup
-- 120 ml (1/2 cup) almond butter or peanut butter
-- 5 ml (1 tsp) vanilla extract
-- 22 ml (1 1/2 tbsp) avocado oil (or melted coconut oil)
-- 60 g (1/2 cup) cocoa or cacao powder
-- 1/4 tsp sea salt
-- 5 ml (1 tsp) baking powder
-- 80 g (2/3 cup) oat flour (or gluten-free all-purpose flour)
-- 60 g (1/2 cup) raw pecans, chopped
-- 45 g (1/4 cup) dairy-free chocolate chips (optional)
+- <span class="qty">240</span> ml (<span class="qty">1</span> cup) sweet potato puree (about <span class="qty">1</span> medium sweet potato)
+- <span class="qty">160</span> ml (<span class="qty">2/3</span> cup) maple syrup
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) almond butter or peanut butter
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) vanilla extract
+- <span class="qty">22</span> ml (<span class="qty">1 1/2</span> tbsp) avocado oil (or melted coconut oil)
+- <span class="qty">60</span> g (<span class="qty">1/2</span> cup) cocoa or cacao powder
+- <span class="qty">1/4</span> tsp sea salt
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) baking powder
+- <span class="qty">80</span> g (<span class="qty">2/3</span> cup) oat flour (or gluten-free all-purpose flour)
+- <span class="qty">60</span> g (<span class="qty">1/2</span> cup) raw pecans, chopped
+- <span class="qty">45</span> g (<span class="qty">1/4</span> cup) dairy-free chocolate chips (optional)
 
 ## Instructions
 
@@ -60,17 +60,17 @@ Des brownies denses et fondants ou la purée de patate douce apporte l'humidite 
 
 ## Ingrédients
 
-- 240 ml (1 tasse) de purée de patate douce (environ 1 patate douce moyenne)
-- 160 ml (2/3 tasse) de sirop d'érable
-- 120 ml (1/2 tasse) de beurre d'amande ou beurre d'arachide
-- 5 ml (1 c. à thé) d'extrait de vanille
-- 22 ml (1 1/2 c. à soupe) d'huile d'avocat (ou huile de coco fondue)
-- 60 g (1/2 tasse) de poudre de cacao
-- 1/4 c. à thé de sel de mer
-- 5 ml (1 c. à thé) de poudre à pâte
-- 80 g (2/3 tasse) de farine d'avoine (ou farine tout usage sans gluten)
-- 60 g (1/2 tasse) de pacanes crues, hachées
-- 45 g (1/4 tasse) de pépites de chocolat sans produits laitiers (facultatif)
+- <span class="qty">240</span> ml (<span class="qty">1</span> tasse) de purée de patate douce (environ <span class="qty">1</span> patate douce moyenne)
+- <span class="qty">160</span> ml (<span class="qty">2/3</span> tasse) de sirop d'érable
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) de beurre d'amande ou beurre d'arachide
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'extrait de vanille
+- <span class="qty">22</span> ml (<span class="qty">1 1/2</span> c. à soupe) d'huile d'avocat (ou huile de coco fondue)
+- <span class="qty">60</span> g (<span class="qty">1/2</span> tasse) de poudre de cacao
+- <span class="qty">1/4</span> c. à thé de sel de mer
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de poudre à pâte
+- <span class="qty">80</span> g (<span class="qty">2/3</span> tasse) de farine d'avoine (ou farine tout usage sans gluten)
+- <span class="qty">60</span> g (<span class="qty">1/2</span> tasse) de pacanes crues, hachées
+- <span class="qty">45</span> g (<span class="qty">1/4</span> tasse) de pépites de chocolat sans produits laitiers (facultatif)
 
 ## Instructions
 

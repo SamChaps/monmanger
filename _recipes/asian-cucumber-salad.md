@@ -26,19 +26,19 @@ Crunchy spiralized cucumbers tossed in a bold, spicy dressing that comes togethe
 
 ### Salad
 
-- 6 mini cucumbers (or Persian cucumbers)
-- 2 tsp salt (for draining)
+- <span class="qty">6</span> mini cucumbers (or Persian cucumbers)
+- <span class="qty">2</span> tsp salt (for draining)
 
 ### Dressing
 
-- 1 tbsp soy sauce
-- 2 cloves garlic, minced
-- 1 tbsp rice vinegar
-- 1 tbsp Chinese chili oil
-- 1 tbsp granulated sugar
-- 1 tsp sesame oil
-- 1 tsp sesame seeds
-- 2 tbsp green onion, finely sliced
+- <span class="qty">1</span> tbsp soy sauce
+- <span class="qty">2</span> cloves garlic, minced
+- <span class="qty">1</span> tbsp rice vinegar
+- <span class="qty">1</span> tbsp Chinese chili oil
+- <span class="qty">1</span> tbsp granulated sugar
+- <span class="qty">1</span> tsp sesame oil
+- <span class="qty">1</span> tsp sesame seeds
+- <span class="qty">2</span> tbsp green onion, finely sliced
 
 ## Instructions
 
@@ -63,19 +63,19 @@ Des concombres croquants coupés en accordéon, enrobés d'une vinaigrette épic
 
 ### Salade
 
-- 6 mini concombres (ou concombres persans)
-- 2 c. à thé de sel (pour le dégorgement)
+- <span class="qty">6</span> mini concombres (ou concombres persans)
+- <span class="qty">2</span> c. à thé de sel (pour le dégorgement)
 
 ### Vinaigrette
 
-- 1 c. à soupe de sauce soya
-- 2 gousses d'ail, émincées
-- 1 c. à soupe de vinaigre de riz
-- 1 c. à soupe d'huile de chili chinoise
-- 1 c. à soupe de sucre granulé
-- 1 c. à thé d'huile de sésame
-- 1 c. à thé de graines de sésame
-- 2 c. à soupe d'oignon vert, finement émincé
+- <span class="qty">1</span> c. à soupe de sauce soya
+- <span class="qty">2</span> gousses d'ail, émincées
+- <span class="qty">1</span> c. à soupe de vinaigre de riz
+- <span class="qty">1</span> c. à soupe d'huile de chili chinoise
+- <span class="qty">1</span> c. à soupe de sucre granulé
+- <span class="qty">1</span> c. à thé d'huile de sésame
+- <span class="qty">1</span> c. à thé de graines de sésame
+- <span class="qty">2</span> c. à soupe d'oignon vert, finement émincé
 
 ## Instructions
 

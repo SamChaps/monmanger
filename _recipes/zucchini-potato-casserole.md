@@ -25,19 +25,19 @@ A budget-friendly, no-fuss casserole that makes the most of simple ingredients. 
 
 ## Ingredients
 
-- 3 medium zucchini, halved lengthwise and thinly sliced
-- 3 large russet potatoes, halved lengthwise and thinly sliced
-- 180 ml (3/4 cup) diced bell pepper (about 1 small pepper)
-- 60 g (1/4 cup) nutritional yeast
-- 5 ml (1 tsp) minced garlic (about 3 small cloves)
-- 60 ml (1/4 cup) diced onion (about 1 small onion)
-- 60 ml (1/4 cup) dry breadcrumbs (gluten-free if needed)
-- 60 ml (1/4 cup) olive oil
+- <span class="qty">3</span> medium zucchini, halved lengthwise and thinly sliced
+- <span class="qty">3</span> large russet potatoes, halved lengthwise and thinly sliced
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> cup) diced bell pepper (about <span class="qty">1</span> small pepper)
+- <span class="qty">60</span> g (<span class="qty">1/4</span> cup) nutritional yeast
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) minced garlic (about <span class="qty">3</span> small cloves)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) diced onion (about <span class="qty">1</span> small onion)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) dry breadcrumbs (gluten-free if needed)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) olive oil
 - Salt and pepper to taste
 
 **Optional**
 
-- 5 ml (1 tsp) red chili flakes
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) red chili flakes
 - Pinch of paprika
 
 ## Instructions
@@ -62,19 +62,19 @@ Un gratin economique et sans chichi qui tire le meilleur d'ingrédients tout sim
 
 ## Ingrédients
 
-- 3 courgettes moyennes, coupées en deux dans la longueur et tranchées finement
-- 3 grosses pommes de terre Russet, coupées en deux et tranchées finement
-- 180 ml (3/4 tasse) de poivron coupé en dés (environ 1 petit poivron)
-- 60 g (1/4 tasse) de levure alimentaire
-- 5 ml (1 c. à thé) d'ail émincé (environ 3 petites gousses)
-- 60 ml (1/4 tasse) d'oignon coupé en dés (environ 1 petit oignon)
-- 60 ml (1/4 tasse) de chapelure séché (sans gluten si nécessaire)
-- 60 ml (1/4 tasse) d'huile d'olive
+- <span class="qty">3</span> courgettes moyennes, coupées en deux dans la longueur et tranchées finement
+- <span class="qty">3</span> grosses pommes de terre Russet, coupées en deux et tranchées finement
+- <span class="qty">180</span> ml (<span class="qty">3/4</span> tasse) de poivron coupé en dés (environ <span class="qty">1</span> petit poivron)
+- <span class="qty">60</span> g (<span class="qty">1/4</span> tasse) de levure alimentaire
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'ail émincé (environ <span class="qty">3</span> petites gousses)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'oignon coupé en dés (environ <span class="qty">1</span> petit oignon)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de chapelure séché (sans gluten si nécessaire)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile d'olive
 - Sel et poivre au goût
 
 **Facultatif**
 
-- 5 ml (1 c. à thé) de flocons de piment rouge
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) de flocons de piment rouge
 - Pincee de paprika
 
 ## Instructions

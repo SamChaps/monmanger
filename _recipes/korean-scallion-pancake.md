@@ -25,23 +25,23 @@ A classic Korean scallion pancake with a shatteringly crispy exterior and a soft
 
 ### Pancake Batter
 
-- 250 ml (1 cup) green onions, packed, cut into 4 cm (1.5 inch) pieces
-- 60 ml (1/4 cup) all-purpose flour
-- 60 ml (1/4 cup) potato starch or cornstarch
-- 2 tsp baking powder
-- 1/4 tsp salt
-- 1/2 tsp chicken bouillon powder (or mushroom powder for vegan)
-- 1 tsp garlic powder
-- 1/2 tsp onion powder
-- 125 ml (1/2 cup) very cold water
-- 5 tbsp vegetable oil, for frying
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) green onions, packed, cut into 4 cm (1.5 inch) pieces
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) all-purpose flour
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) potato starch or cornstarch
+- <span class="qty">2</span> tsp baking powder
+- <span class="qty">1/4</span> tsp salt
+- <span class="qty">1/2</span> tsp chicken bouillon powder (or mushroom powder for vegan)
+- <span class="qty">1</span> tsp garlic powder
+- <span class="qty">1/2</span> tsp onion powder
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) very cold water
+- <span class="qty">5</span> tbsp vegetable oil, for frying
 
 ### Dipping Sauce
 
-- 2 tbsp soy sauce
-- 2 tbsp rice vinegar
-- 1/2 tbsp sesame oil
-- 1 tbsp green onion, finely chopped
+- <span class="qty">2</span> tbsp soy sauce
+- <span class="qty">2</span> tbsp rice vinegar
+- <span class="qty">1/2</span> tbsp sesame oil
+- <span class="qty">1</span> tbsp green onion, finely chopped
 
 ## Instructions
 
@@ -69,23 +69,23 @@ Un classique coréen avec un extérieur incroyablement croustillant et un centre
 
 ### Pâte à crêpe
 
-- 250 ml (1 tasse) d'oignons verts, tassés, coupés en morceaux de 4 cm (1,5 po)
-- 60 ml (1/4 tasse) de farine tout usage
-- 60 ml (1/4 tasse) de fécule de pomme de terre ou de maïs
-- 2 c. à thé de poudre à pâte
-- 1/4 c. à thé de sel
-- 1/2 c. à thé de poudre de bouillon de poulet (ou poudre de champignon pour végane)
-- 1 c. à thé de poudre d'ail
-- 1/2 c. à thé de poudre d'oignon
-- 125 ml (1/2 tasse) d'eau très froide
-- 5 c. à soupe d'huile végétale, pour la friture
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) d'oignons verts, tassés, coupés en morceaux de 4 cm (1,5 po)
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de farine tout usage
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de fécule de pomme de terre ou de maïs
+- <span class="qty">2</span> c. à thé de poudre à pâte
+- <span class="qty">1/4</span> c. à thé de sel
+- <span class="qty">1/2</span> c. à thé de poudre de bouillon de poulet (ou poudre de champignon pour végane)
+- <span class="qty">1</span> c. à thé de poudre d'ail
+- <span class="qty">1/2</span> c. à thé de poudre d'oignon
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'eau très froide
+- <span class="qty">5</span> c. à soupe d'huile végétale, pour la friture
 
 ### Sauce trempette
 
-- 2 c. à soupe de sauce soya
-- 2 c. à soupe de vinaigre de riz
-- 1/2 c. à soupe d'huile de sésame
-- 1 c. à soupe d'oignon vert, haché finement
+- <span class="qty">2</span> c. à soupe de sauce soya
+- <span class="qty">2</span> c. à soupe de vinaigre de riz
+- <span class="qty">1/2</span> c. à soupe d'huile de sésame
+- <span class="qty">1</span> c. à soupe d'oignon vert, haché finement
 
 ## Instructions
 

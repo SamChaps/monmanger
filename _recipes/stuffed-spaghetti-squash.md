@@ -23,17 +23,17 @@ Spaghetti squash halves roasted until tender, then the noodle-like strands are t
 
 ## Ingredients
 
-- 2 small round spaghetti squash
-- 1 tbsp + 1 tsp olive oil, divided
-- 1 yellow onion, diced
-- 1 shallot, diced
-- 3 cloves garlic, minced
-- 8 cremini mushrooms, diced
-- 1 tsp dried oregano
-- 1 tsp dried basil
-- 1 tsp dried thyme
+- <span class="qty">2</span> small round spaghetti squash
+- <span class="qty">1</span> tbsp + <span class="qty">1</span> tsp olive oil, divided
+- <span class="qty">1</span> yellow onion, diced
+- <span class="qty">1</span> shallot, diced
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">8</span> cremini mushrooms, diced
+- <span class="qty">1</span> tsp dried oregano
+- <span class="qty">1</span> tsp dried basil
+- <span class="qty">1</span> tsp dried thyme
 - Salt and pepper, to taste
-- 1 L (4 cups) tomato sauce
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) tomato sauce
 - Grated Parmesan, for garnish (optional)
 
 ## Instructions
@@ -60,17 +60,17 @@ Des moities de courge spaghetti rôties jusqu'à tendrete, puis les filaments so
 
 ## Ingrédients
 
-- 2 petites courges spaghetti rondes
-- 1 c. à soupe + 1 c. à thé d'huile d'olive, divisee
-- 1 oignon jaune, coupé en dés
-- 1 échalote, coupée en dés
-- 3 gousses d'ail, émincées
-- 8 champignons cremini, coupés en dés
-- 1 c. à thé d'origan séché
-- 1 c. à thé de basilic séché
-- 1 c. à thé de thym séché
+- <span class="qty">2</span> petites courges spaghetti rondes
+- <span class="qty">1</span> c. à soupe + <span class="qty">1</span> c. à thé d'huile d'olive, divisee
+- <span class="qty">1</span> oignon jaune, coupé en dés
+- <span class="qty">1</span> échalote, coupée en dés
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">8</span> champignons cremini, coupés en dés
+- <span class="qty">1</span> c. à thé d'origan séché
+- <span class="qty">1</span> c. à thé de basilic séché
+- <span class="qty">1</span> c. à thé de thym séché
 - Sel et poivre, au goût
-- 1 L (4 tasses) de sauce tomate
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de sauce tomate
 - Parmesan râpé, pour garnir (optionnel)
 
 ## Instructions

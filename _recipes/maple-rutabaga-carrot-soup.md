@@ -24,14 +24,14 @@ A velvety soup made from carrots, rutabaga, and potatoes simmered in broth with 
 
 ## Ingredients
 
-- 520 g (4 cups) carrots, peeled and sliced
-- 600 g (4 cups) rutabaga, peeled and cubed
-- 2 onions, thinly sliced
-- 40 g (3 tbsp) butter
-- 2 L (8 cups) chicken broth (or vegetable broth)
-- 2 Russet potatoes, peeled and cubed
-- 45 ml (3 tbsp) maple syrup
-- 60 ml (1/4 cup) heavy cream (35%)
+- <span class="qty">520</span> g (<span class="qty">4</span> cups) carrots, peeled and sliced
+- <span class="qty">600</span> g (<span class="qty">4</span> cups) rutabaga, peeled and cubed
+- <span class="qty">2</span> onions, thinly sliced
+- <span class="qty">40</span> g (<span class="qty">3</span> tbsp) butter
+- <span class="qty">2</span> L (<span class="qty">8</span> cups) chicken broth (or vegetable broth)
+- <span class="qty">2</span> Russet potatoes, peeled and cubed
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) maple syrup
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) heavy cream (<span class="qty">35</span>%)
 - Salt and pepper to taste
 
 ## Instructions
@@ -55,14 +55,14 @@ Un potage velouté à base de carottes, rutabaga et pommes de terre mijotés dan
 
 ## Ingrédients
 
-- 520 g (4 tasses) de carottes, pelées et tranchées
-- 600 g (4 tasses) de rutabaga, pelé et coupé en cubes
-- 2 oignons, émincés
-- 40 g (3 c. à soupe) de beurre
-- 2 litres (8 tasses) de bouillon de poulet (ou de légumes)
-- 2 pommes de terre Russet, pelées et coupées en cubes
-- 45 ml (3 c. à soupe) de sirop d'érable
-- 60 ml (1/4 tasse) de crème 35 %
+- <span class="qty">520</span> g (<span class="qty">4</span> tasses) de carottes, pelées et tranchées
+- <span class="qty">600</span> g (<span class="qty">4</span> tasses) de rutabaga, pelé et coupé en cubes
+- <span class="qty">2</span> oignons, émincés
+- <span class="qty">40</span> g (<span class="qty">3</span> c. à soupe) de beurre
+- <span class="qty">2</span> litres (<span class="qty">8</span> tasses) de bouillon de poulet (ou de légumes)
+- <span class="qty">2</span> pommes de terre Russet, pelées et coupées en cubes
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) de sirop d'érable
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de crème <span class="qty">35</span> %
 - Sel et poivre au goût
 
 ## Instructions

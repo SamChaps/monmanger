@@ -25,17 +25,17 @@ A simple, from-scratch enchilada sauce built on chili powder, cumin, and a touch
 
 ## Ingredients
 
-- 3 tbsp olive oil
-- 3 tbsp flour (all-purpose or whole wheat)
-- 1 tbsp chili powder
-- 1 tsp ground cumin
-- 1/2 tsp garlic powder
-- 1/4 tsp dried oregano
-- 1/4 tsp salt, plus more to taste
+- <span class="qty">3</span> tbsp olive oil
+- <span class="qty">3</span> tbsp flour (all-purpose or whole wheat)
+- <span class="qty">1</span> tbsp chili powder
+- <span class="qty">1</span> tsp ground cumin
+- <span class="qty">1/2</span> tsp garlic powder
+- <span class="qty">1/4</span> tsp dried oregano
+- <span class="qty">1/4</span> tsp salt, plus more to taste
 - Pinch of cinnamon (optional but recommended)
-- 2 tbsp tomato paste
-- 2 cups (480 ml) vegetable broth
-- 1 tsp apple cider vinegar
+- <span class="qty">2</span> tbsp tomato paste
+- <span class="qty">2</span> cups (<span class="qty">480</span> ml) vegetable broth
+- <span class="qty">1</span> tsp apple cider vinegar
 - Freshly ground black pepper
 
 ## Instructions
@@ -60,17 +60,17 @@ Une sauce enchilada maison toute simple à base de poudre de chili, cumin et une
 
 ## Ingrédients
 
-- 3 c. à soupe d'huile d'olive
-- 3 c. à soupe de farine (tout usage ou de blé entier)
-- 1 c. à soupe de poudre de chili
-- 1 c. à thé de cumin moulu
-- 1/2 c. à thé de poudre d'ail
-- 1/4 c. à thé d'origan séché
-- 1/4 c. à thé de sel, plus au goût
+- <span class="qty">3</span> c. à soupe d'huile d'olive
+- <span class="qty">3</span> c. à soupe de farine (tout usage ou de blé entier)
+- <span class="qty">1</span> c. à soupe de poudre de chili
+- <span class="qty">1</span> c. à thé de cumin moulu
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
+- <span class="qty">1/4</span> c. à thé d'origan séché
+- <span class="qty">1/4</span> c. à thé de sel, plus au goût
 - Pincée de cannelle (optionnel mais recommandé)
-- 2 c. à soupe de pâte de tomate
-- 2 tasses (480 ml) de bouillon de légumes
-- 1 c. à thé de vinaigre de cidre de pomme
+- <span class="qty">2</span> c. à soupe de pâte de tomate
+- <span class="qty">2</span> tasses (<span class="qty">480</span> ml) de bouillon de légumes
+- <span class="qty">1</span> c. à thé de vinaigre de cidre de pomme
 - Poivre noir fraîchement moulu
 
 ## Instructions

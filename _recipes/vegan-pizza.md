@@ -24,16 +24,16 @@ A vibrant homemade pizza piled high with broccoli, cherry tomatoes, corn, and su
 
 ## Ingredients
 
-- 1 ball (450 g / 16 oz) pizza dough
-- 1 small head broccoli, florets chopped small (about 1 cup)
-- 1/2 cup (75 g) halved cherry tomatoes
-- Kernels from 1 ear of corn
-- 1/3 cup (50 g) coarsely chopped red onion
-- 1/2 jalapeno, thinly sliced
-- 4 oil-packed sun-dried tomatoes, diced
+- <span class="qty">1</span> ball (<span class="qty">450</span> g / <span class="qty">16</span> oz) pizza dough
+- <span class="qty">1</span> small head broccoli, florets chopped small (about <span class="qty">1</span> cup)
+- <span class="qty">1/2</span> cup (<span class="qty">75</span> g) halved cherry tomatoes
+- Kernels from <span class="qty">1</span> ear of corn
+- <span class="qty">1/3</span> cup (<span class="qty">50</span> g) coarsely chopped red onion
+- <span class="qty">1/2</span> jalapeno, thinly sliced
+- <span class="qty">4</span> oil-packed sun-dried tomatoes, diced
 - Extra-virgin olive oil, for drizzling and brushing
-- 1/2 cup (75 g) fresh basil leaves
-- 2 tbsp fresh thyme leaves
+- <span class="qty">1/2</span> cup (<span class="qty">75</span> g) fresh basil leaves
+- <span class="qty">2</span> tbsp fresh thyme leaves
 - Pinch of red pepper flakes
 - Salt and freshly ground black pepper
 - Cashew cream (see recipe)
@@ -61,16 +61,16 @@ Une pizza maison colorée garnie de brocoli, tomates cerises, maïs et tomates s
 
 ## Ingrédients
 
-- 1 boule (450 g / 16 oz) de pâte à pizza
-- 1 petite tête de brocoli, bouquets hachés finement (environ 1 tasse)
-- 1/2 tasse (75 g) de tomates cerises coupées en deux
+- <span class="qty">1</span> boule (<span class="qty">450</span> g / <span class="qty">16</span> oz) de pâte à pizza
+- <span class="qty">1</span> petite tête de brocoli, bouquets hachés finement (environ <span class="qty">1</span> tasse)
+- <span class="qty">1/2</span> tasse (<span class="qty">75</span> g) de tomates cerises coupées en deux
 - Grains d'un épi de maïs
-- 1/3 tasse (50 g) d'oignon rouge grossièrement haché
-- 1/2 jalapeno, finement tranché
-- 4 tomates séchées dans l'huile, coupées en dés
+- <span class="qty">1/3</span> tasse (<span class="qty">50</span> g) d'oignon rouge grossièrement haché
+- <span class="qty">1/2</span> jalapeno, finement tranché
+- <span class="qty">4</span> tomates séchées dans l'huile, coupées en dés
 - Huile d'olive extra-vierge, pour arroser et badigeonner
-- 1/2 tasse (75 g) de feuilles de basilic frais
-- 2 c. à soupe de feuilles de thym frais
+- <span class="qty">1/2</span> tasse (<span class="qty">75</span> g) de feuilles de basilic frais
+- <span class="qty">2</span> c. à soupe de feuilles de thym frais
 - Pincée de flocons de piment rouge
 - Sel et poivre noir fraîchement moulu
 - Crème de cajou (voir recette)

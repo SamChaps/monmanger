@@ -25,20 +25,20 @@ All the comforting layers of lasagna, but with roasted eggplant slices standing 
 
 ## Ingredients
 
-- 2 to 3 eggplants (about 680 g / 1 1/2 lbs), sliced lengthwise 1 cm (1/2 inch) thick
+- <span class="qty">2</span> to <span class="qty">3</span> eggplants (about <span class="qty">680</span> g / <span class="qty">1 1/2</span> lbs), sliced lengthwise 1 cm (1/2 inch) thick
 - Extra-virgin olive oil
 - Kosher salt
-- 1 large egg
-- 425 g (15 oz) part-skim ricotta cheese
-- 1 1/2 cups (170 g) part-skim mozzarella cheese, divided
-- 1/2 cup (50 g) grated Parmesan cheese, divided
-- 3 cloves garlic, minced
-- 1 tsp dried oregano
-- 280 g (10 oz) frozen spinach, thawed and squeezed dry
-- 1 cup (60 g) packed fresh parsley, chopped
-- 1/2 cup (30 g) packed fresh basil, chopped
+- <span class="qty">1</span> large egg
+- <span class="qty">425</span> g (<span class="qty">15</span> oz) part-skim ricotta cheese
+- <span class="qty">1 1/2</span> cups (<span class="qty">170</span> g) part-skim mozzarella cheese, divided
+- <span class="qty">1/2</span> cup (<span class="qty">50</span> g) grated Parmesan cheese, divided
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">1</span> tsp dried oregano
+- <span class="qty">280</span> g (<span class="qty">10</span> oz) frozen spinach, thawed and squeezed dry
+- <span class="qty">1</span> cup (<span class="qty">60</span> g) packed fresh parsley, chopped
+- <span class="qty">1/2</span> cup (<span class="qty">30</span> g) packed fresh basil, chopped
 - Black pepper to taste
-- 2 cups (480 ml) pasta sauce
+- <span class="qty">2</span> cups (<span class="qty">480</span> ml) pasta sauce
 
 ## Instructions
 
@@ -63,20 +63,20 @@ Toutes les couches réconfortantes d'une lasagne, mais avec des tranches d'auber
 
 ## Ingrédients
 
-- 2 à 3 aubergines (environ 680 g / 1 1/2 lb), tranchées sur la longueur à 1 cm (1/2 po) d'épaisseur
+- <span class="qty">2</span> à <span class="qty">3</span> aubergines (environ <span class="qty">680</span> g / <span class="qty">1 1/2</span> lb), tranchées sur la longueur à 1 cm (1/2 po) d'épaisseur
 - Huile d'olive extra-vierge
 - Gros sel
-- 1 gros œuf
-- 425 g (15 oz) de fromage ricotta partiellement écrémé
-- 1 1/2 tasse (170 g) de fromage mozzarella partiellement écrémé, divisé
-- 1/2 tasse (50 g) de parmesan râpé, divisé
-- 3 gousses d'ail, émincées
-- 1 c. à thé d'origan séché
-- 280 g (10 oz) d'épinards surgelés, décongelés et bien essorés
-- 1 tasse (60 g) de persil frais haché, tassé
-- 1/2 tasse (30 g) de basilic frais haché, tassé
+- <span class="qty">1</span> gros œuf
+- <span class="qty">425</span> g (<span class="qty">15</span> oz) de fromage ricotta partiellement écrémé
+- <span class="qty">1 1/2</span> tasse (<span class="qty">170</span> g) de fromage mozzarella partiellement écrémé, divisé
+- <span class="qty">1/2</span> tasse (<span class="qty">50</span> g) de parmesan râpé, divisé
+- <span class="qty">3</span> gousses d'ail, émincées
+- <span class="qty">1</span> c. à thé d'origan séché
+- <span class="qty">280</span> g (<span class="qty">10</span> oz) d'épinards surgelés, décongelés et bien essorés
+- <span class="qty">1</span> tasse (<span class="qty">60</span> g) de persil frais haché, tassé
+- <span class="qty">1/2</span> tasse (<span class="qty">30</span> g) de basilic frais haché, tassé
 - Poivre noir au goût
-- 2 tasses (480 ml) de sauce pour pâtes
+- <span class="qty">2</span> tasses (<span class="qty">480</span> ml) de sauce pour pâtes
 
 ## Instructions
 

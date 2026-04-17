@@ -24,15 +24,15 @@ Pan-fried tempeh cubes glazed in a quick sauce of orange marmalade, vegetable br
 
 ## Ingredients
 
-- 3 tbsp vegetable oil
-- 240 g (8.5 oz) tempeh, cut into small cubes
-- 1 tbsp ginger, minced
-- 2 cloves garlic, minced
-- 3 green onions, chopped
-- 250 ml (1 cup) vegetable broth
-- 60 ml (1/4 cup) orange marmalade
-- 2 tbsp soy sauce
-- 1/2 tsp sriracha sauce
+- <span class="qty">3</span> tbsp vegetable oil
+- <span class="qty">240</span> g (<span class="qty">8.5</span> oz) tempeh, cut into small cubes
+- <span class="qty">1</span> tbsp ginger, minced
+- <span class="qty">2</span> cloves garlic, minced
+- <span class="qty">3</span> green onions, chopped
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) vegetable broth
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) orange marmalade
+- <span class="qty">2</span> tbsp soy sauce
+- <span class="qty">1/2</span> tsp sriracha sauce
 - Salt, to taste
 
 ## Instructions
@@ -56,15 +56,15 @@ Des cubes de tempeh poêles et enrobés d'une sauce rapide à la marmelade d'ora
 
 ## Ingrédients
 
-- 3 c. à soupe d'huile végétale
-- 240 g (8,5 oz) de tempeh, coupé en petits des
-- 1 c. à soupe de gingembre haché
-- 2 gousses d'ail hachées
-- 3 oignons verts hachés
-- 250 ml (1 tasse) de bouillon de légumes
-- 60 ml (1/4 tasse) de marmelade d'orange
-- 2 c. à soupe de sauce soya
-- 1/2 c. à thé de sauce sriracha
+- <span class="qty">3</span> c. à soupe d'huile végétale
+- <span class="qty">240</span> g (<span class="qty">8</span>,<span class="qty">5</span> oz) de tempeh, coupé en petits des
+- <span class="qty">1</span> c. à soupe de gingembre haché
+- <span class="qty">2</span> gousses d'ail hachées
+- <span class="qty">3</span> oignons verts hachés
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de bouillon de légumes
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de marmelade d'orange
+- <span class="qty">2</span> c. à soupe de sauce soya
+- <span class="qty">1/2</span> c. à thé de sauce sriracha
 - Sel, au goût
 
 ## Instructions

@@ -27,27 +27,27 @@ A classic margherita made entirely from scratch in a regular home oven. The doug
 
 ### Pizza Dough
 
-- 300 g (2 1/2 cups) unbleached all-purpose flour
-- 1 tsp granulated sugar
-- 1/2 tsp active dry yeast
-- 3/4 tsp kosher salt
-- 210 ml (7 oz) warm water (40-46 C / 105-115 F)
-- 1 tbsp extra virgin olive oil
+- <span class="qty">300</span> g (<span class="qty">2 1/2</span> cups) unbleached all-purpose flour
+- <span class="qty">1</span> tsp granulated sugar
+- <span class="qty">1/2</span> tsp active dry yeast
+- <span class="qty">3/4</span> tsp kosher salt
+- <span class="qty">210</span> ml (<span class="qty">7</span> oz) warm water (40-46 C / 105-115 F)
+- <span class="qty">1</span> tbsp extra virgin olive oil
 - Semolina and all-purpose flour, for dusting
 
 ### Pizza Sauce
 
-- 250 ml (1 cup) crushed canned San Marzano tomatoes
-- 2-3 fresh garlic cloves, grated or pressed
-- 1 tsp extra virgin olive oil, plus more for drizzling
-- 2-3 pinches of kosher salt
-- 1/4 tsp freshly ground black pepper
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) crushed canned San Marzano tomatoes
+- <span class="qty">2</span>-<span class="qty">3</span> fresh garlic cloves, grated or pressed
+- <span class="qty">1</span> tsp extra virgin olive oil, plus more for drizzling
+- <span class="qty">2</span>-<span class="qty">3</span> pinches of kosher salt
+- <span class="qty">1/4</span> tsp freshly ground black pepper
 
 ### Toppings
 
-- 2-3 tbsp finely grated Parmigiano-Reggiano, plus more for serving
-- 200 g (7 oz) fresh mozzarella, cut into 1 cm (1/2-inch) cubes
-- 5-6 large fresh basil leaves, plus more for garnish
+- <span class="qty">2</span>-<span class="qty">3</span> tbsp finely grated Parmigiano-Reggiano, plus more for serving
+- <span class="qty">200</span> g (<span class="qty">7</span> oz) fresh mozzarella, cut into 1 cm (1/2-inch) cubes
+- <span class="qty">5</span>-<span class="qty">6</span> large fresh basil leaves, plus more for garnish
 - Dried red pepper flakes (optional)
 
 ## Instructions
@@ -79,27 +79,27 @@ Une margherita classique préparée entièrement maison dans un four ordinaire. 
 
 ### Pate a pizza
 
-- 300 g (2 1/2 tasses) de farine tout usage non blanchie
-- 1 c. à thé de sucre granulé
-- 1/2 c. à thé de levure séché active
-- 3/4 c. à thé de sel casher
-- 210 ml (7 oz) d'eau tiède (40-46 C / 105-115 F)
-- 1 c. à soupe d'huile d'olive extra vierge
+- <span class="qty">300</span> g (<span class="qty">2 1/2</span> tasses) de farine tout usage non blanchie
+- <span class="qty">1</span> c. à thé de sucre granulé
+- <span class="qty">1/2</span> c. à thé de levure séché active
+- <span class="qty">3/4</span> c. à thé de sel casher
+- <span class="qty">210</span> ml (<span class="qty">7</span> oz) d'eau tiède (40-46 C / 105-115 F)
+- <span class="qty">1</span> c. à soupe d'huile d'olive extra vierge
 - Semoule et farine tout usage, pour saupoudrer
 
 ### Sauce a pizza
 
-- 250 ml (1 tasse) de tomates San Marzano en conserve, ecrasees
-- 2-3 gousses d'ail frais, rapees ou pressees
-- 1 c. à soupe d'huile d'olive extra vierge, plus pour arroser
-- 2-3 pincees de sel casher
-- 1/4 c. à thé de poivre noir fraichement moulu
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de tomates San Marzano en conserve, ecrasees
+- <span class="qty">2</span>-<span class="qty">3</span> gousses d'ail frais, rapees ou pressees
+- <span class="qty">1</span> c. à soupe d'huile d'olive extra vierge, plus pour arroser
+- <span class="qty">2</span>-<span class="qty">3</span> pincees de sel casher
+- <span class="qty">1/4</span> c. à thé de poivre noir fraichement moulu
 
 ### Garnitures
 
-- 2-3 c. à soupe de Parmigiano-Reggiano finement râpé, plus pour servir
-- 200 g (7 oz) de mozzarella fraîche, coupée en cubes de 1 cm
-- 5-6 grandes feuilles de basilic frais, plus pour garnir
+- <span class="qty">2</span>-<span class="qty">3</span> c. à soupe de Parmigiano-Reggiano finement râpé, plus pour servir
+- <span class="qty">200</span> g (<span class="qty">7</span> oz) de mozzarella fraîche, coupée en cubes de 1 cm
+- <span class="qty">5</span>-<span class="qty">6</span> grandes feuilles de basilic frais, plus pour garnir
 - Flocons de piment rouge séché (optionnel)
 
 ## Instructions

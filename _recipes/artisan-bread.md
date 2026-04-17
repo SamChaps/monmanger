@@ -24,10 +24,10 @@ With just four pantry staples, you can bake a loaf that rivals your local bakery
 
 ## Ingredients
 
-- 450 g (3 ½ cups) bread flour, divided
-- 2 ½ tsp instant yeast
-- 10 g (1 ½ tsp) kosher salt
-- 360 g (1 ½ cups) warm water, between 50–55 °C (120–130 °F)
+- <span class="qty">450</span> g (<span class="qty">3</span> ½ cups) bread flour, divided
+- <span class="qty">2</span> ½ tsp instant yeast
+- <span class="qty">10</span> g (<span class="qty">1</span> ½ tsp) kosher salt
+- <span class="qty">360</span> g (<span class="qty">1</span> ½ cups) warm water, between 50–55 °C (120–130 °F)
 
 ## Instructions
 
@@ -57,10 +57,10 @@ Quatre ingrédients de base suffisent pour un pain maison digne d'une boulangeri
 
 ## Ingrédients
 
-- 450 g (3 ½ tasses) de farine à pain, divisée
-- 2 ½ c. à thé de levure instantanée
-- 10 g (1 ½ c. à thé) de gros sel
-- 360 g (1 ½ tasse) d'eau tiède, entre 50–55 °C (120–130 °F)
+- <span class="qty">450</span> g (<span class="qty">3</span> ½ tasses) de farine à pain, divisée
+- <span class="qty">2</span> ½ c. à thé de levure instantanée
+- <span class="qty">10</span> g (<span class="qty">1</span> ½ c. à thé) de gros sel
+- <span class="qty">360</span> g (<span class="qty">1</span> ½ tasse) d'eau tiède, entre 50–55 °C (120–130 °F)
 
 ## Instructions
 

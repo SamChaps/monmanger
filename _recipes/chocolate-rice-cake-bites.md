@@ -26,9 +26,9 @@ A viral three-ingredient treat that combines the crunch of rice cakes with a ric
 
 ## Ingredients
 
-- 3 rice cakes
-- 70 g (2.5 oz) dairy-free chocolate
-- 30 g (1 oz) peanut butter
+- <span class="qty">3</span> rice cakes
+- <span class="qty">70</span> g (<span class="qty">2.5</span> oz) dairy-free chocolate
+- <span class="qty">30</span> g (<span class="qty">1</span> oz) peanut butter
 
 ## Instructions
 
@@ -50,9 +50,9 @@ Une gâterie virale à trois ingrédients qui combiné le croquant des galettes 
 
 ## Ingrédients
 
-- 3 galettes de riz
-- 70 g (2,5 oz) de chocolat sans produits laitiers
-- 30 g (1 oz) de beurre d'arachide
+- <span class="qty">3</span> galettes de riz
+- <span class="qty">70</span> g (<span class="qty">2</span>,<span class="qty">5</span> oz) de chocolat sans produits laitiers
+- <span class="qty">30</span> g (<span class="qty">1</span> oz) de beurre d'arachide
 
 ## Instructions
 

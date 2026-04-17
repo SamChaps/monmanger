@@ -25,39 +25,39 @@ A crowd-pleasing vegan Caesar built from scratch. Creamy cashew dressing coats a
 
 **Roasted Chickpea Croutons**
 
-- 1 can (398 ml / 14 oz) chickpeas, drained and rinsed
-- 5 ml (1 tsp) olive oil
-- 1/2 tsp fine sea salt
-- 1/2 tsp garlic powder
-- 1/8 to 1/4 tsp cayenne pepper (optional)
+- <span class="qty">1</span> can (<span class="qty">398</span> ml / <span class="qty">14</span> oz) chickpeas, drained and rinsed
+- <span class="qty">5</span> ml (<span class="qty">1</span> tsp) olive oil
+- <span class="qty">1/2</span> tsp fine sea salt
+- <span class="qty">1/2</span> tsp garlic powder
+- <span class="qty">1/8</span> to <span class="qty">1/4</span> tsp cayenne pepper (optional)
 
 **Caesar Dressing**
 
-- 120 ml (1/2 cup) raw cashews, soaked overnight or a few hours, drained
-- 60 ml (1/4 cup) water
-- 30 ml (2 tbsp) olive oil
-- 15 ml (1 tbsp) lemon juice
-- 7.5 ml (1/2 tbsp) Dijon mustard
-- 1/2 tsp garlic powder
-- 1 small garlic clove
-- 7.5 ml (1/2 tbsp) vegan Worcestershire sauce
-- 10 ml (2 tsp) capers
-- 1/2 tsp fine sea salt and pepper, or to taste
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> cup) raw cashews, soaked overnight or a few hours, drained
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) water
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) olive oil
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) lemon juice
+- <span class="qty">7.5</span> ml (<span class="qty">1/2</span> tbsp) Dijon mustard
+- <span class="qty">1/2</span> tsp garlic powder
+- <span class="qty">1</span> small garlic clove
+- <span class="qty">7.5</span> ml (<span class="qty">1/2</span> tbsp) vegan Worcestershire sauce
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) capers
+- <span class="qty">1/2</span> tsp fine sea salt and pepper, or to taste
 
 **Nut and Seed Parmesan**
 
-- 80 ml (1/3 cup) raw cashews
-- 30 ml (2 tbsp) hulled hemp seeds
-- 1 small garlic clove
-- 15 ml (1 tbsp) nutritional yeast
-- 15 ml (1 tbsp) olive oil
-- 1/2 tsp garlic powder
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> cup) raw cashews
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) hulled hemp seeds
+- <span class="qty">1</span> small garlic clove
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) nutritional yeast
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) olive oil
+- <span class="qty">1/2</span> tsp garlic powder
 - Fine sea salt, to taste
 
 **Lettuce**
 
-- 1 small bunch lacinato (Tuscan) kale, destemmed (about 5 cups chopped)
-- 2 small heads romaine lettuce (about 10 cups chopped)
+- <span class="qty">1</span> small bunch lacinato (Tuscan) kale, destemmed (about <span class="qty">5</span> cups chopped)
+- <span class="qty">2</span> small heads romaine lettuce (about <span class="qty">10</span> cups chopped)
 
 ## Instructions
 
@@ -84,39 +84,39 @@ Une salade Cesar végétalienne généreuse, préparée entièrement maison. Une
 
 **Croutons de pois chiches rôtis**
 
-- 1 boîte (398 ml / 14 oz) de pois chiches, égouttés et rincés
-- 5 ml (1 c. à thé) d'huile d'olive
-- 1/2 c. à thé de sel fin
-- 1/2 c. à thé de poudre d'ail
-- 1/8 à 1/4 c. à thé de cayenne (facultatif)
+- <span class="qty">1</span> boîte (<span class="qty">398</span> ml / <span class="qty">14</span> oz) de pois chiches, égouttés et rincés
+- <span class="qty">5</span> ml (<span class="qty">1</span> c. à thé) d'huile d'olive
+- <span class="qty">1/2</span> c. à thé de sel fin
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
+- <span class="qty">1/8</span> à <span class="qty">1/4</span> c. à thé de cayenne (facultatif)
 
 **Vinaigrette Cesar**
 
-- 120 ml (1/2 tasse) de noix de cajou crues, trempées plusieurs heures, égouttées
-- 60 ml (1/4 tasse) d'eau
-- 30 ml (2 c. à soupe) d'huile d'olive
-- 15 ml (1 c. à soupe) de jus de citron
-- 7,5 ml (1/2 c. à soupe) de moutarde de Dijon
-- 1/2 c. à thé de poudre d'ail
-- 1 petite gousse d'ail
-- 7,5 ml (1/2 c. à soupe) de sauce Worcestershire végétalienne
-- 10 ml (2 c. à thé) de capres
-- 1/2 c. à thé de sel fin et poivre, ou au goût
+- <span class="qty">120</span> ml (<span class="qty">1/2</span> tasse) de noix de cajou crues, trempées plusieurs heures, égouttées
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'eau
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'huile d'olive
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de jus de citron
+- <span class="qty">7</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à soupe) de moutarde de Dijon
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
+- <span class="qty">1</span> petite gousse d'ail
+- <span class="qty">7</span>,<span class="qty">5</span> ml (<span class="qty">1/2</span> c. à soupe) de sauce Worcestershire végétalienne
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de capres
+- <span class="qty">1/2</span> c. à thé de sel fin et poivre, ou au goût
 
 **Parmesan de noix et graines**
 
-- 80 ml (1/3 tasse) de noix de cajou crues
-- 30 ml (2 c. à soupe) de graines de chanvre decortiqueees
-- 1 petite gousse d'ail
-- 15 ml (1 c. à soupe) de levure alimentaire
-- 15 ml (1 c. à soupe) d'huile d'olive
-- 1/2 c. à thé de poudre d'ail
+- <span class="qty">80</span> ml (<span class="qty">1/3</span> tasse) de noix de cajou crues
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de graines de chanvre decortiqueees
+- <span class="qty">1</span> petite gousse d'ail
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de levure alimentaire
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile d'olive
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
 - Sel fin, au goût
 
 **Laitue**
 
-- 1 petit bouquet de chou frise lacinato (toscan), effeuille (environ 5 tasses, haché)
-- 2 petites laitues romaines (environ 10 tasses, hachées)
+- <span class="qty">1</span> petit bouquet de chou frise lacinato (toscan), effeuille (environ <span class="qty">5</span> tasses, haché)
+- <span class="qty">2</span> petites laitues romaines (environ <span class="qty">10</span> tasses, hachées)
 
 ## Instructions
 

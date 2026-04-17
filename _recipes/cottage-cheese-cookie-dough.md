@@ -24,13 +24,13 @@ Creamy cottage cheese blended smooth, mixed with almond flour and peanut butter,
 
 ## Ingredients
 
-- 1 cup (225 g) cottage cheese
-- 2 tbsp maple syrup
-- 1 tsp vanilla extract
-- 1 cup (112 g) fine almond flour
-- 1 tbsp natural peanut butter
-- 1/4 cup (30 g) vanilla protein powder
-- 1/2 cup (85 g) chocolate chips
+- <span class="qty">1</span> cup (<span class="qty">225</span> g) cottage cheese
+- <span class="qty">2</span> tbsp maple syrup
+- <span class="qty">1</span> tsp vanilla extract
+- <span class="qty">1</span> cup (<span class="qty">112</span> g) fine almond flour
+- <span class="qty">1</span> tbsp natural peanut butter
+- <span class="qty">1/4</span> cup (<span class="qty">30</span> g) vanilla protein powder
+- <span class="qty">1/2</span> cup (<span class="qty">85</span> g) chocolate chips
 
 ## Instructions
 
@@ -53,13 +53,13 @@ Du fromage cottage mixé jusqu'à consistance lisse, mélangé à de la farine d
 
 ## Ingrédients
 
-- 1 tasse (225 g) de fromage cottage
-- 2 c. à soupe de sirop d'érable
-- 1 c. à thé d'extrait de vanille
-- 1 tasse (112 g) de farine d'amande fine
-- 1 c. à soupe de beurre d'arachide naturel
-- 1/4 tasse (30 g) de poudre de protéines à la vanille
-- 1/2 tasse (85 g) de pépites de chocolat
+- <span class="qty">1</span> tasse (<span class="qty">225</span> g) de fromage cottage
+- <span class="qty">2</span> c. à soupe de sirop d'érable
+- <span class="qty">1</span> c. à thé d'extrait de vanille
+- <span class="qty">1</span> tasse (<span class="qty">112</span> g) de farine d'amande fine
+- <span class="qty">1</span> c. à soupe de beurre d'arachide naturel
+- <span class="qty">1/4</span> tasse (<span class="qty">30</span> g) de poudre de protéines à la vanille
+- <span class="qty">1/2</span> tasse (<span class="qty">85</span> g) de pépites de chocolat
 
 ## Instructions
 

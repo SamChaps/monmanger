@@ -25,19 +25,19 @@ These hearty enchiladas are stuffed with a colourful mix of black beans, broccol
 
 ## Ingredients
 
-- 2 cups (480 ml) enchilada sauce (homemade or store-bought)
-- 2 tbsp olive oil
-- 1 cup (160 g) chopped red onion
-- 1 red bell pepper, chopped
-- 1 head broccoli (about 450 g / 1 lb), cut into small florets
-- 1 tsp ground cumin
-- 1/4 tsp ground cinnamon
-- 150 g (5 oz) baby spinach
-- 1 can (425 g / 15 oz) black beans, drained and rinsed
-- 1 cup (100 g) shredded Monterey Jack cheese, divided
-- 1/2 tsp salt
+- <span class="qty">2</span> cups (<span class="qty">480</span> ml) enchilada sauce (homemade or store-bought)
+- <span class="qty">2</span> tbsp olive oil
+- <span class="qty">1</span> cup (<span class="qty">160</span> g) chopped red onion
+- <span class="qty">1</span> red bell pepper, chopped
+- <span class="qty">1</span> head broccoli (about <span class="qty">450</span> g / <span class="qty">1</span> lb), cut into small florets
+- <span class="qty">1</span> tsp ground cumin
+- <span class="qty">1/4</span> tsp ground cinnamon
+- <span class="qty">150</span> g (<span class="qty">5</span> oz) baby spinach
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) black beans, drained and rinsed
+- <span class="qty">1</span> cup (<span class="qty">100</span> g) shredded Monterey Jack cheese, divided
+- <span class="qty">1/2</span> tsp salt
 - Freshly ground black pepper
-- 8 whole wheat tortillas (about 20 cm / 8 inches)
+- <span class="qty">8</span> whole wheat tortillas (about 20 cm / 8 inches)
 - Fresh cilantro, for garnish
 
 ## Instructions
@@ -64,19 +64,19 @@ Ces enchiladas généreuses sont farcies d'un mélange coloré de haricots noirs
 
 ## Ingrédients
 
-- 2 tasses (480 ml) de sauce enchilada (maison ou du commerce)
-- 2 c. à soupe d'huile d'olive
-- 1 tasse (160 g) d'oignon rouge haché
-- 1 poivron rouge, haché
-- 1 tête de brocoli (environ 450 g / 1 lb), coupé en petits bouquets
-- 1 c. à thé de cumin moulu
-- 1/4 c. à thé de cannelle moulue
-- 150 g (5 oz) de jeunes épinards
-- 1 conserve (425 g / 15 oz) de haricots noirs, égouttés et rincés
-- 1 tasse (100 g) de fromage Monterey Jack râpé, divisé
-- 1/2 c. à thé de sel
+- <span class="qty">2</span> tasses (<span class="qty">480</span> ml) de sauce enchilada (maison ou du commerce)
+- <span class="qty">2</span> c. à soupe d'huile d'olive
+- <span class="qty">1</span> tasse (<span class="qty">160</span> g) d'oignon rouge haché
+- <span class="qty">1</span> poivron rouge, haché
+- <span class="qty">1</span> tête de brocoli (environ <span class="qty">450</span> g / <span class="qty">1</span> lb), coupé en petits bouquets
+- <span class="qty">1</span> c. à thé de cumin moulu
+- <span class="qty">1/4</span> c. à thé de cannelle moulue
+- <span class="qty">150</span> g (<span class="qty">5</span> oz) de jeunes épinards
+- <span class="qty">1</span> conserve (<span class="qty">425</span> g / <span class="qty">15</span> oz) de haricots noirs, égouttés et rincés
+- <span class="qty">1</span> tasse (<span class="qty">100</span> g) de fromage Monterey Jack râpé, divisé
+- <span class="qty">1/2</span> c. à thé de sel
 - Poivre noir fraîchement moulu
-- 8 tortillas de blé entier (environ 20 cm / 8 po)
+- <span class="qty">8</span> tortillas de blé entier (environ 20 cm / 8 po)
 - Coriandre fraîche, pour garnir
 
 ## Instructions

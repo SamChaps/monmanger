@@ -25,15 +25,15 @@ A big-batch spaghetti sauce passed down through the family. Ground beef and pork
 
 ## Ingredients
 
-- 60 ml (1/4 cup) oil
-- 900 g (2 lbs) medium-lean ground beef
-- 450 g (1 lb) ground pork
-- 4 onions, finely chopped
-- 5 cloves garlic, minced (added at the end)
-- 3 cans (540 ml / 19 oz each) tomato juice
-- 2 cans (796 ml / 28 oz each) spiced crushed tomatoes
-- 2 cans (156 ml / 5.5 oz each) tomato paste
-- 2 bay leaves
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) oil
+- <span class="qty">900</span> g (<span class="qty">2</span> lbs) medium-lean ground beef
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) ground pork
+- <span class="qty">4</span> onions, finely chopped
+- <span class="qty">5</span> cloves garlic, minced (added at the end)
+- <span class="qty">3</span> cans (<span class="qty">540</span> ml / <span class="qty">19</span> oz each) tomato juice
+- <span class="qty">2</span> cans (<span class="qty">796</span> ml / <span class="qty">28</span> oz each) spiced crushed tomatoes
+- <span class="qty">2</span> cans (<span class="qty">156</span> ml / <span class="qty">5.5</span> oz each) tomato paste
+- <span class="qty">2</span> bay leaves
 
 ### Spice Blend (1 tsp each)
 
@@ -74,15 +74,15 @@ Une sauce à spaghetti de famille, préparée en grosse batch. Du boeuf et du po
 
 ## Ingrédients
 
-- 60 ml (1/4 de tasse) d'huile
-- 900 g (2 lbs) de boeuf haché mi-maigre
-- 450 g (1 lb) de porc haché
-- 4 oignons, hachés fin
-- 5 gousses d'ail, hachées (ajoutées à la fin)
-- 3 boîtes (540 ml / 19 oz) de jus de tomate
-- 2 boîtes (796 ml / 28 oz) de tomates broyées épicées
-- 2 boîtes (156 ml / 5.5 oz) de pâte de tomate
-- 2 feuilles de laurier
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> de tasse) d'huile
+- <span class="qty">900</span> g (<span class="qty">2</span> lbs) de boeuf haché mi-maigre
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de porc haché
+- <span class="qty">4</span> oignons, hachés fin
+- <span class="qty">5</span> gousses d'ail, hachées (ajoutées à la fin)
+- <span class="qty">3</span> boîtes (<span class="qty">540</span> ml / <span class="qty">19</span> oz) de jus de tomate
+- <span class="qty">2</span> boîtes (<span class="qty">796</span> ml / <span class="qty">28</span> oz) de tomates broyées épicées
+- <span class="qty">2</span> boîtes (<span class="qty">156</span> ml / <span class="qty">5.5</span> oz) de pâte de tomate
+- <span class="qty">2</span> feuilles de laurier
 
 ### Mélange d'épices (1 c. à thé chaque)
 

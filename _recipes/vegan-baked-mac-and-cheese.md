@@ -27,29 +27,29 @@ A rich, creamy baked mac and cheese built on a roasted butternut squash and cash
 
 **Cheese Sauce**
 
-- 1 small-medium butternut squash (about 1 kg / 2 1/4 lb)
+- <span class="qty">1</span> small-medium butternut squash (about <span class="qty">1</span> kg / <span class="qty">2 1/4</span> lb)
 - Olive oil, for roasting
-- 70 g (1/2 cup) raw cashews, soaked overnight or 1 hour in boiling water, drained
-- 60 g (3/4 cup) nutritional yeast
-- 1 tsp garlic powder
-- 1/2 tsp onion powder
-- 1/2 tsp smoked paprika
-- 1/2 tsp dry mustard powder (optional)
-- 15 ml (1 tbsp) white or yellow miso paste
-- 1 can (400 ml / 13.5 oz) lite coconut milk
-- 22 ml (1 1/2 tbsp) fresh lemon juice
-- 15 ml (1 tbsp) tapioca flour
-- 340 g (12 oz) elbow macaroni
-- 1 1/2 tsp kosher salt, plus more to taste
+- <span class="qty">70</span> g (<span class="qty">1/2</span> cup) raw cashews, soaked overnight or 1 hour in boiling water, drained
+- <span class="qty">60</span> g (<span class="qty">3/4</span> cup) nutritional yeast
+- <span class="qty">1</span> tsp garlic powder
+- <span class="qty">1/2</span> tsp onion powder
+- <span class="qty">1/2</span> tsp smoked paprika
+- <span class="qty">1/2</span> tsp dry mustard powder (optional)
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) white or yellow miso paste
+- <span class="qty">1</span> can (<span class="qty">400</span> ml / <span class="qty">13.5</span> oz) lite coconut milk
+- <span class="qty">22</span> ml (<span class="qty">1 1/2</span> tbsp) fresh lemon juice
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) tapioca flour
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) elbow macaroni
+- <span class="qty">1 1/2</span> tsp kosher salt, plus more to taste
 - Freshly cracked black pepper
 
 **Crispy Topping**
 
-- 60 g (3/4 cup + 2 tbsp) panko breadcrumbs
-- 15 ml (1 tbsp) nutritional yeast
-- 1/4 tsp kosher salt
-- 1/8 tsp smoked paprika
-- 37 ml (2 1/2 tbsp) vegan butter, melted
+- <span class="qty">60</span> g (<span class="qty">3/4</span> cup + <span class="qty">2</span> tbsp) panko breadcrumbs
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) nutritional yeast
+- <span class="qty">1/4</span> tsp kosher salt
+- <span class="qty">1/8</span> tsp smoked paprika
+- <span class="qty">37</span> ml (<span class="qty">2 1/2</span> tbsp) vegan butter, melted
 
 ## Instructions
 
@@ -77,29 +77,29 @@ Un mac and cheese végétalien riche et crémeux, bati sur une sauce de courge m
 
 **Sauce fromagée**
 
-- 1 petite-moyenne courge musquée (environ 1 kg / 2 1/4 lb)
+- <span class="qty">1</span> petite-moyenne courge musquée (environ <span class="qty">1</span> kg / <span class="qty">2 1/4</span> lb)
 - Huile d'olive, pour la cuisson
-- 70 g (1/2 tasse) de noix de cajou crues, trempées une nuit ou 1 heure dans l'eau bouillante, égouttées
-- 60 g (3/4 tasse) de levure alimentaire
-- 1 c. à thé de poudre d'ail
-- 1/2 c. à thé de poudre d'oignon
-- 1/2 c. à thé de paprika fumé
-- 1/2 c. à thé de moutarde séché (facultatif)
-- 15 ml (1 c. à soupe) de pâte de miso blanc ou jaune
-- 1 boîte (400 ml / 13,5 oz) de lait de coco léger
-- 22 ml (1 1/2 c. à soupe) de jus de citron frais
-- 15 ml (1 c. à soupe) de fécule de tapioca
-- 340 g (12 oz) de macaronis
-- 1 1/2 c. à thé de sel kasher, plus au goût
+- <span class="qty">70</span> g (<span class="qty">1/2</span> tasse) de noix de cajou crues, trempées une nuit ou <span class="qty">1</span> heure dans l'eau bouillante, égouttées
+- <span class="qty">60</span> g (<span class="qty">3/4</span> tasse) de levure alimentaire
+- <span class="qty">1</span> c. à thé de poudre d'ail
+- <span class="qty">1/2</span> c. à thé de poudre d'oignon
+- <span class="qty">1/2</span> c. à thé de paprika fumé
+- <span class="qty">1/2</span> c. à thé de moutarde séché (facultatif)
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de pâte de miso blanc ou jaune
+- <span class="qty">1</span> boîte (<span class="qty">400</span> ml / <span class="qty">13</span>,<span class="qty">5</span> oz) de lait de coco léger
+- <span class="qty">22</span> ml (<span class="qty">1 1/2</span> c. à soupe) de jus de citron frais
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de fécule de tapioca
+- <span class="qty">340</span> g (<span class="qty">12</span> oz) de macaronis
+- <span class="qty">1 1/2</span> c. à thé de sel kasher, plus au goût
 - Poivre noir fraichement moulu
 
 **Garniture croustillante**
 
-- 60 g (3/4 tasse + 2 c. à soupe) de chapelure panko
-- 15 ml (1 c. à soupe) de levure alimentaire
-- 1/4 c. à thé de sel kasher
-- 1/8 c. à thé de paprika fumé
-- 37 ml (2 1/2 c. à soupe) de beurre végétal, fondu
+- <span class="qty">60</span> g (<span class="qty">3/4</span> tasse + <span class="qty">2</span> c. à soupe) de chapelure panko
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de levure alimentaire
+- <span class="qty">1/4</span> c. à thé de sel kasher
+- <span class="qty">1/8</span> c. à thé de paprika fumé
+- <span class="qty">37</span> ml (<span class="qty">2 1/2</span> c. à soupe) de beurre végétal, fondu
 
 ## Instructions
 

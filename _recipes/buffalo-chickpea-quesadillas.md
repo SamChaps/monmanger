@@ -27,33 +27,33 @@ These loaded quesadillas pair a creamy cashew-based Mexican cheese sauce with a 
 
 **Mexican Cheese Sauce**
 
-- 135 g (1 cup) raw cashews, soaked overnight or 1 hour in boiling water
-- 115 g (1/2 cup) plain unsweetened vegan yogurt
-- 30 ml (2 tbsp) water or vegetable broth
-- 120 g (1/2 cup) mild or medium salsa
-- 1 tsp ground cumin
-- 1/2 tsp chili powder
-- 1/4 tsp smoked paprika
-- 1 tsp kosher salt
-- 30 ml (2 tbsp) nutritional yeast
+- <span class="qty">135</span> g (<span class="qty">1</span> cup) raw cashews, soaked overnight or 1 hour in boiling water
+- <span class="qty">115</span> g (<span class="qty">1/2</span> cup) plain unsweetened vegan yogurt
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) water or vegetable broth
+- <span class="qty">120</span> g (<span class="qty">1/2</span> cup) mild or medium salsa
+- <span class="qty">1</span> tsp ground cumin
+- <span class="qty">1/2</span> tsp chili powder
+- <span class="qty">1/4</span> tsp smoked paprika
+- <span class="qty">1</span> tsp kosher salt
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) nutritional yeast
 
 **Buffalo Chickpea Filling**
 
-- 56 g (1/4 cup) vegan butter
-- 60 ml (4 tbsp) hot sauce (such as Frank's)
-- 1/2 tsp garlic powder
+- <span class="qty">56</span> g (<span class="qty">1/4</span> cup) vegan butter
+- <span class="qty">60</span> ml (<span class="qty">4</span> tbsp) hot sauce (such as Frank's)
+- <span class="qty">1/2</span> tsp garlic powder
 - Pinch of cayenne (optional)
 - Pinch of kosher salt
-- 10 ml (2 tsp) coconut sugar or brown sugar
-- 10 ml (2 tsp) olive oil
-- 1 medium yellow onion, diced
-- 4 cloves garlic, minced
-- 1 can (425 g / 15 oz) chickpeas, drained and rinsed
-- 4-5 scallions, white and light green parts, thinly sliced
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) coconut sugar or brown sugar
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) olive oil
+- <span class="qty">1</span> medium yellow onion, diced
+- <span class="qty">4</span> cloves garlic, minced
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) chickpeas, drained and rinsed
+- <span class="qty">4</span>-<span class="qty">5</span> scallions, white and light green parts, thinly sliced
 
 **Assembly**
 
-- 8 large flour tortillas
+- <span class="qty">8</span> large flour tortillas
 - Oil for the skillet
 
 ## Instructions
@@ -82,33 +82,33 @@ Ces quesadillas garnies marient une sauce fromagée mexicaine aux noix de cajou 
 
 **Sauce fromagée mexicaine**
 
-- 135 g (1 tasse) de noix de cajou crues, trempées une nuit ou 1 heure dans l'eau bouillante
-- 115 g (1/2 tasse) de yogourt végétalien nature non sucré
-- 30 ml (2 c. à soupe) d'eau ou de bouillon de légumes
-- 120 g (1/2 tasse) de salsa douce ou moyenne
-- 1 c. à thé de cumin moulu
-- 1/2 c. à thé de poudre de chili
-- 1/4 c. à thé de paprika fumé
-- 1 c. à thé de sel kasher
-- 30 ml (2 c. à soupe) de levure alimentaire
+- <span class="qty">135</span> g (<span class="qty">1</span> tasse) de noix de cajou crues, trempées une nuit ou <span class="qty">1</span> heure dans l'eau bouillante
+- <span class="qty">115</span> g (<span class="qty">1/2</span> tasse) de yogourt végétalien nature non sucré
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) d'eau ou de bouillon de légumes
+- <span class="qty">120</span> g (<span class="qty">1/2</span> tasse) de salsa douce ou moyenne
+- <span class="qty">1</span> c. à thé de cumin moulu
+- <span class="qty">1/2</span> c. à thé de poudre de chili
+- <span class="qty">1/4</span> c. à thé de paprika fumé
+- <span class="qty">1</span> c. à thé de sel kasher
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de levure alimentaire
 
 **Garniture de pois chiches Buffalo**
 
-- 56 g (1/4 tasse) de beurre végétal
-- 60 ml (4 c. à soupe) de sauce piquante (style Frank's)
-- 1/2 c. à thé de poudre d'ail
+- <span class="qty">56</span> g (<span class="qty">1/4</span> tasse) de beurre végétal
+- <span class="qty">60</span> ml (<span class="qty">4</span> c. à soupe) de sauce piquante (style Frank's)
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
 - Pincee de cayenne (facultatif)
 - Pincee de sel kasher
-- 10 ml (2 c. à thé) de sucre de coco ou cassonade
-- 10 ml (2 c. à thé) d'huile d'olive
-- 1 oignon jaune moyen, coupé en dés
-- 4 gousses d'ail, émincées
-- 1 boîte (425 g / 15 oz) de pois chiches, égouttés et rincés
-- 4-5 oignons verts, parties blanches et vert clair, émincés finement
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de sucre de coco ou cassonade
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) d'huile d'olive
+- <span class="qty">1</span> oignon jaune moyen, coupé en dés
+- <span class="qty">4</span> gousses d'ail, émincées
+- <span class="qty">1</span> boîte (<span class="qty">425</span> g / <span class="qty">15</span> oz) de pois chiches, égouttés et rincés
+- <span class="qty">4</span>-<span class="qty">5</span> oignons verts, parties blanches et vert clair, émincés finement
 
 **Assemblage**
 
-- 8 grandes tortillas de farine
+- <span class="qty">8</span> grandes tortillas de farine
 - Huile pour la poêle
 
 ## Instructions

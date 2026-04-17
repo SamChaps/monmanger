@@ -27,32 +27,32 @@ A quick weeknight noodle bowl that comes together in about 20 minutes. Seasoned 
 
 **Tofu Crumbles**
 
-- 227 g (8 oz) super firm tofu (or extra-firm, pressed)
-- 3/4 tsp kosher salt
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) super firm tofu (or extra-firm, pressed)
+- <span class="qty">3/4</span> tsp kosher salt
 - Freshly cracked black pepper
-- 1/2 tsp garlic powder
-- 1/2 tsp onion powder
-- 1/2 tsp Chinese five spice powder
-- 15 ml (1 tbsp) oil of choice
+- <span class="qty">1/2</span> tsp garlic powder
+- <span class="qty">1/2</span> tsp onion powder
+- <span class="qty">1/2</span> tsp Chinese five spice powder
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) oil of choice
 
 **Noodles and Broccoli**
 
-- 113 g (4 oz) whole wheat spaghetti or similar noodles
-- 180 g (3 cups) broccoli florets
+- <span class="qty">113</span> g (<span class="qty">4</span> oz) whole wheat spaghetti or similar noodles
+- <span class="qty">180</span> g (<span class="qty">3</span> cups) broccoli florets
 
 **Almond Butter Sauce**
 
-- 60 ml (4 tbsp) creamy almond butter
-- 1/2 tbsp agave or maple syrup
-- 15 ml (1 tbsp) rice vinegar
-- 10 ml (2 tsp) soy sauce or tamari
-- 1/2 tsp Sichuan chile flakes or red pepper flakes
-- 30-45 ml (2-3 tbsp) water, as needed
+- <span class="qty">60</span> ml (<span class="qty">4</span> tbsp) creamy almond butter
+- <span class="qty">1/2</span> tbsp agave or maple syrup
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) rice vinegar
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) soy sauce or tamari
+- <span class="qty">1/2</span> tsp Sichuan chile flakes or red pepper flakes
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> tbsp) water, as needed
 
 **Finishing**
 
 - A light drizzle of toasted sesame oil (optional)
-- 30 ml (2 tbsp) toasted sesame seeds
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) toasted sesame seeds
 
 ## Instructions
 
@@ -80,32 +80,32 @@ Un bol de nouilles rapide pour les soirs de semaine, pret en une vingtaine de mi
 
 **Emiette de tofu**
 
-- 227 g (8 oz) de tofu super ferme (ou extra-ferme, bien pressé)
-- 3/4 c. à thé de sel kasher
+- <span class="qty">227</span> g (<span class="qty">8</span> oz) de tofu super ferme (ou extra-ferme, bien pressé)
+- <span class="qty">3/4</span> c. à thé de sel kasher
 - Poivre noir fraichement moulu
-- 1/2 c. à thé de poudre d'ail
-- 1/2 c. à thé de poudre d'oignon
-- 1/2 c. à thé de cinq-épices chinois
-- 15 ml (1 c. à soupe) d'huile au choix
+- <span class="qty">1/2</span> c. à thé de poudre d'ail
+- <span class="qty">1/2</span> c. à thé de poudre d'oignon
+- <span class="qty">1/2</span> c. à thé de cinq-épices chinois
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) d'huile au choix
 
 **Nouilles et brocoli**
 
-- 113 g (4 oz) de spaghettis de ble entier ou nouilles similaires
-- 180 g (3 tasses) de fleurons de brocoli
+- <span class="qty">113</span> g (<span class="qty">4</span> oz) de spaghettis de ble entier ou nouilles similaires
+- <span class="qty">180</span> g (<span class="qty">3</span> tasses) de fleurons de brocoli
 
 **Sauce au beurre d'amande**
 
-- 60 ml (4 c. à soupe) de beurre d'amande crémeux
-- 1/2 c. à soupe de sirop d'agave ou d'érable
-- 15 ml (1 c. à soupe) de vinaigre de riz
-- 10 ml (2 c. à thé) de sauce soya ou tamari
-- 1/2 c. à thé de flocons de piment du Sichuan ou de piment fort
-- 30-45 ml (2-3 c. à soupe) d'eau, au besoin
+- <span class="qty">60</span> ml (<span class="qty">4</span> c. à soupe) de beurre d'amande crémeux
+- <span class="qty">1/2</span> c. à soupe de sirop d'agave ou d'érable
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de vinaigre de riz
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de sauce soya ou tamari
+- <span class="qty">1/2</span> c. à thé de flocons de piment du Sichuan ou de piment fort
+- <span class="qty">30</span>-<span class="qty">45</span> ml (<span class="qty">2</span>-<span class="qty">3</span> c. à soupe) d'eau, au besoin
 
 **Finition**
 
 - Un filet d'huile de sésame grillée (facultatif)
-- 30 ml (2 c. à soupe) de graines de sésame grillées
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de graines de sésame grillées
 
 ## Instructions
 

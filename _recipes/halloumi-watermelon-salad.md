@@ -23,14 +23,14 @@ A bright summer salad of cubed watermelon and Lebanese cucumber tossed with fres
 
 ## Ingredients
 
-- 4-6 Lebanese cucumbers (or 1 English cucumber), cubed
-- 1 L (4 cups) watermelon, cubed
-- 125 ml (1/2 cup) fresh mint
-- 1 tbsp za'atar
+- <span class="qty">4</span>-<span class="qty">6</span> Lebanese cucumbers (or <span class="qty">1</span> English cucumber), cubed
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) watermelon, cubed
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) fresh mint
+- <span class="qty">1</span> tbsp za'atar
 - Olive oil, to drizzle
-- 2 tbsp lime juice
+- <span class="qty">2</span> tbsp lime juice
 - Pepper, to taste
-- 400 g (14 oz) halloumi cheese, brought to room temperature, cubed
+- <span class="qty">400</span> g (<span class="qty">14</span> oz) halloumi cheese, brought to room temperature, cubed
 
 ## Instructions
 
@@ -52,14 +52,14 @@ Une salade d'ete eclatante de cubes de melon d'eau et de concombres libanais mé
 
 ## Ingrédients
 
-- 4 à 6 concombres libanais (ou 1 concombre anglais), coupés en cubes
-- 1 L (4 tasses) de melon d'eau en cubes
-- 125 ml (1/2 tasse) de menthe fraîche
-- 1 c. à soupe de za'atar
+- <span class="qty">4</span> à <span class="qty">6</span> concombres libanais (ou <span class="qty">1</span> concombre anglais), coupés en cubes
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de melon d'eau en cubes
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de menthe fraîche
+- <span class="qty">1</span> c. à soupe de za'atar
 - Filet d'huile d'olive
-- 30 ml (2 c. à soupe) de jus de lime
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de jus de lime
 - Poivre du moulin, au goût
-- 400 g de fromage halloumi tempere, en cubes
+- <span class="qty">400</span> g de fromage halloumi tempere, en cubes
 
 ## Instructions
 

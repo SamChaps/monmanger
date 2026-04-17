@@ -52,18 +52,6 @@ layout: single
     </div>
   </div>
   {% endif %}
-  {% if page.servings %}
-  <div class="recipe-meta-item">
-    <div class="recipe-meta-icon"><i class="fas fa-utensils" aria-hidden="true"></i></div>
-    <div class="recipe-meta-text">
-      <span class="recipe-meta-label">
-        <span class="lang-en-content">{{ t.en.servings }}</span>
-        <span class="lang-fr-content">{{ t.fr.servings }}</span>
-      </span>
-      <span class="recipe-meta-value">{{ page.servings }}</span>
-    </div>
-  </div>
-  {% endif %}
   {% if page.difficulty %}
   <div class="recipe-meta-item">
     <div class="recipe-meta-icon"><i class="fas fa-signal" aria-hidden="true"></i></div>
@@ -80,6 +68,25 @@ layout: single
   </div>
   {% endif %}
 </div>
+
+{% if page.servings %}
+<div class="servings-scaler" id="servings-scaler">
+  <div class="servings-scaler__label">
+    <i class="fas fa-utensils" aria-hidden="true"></i>
+    <span class="lang-en-content">{{ t.en.servings }}</span>
+    <span class="lang-fr-content">{{ t.fr.servings }}</span>
+  </div>
+  <div class="servings-scaler__controls" id="servings-controls" style="display:none;">
+    <button type="button" class="servings-btn" id="servings-decrease" aria-label="Decrease servings">&minus;</button>
+    <input type="text" class="servings-input" id="servings-value" data-base="{{ page.servings }}" value="{{ page.servings }}" inputmode="decimal" aria-label="Servings">
+    <button type="button" class="servings-btn" id="servings-increase" aria-label="Increase servings">+</button>
+    <button type="button" class="servings-btn servings-reset" id="servings-reset" aria-label="Reset servings" style="display:none;">
+      <i class="fas fa-undo" aria-hidden="true"></i>
+    </button>
+  </div>
+  <noscript><span class="recipe-meta-value">{{ page.servings }}</span></noscript>
+</div>
+{% endif %}
 
 {% if page.tags and page.tags.size > 0 %}
 <div class="recipe-tags-bar">
@@ -99,3 +106,5 @@ layout: single
 {% endif %}
 
 {{ content }}
+
+<script src="{{ '/assets/js/recipe-scaling.js' | relative_url }}"></script>

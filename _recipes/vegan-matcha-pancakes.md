@@ -25,16 +25,16 @@ Light, fluffy pancakes tinted a beautiful green from matcha powder. A flax egg a
 
 **Pancakes**
 
-- 15 ml (1 tbsp) ground flax
-- 45 ml (3 tbsp) water
-- 235 ml (1 cup) soy milk (or plant milk of choice)
-- 15 ml (1 tbsp) apple cider vinegar (optional, for buttermilk effect)
-- 140 g (1 cup) all-purpose flour (or gluten-free blend)
-- 30 ml (2 tbsp) sugar
-- 10 ml (2 tsp) baking powder
-- 1/2 tsp salt
-- 1/2 tbsp matcha powder
-- 22 ml (1 1/2 tbsp) canola or vegetable oil
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) ground flax
+- <span class="qty">45</span> ml (<span class="qty">3</span> tbsp) water
+- <span class="qty">235</span> ml (<span class="qty">1</span> cup) soy milk (or plant milk of choice)
+- <span class="qty">15</span> ml (<span class="qty">1</span> tbsp) apple cider vinegar (optional, for buttermilk effect)
+- <span class="qty">140</span> g (<span class="qty">1</span> cup) all-purpose flour (or gluten-free blend)
+- <span class="qty">30</span> ml (<span class="qty">2</span> tbsp) sugar
+- <span class="qty">10</span> ml (<span class="qty">2</span> tsp) baking powder
+- <span class="qty">1/2</span> tsp salt
+- <span class="qty">1/2</span> tbsp matcha powder
+- <span class="qty">22</span> ml (<span class="qty">1 1/2</span> tbsp) canola or vegetable oil
 - Cooking spray
 
 **Optional Toppings**
@@ -70,16 +70,16 @@ Des crêpes légères et moelleuses, joliment colorees en vert par la poudre de 
 
 **Crêpes**
 
-- 15 ml (1 c. à soupe) de lin moulu
-- 45 ml (3 c. à soupe) d'eau
-- 235 ml (1 tasse) de lait de soya (ou lait végétal au choix)
-- 15 ml (1 c. à soupe) de vinaigre de cidre (facultatif, pour l'effet babeurre)
-- 140 g (1 tasse) de farine tout usage (ou mélangé sans gluten)
-- 30 ml (2 c. à soupe) de sucre
-- 10 ml (2 c. à thé) de poudre à pâte
-- 1/2 c. à thé de sel
-- 1/2 c. à soupe de poudre de matcha
-- 22 ml (1 1/2 c. à soupe) d'huile de canola ou végétale
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de lin moulu
+- <span class="qty">45</span> ml (<span class="qty">3</span> c. à soupe) d'eau
+- <span class="qty">235</span> ml (<span class="qty">1</span> tasse) de lait de soya (ou lait végétal au choix)
+- <span class="qty">15</span> ml (<span class="qty">1</span> c. à soupe) de vinaigre de cidre (facultatif, pour l'effet babeurre)
+- <span class="qty">140</span> g (<span class="qty">1</span> tasse) de farine tout usage (ou mélangé sans gluten)
+- <span class="qty">30</span> ml (<span class="qty">2</span> c. à soupe) de sucre
+- <span class="qty">10</span> ml (<span class="qty">2</span> c. à thé) de poudre à pâte
+- <span class="qty">1/2</span> c. à thé de sel
+- <span class="qty">1/2</span> c. à soupe de poudre de matcha
+- <span class="qty">22</span> ml (<span class="qty">1 1/2</span> c. à soupe) d'huile de canola ou végétale
 - Huile en vaporisateur
 
 **Garnitures au choix**

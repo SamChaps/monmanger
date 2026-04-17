@@ -25,22 +25,22 @@ A simple one-pot recipe: tofu cubes simmered in a creamy peanut butter sauce wit
 
 ## Ingredients
 
-- 450 g (1 lb) firm tofu, cubed
-- 2 tbsp vegetable oil
-- 2 French shallots (or 1 small onion), finely chopped
-- 2 cloves garlic, minced
-- 2 tbsp soy sauce
-- 2 tbsp ketchup
-- 60 ml (1/4 cup) peanut butter
-- 1 tbsp maple syrup
-- 250 ml (1 cup) vegetable broth
-- 1/2 tsp sriracha (or 1/4 tsp crushed red pepper)
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) firm tofu, cubed
+- <span class="qty">2</span> tbsp vegetable oil
+- <span class="qty">2</span> French shallots (or <span class="qty">1</span> small onion), finely chopped
+- <span class="qty">2</span> cloves garlic, minced
+- <span class="qty">2</span> tbsp soy sauce
+- <span class="qty">2</span> tbsp ketchup
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) peanut butter
+- <span class="qty">1</span> tbsp maple syrup
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) vegetable broth
+- <span class="qty">1/2</span> tsp sriracha (or <span class="qty">1/4</span> tsp crushed red pepper)
 
 ### Basmati Rice
 
-- 500 ml (2 cups) basmati rice
-- 750 ml (3 cups) water
-- 1/2 tsp salt
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) basmati rice
+- <span class="qty">750</span> ml (<span class="qty">3</span> cups) water
+- <span class="qty">1/2</span> tsp salt
 
 ## Instructions
 
@@ -64,22 +64,22 @@ Une recette simple en un seul chaudron: des cubes de tofu mijoter dans une sauce
 
 ## Ingrédients
 
-- 450 g (1 lb) de tofu ferme, coupé en dés
-- 2 c. à soupe d'huile végétale
-- 2 échalotes francaises (ou 1 petit oignon), hachées finement
-- 2 gousses d'ail hachées
-- 2 c. à soupe de sauce soya
-- 2 c. à soupe de ketchup
-- 60 ml (1/4 tasse) de beurre d'arachide
-- 1 c. à soupe de sirop d'érable
-- 250 ml (1 tasse) de bouillon de légumes
-- 1/2 c. à thé de sauce sriracha (ou 1/4 c. à thé de piment rouge broye)
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de tofu ferme, coupé en dés
+- <span class="qty">2</span> c. à soupe d'huile végétale
+- <span class="qty">2</span> échalotes francaises (ou <span class="qty">1</span> petit oignon), hachées finement
+- <span class="qty">2</span> gousses d'ail hachées
+- <span class="qty">2</span> c. à soupe de sauce soya
+- <span class="qty">2</span> c. à soupe de ketchup
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de beurre d'arachide
+- <span class="qty">1</span> c. à soupe de sirop d'érable
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de bouillon de légumes
+- <span class="qty">1/2</span> c. à thé de sauce sriracha (ou <span class="qty">1/4</span> c. à thé de piment rouge broye)
 
 ### Riz basmati
 
-- 500 ml (2 tasses) de riz basmati
-- 750 ml (3 tasses) d'eau
-- 1/2 c. à thé de sel
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) de riz basmati
+- <span class="qty">750</span> ml (<span class="qty">3</span> tasses) d'eau
+- <span class="qty">1/2</span> c. à thé de sel
 
 ## Instructions
 

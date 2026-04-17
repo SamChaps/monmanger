@@ -24,12 +24,12 @@ A fluffy, no-bake dessert that comes together in minutes. Light whipped topping,
 
 ## Ingredients
 
-- 225 g (8 oz) light whipped topping, softened
-- 250 ml (1 cup) plain nonfat Greek yogurt
-- 60 ml (1/4 cup) vanilla protein powder
-- 1 tbsp sugar-free white chocolate pudding mix
-- 1/2 tsp liquid stevia, or to taste
-- 6 Oreo cookies, crushed, plus more for topping
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) light whipped topping, softened
+- <span class="qty">250</span> ml (<span class="qty">1</span> cup) plain nonfat Greek yogurt
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) vanilla protein powder
+- <span class="qty">1</span> tbsp sugar-free white chocolate pudding mix
+- <span class="qty">1/2</span> tsp liquid stevia, or to taste
+- <span class="qty">6</span> Oreo cookies, crushed, plus more for topping
 
 ## Instructions
 
@@ -51,12 +51,12 @@ Un dessert mousseux sans cuisson qui se prépare en quelques minutes. De la garn
 
 ## Ingrédients
 
-- 225 g (8 oz) de garniture fouettée légère, ramollie
-- 250 ml (1 tasse) de yogourt grec nature sans gras
-- 60 ml (1/4 tasse) de poudre de protéines vanille
-- 1 c. à soupe de mélange à pouding au chocolat blanc sans sucré
-- 1/2 c. à thé de stevia liquide, ou au goût
-- 6 biscuits Oreo, émiettés, plus pour garnir
+- <span class="qty">225</span> g (<span class="qty">8</span> oz) de garniture fouettée légère, ramollie
+- <span class="qty">250</span> ml (<span class="qty">1</span> tasse) de yogourt grec nature sans gras
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de poudre de protéines vanille
+- <span class="qty">1</span> c. à soupe de mélange à pouding au chocolat blanc sans sucré
+- <span class="qty">1/2</span> c. à thé de stevia liquide, ou au goût
+- <span class="qty">6</span> biscuits Oreo, émiettés, plus pour garnir
 
 ## Instructions
 

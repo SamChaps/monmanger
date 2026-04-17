@@ -26,24 +26,24 @@ Halved brussels sprouts roasted until deeply golden, coated in a savory-sweet mi
 
 ### Brussels Sprouts
 
-- 900 g (2 lbs) brussels sprouts, trimmed and halved
-- 2 tbsp (30 g) miso paste
-- 2 tbsp (30 g) vegan butter, melted
-- 1 tbsp (15 ml) rice vinegar
-- 1 tbsp (15 ml) mirin
-- 2 tsp (10 ml) black vinegar
-- 1 tsp (5 ml) toasted sesame oil
-- 1 tsp garlic powder
+- <span class="qty">900</span> g (<span class="qty">2</span> lbs) brussels sprouts, trimmed and halved
+- <span class="qty">2</span> tbsp (<span class="qty">30</span> g) miso paste
+- <span class="qty">2</span> tbsp (<span class="qty">30</span> g) vegan butter, melted
+- <span class="qty">1</span> tbsp (<span class="qty">15</span> ml) rice vinegar
+- <span class="qty">1</span> tbsp (<span class="qty">15</span> ml) mirin
+- <span class="qty">2</span> tsp (<span class="qty">10</span> ml) black vinegar
+- <span class="qty">1</span> tsp (<span class="qty">5</span> ml) toasted sesame oil
+- <span class="qty">1</span> tsp garlic powder
 - White pepper, to taste
-- 1 green onion, sliced, for garnish
+- <span class="qty">1</span> green onion, sliced, for garnish
 
 ### Shiitake Rice
 
-- 375 ml (1 1/2 cups) jasmine rice, uncooked
-- 3 dried shiitake mushrooms, stems removed, chopped
-- 1 green onion, sliced
-- 1/2 tbsp mushroom powder
-- 1 tsp toasted sesame oil
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> cups) jasmine rice, uncooked
+- <span class="qty">3</span> dried shiitake mushrooms, stems removed, chopped
+- <span class="qty">1</span> green onion, sliced
+- <span class="qty">1/2</span> tbsp mushroom powder
+- <span class="qty">1</span> tsp toasted sesame oil
 
 ## Instructions
 
@@ -70,24 +70,24 @@ Des choux de Bruxelles coupés en deux, rôtis jusqu'à être bien dorés, enrob
 
 ### Choux de Bruxelles
 
-- 900 g (2 lb) de choux de Bruxelles, parés et coupés en deux
-- 2 c. à soupe (30 g) de pâte de miso
-- 2 c. à soupe (30 g) de beurre végane, fondu
-- 1 c. à soupe (15 ml) de vinaigre de riz
-- 1 c. à soupe (15 ml) de mirin
-- 2 c. à thé (10 ml) de vinaigre noir
-- 1 c. à thé (5 ml) d'huile de sésame grillé
-- 1 c. à thé de poudre d'ail
+- <span class="qty">900</span> g (<span class="qty">2</span> lb) de choux de Bruxelles, parés et coupés en deux
+- <span class="qty">2</span> c. à soupe (<span class="qty">30</span> g) de pâte de miso
+- <span class="qty">2</span> c. à soupe (<span class="qty">30</span> g) de beurre végane, fondu
+- <span class="qty">1</span> c. à soupe (<span class="qty">15</span> ml) de vinaigre de riz
+- <span class="qty">1</span> c. à soupe (<span class="qty">15</span> ml) de mirin
+- <span class="qty">2</span> c. à thé (<span class="qty">10</span> ml) de vinaigre noir
+- <span class="qty">1</span> c. à thé (<span class="qty">5</span> ml) d'huile de sésame grillé
+- <span class="qty">1</span> c. à thé de poudre d'ail
 - Poivre blanc, au goût
-- 1 oignon vert, tranché, pour garnir
+- <span class="qty">1</span> oignon vert, tranché, pour garnir
 
 ### Riz aux shiitakes
 
-- 375 ml (1 1/2 tasse) de riz jasmin, non cuit
-- 3 champignons shiitake séchés, pieds retirés, hachés
-- 1 oignon vert, tranché
-- 1/2 c. à soupe de poudre de champignon
-- 1 c. à thé d'huile de sésame grillé
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> tasse) de riz jasmin, non cuit
+- <span class="qty">3</span> champignons shiitake séchés, pieds retirés, hachés
+- <span class="qty">1</span> oignon vert, tranché
+- <span class="qty">1/2</span> c. à soupe de poudre de champignon
+- <span class="qty">1</span> c. à thé d'huile de sésame grillé
 
 ## Instructions
 

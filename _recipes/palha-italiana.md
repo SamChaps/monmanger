@@ -25,10 +25,10 @@ Palha Italiana is a classic Brazilian no-bake treat that sits somewhere between 
 
 ## Ingredients
 
-- 3 cans (395 g / 14 oz each) sweetened condensed milk
-- 2 tbsp unsalted butter
-- 60 ml (¼ cup) unsweetened cocoa powder
-- 425 g (15 oz) plain tea cookies (such as Marie biscuits), broken into medium pieces
+- <span class="qty">3</span> cans (<span class="qty">395</span> g / <span class="qty">14</span> oz each) sweetened condensed milk
+- <span class="qty">2</span> tbsp unsalted butter
+- <span class="qty">60</span> ml (¼ cup) unsweetened cocoa powder
+- <span class="qty">425</span> g (<span class="qty">15</span> oz) plain tea cookies (such as Marie biscuits), broken into medium pieces
 - Granulated sugar, for coating
 
 ## Instructions
@@ -55,10 +55,10 @@ La Palha italiana est une gourmandise brésilienne sans cuisson au four qui se s
 
 ## Ingrédients
 
-- 3 boîtes (395 g / 14 oz chacune) de lait condensé sucré
-- 2 c. à soupe de beurre non salé
-- 60 ml (¼ tasse) de cacao non sucré
-- 425 g (15 oz) de biscuits thé nature (de type Marie), cassés en morceaux moyens
+- <span class="qty">3</span> boîtes (<span class="qty">395</span> g / <span class="qty">14</span> oz chacune) de lait condensé sucré
+- <span class="qty">2</span> c. à soupe de beurre non salé
+- <span class="qty">60</span> ml (¼ tasse) de cacao non sucré
+- <span class="qty">425</span> g (<span class="qty">15</span> oz) de biscuits thé nature (de type Marie), cassés en morceaux moyens
 - Sucre granulé, pour enrober
 
 ## Instructions

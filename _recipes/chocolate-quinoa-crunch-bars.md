@@ -26,9 +26,9 @@ Toasted quinoa mixed into melted chocolate for a satisfying crunch in every bite
 
 ## Ingredients
 
-- 1 cup (170 g) quinoa, soaked overnight, drained, and patted dry
-- 1 cup (175 g) chocolate chips
-- 1 tbsp coconut oil
+- <span class="qty">1</span> cup (<span class="qty">170</span> g) quinoa, soaked overnight, drained, and patted dry
+- <span class="qty">1</span> cup (<span class="qty">175</span> g) chocolate chips
+- <span class="qty">1</span> tbsp coconut oil
 
 ## Instructions
 
@@ -52,9 +52,9 @@ Du quinoa grillé mélangé à du chocolat fondu pour un croustillant satisfaisa
 
 ## Ingrédients
 
-- 1 tasse (170 g) de quinoa, trempé toute une nuit, égoutté et asséché
-- 1 tasse (175 g) de pépites de chocolat
-- 1 c. à soupe d'huile de coco
+- <span class="qty">1</span> tasse (<span class="qty">170</span> g) de quinoa, trempé toute une nuit, égoutté et asséché
+- <span class="qty">1</span> tasse (<span class="qty">175</span> g) de pépites de chocolat
+- <span class="qty">1</span> c. à soupe d'huile de coco
 
 ## Instructions
 

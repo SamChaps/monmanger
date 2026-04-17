@@ -25,15 +25,15 @@ A remarkably smooth, light hummus made by over-boiling canned chickpeas with bak
 
 ## Ingredients
 
-- 1 can (425 g / 15 oz) chickpeas, rinsed and drained
-- 1/2 tsp baking soda
-- 60 ml (1/4 cup) lemon juice (about 1 1/2 to 2 lemons), plus more to taste
-- 1 medium-to-large clove garlic, roughly chopped
-- 1/2 tsp fine sea salt, plus more to taste
-- 125 ml (1/2 cup) tahini
-- 2 to 4 tbsp ice water, plus more as needed
-- 1/2 tsp ground cumin
-- 1 tbsp extra-virgin olive oil
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) chickpeas, rinsed and drained
+- <span class="qty">1/2</span> tsp baking soda
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) lemon juice (about <span class="qty">1 1/2</span> to <span class="qty">2</span> lemons), plus more to taste
+- <span class="qty">1</span> medium-to-large clove garlic, roughly chopped
+- <span class="qty">1/2</span> tsp fine sea salt, plus more to taste
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) tahini
+- <span class="qty">2</span> to <span class="qty">4</span> tbsp ice water, plus more as needed
+- <span class="qty">1/2</span> tsp ground cumin
+- <span class="qty">1</span> tbsp extra-virgin olive oil
 
 ### Garnish (optional)
 
@@ -65,15 +65,15 @@ Un houmous remarquablement lisse et léger, préparé en faisant trop bouillir d
 
 ## Ingrédients
 
-- 1 boîte (425 g / 15 oz) de pois chiches, rincés et égouttés
-- 1/2 c. à thé de bicarbonate de soude
-- 60 ml (1/4 tasse) de jus de citron (environ 1 1/2 à 2 citrons), plus au goût
-- 1 gousse d'ail moyenne à grosse, hachée grossièrement
-- 1/2 c. à thé de sel de mer fin, plus au goût
-- 125 ml (1/2 tasse) de tahini
-- 2 à 4 c. à soupe d'eau glacée, plus au besoin
-- 1/2 c. à thé de cumin moulu
-- 1 c. à soupe d'huile d'olive extra vierge
+- <span class="qty">1</span> boîte (<span class="qty">425</span> g / <span class="qty">15</span> oz) de pois chiches, rincés et égouttés
+- <span class="qty">1/2</span> c. à thé de bicarbonate de soude
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de jus de citron (environ <span class="qty">1 1/2</span> à <span class="qty">2</span> citrons), plus au goût
+- <span class="qty">1</span> gousse d'ail moyenne à grosse, hachée grossièrement
+- <span class="qty">1/2</span> c. à thé de sel de mer fin, plus au goût
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de tahini
+- <span class="qty">2</span> à <span class="qty">4</span> c. à soupe d'eau glacée, plus au besoin
+- <span class="qty">1/2</span> c. à thé de cumin moulu
+- <span class="qty">1</span> c. à soupe d'huile d'olive extra vierge
 
 ### Garniture (optionnel)
 

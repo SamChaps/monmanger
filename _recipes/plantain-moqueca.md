@@ -27,24 +27,24 @@ A rich, fragrant Brazilian stew where ripe plantains hold their shape beautifull
 
 ### Broth
 
-- 3 cloves garlic, minced
-- 2 hot finger chilies, seeded and finely chopped
-- 2 fragrant chilies, seeded and finely chopped
-- Roots and stems from 10 cilantro sprigs (reserve leaves for finishing)
-- 500 ml (2 cups) water
-- 1 strip of lime peel
-- 60 ml (1/4 cup) dende (palm) oil
-- 200 ml (3/4 cup) coconut milk
-- 2 tsp salt
-- 2 tbsp olive oil, divided
+- <span class="qty">3</span> cloves garlic, minced
+- <span class="qty">2</span> hot finger chilies, seeded and finely chopped
+- <span class="qty">2</span> fragrant chilies, seeded and finely chopped
+- Roots and stems from <span class="qty">10</span> cilantro sprigs (reserve leaves for finishing)
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) water
+- <span class="qty">1</span> strip of lime peel
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) dende (palm) oil
+- <span class="qty">200</span> ml (<span class="qty">3/4</span> cup) coconut milk
+- <span class="qty">2</span> tsp salt
+- <span class="qty">2</span> tbsp olive oil, divided
 
 ### Stew
 
-- 1 green bell pepper, seeded and cut into 2 cm (3/4 inch) squares
-- 1 red bell pepper, seeded and cut into 2 cm (3/4 inch) squares
-- 1 onion, cut into 2 cm (3/4 inch) cubes
-- 2 ripe tomatoes, quartered, seeded, and halved
-- 3 ripe but firm plantains, peeled and sliced into 2 cm (3/4 inch) rounds on a diagonal
+- <span class="qty">1</span> green bell pepper, seeded and cut into 2 cm (3/4 inch) squares
+- <span class="qty">1</span> red bell pepper, seeded and cut into 2 cm (3/4 inch) squares
+- <span class="qty">1</span> onion, cut into 2 cm (3/4 inch) cubes
+- <span class="qty">2</span> ripe tomatoes, quartered, seeded, and halved
+- <span class="qty">3</span> ripe but firm plantains, peeled and sliced into 2 cm (3/4 inch) rounds on a diagonal
 - Fresh cilantro leaves, for finishing
 
 ## Instructions
@@ -71,24 +71,24 @@ Un ragoût brésilien riche et parfumé où des bananes plantain mûres gardent 
 
 ### Bouillon
 
-- 3 gousses d'ail, hachées finement
-- 2 piments forts, épépinés et hachés finement
-- 2 piments parfumés, épépinés et hachés finement
-- Racines et tiges de 10 brins de coriandre (réserver les feuilles pour la finition)
-- 500 ml (2 tasses) d'eau
-- 1 lanière de zeste de lime
-- 60 ml (1/4 tasse) d'huile de dendê (huile de palme)
-- 200 ml (3/4 tasse) de lait de coco
-- 2 c. à thé de sel
-- 2 c. à soupe d'huile d'olive, divisées
+- <span class="qty">3</span> gousses d'ail, hachées finement
+- <span class="qty">2</span> piments forts, épépinés et hachés finement
+- <span class="qty">2</span> piments parfumés, épépinés et hachés finement
+- Racines et tiges de <span class="qty">10</span> brins de coriandre (réserver les feuilles pour la finition)
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) d'eau
+- <span class="qty">1</span> lanière de zeste de lime
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) d'huile de dendê (huile de palme)
+- <span class="qty">200</span> ml (<span class="qty">3/4</span> tasse) de lait de coco
+- <span class="qty">2</span> c. à thé de sel
+- <span class="qty">2</span> c. à soupe d'huile d'olive, divisées
 
 ### Ragoût
 
-- 1 poivron vert, épépiné et coupé en carrés de 2 cm (3/4 po)
-- 1 poivron rouge, épépiné et coupé en carrés de 2 cm (3/4 po)
-- 1 oignon, coupé en cubes de 2 cm (3/4 po)
-- 2 tomates mûres, coupées en quartiers, épépinées et coupées en deux
-- 3 bananes plantain mûres mais fermes, pelées et tranchées en rondelles de 2 cm (3/4 po) en diagonale
+- <span class="qty">1</span> poivron vert, épépiné et coupé en carrés de 2 cm (3/4 po)
+- <span class="qty">1</span> poivron rouge, épépiné et coupé en carrés de 2 cm (3/4 po)
+- <span class="qty">1</span> oignon, coupé en cubes de 2 cm (3/4 po)
+- <span class="qty">2</span> tomates mûres, coupées en quartiers, épépinées et coupées en deux
+- <span class="qty">3</span> bananes plantain mûres mais fermes, pelées et tranchées en rondelles de 2 cm (3/4 po) en diagonale
 - Feuilles de coriandre fraîche, pour la finition
 
 ## Instructions

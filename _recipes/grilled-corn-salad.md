@@ -26,21 +26,21 @@ A vibrant summer salad built on smoky grilled corn and charred cherry tomatoes, 
 
 ### Marinated Shallots
 
-- 2 medium shallots, very thinly sliced
-- 2 small jalapeno peppers, thinly sliced into rounds (use 1 for moderate heat; remove seeds for mild)
-- 80 ml (3 1/2 tbsp) lime juice, plus more for serving
-- 2 tbsp extra-virgin olive oil
-- 1/4 tsp ground cumin
+- <span class="qty">2</span> medium shallots, very thinly sliced
+- <span class="qty">2</span> small jalapeno peppers, thinly sliced into rounds (use <span class="qty">1</span> for moderate heat; remove seeds for mild)
+- <span class="qty">80</span> ml (<span class="qty">3 1/2</span> tbsp) lime juice, plus more for serving
+- <span class="qty">2</span> tbsp extra-virgin olive oil
+- <span class="qty">1/4</span> tsp ground cumin
 - Salt and freshly cracked black pepper, to taste
 
 ### Salad
 
-- 6 medium ears of corn, husked
-- 300 g (1 pint) cherry tomatoes
+- <span class="qty">6</span> medium ears of corn, husked
+- <span class="qty">300</span> g (<span class="qty">1</span> pint) cherry tomatoes
 - Olive oil, for grilling
-- 1 can (425 g / 15 oz) pinto beans, drained and rinsed
-- 60 to 80 ml (1/4 to 1/3 cup) fresh cilantro, finely chopped
-- 1 large ripe avocado, diced
+- <span class="qty">1</span> can (<span class="qty">425</span> g / <span class="qty">15</span> oz) pinto beans, drained and rinsed
+- <span class="qty">60</span> to <span class="qty">80</span> ml (<span class="qty">1/4</span> to <span class="qty">1/3</span> cup) fresh cilantro, finely chopped
+- <span class="qty">1</span> large ripe avocado, diced
 
 ## Instructions
 
@@ -66,21 +66,21 @@ Une salade estivale colorée à base de maïs grillé fumé et de tomates cerise
 
 ### Échalotes marinées
 
-- 2 échalotes moyennes, tranchées très finement
-- 2 petits piments jalapeno, tranchés en rondelles (1 seul pour une chaleur modérée; retirer les graines pour plus doux)
-- 80 ml (3 1/2 c. à soupe) de jus de lime, plus pour servir
-- 2 c. à soupe d'huile d'olive extra vierge
-- 1/4 c. à thé de cumin moulu
+- <span class="qty">2</span> échalotes moyennes, tranchées très finement
+- <span class="qty">2</span> petits piments jalapeno, tranchés en rondelles (<span class="qty">1</span> seul pour une chaleur modérée; retirer les graines pour plus doux)
+- <span class="qty">80</span> ml (<span class="qty">3 1/2</span> c. à soupe) de jus de lime, plus pour servir
+- <span class="qty">2</span> c. à soupe d'huile d'olive extra vierge
+- <span class="qty">1/4</span> c. à thé de cumin moulu
 - Sel et poivre noir fraîchement moulu, au goût
 
 ### Salade
 
-- 6 épis de maïs moyens, épluchés
-- 300 g (1 chopine) de tomates cerises
+- <span class="qty">6</span> épis de maïs moyens, épluchés
+- <span class="qty">300</span> g (<span class="qty">1</span> chopine) de tomates cerises
 - Huile d'olive, pour griller
-- 1 boîte (425 g / 15 oz) de haricots pinto, égouttés et rincés
-- 60 à 80 ml (1/4 à 1/3 tasse) de coriandre fraîche, hachée finement
-- 1 gros avocat mûr, coupé en dés
+- <span class="qty">1</span> boîte (<span class="qty">425</span> g / <span class="qty">15</span> oz) de haricots pinto, égouttés et rincés
+- <span class="qty">60</span> à <span class="qty">80</span> ml (<span class="qty">1/4</span> à <span class="qty">1/3</span> tasse) de coriandre fraîche, hachée finement
+- <span class="qty">1</span> gros avocat mûr, coupé en dés
 
 ## Instructions
 

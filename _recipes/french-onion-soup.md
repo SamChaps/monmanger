@@ -27,21 +27,21 @@ A deeply flavourful French onion soup built on slowly caramelized onions, a spla
 
 ### Soup
 
-- 6 yellow onions, peeled
-- 60 g (1/4 cup) butter
-- 125 ml (1/2 cup) red wine
-- 2 tbsp (30 ml) cognac or brandy
-- 1 L (4 cups) chicken broth
-- 1 L (4 cups) beef broth
-- 1 tbsp light toasted flour
-- 1 pinch nutmeg
+- <span class="qty">6</span> yellow onions, peeled
+- <span class="qty">60</span> g (<span class="qty">1/4</span> cup) butter
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) red wine
+- <span class="qty">2</span> tbsp (<span class="qty">30</span> ml) cognac or brandy
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) chicken broth
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) beef broth
+- <span class="qty">1</span> tbsp light toasted flour
+- <span class="qty">1</span> pinch nutmeg
 - Salt and pepper, to taste
 
 ### Toppings
 
-- 12 slices baguette, about 1 cm (1/2 inch) thick, toasted
-- 1 small garlic clove, halved
-- 200 g (2 cups) Gruyère cheese, grated
+- <span class="qty">12</span> slices baguette, about 1 cm (1/2 inch) thick, toasted
+- <span class="qty">1</span> small garlic clove, halved
+- <span class="qty">200</span> g (<span class="qty">2</span> cups) Gruyère cheese, grated
 
 ## Instructions
 
@@ -74,21 +74,21 @@ Une soupe à l'oignon gratinée pleine de saveur, préparée avec des oignons lo
 
 ### Soupe
 
-- 6 oignons jaunes, pelés
-- 60 g (1/4 tasse) de beurre
-- 125 ml (1/2 tasse) de vin rouge
-- 2 c. à soupe (30 ml) de cognac ou de brandy
-- 1 L (4 tasses) de bouillon de poulet
-- 1 L (4 tasses) de bouillon de bœuf
-- 1 c. à soupe de farine légèrement grillée
-- 1 pincée de muscade
+- <span class="qty">6</span> oignons jaunes, pelés
+- <span class="qty">60</span> g (<span class="qty">1/4</span> tasse) de beurre
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de vin rouge
+- <span class="qty">2</span> c. à soupe (<span class="qty">30</span> ml) de cognac ou de brandy
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de bouillon de poulet
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de bouillon de bœuf
+- <span class="qty">1</span> c. à soupe de farine légèrement grillée
+- <span class="qty">1</span> pincée de muscade
 - Sel et poivre, au goût
 
 ### Garnitures
 
-- 12 tranches de baguette, environ 1 cm (1/2 po) d'épaisseur, grillées
-- 1 petite gousse d'ail, coupée en deux
-- 200 g (2 tasses) de fromage Gruyère, râpé
+- <span class="qty">12</span> tranches de baguette, environ 1 cm (1/2 po) d'épaisseur, grillées
+- <span class="qty">1</span> petite gousse d'ail, coupée en deux
+- <span class="qty">200</span> g (<span class="qty">2</span> tasses) de fromage Gruyère, râpé
 
 ## Instructions
 

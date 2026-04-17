@@ -25,19 +25,19 @@ Finely chopped mushrooms sauteed with balsamic, thyme, sage, and spinach, then w
 
 ## Ingredients
 
-- 1 sheet frozen puff pastry, thawed
-- 450 g (1 lb) white mushrooms
-- 3 1/2 tbsp olive oil, divided
-- 500 ml (2 cups) red onion, chopped
-- 3 medium cloves garlic, minced
-- 2 tbsp balsamic vinegar
-- 125 ml (1/2 cup) water chestnuts, cooked and chopped (optional)
-- 1 1/2 tbsp fresh thyme, chopped (or 2 tsp dried)
-- 1/2 tbsp fresh sage, chopped (or 1/2 tsp dried)
-- 3/4 tsp salt, plus more to taste
-- 1/4 tsp black pepper, plus more to taste
-- 115 g (4 oz) baby spinach, roughly chopped
-- 1/2 tbsp non-dairy milk (optional, for brushing)
+- <span class="qty">1</span> sheet frozen puff pastry, thawed
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) white mushrooms
+- <span class="qty">3 1/2</span> tbsp olive oil, divided
+- <span class="qty">500</span> ml (<span class="qty">2</span> cups) red onion, chopped
+- <span class="qty">3</span> medium cloves garlic, minced
+- <span class="qty">2</span> tbsp balsamic vinegar
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) water chestnuts, cooked and chopped (optional)
+- <span class="qty">1 1/2</span> tbsp fresh thyme, chopped (or <span class="qty">2</span> tsp dried)
+- <span class="qty">1/2</span> tbsp fresh sage, chopped (or <span class="qty">1/2</span> tsp dried)
+- <span class="qty">3/4</span> tsp salt, plus more to taste
+- <span class="qty">1/4</span> tsp black pepper, plus more to taste
+- <span class="qty">115</span> g (<span class="qty">4</span> oz) baby spinach, roughly chopped
+- <span class="qty">1/2</span> tbsp non-dairy milk (optional, for brushing)
 
 ## Instructions
 
@@ -63,19 +63,19 @@ Des champignons finement hachés sautés au balsamique, thym, sauge et épinards
 
 ## Ingrédients
 
-- 1 feuille de pâte feuilletée surgelée, décongelée
-- 450 g (1 lb) de champignons blancs
-- 3 1/2 c. à soupe d'huile d'olive, divisées
-- 500 ml (2 tasses) d'oignon rouge, haché
-- 3 gousses d'ail moyennes, hachées
-- 2 c. à soupe de vinaigre balsamique
-- 125 ml (1/2 tasse) de châtaignes d'eau, cuites et hachées (optionnel)
-- 1 1/2 c. à soupe de thym frais, haché (ou 2 c. à thé séché)
-- 1/2 c. à soupe de sauge fraîche, hachée (ou 1/2 c. à thé séchée)
-- 3/4 c. à thé de sel, plus au goût
-- 1/4 c. à thé de poivre noir, plus au goût
-- 115 g (4 oz) de bébé épinards, hachés grossièrement
-- 1/2 c. à soupe de lait végétal (optionnel, pour badigeonner)
+- <span class="qty">1</span> feuille de pâte feuilletée surgelée, décongelée
+- <span class="qty">450</span> g (<span class="qty">1</span> lb) de champignons blancs
+- <span class="qty">3 1/2</span> c. à soupe d'huile d'olive, divisées
+- <span class="qty">500</span> ml (<span class="qty">2</span> tasses) d'oignon rouge, haché
+- <span class="qty">3</span> gousses d'ail moyennes, hachées
+- <span class="qty">2</span> c. à soupe de vinaigre balsamique
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de châtaignes d'eau, cuites et hachées (optionnel)
+- <span class="qty">1 1/2</span> c. à soupe de thym frais, haché (ou <span class="qty">2</span> c. à thé séché)
+- <span class="qty">1/2</span> c. à soupe de sauge fraîche, hachée (ou <span class="qty">1/2</span> c. à thé séchée)
+- <span class="qty">3/4</span> c. à thé de sel, plus au goût
+- <span class="qty">1/4</span> c. à thé de poivre noir, plus au goût
+- <span class="qty">115</span> g (<span class="qty">4</span> oz) de bébé épinards, hachés grossièrement
+- <span class="qty">1/2</span> c. à soupe de lait végétal (optionnel, pour badigeonner)
 
 ## Instructions
 

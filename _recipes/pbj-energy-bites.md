@@ -25,13 +25,13 @@ Quick, wholesome energy bites that taste like peanut butter and jelly in snackab
 
 ## Ingredients
 
-- 125 ml (1/2 cup) creamy salted peanut butter
-- 60 ml (1/4 cup) maple syrup
-- 2 tbsp vegan protein powder (optional)
-- 310 ml (1 1/4 cups) rolled oats
-- 2 1/2 tbsp flaxseed meal
-- 2 tbsp chia seeds
-- 60 ml (1/4 cup) dried fruit (strawberries, cherries, blueberries, or cranberries)
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) creamy salted peanut butter
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) maple syrup
+- <span class="qty">2</span> tbsp vegan protein powder (optional)
+- <span class="qty">310</span> ml (<span class="qty">1 1/4</span> cups) rolled oats
+- <span class="qty">2 1/2</span> tbsp flaxseed meal
+- <span class="qty">2</span> tbsp chia seeds
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) dried fruit (strawberries, cherries, blueberries, or cranberries)
 
 ## Instructions
 
@@ -54,13 +54,13 @@ Des bouchées d'énergie rapides et saines qui goûtent comme un sandwich beurre
 
 ## Ingrédients
 
-- 125 ml (1/2 tasse) de beurre d'arachide crémeux salé
-- 60 ml (1/4 tasse) de sirop d'érable
-- 2 c. à soupe de poudre de protéines végane (optionnel)
-- 310 ml (1 1/4 tasse) de flocons d'avoine
-- 2 1/2 c. à soupe de graines de lin moulues
-- 2 c. à soupe de graines de chia
-- 60 ml (1/4 tasse) de fruits séchés (fraises, cerises, bleuets ou canneberges)
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de beurre d'arachide crémeux salé
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de sirop d'érable
+- <span class="qty">2</span> c. à soupe de poudre de protéines végane (optionnel)
+- <span class="qty">310</span> ml (<span class="qty">1 1/4</span> tasse) de flocons d'avoine
+- <span class="qty">2 1/2</span> c. à soupe de graines de lin moulues
+- <span class="qty">2</span> c. à soupe de graines de chia
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de fruits séchés (fraises, cerises, bleuets ou canneberges)
 
 ## Instructions
 

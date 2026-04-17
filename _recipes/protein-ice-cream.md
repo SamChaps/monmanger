@@ -27,20 +27,20 @@ Frozen bananas blended with protein powder into something remarkably close to re
 
 ### Chocolate Version
 
-- 2 frozen bananas, chopped into chunks
-- 60 ml (1/4 cup) dairy-free milk
-- 2 tbsp almond butter or peanut butter
-- 1 tbsp cocoa powder
-- 1 scoop (25 g) chocolate protein powder
-- 1/2 tbsp chocolate chips or cacao nibs
+- <span class="qty">2</span> frozen bananas, chopped into chunks
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) dairy-free milk
+- <span class="qty">2</span> tbsp almond butter or peanut butter
+- <span class="qty">1</span> tbsp cocoa powder
+- <span class="qty">1</span> scoop (<span class="qty">25</span> g) chocolate protein powder
+- <span class="qty">1/2</span> tbsp chocolate chips or cacao nibs
 
 ### Vanilla Version
 
-- 2 frozen bananas, chopped into chunks
-- 60 ml (1/4 cup) dairy-free milk
-- 1 scoop (25 g) vanilla protein powder
-- 1 tsp vanilla extract or vanilla bean paste
-- 1/4 tsp cinnamon
+- <span class="qty">2</span> frozen bananas, chopped into chunks
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> cup) dairy-free milk
+- <span class="qty">1</span> scoop (<span class="qty">25</span> g) vanilla protein powder
+- <span class="qty">1</span> tsp vanilla extract or vanilla bean paste
+- <span class="qty">1/4</span> tsp cinnamon
 
 ## Instructions
 
@@ -65,20 +65,20 @@ Des bananes congelees mélangées avec de la poudre de proteine pour obtenir que
 
 ### Version chocolat
 
-- 2 bananes congelees, coupées en morceaux
-- 60 ml (1/4 tasse) de lait végétal
-- 2 c. à soupe de beurre d'amande ou d'arachide
-- 1 c. à soupe de poudre de cacao
-- 1 mesure (25 g) de poudre de proteine au chocolat
-- 1/2 c. à soupe de pépites de chocolat ou eclats de cacao
+- <span class="qty">2</span> bananes congelees, coupées en morceaux
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de lait végétal
+- <span class="qty">2</span> c. à soupe de beurre d'amande ou d'arachide
+- <span class="qty">1</span> c. à soupe de poudre de cacao
+- <span class="qty">1</span> mesure (<span class="qty">25</span> g) de poudre de proteine au chocolat
+- <span class="qty">1/2</span> c. à soupe de pépites de chocolat ou eclats de cacao
 
 ### Version vanille
 
-- 2 bananes congelees, coupées en morceaux
-- 60 ml (1/4 tasse) de lait végétal
-- 1 mesure (25 g) de poudre de proteine à la vanille
-- 1 c. à thé d'extrait de vanille ou pâte de vanille
-- 1/4 c. à thé de cannelle
+- <span class="qty">2</span> bananes congelees, coupées en morceaux
+- <span class="qty">60</span> ml (<span class="qty">1/4</span> tasse) de lait végétal
+- <span class="qty">1</span> mesure (<span class="qty">25</span> g) de poudre de proteine à la vanille
+- <span class="qty">1</span> c. à thé d'extrait de vanille ou pâte de vanille
+- <span class="qty">1/4</span> c. à thé de cannelle
 
 ## Instructions
 

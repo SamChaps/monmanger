@@ -25,14 +25,14 @@ A well-balanced, lightly sweetened granola that bakes into satisfying golden clu
 
 ## Ingredients
 
-- 1 L (4 cups) rolled oats
-- 375 ml (1 1/2 cups) raw nuts and/or seeds (pecans, walnuts, almonds, cashews, pepitas, or a mix)
-- 1 tsp fine-grain sea salt
-- 1/2 tsp ground cinnamon
-- 125 ml (1/2 cup) coconut oil, melted
-- 125 ml (1/2 cup) maple syrup
-- 1 tsp vanilla extract
-- 160 ml (2/3 cup) dried fruit (cranberries, raisins, chopped apricots, or a mix)
+- <span class="qty">1</span> L (<span class="qty">4</span> cups) rolled oats
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> cups) raw nuts and/or seeds (pecans, walnuts, almonds, cashews, pepitas, or a mix)
+- <span class="qty">1</span> tsp fine-grain sea salt
+- <span class="qty">1/2</span> tsp ground cinnamon
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) coconut oil, melted
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> cup) maple syrup
+- <span class="qty">1</span> tsp vanilla extract
+- <span class="qty">160</span> ml (<span class="qty">2/3</span> cup) dried fruit (cranberries, raisins, chopped apricots, or a mix)
 
 ## Instructions
 
@@ -58,14 +58,14 @@ Un granola équilibré et légèrement sucré qui cuit en belles grappes dorées
 
 ## Ingrédients
 
-- 1 L (4 tasses) de flocons d'avoine
-- 375 ml (1 1/2 tasse) de noix et/ou graines au choix (pacanes, noix de Grenoble, amandes, cajous, pepitas, ou un mélange)
-- 1 c. à thé de sel de mer fin
-- 1/2 c. à thé de cannelle moulue
-- 125 ml (1/2 tasse) d'huile de coco, fondue
-- 125 ml (1/2 tasse) de sirop d'érable
-- 1 c. à thé d'extrait de vanille
-- 160 ml (2/3 tasse) de fruits séchés (canneberges, raisins secs, abricots hachés, ou un mélange)
+- <span class="qty">1</span> L (<span class="qty">4</span> tasses) de flocons d'avoine
+- <span class="qty">375</span> ml (<span class="qty">1 1/2</span> tasse) de noix et/ou graines au choix (pacanes, noix de Grenoble, amandes, cajous, pepitas, ou un mélange)
+- <span class="qty">1</span> c. à thé de sel de mer fin
+- <span class="qty">1/2</span> c. à thé de cannelle moulue
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) d'huile de coco, fondue
+- <span class="qty">125</span> ml (<span class="qty">1/2</span> tasse) de sirop d'érable
+- <span class="qty">1</span> c. à thé d'extrait de vanille
+- <span class="qty">160</span> ml (<span class="qty">2/3</span> tasse) de fruits séchés (canneberges, raisins secs, abricots hachés, ou un mélange)
 
 ## Instructions
 

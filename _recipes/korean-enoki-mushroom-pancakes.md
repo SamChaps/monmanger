@@ -23,14 +23,14 @@ Tiny, golden pancakes packed with strands of enoki mushrooms coated in flour and
 
 ## Ingredients
 
-- 200 g (7 oz) enoki mushrooms, woody stems removed, rinsed and patted dry
-- 2 tbsp all-purpose flour
-- 1 tsp sesame oil
-- 2 extra-large eggs, beaten
-- 20 g (0.7 oz) small carrot, finely diced
-- 10 g (0.4 oz) onion, finely diced
-- 5 g (0.2 oz) garlic chives or green onions, finely chopped
-- 1/8 tsp fine sea salt, plus more to taste
+- <span class="qty">200</span> g (<span class="qty">7</span> oz) enoki mushrooms, woody stems removed, rinsed and patted dry
+- <span class="qty">2</span> tbsp all-purpose flour
+- <span class="qty">1</span> tsp sesame oil
+- <span class="qty">2</span> extra-large eggs, beaten
+- <span class="qty">20</span> g (<span class="qty">0.7</span> oz) small carrot, finely diced
+- <span class="qty">10</span> g (<span class="qty">0.4</span> oz) onion, finely diced
+- <span class="qty">5</span> g (<span class="qty">0.2</span> oz) garlic chives or green onions, finely chopped
+- <span class="qty">1/8</span> tsp fine sea salt, plus more to taste
 - Pinch of black pepper
 - Cooking oil, for frying
 
@@ -56,15 +56,15 @@ De petites crêpes dorées garnies de filaments de champignons enoki enrobés de
 
 ## Ingrédients
 
-- 200 g (7 oz) de champignons enoki, pieds ligneux retirés, rincés et égouttés
-- 2 c. à soupe de farine tout usage
-- 1 c. à thé d'huile de sésame
-- 2 gros œufs, battus
-- 20 g (0,7 oz) de petite carotte, coupée en petits dés
-- 10 g (0,4 oz) d'oignon, coupé en petits dés
-- 5 g (0,2 oz) de ciboulette à l'ail ou oignons verts, hachés finement
-- 1/8 c. à thé de sel de mer fin, plus au goût
-- 1 pincée de poivre noir
+- <span class="qty">200</span> g (<span class="qty">7</span> oz) de champignons enoki, pieds ligneux retirés, rincés et égouttés
+- <span class="qty">2</span> c. à soupe de farine tout usage
+- <span class="qty">1</span> c. à thé d'huile de sésame
+- <span class="qty">2</span> gros œufs, battus
+- <span class="qty">20</span> g (<span class="qty">0</span>,<span class="qty">7</span> oz) de petite carotte, coupée en petits dés
+- <span class="qty">10</span> g (<span class="qty">0</span>,<span class="qty">4</span> oz) d'oignon, coupé en petits dés
+- <span class="qty">5</span> g (<span class="qty">0</span>,<span class="qty">2</span> oz) de ciboulette à l'ail ou oignons verts, hachés finement
+- <span class="qty">1/8</span> c. à thé de sel de mer fin, plus au goût
+- <span class="qty">1</span> pincée de poivre noir
 - Huile de cuisson, pour la friture
 
 ## Instructions
