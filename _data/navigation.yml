@@ -1,7 +1,10 @@
 main:
+  - title: "Home"
+    title_fr: "Accueil"
+    url: /
   - title: "Recipes"
     title_fr: "Recettes"
-    url: /
+    url: /recipes/
   - title: "Categories"
     title_fr: "Catégories"
     url: /categories/

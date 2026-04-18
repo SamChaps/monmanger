@@ -65,12 +65,12 @@ $(document).ready(function() {
     var result =
       idx.query(function (q) {
         terms.forEach(function (normalised) {
-          // Exact match on normalised term (highest priority)
-          q.term(normalised, { boost: 100, presence: presence })
-          // Wildcard trailing (partial match while typing)
+          // Exact match on normalised term (boost only, not required)
+          q.term(normalised, { boost: 100, presence: lunr.Query.presence.OPTIONAL })
+          // Wildcard trailing (partial match while typing) — carries the REQUIRED flag
           q.term(normalised, { usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10, presence: presence })
-          // Fuzzy match (typo tolerance)
-          q.term(normalised, { usePipeline: false, editDistance: 1, boost: 1, presence: presence })
+          // Fuzzy match (typo tolerance, boost only)
+          q.term(normalised, { usePipeline: false, editDistance: 1, boost: 1, presence: lunr.Query.presence.OPTIONAL })
         })
       });
     resultdiv.empty();

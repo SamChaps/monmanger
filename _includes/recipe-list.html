@@ -5,6 +5,9 @@
 <div class="recipe-grid">
   {% for recipe in include.recipes %}
   <article class="recipe-card" onclick="window.location='{{ recipe.url | relative_url }}'" style="cursor:pointer;">
+    <button type="button" class="fav-star" data-url="{{ recipe.url | relative_url }}" aria-label="Toggle favorite" onclick="event.stopPropagation(); window.Favorites.toggle(this);">
+      <i class="far fa-star"></i>
+    </button>
     {% if recipe.header.teaser %}
     <div class="recipe-card__image-link">
       <img src="{{ recipe.header.teaser | relative_url }}" alt="{{ recipe.title }}" class="recipe-card__image" loading="lazy">

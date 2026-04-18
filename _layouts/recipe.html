@@ -3,6 +3,18 @@ layout: single
 ---
 {% assign t = site.data.translations %}
 
+<button type="button" class="fav-star fav-star--page" data-url="{{ page.url | relative_url }}" aria-label="Toggle favorite" onclick="window.Favorites.toggle(this);">
+  <i class="far fa-star"></i>
+  <span class="fav-star__label fav-star__label--default">
+    <span class="lang-en-content">Favorite</span>
+    <span class="lang-fr-content">Ajouter aux favoris</span>
+  </span>
+  <span class="fav-star__label fav-star__label--active">
+    <span class="lang-en-content">Added to favorites</span>
+    <span class="lang-fr-content">Ajouté aux favoris</span>
+  </span>
+</button>
+
 <div class="recipe-meta-card">
   {% if page.prep_time %}
   <div class="recipe-meta-item">

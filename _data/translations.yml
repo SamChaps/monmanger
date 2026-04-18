@@ -7,6 +7,13 @@ en:
   difficulty: "Difficulty"
   source: "Inspired by"
 
+  # Favorites
+  your_favorites: "Your Favorites"
+  home_favorites: "Our Top Picks"
+  favorites_empty: "Tap the star on any recipe to save it here!"
+  favorites_empty_cta: "Browse recipes"
+  favorites_hint: "Your favorites are saved in this browser only."
+
 fr:
   prep_time: "Préparation"
   cook_time: "Cuisson"
@@ -15,3 +22,10 @@ fr:
   servings: "Portions"
   difficulty: "Difficulté"
   source: "Inspiré de"
+
+  # Favorites
+  your_favorites: "Vos favoris"
+  home_favorites: "Coups de cœur de la maison"
+  favorites_empty: "Appuyez sur l'étoile d'une recette pour la sauvegarder ici !"
+  favorites_empty_cta: "Découvrir les recettes"
+  favorites_hint: "Vos favoris sont sauvegardés dans ce navigateur seulement."
