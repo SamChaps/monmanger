@@ -61,11 +61,12 @@
         // Swap titles in the search store so new searches render correctly
         syncStoreLang(isFr);
 
-        // Translate search placeholder
+        // Translate search placeholder & disable browser autocomplete
         var input = document.querySelector('.search-content input[type="search"]');
         if (input) {
           if (!input.dataset.phEn) input.dataset.phEn = input.placeholder || 'Enter your search term...';
           input.placeholder = isFr ? 'Entrez votre recherche\u2026' : input.dataset.phEn;
+          input.setAttribute('autocomplete', 'off');
         }
 
         try { localStorage.setItem('site-lang', lang); } catch (e) {}
