@@ -40,7 +40,7 @@
     }
   }
 
-  // Toggle a star button and update localStorage
+  // Toggle favorite (from recipe page button)
   function toggle(btn) {
     var url = btn.getAttribute('data-url');
     if (!url) return;
@@ -51,18 +51,21 @@
       addFavorite(url);
     }
 
-    // Sync all star buttons on the page (handles duplicates across sections)
-    syncStars();
+    syncPageStar();
 
     // If on homepage, refresh the user favorites section
     var grid = document.getElementById('user-favorites-grid');
     if (grid) renderUserFavorites();
   }
 
-  function setStarState(btn, active) {
+  // Sync the recipe page star button
+  function syncPageStar() {
+    var btn = document.querySelector('.fav-star--page[data-url]');
+    if (!btn) return;
+    var url = btn.getAttribute('data-url');
     var icon = btn.querySelector('i');
     if (!icon) return;
-    if (active) {
+    if (isFavorite(url)) {
       icon.className = 'fas fa-star';
       btn.classList.add('fav-star--active');
     } else {
@@ -71,29 +74,15 @@
     }
   }
 
-  // Sync all star buttons on the page with localStorage
-  function syncStars() {
-    var stars = document.querySelectorAll('.fav-star[data-url]');
-    for (var i = 0; i < stars.length; i++) {
-      var url = stars[i].getAttribute('data-url');
-      setStarState(stars[i], isFavorite(url));
-    }
-  }
-
   // Build a recipe card HTML from a store entry
   function buildCard(entry) {
     var isFr = document.documentElement.classList.contains('lang-fr');
     var title = isFr ? (entry.title_fr || entry.title) : entry.title;
     var titleFr = entry.title_fr || entry.title;
-    var excerpt = isFr ? (entry.excerpt_fr || '') : (entry.excerpt || '');
-    var excerptFr = entry.excerpt_fr || '';
-    // Truncate excerpt
     var excerptEn = (entry.excerpt || '').split(/\s+/).slice(0, 20).join(' ');
-    excerptFr = excerptFr.split(/\s+/).slice(0, 20).join(' ');
+    var excerptFr = (entry.excerpt_fr || '').split(/\s+/).slice(0, 20).join(' ');
 
     var html = '<article class="recipe-card" onclick="window.location=\'' + entry.url + '\'" style="cursor:pointer;">';
-    html += '<button type="button" class="fav-star fav-star--active" data-url="' + entry.url + '" aria-label="Toggle favorite" onclick="event.stopPropagation(); window.Favorites.toggle(this);">';
-    html += '<i class="fas fa-star"></i></button>';
 
     if (entry.teaser) {
       html += '<div class="recipe-card__image-link">';
@@ -128,7 +117,6 @@
     }
     html += '</div>';
 
-    // Tags
     if (entry.tags && entry.tags.length > 0) {
       html += '<div class="recipe-card__tags">';
       var tagsFr = entry.tags_fr || [];
@@ -174,12 +162,10 @@
       return;
     }
 
-    // Show grid, hide empty banner
     grid.style.display = '';
     if (emptyBanner) emptyBanner.style.display = 'none';
     if (countEl) countEl.textContent = '(' + favs.length + ')';
 
-    // Build cards from store data
     var cards = [];
     for (var i = 0; i < favs.length; i++) {
       for (var j = 0; j < store.length; j++) {
@@ -195,14 +181,14 @@
 
   // Init on DOM ready
   document.addEventListener('DOMContentLoaded', function () {
-    syncStars();
+    syncPageStar();
     renderUserFavorites();
   });
 
   // Public API
   window.Favorites = {
     toggle: toggle,
-    sync: syncStars,
+    sync: syncPageStar,
     render: renderUserFavorites
   };
 })();
