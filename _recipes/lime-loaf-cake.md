@@ -2,7 +2,7 @@
 title: "Lime Loaf Cake"
 title_fr: "Gâteau aux limes"
 excerpt: "Bright, tender loaf cake finished with a simple lime glaze."
-excerpt_fr: "Gâteau moelleux et citronné avec une glace au lime."
+excerpt_fr: "Gâteau moelleux et citronné avec une glace aux limes."
 date: 2026-08-31
 categories:
   - Dessert
@@ -71,7 +71,7 @@ Ce gâteau en pain de mie met surtout l'accent sur le goût vif des limes et une
 - <span class="qty">250</span> g (<span class="qty">2</span> tasses) de farine tout usage
 - <span class="qty">2 1/2</span> c. à thé de poudre à pâte
 
-### Glace au lime
+### Glace aux limes
 - <span class="qty">1</span> tasse de sucre en poudre
 - <span class="qty">1</span> c. à thé de jus de lime
 - <span class="qty">2</span> c. à soupe d'eau, selon la consistance désirée
