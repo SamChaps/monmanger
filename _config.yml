@@ -24,7 +24,9 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - add-recipes.cmd
   - node_modules
+  - tools
   - vendor
   - .bundle
   - .jekyll-cache

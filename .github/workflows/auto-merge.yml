@@ -1,99 +1,53 @@
 name: Auto-merge recipe PRs
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch: {}
+  pull_request:
+    branches: ["main"]
+    types: [opened, reopened, synchronize, ready_for_review, edited]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: "Pull request number to validate and merge"
+        required: true
+        type: number
 
 permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: auto-merge-${{ github.event.pull_request.number || inputs.pr_number }}
+  cancel-in-progress: true
+
 jobs:
   auto-merge:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (contains(fromJSON('["Copilot", "copilot-swe-agent[bot]", "app/copilot-swe-agent"]'), github.event.pull_request.user.login) &&
+       !github.event.pull_request.draft &&
+       !contains(github.event.pull_request.title, '[WIP]') &&
+       !startsWith(github.event.pull_request.title, 'WIP '))
     runs-on: ubuntu-latest
+    env:
+      PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
     steps:
-      - name: Find ready Copilot PRs
-        id: find-prs
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          # Find open PRs from copilot agent, skip WIP ones
-          all_prs=$(gh pr list --repo "$GITHUB_REPOSITORY" --author "app/copilot-swe-agent" --state open --json number,title --jq '.[] | @json')
-
-          if [ -z "$all_prs" ]; then
-            echo "No open Copilot PRs found."
-            echo "prs=" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          ready_prs=""
-          while IFS= read -r row; do
-            pr_num=$(echo "$row" | jq -r '.number')
-            pr_title=$(echo "$row" | jq -r '.title')
-            if echo "$pr_title" | grep -qi '\[WIP\]\|^WIP '; then
-              echo "PR #$pr_num skipped — still WIP: $pr_title"
-            else
-              echo "PR #$pr_num ready: $pr_title"
-              ready_prs="$ready_prs $pr_num"
-            fi
-          done <<< "$all_prs"
-
-          ready_prs=$(echo "$ready_prs" | xargs)
-          echo "prs=$ready_prs" >> "$GITHUB_OUTPUT"
-
-          if [ -z "$ready_prs" ]; then
-            echo "No PRs ready to merge yet."
-          else
-            echo "PRs ready to merge: $ready_prs"
-          fi
-
-      - name: Checkout repo
-        if: steps.find-prs.outputs.prs != ''
+      - name: Checkout pull request
         uses: actions/checkout@v4
-
-      - name: Process Copilot PRs
-        if: steps.find-prs.outputs.prs != ''
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          for pr in ${{ steps.find-prs.outputs.prs }}; do
-            echo "::group::PR #$pr"
-
-            # Mark as ready if it's a draft
-            is_draft=$(gh pr view "$pr" --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft')
-            if [ "$is_draft" = "true" ]; then
-              echo "Marking PR #$pr as ready..."
-              gh pr ready "$pr" --repo "$GITHUB_REPOSITORY"
-            fi
-
-            # Checkout the PR branch
-            echo "Checking out PR #$pr..."
-            gh pr checkout "$pr" --repo "$GITHUB_REPOSITORY"
-
-            echo "::endgroup::"
-          done
+        with:
+          ref: refs/pull/${{ env.PR_NUMBER }}/merge
 
       - name: Setup Ruby
-        if: steps.find-prs.outputs.prs != ''
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3'
+          ruby-version: "3.3"
           bundler-cache: true
 
       - name: Build with Jekyll
-        if: steps.find-prs.outputs.prs != ''
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
-      - name: Merge Copilot PRs
-        if: steps.find-prs.outputs.prs != ''
+      - name: Merge pull request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          for pr in ${{ steps.find-prs.outputs.prs }}; do
-            echo "Merging PR #$pr..."
-            gh pr merge "$pr" --repo "$GITHUB_REPOSITORY" --squash --delete-branch
-            echo "Merged PR #$pr"
-          done
+        run: gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --squash --delete-branch

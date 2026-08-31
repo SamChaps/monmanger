@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#edf4f0">
+    <title>Recipe Desk | Mon Manger</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&amp;family=Newsreader:opsz,wght@6..72,600;6..72,700&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <script src="https://unpkg.com/lucide@latest" defer></script>
+    <script src="/app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="https://monmanger.com" target="_blank" rel="noreferrer">
+        <span class="brand-mark" aria-hidden="true"><i data-lucide="cooking-pot"></i></span>
+        <span>
+          <strong>Mon Manger</strong>
+          <small>Recipe Desk</small>
+        </span>
+      </a>
+      <div class="connection" id="connection" aria-live="polite">
+        <span class="connection-dot"></span>
+        <span id="connection-label">Checking setup</span>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <section class="intake" aria-labelledby="intake-title">
+        <div class="section-heading entrance">
+          <div>
+            <p class="eyebrow">New import</p>
+            <h1 id="intake-title">Add recipes</h1>
+          </div>
+          <span class="url-count" id="url-count">0 / 5</span>
+        </div>
+
+        <form id="recipe-form" class="recipe-form entrance" novalidate>
+          <div class="field-group">
+            <label for="urls">Recipe URLs</label>
+            <textarea id="urls" name="urls" rows="7" spellcheck="false" placeholder="https://example.com/favorite-recipe" required></textarea>
+            <span class="field-meta">One URL per line</span>
+          </div>
+
+          <div class="field-group">
+            <label for="notes">Notes <span>optional</span></label>
+            <textarea id="notes" name="notes" rows="3" maxlength="4000" placeholder="Adjust servings, preserve a variation, add context..."></textarea>
+          </div>
+
+          <div class="form-actions">
+            <label class="review-toggle" for="pause-review">
+              <input id="pause-review" name="pause-review" type="checkbox">
+              <span class="toggle-track" aria-hidden="true"><span></span></span>
+              <span>Pause for review</span>
+            </label>
+            <button class="primary-button" id="submit-button" type="submit">
+              <i data-lucide="sparkles" aria-hidden="true"></i>
+              <span>Send to Copilot</span>
+            </button>
+          </div>
+        </form>
+
+        <div class="result-panel entrance" id="result-panel" hidden aria-live="polite">
+          <div class="result-icon"><i data-lucide="loader-circle" aria-hidden="true"></i></div>
+          <div>
+            <strong id="result-title">Extracting recipes</strong>
+            <p id="result-message">Reading structured recipe data from each source.</p>
+            <a id="result-link" href="#" target="_blank" rel="noreferrer" hidden>
+              Open task <i data-lucide="arrow-up-right" aria-hidden="true"></i>
+            </a>
+          </div>
+        </div>
+
+        <ol class="pipeline entrance" aria-label="Publishing pipeline">
+          <li>
+            <span><i data-lucide="scan-text" aria-hidden="true"></i></span>
+            <div><strong>Extract</strong><small>Local parser</small></div>
+          </li>
+          <li>
+            <span><i data-lucide="languages" aria-hidden="true"></i></span>
+            <div><strong>Write</strong><small>Copilot agent</small></div>
+          </li>
+          <li>
+            <span><i data-lucide="git-pull-request-create" aria-hidden="true"></i></span>
+            <div><strong>Validate</strong><small>Jekyll build</small></div>
+          </li>
+          <li>
+            <span><i data-lucide="rocket" aria-hidden="true"></i></span>
+            <div><strong>Publish</strong><small>GitHub Pages</small></div>
+          </li>
+        </ol>
+      </section>
+
+      <aside class="activity entrance" aria-labelledby="activity-title">
+        <div class="activity-heading">
+          <div>
+            <p class="eyebrow">Cloud agent</p>
+            <h2 id="activity-title">Recent imports</h2>
+          </div>
+          <button class="icon-button" id="refresh-button" type="button" title="Refresh imports" aria-label="Refresh imports">
+            <i data-lucide="refresh-cw" aria-hidden="true"></i>
+          </button>
+        </div>
+        <div class="task-list" id="task-list" aria-live="polite">
+          <div class="task-skeleton"></div>
+          <div class="task-skeleton"></div>
+          <div class="task-skeleton"></div>
+        </div>
+      </aside>
+    </main>
+
+    <footer class="footer">
+      <span id="repository-label">SamChaps/monmanger</span>
+      <a href="https://monmanger.com" target="_blank" rel="noreferrer">View site <i data-lucide="external-link" aria-hidden="true"></i></a>
+    </footer>
+  </body>
+</html>
