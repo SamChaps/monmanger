@@ -1,7 +1,7 @@
 name: Auto-merge recipe PRs
 
 on:
-  pull_request:
+  pull_request_target:
     branches: ["main"]
     types: [opened, reopened, synchronize, ready_for_review, edited]
   workflow_dispatch:
@@ -23,7 +23,7 @@ jobs:
   auto-merge:
     if: >-
       github.event_name == 'workflow_dispatch' ||
-      (contains(fromJSON('["Copilot", "copilot-swe-agent[bot]", "app/copilot-swe-agent"]'), github.event.pull_request.user.login) &&
+      (github.event.pull_request.user.login == 'Copilot' &&
        !github.event.pull_request.draft &&
        !contains(github.event.pull_request.title, '[WIP]') &&
        !startsWith(github.event.pull_request.title, 'WIP '))
@@ -31,10 +31,50 @@ jobs:
     env:
       PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
     steps:
+      - name: Validate pull request source and files
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EVENT_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          pr=$(gh api "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER")
+          author=$(jq -r '.user.login' <<< "$pr")
+          base=$(jq -r '.base.ref' <<< "$pr")
+          head_repo=$(jq -r '.head.repo.full_name' <<< "$pr")
+          head_sha=$(jq -r '.head.sha' <<< "$pr")
+
+          if [[ "$author" != "Copilot" || "$base" != "main" || "$head_repo" != "$GITHUB_REPOSITORY" ]]; then
+            echo "Refusing untrusted pull request source."
+            exit 1
+          fi
+          if [[ -n "$EVENT_HEAD_SHA" && "$EVENT_HEAD_SHA" != "$head_sha" ]]; then
+            echo "Pull request changed after this workflow started."
+            exit 1
+          fi
+
+          recipe_count=0
+          while IFS=$'\t' read -r status file; do
+            if [[ "$status" == "added" && "$file" =~ ^_recipes/[^/]+\.md$ ]]; then
+              recipe_count=$((recipe_count + 1))
+            elif [[ "$status" == "added" && "$file" =~ ^_pages/tags/[^/]+\.md$ ]]; then
+              continue
+            elif [[ "$status" == "modified" && "$file" == "_data/tags.yml" ]]; then
+              continue
+            else
+              echo "Refusing unexpected change: $status $file"
+              exit 1
+            fi
+          done < <(gh api "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER/files?per_page=100" --jq '.[] | [.status, .filename] | @tsv')
+
+          if [[ "$recipe_count" -eq 0 ]]; then
+            echo "No new recipe file found."
+            exit 1
+          fi
+
       - name: Checkout pull request
         uses: actions/checkout@v4
         with:
-          ref: refs/pull/${{ env.PR_NUMBER }}/merge
+          ref: ${{ github.event.pull_request.head.sha || format('refs/pull/{0}/head', inputs.pr_number) }}
+          persist-credentials: false
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -50,4 +90,11 @@ jobs:
       - name: Merge pull request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --squash --delete-branch
+          EXPECTED_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          current_head=$(gh pr view "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --json headRefOid --jq '.headRefOid')
+          if [[ -n "$EXPECTED_HEAD_SHA" && "$EXPECTED_HEAD_SHA" != "$current_head" ]]; then
+            echo "Pull request changed during validation; waiting for the next run."
+            exit 1
+          fi
+          gh pr merge "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --squash --delete-branch
