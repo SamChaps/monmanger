@@ -1,9 +1,9 @@
 name: Auto-merge recipe PRs
 
 on:
-  pull_request_target:
-    branches: ["main"]
-    types: [opened, reopened, synchronize, ready_for_review, edited]
+  workflow_run:
+    workflows: ["Copilot cloud agent"]
+    types: [completed]
   workflow_dispatch:
     inputs:
       pr_number:
@@ -16,39 +16,53 @@ permissions:
   pull-requests: write
 
 concurrency:
-  group: auto-merge-${{ github.event.pull_request.number || inputs.pr_number }}
+  group: auto-merge-${{ github.event.workflow_run.head_branch || inputs.pr_number }}
   cancel-in-progress: true
 
 jobs:
   auto-merge:
-    if: >-
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.pull_request.user.login == 'Copilot' &&
-       !github.event.pull_request.draft &&
-       !contains(github.event.pull_request.title, '[WIP]') &&
-       !startsWith(github.event.pull_request.title, 'WIP '))
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     env:
-      PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+      REQUESTED_PR: ${{ inputs.pr_number }}
+      AGENT_BRANCH: ${{ github.event.workflow_run.head_branch }}
     steps:
-      - name: Validate pull request source and files
+      - name: Resolve pull request
+        id: resolve
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EVENT_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          pr_number="$REQUESTED_PR"
+          if [[ -z "$pr_number" ]]; then
+            pr_number=$(gh pr list --repo "$GITHUB_REPOSITORY" --head "$AGENT_BRANCH" --state open --json number --jq '.[0].number')
+          fi
+          if [[ -z "$pr_number" || "$pr_number" == "null" ]]; then
+            echo "No open pull request found for $AGENT_BRANCH."
+            exit 1
+          fi
+          echo "pr_number=$pr_number" >> "$GITHUB_OUTPUT"
+
+      - name: Validate pull request source and files
+        id: validate
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.resolve.outputs.pr_number }}
         run: |
           pr=$(gh api "repos/$GITHUB_REPOSITORY/pulls/$PR_NUMBER")
           author=$(jq -r '.user.login' <<< "$pr")
           base=$(jq -r '.base.ref' <<< "$pr")
           head_repo=$(jq -r '.head.repo.full_name' <<< "$pr")
           head_sha=$(jq -r '.head.sha' <<< "$pr")
+          title=$(jq -r '.title' <<< "$pr")
 
           if [[ "$author" != "Copilot" || "$base" != "main" || "$head_repo" != "$GITHUB_REPOSITORY" ]]; then
             echo "Refusing untrusted pull request source."
             exit 1
           fi
-          if [[ -n "$EVENT_HEAD_SHA" && "$EVENT_HEAD_SHA" != "$head_sha" ]]; then
-            echo "Pull request changed after this workflow started."
-            exit 1
+          if [[ "$title" == *"[WIP]"* || "$title" == "WIP "* ]]; then
+            echo "Review requested; leaving PR #$PR_NUMBER as a draft."
+            echo "should_merge=false" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
 
           recipe_count=0
@@ -69,28 +83,45 @@ jobs:
             echo "No new recipe file found."
             exit 1
           fi
+          echo "head_sha=$head_sha" >> "$GITHUB_OUTPUT"
+          echo "should_merge=true" >> "$GITHUB_OUTPUT"
 
       - name: Checkout pull request
+        if: steps.validate.outputs.should_merge == 'true'
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha || format('refs/pull/{0}/head', inputs.pr_number) }}
+          ref: ${{ steps.validate.outputs.head_sha }}
           persist-credentials: false
 
       - name: Setup Ruby
+        if: steps.validate.outputs.should_merge == 'true'
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
           bundler-cache: true
 
       - name: Build with Jekyll
+        if: steps.validate.outputs.should_merge == 'true'
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
-      - name: Merge pull request
+      - name: Mark pull request ready
+        if: steps.validate.outputs.should_merge == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          EXPECTED_HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PR_NUMBER: ${{ steps.resolve.outputs.pr_number }}
+        run: |
+          if [[ $(gh pr view "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --json isDraft --jq '.isDraft') == "true" ]]; then
+            gh pr ready "$PR_NUMBER" --repo "$GITHUB_REPOSITORY"
+          fi
+
+      - name: Merge pull request
+        if: steps.validate.outputs.should_merge == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.resolve.outputs.pr_number }}
+          EXPECTED_HEAD_SHA: ${{ steps.validate.outputs.head_sha }}
         run: |
           current_head=$(gh pr view "$PR_NUMBER" --repo "$GITHUB_REPOSITORY" --json headRefOid --jq '.headRefOid')
           if [[ -n "$EXPECTED_HEAD_SHA" && "$EXPECTED_HEAD_SHA" != "$current_head" ]]; then
