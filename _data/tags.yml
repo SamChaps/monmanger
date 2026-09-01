@@ -6,6 +6,8 @@
   name_fr: biscuits
 - name: baked
   name_fr: au four
+- name: cake
+  name_fr: gâteau
 - name: banana
   name_fr: banane
 - name: beans
