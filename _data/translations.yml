@@ -6,6 +6,9 @@ en:
   servings: "Servings"
   difficulty: "Difficulty"
   source: "Inspired by"
+  copy_recipe: "Copy"
+  copy_success: "Copied!"
+  copy_error: "Couldn't copy"
 
   # Favorites
   your_favorites: "Your Favorites"
@@ -22,6 +25,9 @@ fr:
   servings: "Portions"
   difficulty: "Difficulté"
   source: "Inspiré de"
+  copy_recipe: "Copier"
+  copy_success: "Copié !"
+  copy_error: "Copie impossible"
 
   # Favorites
   your_favorites: "Vos favoris"

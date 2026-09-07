@@ -44,6 +44,7 @@
 
   function handlePairedCheck(e) {
     if (e.target.closest('a, button')) return;
+    if (hasSelectionWithin(this)) return;
     var pair = this._pair;
     if (!pair) return;
     var shouldCheck = !this.classList.contains('checked');
@@ -54,6 +55,17 @@
 
   function handleSimpleCheck(e) {
     if (e.target.closest('a, button')) return;
+    if (hasSelectionWithin(this)) return;
     this.classList.toggle('checked');
+  }
+
+  function hasSelectionWithin(element) {
+    var selection = window.getSelection();
+    if (!selection || selection.isCollapsed) return false;
+
+    for (var i = 0; i < selection.rangeCount; i++) {
+      if (selection.getRangeAt(i).intersectsNode(element)) return true;
+    }
+    return false;
   }
 })();

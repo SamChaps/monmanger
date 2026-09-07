@@ -1004,7 +1004,7 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   }
 }
 
-// Recipe actions bar (favorite + print)
+// Recipe actions bar
 .recipe-actions {
   display: flex;
   gap: 0.5rem;
@@ -1012,7 +1012,8 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   flex-wrap: wrap;
 }
 
-.recipe-print-btn {
+.recipe-print-btn,
+.recipe-copy-btn {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
@@ -1029,6 +1030,39 @@ html.lang-fr p.lang-fr-content { display: block !important; }
   &:hover {
     background: var(--accent-subtle);
     color: var(--accent-color);
+  }
+}
+
+.recipe-copy-btn__labels {
+  display: inline;
+}
+
+.recipe-copy-btn__label--success,
+.recipe-copy-btn__label--error {
+  display: none;
+}
+
+.recipe-copy-btn.is-copied {
+  background: var(--accent-subtle);
+  border-color: var(--accent-color);
+  color: var(--accent-color);
+
+  .recipe-copy-btn__label--default {
+    display: none;
+  }
+
+  .recipe-copy-btn__label--success {
+    display: inline;
+  }
+}
+
+.recipe-copy-btn.is-error {
+  .recipe-copy-btn__label--default {
+    display: none;
+  }
+
+  .recipe-copy-btn__label--error {
+    display: inline;
   }
 }
 
@@ -1462,8 +1496,8 @@ blockquote {
 .page__content li.checkable {
   cursor: pointer;
   transition: opacity 0.2s ease;
-  -webkit-user-select: none;
-  user-select: none;
+  -webkit-user-select: text;
+  user-select: text;
   -webkit-tap-highlight-color: transparent;
 
   @media (hover: hover) {

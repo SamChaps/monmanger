@@ -21,6 +21,24 @@ layout: single
     <span class="lang-en-content">Print</span>
     <span class="lang-fr-content">Imprimer</span>
   </button>
+
+  <button type="button" class="recipe-copy-btn" id="recipe-copy-btn">
+    <i class="far fa-copy recipe-copy-btn__icon" aria-hidden="true"></i>
+    <span class="recipe-copy-btn__labels" aria-live="polite">
+      <span class="recipe-copy-btn__label recipe-copy-btn__label--default" aria-hidden="false">
+        <span class="lang-en-content">{{ t.en.copy_recipe }}</span>
+        <span class="lang-fr-content">{{ t.fr.copy_recipe }}</span>
+      </span>
+      <span class="recipe-copy-btn__label recipe-copy-btn__label--success" aria-hidden="true">
+        <span class="lang-en-content">{{ t.en.copy_success }}</span>
+        <span class="lang-fr-content">{{ t.fr.copy_success }}</span>
+      </span>
+      <span class="recipe-copy-btn__label recipe-copy-btn__label--error" aria-hidden="true">
+        <span class="lang-en-content">{{ t.en.copy_error }}</span>
+        <span class="lang-fr-content">{{ t.fr.copy_error }}</span>
+      </span>
+    </span>
+  </button>
 </div>
 
 <div class="recipe-meta-card">
@@ -129,3 +147,4 @@ layout: single
 
 <script src="{{ '/assets/js/recipe-scaling.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/recipe-checklist.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/recipe-copy.js' | relative_url }}"></script>

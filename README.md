@@ -60,9 +60,9 @@ Built with [Jekyll](https://jekyllrb.com/) + [Minimal Mistakes](https://mmistake
 
 ## Adding a New Recipe
 
-### Recipe Desk (recommended)
+### Add Recipes (recommended)
 
-The local Recipe Desk extracts recipe data, sends it to the `recipe-from-url` Copilot cloud agent, and tracks the resulting task. The agent creates the bilingual files and pull request; GitHub Actions validates, merges, and deploys it.
+The local Add Recipes tool accepts recipe links or full pasted recipes, sends the recipe data to the `recipe-from-url` Copilot cloud agent, and tracks the resulting task. The agent creates the bilingual files and pull request; GitHub Actions validates, merges, and deploys it.
 
 Prerequisites:
 
@@ -77,7 +77,7 @@ Double-click `add-recipes.cmd`, or run:
 py -3 tools/recipe_importer/app.py
 ```
 
-Paste up to five recipe URLs, add any optional notes, and select **Send to Copilot**. Select **Pause for review** when the pull request should remain a draft instead of being published automatically.
+Choose **Recipe link** to add up to five URLs, or **Paste recipe** to add one complete recipe at a time. Add any optional notes and select **Add recipe**. Choose **Review before publishing** to stop before the recipe goes live; its card under **Recent recipes** will offer **Review** and **Publish** actions when it is ready. Use the cancel icon on an active card to close the recipe without publishing it. Automatic imports reuse existing tags to avoid conflicts between recipes added at the same time.
 
 ### Manual recipe files
 
