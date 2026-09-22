@@ -9,8 +9,8 @@ categories:
 tags:
   - carrot
   - condiment
-prep_time: "30 min"
-cook_time: "5 min"
+prep_time: "35 min"
+cook_time: "0 min"
 total_time: "35 min"
 servings: "12"
 difficulty: "Easy"
