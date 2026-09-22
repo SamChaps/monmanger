@@ -31,7 +31,7 @@ This creamy coleslaw balances crunchy vegetables with a tangy Dijon dressing. Sa
 - <span class="qty">1</span> large carrot, peeled and coarsely grated
 - <span class="qty">15</span> g (<span class="qty">1/4</span> cup) roughly chopped fresh parsley
 - <span class="qty">200</span> g (<span class="qty">1</span> cup) white sugar
-- <span class="qty">145</span> g (<span class="qty">1/2</span> cup) kosher salt
+- <span class="qty">70</span> g (<span class="qty">1/2</span> cup) kosher salt
 
 ### Dressing
 
@@ -68,7 +68,7 @@ Cette salade de chou crémeuse combine des légumes croquants et une vinaigrette
 - <span class="qty">1</span> grosse carotte, pelée et râpée grossièrement
 - <span class="qty">15</span> g (<span class="qty">1/4</span> tasse) de persil frais haché grossièrement
 - <span class="qty">200</span> g (<span class="qty">1</span> tasse) de sucre blanc
-- <span class="qty">145</span> g (<span class="qty">1/2</span> tasse) de sel kasher
+- <span class="qty">70</span> g (<span class="qty">1/2</span> tasse) de sel kasher
 
 ### Vinaigrette
 
