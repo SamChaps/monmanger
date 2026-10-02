@@ -9,6 +9,7 @@ baseurl: ""
 
 locale: "en-US"
 timezone: America/New_York
+future: true  # Publish merged recipes even when their dates are ahead of local time.
 
 # Theme skin: air | aqua | contrast | dark | dirt | neon | mint | plum | sunrise
 minimal_mistakes_skin: "air"

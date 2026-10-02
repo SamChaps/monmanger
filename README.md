@@ -52,6 +52,8 @@ Open **http://localhost:4000**. Jekyll watches for changes and rebuilds automati
 
 Push to `main` → GitHub Actions builds and deploys.
 
+All merged recipes are published on the next successful deployment, regardless of their front matter `date`. Jekyll's `future: true` setting prevents timezone differences from hiding newly added recipes. Dates are metadata, not a publication schedule; keep unpublished recipes in a draft pull request instead.
+
 Set **Settings → Pages → Source** to **GitHub Actions** on first setup.
 
 ---
